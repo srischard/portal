@@ -1,0 +1,803 @@
+[
+	{
+		"categoryId": "cat:98eef7e0",
+		"channelIds": [
+			"cafa07ce:eb9bedbbaf3",
+			"bd500fa4:7c12cde8524",
+			"bd500fa4:bdada61787e",
+			"61127775:1883941f04a",
+			"669d385e:865502a9389",
+			"5cfb94dc:47547cc255b",
+			"f453c512:9a956da88f9",
+			"21611588:302317e1f48",
+			"e6789308:9cb352c1816",
+			"e6789308:011132b9aee",
+			"257f1f94:80e26b0ebc7",
+			"1a97058f:d42e2690896",
+			"d3c3df1e:d54ca1db4b8",
+			"61127775:8ee464ee1f2",
+			"1a97058f:d6b11ce523a",
+			"fdcac892:52f9ae31c20",
+			"f453c512:d27510db246",
+			"5cfb94dc:96799345b18",
+			"5cff2b9e:de02f8c57b3",
+			"eec1fb7c:7efb2c66d0b",
+			"09402ab2:6cbf4f13dd2",
+			"cafa07ce:3ae21a3a9ed",
+			"66567893:8fbe779b389",
+			"5cff2b9e:5190a4f8e15",
+			"eec1fb7c:874d2ca08bb",
+			"09402ab2:52c310ca1a6",
+			"cafa07ce:083cd2e2bb9",
+			"bd500fa4:363ec1a6d0d",
+			"61127775:a924e269179",
+			"cc30c2e3:d5cf77277d8",
+			"257f1f94:b54afe0a4d6",
+			"d3c3df1e:b8f5e64345a"
+		]
+	},
+	{
+		"categoryId": "cat:6bf6e5b1",
+		"channelIds": [
+			"cafa07ce:eb9bedbbaf3",
+			"bd500fa4:bdada61787e",
+			"e6789308:9cb352c1816",
+			"1a97058f:d6b11ce523a",
+			"79b06fdf:f235e115554",
+			"09402ab2:01d97f07b1c",
+			"cafa07ce:1f6b9ee4cf6"
+		]
+	},
+	{
+		"categoryId": "cat:b41b9fad",
+		"channelIds": [
+			"dd17f790:66fbe7909c3",
+			"5cfb94dc:d24af86e73c",
+			"61127775:47c8e2ec222",
+			"09402ab2:f242dc700c9"
+		]
+	},
+	{
+		"categoryId": "cat:1754f925",
+		"channelIds": [
+			"eec1fb7c:b8ad11c9837",
+			"21611588:5c44f4d8006",
+			"dd17f790:723153a9368",
+			"21611588:0418b547194",
+			"669d385e:aff419765c0",
+			"4f6fc3e3:0e179c5054f",
+			"f453c512:843c7b9a0e7",
+			"61127775:06ec8e7622c",
+			"79b06fdf:ca7cef3fe1c",
+			"5cff2b9e:dc0e79cdcc1",
+			"d3c3df1e:b5dbed0bd6f",
+			"21611588:3fd6a71d668",
+			"1a97058f:0e96871fcbe"
+		]
+	},
+	{
+		"categoryId": "cat:20e41",
+		"channelIds": [
+			"257f1f94:61ce0a9988c",
+			"fdcac892:946f6d15624",
+			"eec1fb7c:d9aaaa2f4a1",
+			"d3c3df1e:66302314d6e",
+			"bd500fa4:fafeb7875eb",
+			"cc30c2e3:b59ddc72753",
+			"257f1f94:e5eb908d362",
+			"1a97058f:102934d6173",
+			"66567893:5696f2cacda"
+		]
+	},
+	{
+		"categoryId": "cat:15a42782",
+		"channelIds": []
+	},
+	{
+		"categoryId": "cat:9e6dba8e",
+		"channelIds": []
+	},
+	{
+		"categoryId": "cat:85f920e",
+		"channelIds": [
+			"cc30c2e3:511ef458018",
+			"cafa07ce:28474d164ee",
+			"d3c3df1e:2aa89a5222b",
+			"79b06fdf:7194b49ba5b",
+			"257f1f94:fbded7d9d92",
+			"1a97058f:c217b85b385",
+			"257f1f94:18e71632756",
+			"fdcac892:971d302f412",
+			"fdcac892:3e4322174a4",
+			"f453c512:81411bef4ba",
+			"4f6fc3e3:7fed3acf5c0",
+			"5cff2b9e:1fdf12a91c1",
+			"66567893:ffbfdb28dbb",
+			"f453c512:c59777efa47",
+			"21611588:453e1b5854c",
+			"e6789308:94d05bf6693",
+			"66567893:214e31736e3",
+			"669d385e:a483532a2bd",
+			"66567893:a6cb0785f59",
+			"669d385e:2ff4126e013",
+			"669d385e:a3e523a588f",
+			"cafa07ce:11f7463c48f",
+			"5cfb94dc:303ef05b6be",
+			"eec1fb7c:699a116d2e7",
+			"bd500fa4:dcbd10ae914",
+			"61127775:ec9c810c37e",
+			"5cfb94dc:d24af86e73c",
+			"61127775:0708da96188",
+			"eec1fb7c:bcc1a50695d",
+			"21611588:e033fe78acd",
+			"dd17f790:e99a82d07a1",
+			"1a97058f:9be69c3d6a7",
+			"79b06fdf:6ec8c6b012a",
+			"09402ab2:06937450745",
+			"e6789308:3af21828e1f",
+			"bd500fa4:86e02db36fa"
+		]
+	},
+	{
+		"categoryId": "cat:3d378e",
+		"channelIds": [
+			"cc30c2e3:511ef458018",
+			"257f1f94:fbded7d9d92",
+			"669d385e:a483532a2bd",
+			"669d385e:a3e523a588f",
+			"5cfb94dc:d24af86e73c",
+			"79b06fdf:6ec8c6b012a",
+			"e6789308:3af21828e1f"
+		]
+	},
+	{
+		"categoryId": "cat:41e915",
+		"channelIds": [
+			"cafa07ce:28474d164ee",
+			"d3c3df1e:2aa89a5222b",
+			"4f6fc3e3:7fed3acf5c0",
+			"66567893:a6cb0785f59",
+			"669d385e:2ff4126e013",
+			"5cfb94dc:303ef05b6be",
+			"21611588:e033fe78acd"
+		]
+	},
+	{
+		"categoryId": "cat:439c40f1",
+		"channelIds": [
+			"fdcac892:971d302f412",
+			"f453c512:c59777efa47",
+			"66567893:214e31736e3",
+			"eec1fb7c:bcc1a50695d",
+			"09402ab2:06937450745"
+		]
+	},
+	{
+		"categoryId": "cat:b9848101",
+		"channelIds": [
+			"09402ab2:78570b2aa14",
+			"cc30c2e3:d93638374c0",
+			"cafa07ce:b9bc60d7f2c",
+			"eec1fb7c:bed2664844b",
+			"fdcac892:38dc43edab3",
+			"4f6fc3e3:bf42610c6e4",
+			"eec1fb7c:b8ad11c9837",
+			"dd17f790:66fbe7909c3",
+			"61127775:47c8e2ec222",
+			"21611588:5c44f4d8006",
+			"f453c512:843c7b9a0e7",
+			"09402ab2:f242dc700c9",
+			"669d385e:17ee1420cc3",
+			"21611588:3fd6a71d668",
+			"66567893:9d320eade1c",
+			"09402ab2:7dd69d588a4",
+			"1a97058f:0e96871fcbe"
+		]
+	},
+	{
+		"categoryId": "cat:c8c",
+		"channelIds": [
+			"cafa07ce:28474d164ee",
+			"669d385e:a483532a2bd",
+			"bd500fa4:dcbd10ae914",
+			"5cfb94dc:d24af86e73c",
+			"21611588:e033fe78acd",
+			"dd17f790:e99a82d07a1",
+			"79b06fdf:6ec8c6b012a",
+			"09402ab2:06937450745",
+			"e6789308:3af21828e1f"
+		]
+	},
+	{
+		"categoryId": "cat:c99a27f",
+		"channelIds": [
+			"1a97058f:c217b85b385",
+			"fdcac892:3e4322174a4",
+			"f453c512:81411bef4ba",
+			"5cff2b9e:1fdf12a91c1",
+			"66567893:ffbfdb28dbb",
+			"eec1fb7c:699a116d2e7"
+		]
+	},
+	{
+		"categoryId": "cat:7f64b2a",
+		"channelIds": [
+			"79b06fdf:7194b49ba5b",
+			"21611588:453e1b5854c",
+			"e6789308:94d05bf6693",
+			"dd17f790:e99a82d07a1",
+			"1a97058f:9be69c3d6a7"
+		]
+	},
+	{
+		"categoryId": "cat:f242a09a",
+		"channelIds": [
+			"257f1f94:18e71632756",
+			"cafa07ce:11f7463c48f",
+			"bd500fa4:dcbd10ae914",
+			"61127775:ec9c810c37e"
+		]
+	},
+	{
+		"categoryId": "cat:3e43d7a4",
+		"channelIds": []
+	},
+	{
+		"categoryId": "cat:5faaa1d1",
+		"channelIds": []
+	},
+	{
+		"categoryId": "cat:f60616ef",
+		"channelIds": [
+			"cafa07ce:ecfea02b6ad",
+			"5cff2b9e:ed6970749d3",
+			"eec1fb7c:9b30f783910",
+			"09402ab2:0beeed1d9f7",
+			"61127775:d91188c826b",
+			"66567893:f07c541e078"
+		]
+	},
+	{
+		"categoryId": "cat:645933a0",
+		"channelIds": [
+			"e6789308:2a1f629a227",
+			"dd17f790:a07bd051f44",
+			"1a97058f:d75b3bc0dfc",
+			"21611588:7ec05b6cd65"
+		]
+	},
+	{
+		"categoryId": "cat:7e99b315",
+		"channelIds": [
+			"f453c512:7b802d8597c",
+			"66567893:2789ba38f61"
+		]
+	},
+	{
+		"categoryId": "cat:5c97beae",
+		"channelIds": [
+			"cc30c2e3:845afc328df",
+			"d3c3df1e:5a36811f269",
+			"4f6fc3e3:6511e9e5287",
+			"257f1f94:b8651c908fa"
+		]
+	},
+	{
+		"categoryId": "cat:76197a5b",
+		"channelIds": [
+			"257f1f94:61ce0a9988c",
+			"fdcac892:946f6d15624",
+			"eec1fb7c:d9aaaa2f4a1",
+			"d3c3df1e:66302314d6e",
+			"bd500fa4:fafeb7875eb",
+			"1a97058f:102934d6173",
+			"66567893:5696f2cacda"
+		]
+	},
+	{
+		"categoryId": "cat:54dc99a6",
+		"channelIds": [
+			"257f1f94:61ce0a9988c",
+			"fdcac892:946f6d15624",
+			"eec1fb7c:d9aaaa2f4a1",
+			"d3c3df1e:66302314d6e",
+			"bd500fa4:fafeb7875eb",
+			"cc30c2e3:b59ddc72753",
+			"1a97058f:102934d6173",
+			"66567893:5696f2cacda"
+		]
+	},
+	{
+		"categoryId": "cat:c4159ec2",
+		"channelIds": [
+			"257f1f94:e5eb908d362"
+		]
+	},
+	{
+		"categoryId": "cat:63099466",
+		"channelIds": []
+	},
+	{
+		"categoryId": "cat:2e2a383c",
+		"channelIds": []
+	},
+	{
+		"categoryId": "cat:d1c7adf6",
+		"channelIds": [
+			"257f1f94:e5eb908d362",
+			"66567893:5696f2cacda"
+		]
+	},
+	{
+		"categoryId": "cat:38db34",
+		"channelIds": [
+			"cafa07ce:eb9bedbbaf3",
+			"79b06fdf:c32bf66f70e",
+			"f453c512:2357038b844",
+			"5cff2b9e:9f4443f5bde",
+			"bd500fa4:7c12cde8524",
+			"bd500fa4:bdada61787e",
+			"bd500fa4:a8f8dc5b5c5",
+			"669d385e:17b990e3d5e",
+			"61127775:1883941f04a",
+			"669d385e:865502a9389",
+			"09402ab2:78570b2aa14",
+			"cc30c2e3:d93638374c0",
+			"5cfb94dc:47547cc255b",
+			"cafa07ce:b9bc60d7f2c",
+			"eec1fb7c:bed2664844b",
+			"fdcac892:38dc43edab3",
+			"cafa07ce:5785a1debf6",
+			"f453c512:9a956da88f9",
+			"5cff2b9e:cb10e81fd7e",
+			"5cfb94dc:2a4713e625e",
+			"79b06fdf:8d702fc2d9f",
+			"5cfb94dc:2a789896b9a",
+			"21611588:302317e1f48",
+			"61127775:7561d8019a7",
+			"21611588:47d18991607",
+			"e6789308:82521fb436a",
+			"e6789308:9cb352c1816",
+			"5cfb94dc:2bdc2179f39",
+			"dd17f790:d34a309a8f5",
+			"e6789308:011132b9aee",
+			"257f1f94:80e26b0ebc7",
+			"dd17f790:fc8bda792f6",
+			"4f6fc3e3:c3ab318ddd9",
+			"1a97058f:d42e2690896",
+			"d3c3df1e:d54ca1db4b8",
+			"eec1fb7c:b8ad11c9837",
+			"257f1f94:18d99f011d3",
+			"d3c3df1e:604b57ac084",
+			"61127775:8ee464ee1f2",
+			"1a97058f:d6b11ce523a",
+			"dd17f790:66fbe7909c3",
+			"61127775:47c8e2ec222",
+			"cc30c2e3:88503fa47cc",
+			"fdcac892:52f9ae31c20",
+			"f453c512:d27510db246",
+			"5cfb94dc:96799345b18",
+			"1a97058f:7fe4eb82e8b",
+			"66567893:e2b3adeba6a",
+			"21611588:5c44f4d8006",
+			"21611588:0418b547194",
+			"669d385e:aff419765c0",
+			"4f6fc3e3:0e179c5054f",
+			"f453c512:843c7b9a0e7",
+			"79b06fdf:ca7cef3fe1c",
+			"d3c3df1e:b5dbed0bd6f",
+			"cc30c2e3:e3cc68fec35",
+			"09402ab2:f242dc700c9",
+			"4f6fc3e3:89c94514139",
+			"669d385e:17ee1420cc3",
+			"5cff2b9e:de02f8c57b3",
+			"21611588:3fd6a71d668",
+			"eec1fb7c:7efb2c66d0b",
+			"09402ab2:6cbf4f13dd2",
+			"66567893:9d320eade1c",
+			"09402ab2:7dd69d588a4",
+			"fdcac892:db044da4e5e",
+			"eec1fb7c:4b2dc87cc79",
+			"66567893:230a2f552c6",
+			"1a97058f:0e96871fcbe",
+			"cafa07ce:3ae21a3a9ed",
+			"66567893:8fbe779b389",
+			"5cff2b9e:5190a4f8e15",
+			"eec1fb7c:874d2ca08bb",
+			"09402ab2:52c310ca1a6",
+			"cafa07ce:083cd2e2bb9",
+			"bd500fa4:363ec1a6d0d",
+			"61127775:a924e269179",
+			"cc30c2e3:d5cf77277d8",
+			"257f1f94:b54afe0a4d6",
+			"d3c3df1e:b8f5e64345a",
+			"f453c512:888d288c497",
+			"79b06fdf:f235e115554",
+			"09402ab2:01d97f07b1c",
+			"cafa07ce:1f6b9ee4cf6",
+			"4f6fc3e3:a2cdbd00f19"
+		]
+	},
+	{
+		"categoryId": "cat:fded44af",
+		"channelIds": [
+			"cc30c2e3:511ef458018",
+			"cafa07ce:28474d164ee",
+			"d3c3df1e:2aa89a5222b",
+			"79b06fdf:7194b49ba5b",
+			"257f1f94:fbded7d9d92",
+			"1a97058f:c217b85b385",
+			"257f1f94:18e71632756",
+			"fdcac892:971d302f412",
+			"fdcac892:3e4322174a4",
+			"f453c512:81411bef4ba",
+			"257f1f94:61ce0a9988c",
+			"4f6fc3e3:7fed3acf5c0",
+			"5cff2b9e:1fdf12a91c1",
+			"66567893:ffbfdb28dbb",
+			"cafa07ce:ecfea02b6ad",
+			"f453c512:c59777efa47",
+			"5cff2b9e:ed6970749d3",
+			"cc30c2e3:845afc328df",
+			"e6789308:2a1f629a227",
+			"21611588:453e1b5854c",
+			"eec1fb7c:9b30f783910",
+			"e6789308:94d05bf6693",
+			"66567893:214e31736e3",
+			"669d385e:a483532a2bd",
+			"fdcac892:946f6d15624",
+			"66567893:a6cb0785f59",
+			"eec1fb7c:d9aaaa2f4a1",
+			"669d385e:2ff4126e013",
+			"f453c512:7b802d8597c",
+			"d3c3df1e:66302314d6e",
+			"bd500fa4:fafeb7875eb",
+			"09402ab2:0beeed1d9f7",
+			"dd17f790:a07bd051f44",
+			"669d385e:a3e523a588f",
+			"cafa07ce:11f7463c48f",
+			"4f6fc3e3:bf42610c6e4",
+			"5cfb94dc:303ef05b6be",
+			"eec1fb7c:699a116d2e7",
+			"bd500fa4:dcbd10ae914",
+			"61127775:ec9c810c37e",
+			"5cfb94dc:d24af86e73c",
+			"d3c3df1e:5a36811f269",
+			"4f6fc3e3:6511e9e5287",
+			"257f1f94:b8651c908fa",
+			"61127775:0708da96188",
+			"eec1fb7c:bcc1a50695d",
+			"dd17f790:723153a9368",
+			"61127775:06ec8e7622c",
+			"5cff2b9e:dc0e79cdcc1",
+			"1a97058f:d75b3bc0dfc",
+			"61127775:d91188c826b",
+			"257f1f94:e5eb908d362",
+			"1a97058f:102934d6173",
+			"21611588:e033fe78acd",
+			"dd17f790:e99a82d07a1",
+			"1a97058f:9be69c3d6a7",
+			"79b06fdf:6ec8c6b012a",
+			"66567893:5696f2cacda",
+			"21611588:7ec05b6cd65",
+			"09402ab2:06937450745",
+			"e6789308:3af21828e1f",
+			"bd500fa4:86e02db36fa",
+			"66567893:f07c541e078",
+			"66567893:2789ba38f61"
+		]
+	},
+	{
+		"categoryId": "cat:cb4fb5ea",
+		"channelIds": [
+			"cc30c2e3:511ef458018",
+			"cafa07ce:eb9bedbbaf3",
+			"cafa07ce:28474d164ee",
+			"d3c3df1e:2aa89a5222b",
+			"bd500fa4:bdada61787e",
+			"79b06fdf:7194b49ba5b",
+			"257f1f94:fbded7d9d92",
+			"fdcac892:971d302f412",
+			"fdcac892:3e4322174a4",
+			"669d385e:865502a9389",
+			"f453c512:81411bef4ba",
+			"09402ab2:78570b2aa14",
+			"cc30c2e3:d93638374c0",
+			"5cfb94dc:47547cc255b",
+			"cafa07ce:b9bc60d7f2c",
+			"4f6fc3e3:7fed3acf5c0",
+			"eec1fb7c:bed2664844b",
+			"5cff2b9e:1fdf12a91c1",
+			"66567893:ffbfdb28dbb",
+			"fdcac892:38dc43edab3",
+			"669d385e:a483532a2bd",
+			"fdcac892:946f6d15624",
+			"66567893:a6cb0785f59",
+			"669d385e:2ff4126e013",
+			"21611588:302317e1f48",
+			"e6789308:9cb352c1816",
+			"cafa07ce:11f7463c48f",
+			"e6789308:011132b9aee",
+			"4f6fc3e3:bf42610c6e4",
+			"5cfb94dc:303ef05b6be",
+			"1a97058f:d42e2690896",
+			"eec1fb7c:b8ad11c9837",
+			"61127775:8ee464ee1f2",
+			"bd500fa4:dcbd10ae914",
+			"1a97058f:d6b11ce523a",
+			"dd17f790:66fbe7909c3",
+			"5cfb94dc:d24af86e73c",
+			"61127775:47c8e2ec222",
+			"f453c512:d27510db246",
+			"61127775:0708da96188",
+			"eec1fb7c:bcc1a50695d",
+			"21611588:5c44f4d8006",
+			"dd17f790:723153a9368",
+			"f453c512:843c7b9a0e7",
+			"61127775:06ec8e7622c",
+			"5cff2b9e:dc0e79cdcc1",
+			"cc30c2e3:e3cc68fec35",
+			"09402ab2:f242dc700c9",
+			"257f1f94:e5eb908d362",
+			"21611588:e033fe78acd",
+			"669d385e:17ee1420cc3",
+			"dd17f790:e99a82d07a1",
+			"21611588:3fd6a71d668",
+			"eec1fb7c:7efb2c66d0b",
+			"09402ab2:6cbf4f13dd2",
+			"79b06fdf:6ec8c6b012a",
+			"66567893:5696f2cacda",
+			"66567893:9d320eade1c",
+			"09402ab2:7dd69d588a4",
+			"09402ab2:06937450745",
+			"e6789308:3af21828e1f",
+			"cafa07ce:3ae21a3a9ed",
+			"79b06fdf:f235e115554",
+			"09402ab2:01d97f07b1c",
+			"cafa07ce:1f6b9ee4cf6"
+		]
+	},
+	{
+		"categoryId": "cat:3cc06b",
+		"channelIds": [
+			"5cfb94dc:47547cc255b",
+			"dd17f790:66fbe7909c3",
+			"21611588:5c44f4d8006",
+			"f453c512:843c7b9a0e7",
+			"1a97058f:0e96871fcbe",
+			"79b06fdf:f235e115554"
+		]
+	},
+	{
+		"categoryId": "cat:510aaa15",
+		"channelIds": [
+			"79b06fdf:c32bf66f70e",
+			"f453c512:2357038b844",
+			"61127775:1883941f04a",
+			"669d385e:865502a9389",
+			"cafa07ce:5785a1debf6",
+			"79b06fdf:8d702fc2d9f",
+			"5cfb94dc:2a789896b9a",
+			"21611588:302317e1f48",
+			"21611588:47d18991607",
+			"e6789308:82521fb436a",
+			"dd17f790:d34a309a8f5",
+			"e6789308:011132b9aee",
+			"257f1f94:80e26b0ebc7",
+			"dd17f790:fc8bda792f6",
+			"1a97058f:d42e2690896",
+			"d3c3df1e:d54ca1db4b8",
+			"257f1f94:18d99f011d3",
+			"d3c3df1e:604b57ac084",
+			"fdcac892:52f9ae31c20",
+			"f453c512:d27510db246",
+			"5cfb94dc:96799345b18",
+			"1a97058f:7fe4eb82e8b",
+			"66567893:e2b3adeba6a",
+			"21611588:0418b547194",
+			"669d385e:aff419765c0",
+			"4f6fc3e3:0e179c5054f",
+			"79b06fdf:ca7cef3fe1c",
+			"5cff2b9e:de02f8c57b3",
+			"eec1fb7c:7efb2c66d0b",
+			"09402ab2:6cbf4f13dd2",
+			"fdcac892:db044da4e5e",
+			"eec1fb7c:4b2dc87cc79",
+			"66567893:230a2f552c6",
+			"cafa07ce:3ae21a3a9ed",
+			"66567893:8fbe779b389",
+			"5cff2b9e:5190a4f8e15",
+			"eec1fb7c:874d2ca08bb",
+			"09402ab2:52c310ca1a6",
+			"cafa07ce:083cd2e2bb9",
+			"bd500fa4:363ec1a6d0d",
+			"61127775:a924e269179",
+			"cc30c2e3:d5cf77277d8",
+			"257f1f94:b54afe0a4d6",
+			"d3c3df1e:b8f5e64345a"
+		]
+	},
+	{
+		"categoryId": "cat:d9c46bae",
+		"channelIds": [
+			"66567893:e2b3adeba6a",
+			"79b06fdf:c32bf66f70e",
+			"f453c512:2357038b844",
+			"61127775:1883941f04a",
+			"cafa07ce:5785a1debf6",
+			"79b06fdf:8d702fc2d9f",
+			"21611588:47d18991607",
+			"e6789308:82521fb436a",
+			"dd17f790:d34a309a8f5",
+			"dd17f790:fc8bda792f6",
+			"257f1f94:18d99f011d3",
+			"1a97058f:7fe4eb82e8b",
+			"fdcac892:db044da4e5e",
+			"66567893:230a2f552c6",
+			"eec1fb7c:4b2dc87cc79",
+			"5cfb94dc:96799345b18",
+			"21611588:0418b547194",
+			"5cfb94dc:2a789896b9a",
+			"d3c3df1e:d54ca1db4b8",
+			"4f6fc3e3:0e179c5054f",
+			"669d385e:aff419765c0",
+			"79b06fdf:ca7cef3fe1c",
+			"66567893:8fbe779b389",
+			"5cff2b9e:5190a4f8e15",
+			"eec1fb7c:874d2ca08bb",
+			"09402ab2:52c310ca1a6",
+			"cafa07ce:083cd2e2bb9",
+			"bd500fa4:363ec1a6d0d",
+			"61127775:a924e269179",
+			"cc30c2e3:d5cf77277d8",
+			"257f1f94:b54afe0a4d6",
+			"d3c3df1e:b8f5e64345a",
+			"257f1f94:80e26b0ebc7",
+			"d3c3df1e:604b57ac084"
+		]
+	},
+	{
+		"categoryId": "cat:9630bf9",
+		"channelIds": [
+			"79b06fdf:7194b49ba5b",
+			"5cfb94dc:2a4713e625e",
+			"21611588:453e1b5854c",
+			"e6789308:94d05bf6693",
+			"669d385e:17ee1420cc3",
+			"dd17f790:e99a82d07a1",
+			"1a97058f:9be69c3d6a7"
+		]
+	},
+	{
+		"categoryId": "cat:c3c26edb",
+		"channelIds": [
+			"cc30c2e3:511ef458018",
+			"5cff2b9e:9f4443f5bde",
+			"257f1f94:fbded7d9d92",
+			"669d385e:a483532a2bd",
+			"fdcac892:946f6d15624",
+			"eec1fb7c:d9aaaa2f4a1",
+			"669d385e:a3e523a588f",
+			"5cfb94dc:d24af86e73c",
+			"61127775:47c8e2ec222",
+			"eec1fb7c:bcc1a50695d",
+			"dd17f790:723153a9368",
+			"5cff2b9e:dc0e79cdcc1",
+			"d3c3df1e:b5dbed0bd6f",
+			"09402ab2:f242dc700c9",
+			"cc30c2e3:b59ddc72753",
+			"257f1f94:e5eb908d362",
+			"1a97058f:102934d6173",
+			"79b06fdf:6ec8c6b012a",
+			"66567893:5696f2cacda",
+			"66567893:9d320eade1c",
+			"09402ab2:06937450745",
+			"e6789308:3af21828e1f"
+		]
+	},
+	{
+		"categoryId": "cat:a1786113",
+		"channelIds": [
+			"1a97058f:c217b85b385",
+			"fdcac892:3e4322174a4",
+			"f453c512:81411bef4ba",
+			"eec1fb7c:bed2664844b",
+			"5cff2b9e:1fdf12a91c1",
+			"66567893:ffbfdb28dbb",
+			"bd500fa4:fafeb7875eb",
+			"e6789308:9cb352c1816",
+			"eec1fb7c:699a116d2e7",
+			"21611588:3fd6a71d668"
+		]
+	},
+	{
+		"categoryId": "cat:826367d8",
+		"channelIds": [
+			"cafa07ce:eb9bedbbaf3",
+			"d3c3df1e:2aa89a5222b",
+			"bd500fa4:7c12cde8524",
+			"bd500fa4:bdada61787e",
+			"bd500fa4:a8f8dc5b5c5",
+			"669d385e:17b990e3d5e",
+			"cc30c2e3:d93638374c0",
+			"4f6fc3e3:7fed3acf5c0",
+			"fdcac892:38dc43edab3",
+			"f453c512:9a956da88f9",
+			"5cff2b9e:cb10e81fd7e",
+			"66567893:a6cb0785f59",
+			"669d385e:2ff4126e013",
+			"5cfb94dc:2bdc2179f39",
+			"4f6fc3e3:c3ab318ddd9",
+			"5cfb94dc:303ef05b6be",
+			"eec1fb7c:b8ad11c9837",
+			"61127775:8ee464ee1f2",
+			"1a97058f:d6b11ce523a",
+			"cc30c2e3:e3cc68fec35",
+			"21611588:e033fe78acd",
+			"09402ab2:7dd69d588a4",
+			"f453c512:888d288c497",
+			"09402ab2:01d97f07b1c",
+			"cafa07ce:1f6b9ee4cf6"
+		]
+	},
+	{
+		"categoryId": "cat:aaaf9909",
+		"channelIds": [
+			"fdcac892:971d302f412",
+			"09402ab2:78570b2aa14",
+			"257f1f94:61ce0a9988c",
+			"cafa07ce:b9bc60d7f2c",
+			"f453c512:c59777efa47",
+			"66567893:214e31736e3",
+			"d3c3df1e:66302314d6e",
+			"4f6fc3e3:bf42610c6e4",
+			"61127775:0708da96188",
+			"eec1fb7c:bcc1a50695d",
+			"61127775:06ec8e7622c",
+			"bd500fa4:86e02db36fa",
+			"4f6fc3e3:a2cdbd00f19"
+		]
+	},
+	{
+		"categoryId": "cat:acd11754",
+		"channelIds": [
+			"61127775:7561d8019a7",
+			"cc30c2e3:88503fa47cc",
+			"4f6fc3e3:89c94514139"
+		]
+	},
+	{
+		"categoryId": "cat:cbbaab1f",
+		"channelIds": [
+			"cafa07ce:ecfea02b6ad",
+			"5cff2b9e:ed6970749d3",
+			"cc30c2e3:845afc328df",
+			"e6789308:2a1f629a227",
+			"eec1fb7c:9b30f783910",
+			"f453c512:7b802d8597c",
+			"09402ab2:0beeed1d9f7",
+			"dd17f790:a07bd051f44",
+			"d3c3df1e:5a36811f269",
+			"4f6fc3e3:6511e9e5287",
+			"257f1f94:b8651c908fa",
+			"1a97058f:d75b3bc0dfc",
+			"61127775:d91188c826b",
+			"21611588:7ec05b6cd65",
+			"66567893:f07c541e078",
+			"66567893:2789ba38f61"
+		]
+	},
+	{
+		"categoryId": "cat:e4ffdfe6",
+		"channelIds": [
+			"257f1f94:18e71632756",
+			"cafa07ce:11f7463c48f",
+			"bd500fa4:dcbd10ae914",
+			"61127775:ec9c810c37e"
+		]
+	},
+	{
+		"categoryId": "cat:823df44",
+		"channelIds": []
+	}
+]

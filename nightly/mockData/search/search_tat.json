@@ -1,0 +1,334 @@
+{
+  "totalItems" : 749,
+  "totalGroups" : 372,
+  "offset" : 0,
+  "sort" : "relevance",
+  "navigators" : [ {
+    "id" : "partnerIds",
+    "name" : "Partnerangebote",
+    "entries" : [ {
+      "id" : "7tv",
+      "name" : "7TV",
+      "size" : 96
+    }, {
+      "id" : "ard",
+      "name" : "ARD",
+      "size" : 12
+    }, {
+      "id" : "entertainselection",
+      "name" : "Entertain Selection",
+      "size" : 8
+    }, {
+      "id" : "erotic-lounge",
+      "name" : "Erotic Lounge",
+      "size" : 1
+    }, {
+      "id" : "maxdome",
+      "name" : "Maxdome",
+      "size" : 192
+    }, {
+      "id" : "nrwision",
+      "name" : "NRWision",
+      "size" : 2
+    }, {
+      "id" : "sky",
+      "name" : "Sky",
+      "size" : 12
+    }, {
+      "id" : "videoload",
+      "name" : "Videoload",
+      "size" : 39
+    }, {
+      "id" : "zdf",
+      "name" : "ZDF",
+      "size" : 19
+    } ]
+  }, {
+    "id" : "availability",
+    "name" : "Verfügbarkeit",
+    "entries" : [ {
+      "id" : "freeVod",
+      "name" : "Kostenlos",
+      "size" : 130
+    }, {
+      "id" : "chargeVod",
+      "name" : "Kostenpflichtig",
+      "size" : 231
+    } ]
+  }, {
+    "id" : "type",
+    "name" : "Quelle",
+    "entries" : [ {
+      "id" : "broadcast",
+      "name" : "TV",
+      "size" : 477
+    }, {
+      "id" : "vod",
+      "name" : "Video",
+      "size" : 272
+    } ]
+  }, {
+    "id" : "ageRating",
+    "name" : "Alterskennzeichnung",
+    "entries" : [ {
+      "id" : "unknown",
+      "name" : "Keine Alterskennzeichnung",
+      "size" : 321
+    }, {
+      "id" : "0",
+      "name" : "Ab 0 Jahren",
+      "size" : 11
+    }, {
+      "id" : "6",
+      "name" : "Ab 6 Jahren",
+      "size" : 12
+    }, {
+      "id" : "12",
+      "name" : "Ab 12 Jahren",
+      "size" : 169
+    }, {
+      "id" : "16",
+      "name" : "Ab 16 Jahren",
+      "size" : 226
+    }, {
+      "id" : "18",
+      "name" : "Ab 18 Jahren",
+      "size" : 9
+    }, {
+      "id" : "oaf",
+      "name" : "Erwachsenenangebote",
+      "size" : 1
+    } ]
+  } ],
+  "results" : [ {
+    "id" : "groupTypeAdult__45294bb35654cedd6279b7b95d1ae210",
+    "type" : "group",
+    "title" : "Tatort",
+    "size" : 5,
+    "adult" : false,
+    "pcon" : false,
+    "items" : [ {
+      "id" : "0036d4ca",
+      "type" : "tvBroadcast",
+      "title" : "Tatort",
+      "logicalChannelId" : "ndr",
+      "subtitle" : "Die schöne Mona ist tot",
+      "start" : "2016-03-01T22:00:00+0100",
+      "end" : "2016-03-01T23:30:00+0100",
+      "channelLogo" : "http://programm-manager.telekom.de/media/e51cf4bf577954c861c57396359f56fb3f5e7805.png",
+      "logicalChannelName" : "NDR",
+      "mainGenre" : "Krimi",
+      "category" : "Spielfilm",
+      "countries" : [ "Deutschland" ],
+      "year" : 2013,
+      "poster" : "http://programm-manager.telekom.de/media/f779a21725ddce9b239ade79a141fb0f98a31a8f.jpg",
+      "seriesTitle" : "Tatort",
+      "seasonNumber" : 1,
+      "episodeNumber" : 861,
+      "ageRatingName" : "Keine Alterskennzeichnung",
+      "ageRatingId" : "Unbekannt",
+      "instantRestart" : true,
+      "communityRating" : 3,
+      "cluster" : "tv"
+    } ]
+  }, {
+    "id" : "GN_SH018442680000",
+    "type" : "vod",
+    "title" : "Tatort",
+    "vodType" : "series",
+    "mainGenre" : "Krimi",
+    "countries" : [ "Deutschland", "Österreich", "Schweiz" ],
+    "yearFrom" : 1970,
+    "posterWide" : "http://programm-manager.telekom.de/media/gracenote/p10416816_b_h10_aa.jpg",
+    "scenes" : [ ],
+    "ageRatingName" : "Ab 12 Jahren (FSF)",
+    "ageRatingId" : "FSF 12",
+    "seriesTitle" : "Tatort",
+    "partners" : [ {
+      "name" : "ARD",
+      "logo" : "http://programm-manager.telekom.de/media/partners/48x48_ard_icon_farbig-monochrome.png"
+    } ],
+    "cluster" : "vodSeries",
+    "sourceType" : "tvArchive",
+    "airtime" : "2003-07-06T12:00:00+0200",
+    "category" : "series"
+  }, {
+    "id" : "00373201",
+    "type" : "tvBroadcast",
+    "title" : "Tatort Internet",
+    "logicalChannelId" : "zdf-info",
+    "subtitle" : "Angeklickt und abgezockt!",
+    "start" : "2016-02-25T07:10:00+0100",
+    "end" : "2016-02-25T07:55:00+0100",
+    "channelLogo" : "http://programm-manager.telekom.de/media/60641d1e04421f17dd4369382a389b0d7599b736.png",
+    "logicalChannelName" : "ZDFinfo",
+    "mainGenre" : "Dokumentation",
+    "category" : "Information",
+    "countries" : [ "Deutschland" ],
+    "year" : 2014,
+    "poster" : "http://programm-manager.telekom.de/media/504e7571c73fbc8551bafa6a0bdd06ecb274a1fb.jpg",
+    "ageRatingName" : "Keine Alterskennzeichnung",
+    "ageRatingId" : "Unbekannt",
+    "instantRestart" : true,
+    "cluster" : "tv"
+  }, {
+    "id" : "groupTypeAdult__22c4d1a6bf550cd322ba7404d96fb491",
+    "type" : "group",
+    "title" : "Tatort Sumpf",
+    "size" : 15,
+    "adult" : false,
+    "pcon" : false,
+    "items" : [ {
+      "id" : "0037527c",
+      "type" : "tvBroadcast",
+      "title" : "Tatort Sumpf",
+      "logicalChannelId" : "tlc",
+      "subtitle" : "Mord verjährt nie",
+      "start" : "2016-02-26T22:05:55+0100",
+      "end" : "2016-02-26T23:05:16+0100",
+      "channelLogo" : "http://programm-manager.telekom.de/media/bd43973022bc8b5e4e44ecaf07cbeaaca3943fd6.png",
+      "logicalChannelName" : "TLC",
+      "mainGenre" : "Dokumentation",
+      "category" : "Information",
+      "countries" : [ "USA" ],
+      "year" : 2016,
+      "poster" : "http://programm-manager.telekom.de/media/7fbe3b77764f6624775bc70f14a280b68e341dd6.jpg",
+      "seriesTitle" : "Tatort Sumpf",
+      "seasonNumber" : 2,
+      "episodeNumber" : 5,
+      "ageRatingName" : "Ab 12 Jahren",
+      "ageRatingId" : "Andere 12",
+      "instantRestart" : true,
+      "cluster" : "tv"
+    } ]
+  }, {
+    "id" : "00395a91",
+    "type" : "tvBroadcast",
+    "title" : "Tatort Krankenhaus",
+    "logicalChannelId" : "zdf-info",
+    "start" : "2016-02-24T08:30:00+0100",
+    "end" : "2016-02-24T09:15:00+0100",
+    "channelLogo" : "http://programm-manager.telekom.de/media/60641d1e04421f17dd4369382a389b0d7599b736.png",
+    "logicalChannelName" : "ZDFinfo",
+    "mainGenre" : "Verschiedenes",
+    "category" : "Information",
+    "countries" : [ "Deutschland" ],
+    "year" : 2013,
+    "poster" : "http://programm-manager.telekom.de/media/bf530611addf697de02b8bbbb730892711f6164c.jpg",
+    "ageRatingName" : "Keine Alterskennzeichnung",
+    "ageRatingId" : "Unbekannt",
+    "instantRestart" : true,
+    "cluster" : "tv"
+  }, {
+    "id" : "GN_SH019976850000",
+    "type" : "vod",
+    "title" : "Tatort Internet",
+    "vodType" : "movie",
+    "mainGenre" : "Verschiedenes",
+    "countries" : [ "Deutschland" ],
+    "year" : 2014,
+    "scenes" : [ ],
+    "ageRatingName" : "Keine Alterskennzeichnung",
+    "ageRatingId" : "Unbekannt",
+    "partners" : [ {
+      "name" : "ZDF",
+      "logo" : "http://programm-manager.telekom.de/media/partners/48x48_zdf_icon_monochrome.png"
+    } ],
+    "cluster" : "vodOther",
+    "sourceType" : "tvArchive",
+    "airtime" : "2014-09-05T12:00:00+0200",
+    "category" : "other"
+  }, {
+    "id" : "GN_SH019976920000",
+    "type" : "vod",
+    "title" : "Tatort Wohnung",
+    "vodType" : "movie",
+    "mainGenre" : "Verschiedenes",
+    "countries" : [ "Deutschland" ],
+    "year" : 2014,
+    "scenes" : [ ],
+    "ageRatingName" : "Keine Alterskennzeichnung",
+    "ageRatingId" : "Unbekannt",
+    "partners" : [ {
+      "name" : "ZDF",
+      "logo" : "http://programm-manager.telekom.de/media/partners/48x48_zdf_icon_monochrome.png"
+    } ],
+    "cluster" : "vodOther",
+    "sourceType" : "tvArchive",
+    "airtime" : "2014-09-16T12:00:00+0200",
+    "category" : "other"
+  }, {
+    "id" : "GN_SH020048300000",
+    "type" : "vod",
+    "title" : "Tatort Autobahn",
+    "vodType" : "movie",
+    "mainGenre" : "Verschiedenes",
+    "countries" : [ "Deutschland" ],
+    "year" : 2014,
+    "scenes" : [ ],
+    "ageRatingName" : "Keine Alterskennzeichnung",
+    "ageRatingId" : "Unbekannt",
+    "partners" : [ {
+      "name" : "ZDF",
+      "logo" : "http://programm-manager.telekom.de/media/partners/48x48_zdf_icon_monochrome.png"
+    } ],
+    "cluster" : "vodOther",
+    "sourceType" : "tvArchive",
+    "airtime" : "2014-09-30T12:00:00+0200",
+    "category" : "other"
+  }, {
+    "id" : "groupTypeAdult__5bd7b21ba0c1d9b465b0d9dbeb1eddcd",
+    "type" : "group",
+    "title" : "Tatort: Kartenhaus",
+    "size" : 4,
+    "adult" : false,
+    "pcon" : false,
+    "items" : [ {
+      "id" : "0036633a",
+      "type" : "tvBroadcast",
+      "title" : "Tatort: Kartenhaus",
+      "logicalChannelId" : "das-erste",
+      "subtitle" : "Kartenhaus",
+      "start" : "2016-02-28T20:15:00+0100",
+      "end" : "2016-02-28T21:45:00+0100",
+      "channelLogo" : "http://programm-manager.telekom.de/media/3711d16d0e3570276ebba175620385b5f4ff18f4.png",
+      "logicalChannelName" : "Das Erste",
+      "mainGenre" : "Krimi",
+      "category" : "Spielfilm",
+      "countries" : [ "Deutschland" ],
+      "year" : 2015,
+      "poster" : "http://programm-manager.telekom.de/media/f779a21725ddce9b239ade79a141fb0f98a31a8f.jpg",
+      "seriesTitle" : "Tatort",
+      "seasonNumber" : 1,
+      "episodeNumber" : 0,
+      "ageRatingName" : "Keine Alterskennzeichnung",
+      "ageRatingId" : "Unbekannt",
+      "instantRestart" : true,
+      "tvTip" : true,
+      "communityRating" : 3,
+      "cluster" : "tv"
+    } ]
+  }, {
+    "id" : "GN_EP019560040018",
+    "type" : "vod",
+    "title" : "Tatort Flughafen",
+    "vodType" : "episode",
+    "mainGenre" : "Krimi",
+    "countries" : [ "Deutschland" ],
+    "year" : 2011,
+    "scenes" : [ ],
+    "ageRatingName" : "Ab 0 Jahren (FSF)",
+    "ageRatingId" : "FSF 0",
+    "seriesTitle" : "Mein Revier - Ordnungshüter räumen auf",
+    "seasonNumber" : 3,
+    "episodeNumber" : 24,
+    "partners" : [ {
+      "name" : "Maxdome",
+      "logo" : "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+    } ],
+    "cluster" : "vodSeries",
+    "sourceType" : "tvArchive",
+    "airtime" : "2011-01-28T12:00:00+0100",
+    "category" : "series"
+  } ]
+}

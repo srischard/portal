@@ -1,0 +1,2776 @@
+﻿{
+  "totalItems": 1585,
+  "totalGroups": 731,
+  "offset": 0,
+  "sort": "relevance",
+  "navigators": [
+    {
+      "id": "partnerIds",
+      "name": "Partnerangebote",
+      "entries": [
+        {
+          "id": "7tv",
+          "name": "7TV",
+          "size": 111
+        },
+        {
+          "id": "ard",
+          "name": "ARD",
+          "size": 16
+        },
+        {
+          "id": "cnn",
+          "name": "CNN",
+          "size": 2
+        },
+        {
+          "id": "erotic-lounge",
+          "name": "Erotic Lounge",
+          "size": 156
+        },
+        {
+          "id": "nrwision",
+          "name": "NRWision",
+          "size": 1
+        },
+        {
+          "id": "sky",
+          "name": "Sky",
+          "size": 88
+        },
+        {
+          "id": "videoload",
+          "name": "Videoload",
+          "size": 187
+        },
+        {
+          "id": "watchever",
+          "name": "WATCHEVER",
+          "size": 50
+        },
+        {
+          "id": "zdf",
+          "name": "ZDF",
+          "size": 7
+        },
+        {
+          "id": "maxdome",
+          "name": "maxdome",
+          "size": 251
+        },
+        {
+          "id": "tvPackages",
+          "name": "TV-Pakete",
+          "size": 12
+        }
+      ]
+    },
+    {
+      "id": "availability",
+      "name": "Verfügbarkeit",
+      "entries": [
+        {
+          "id": "freeVod",
+          "name": "Kostenlos",
+          "size": 149
+        },
+        {
+          "id": "chargeVod",
+          "name": "Kostenpflichtig",
+          "size": 672
+        }
+      ]
+    },
+    {
+      "id": "type",
+      "name": "Quelle",
+      "entries": [
+        {
+          "id": "broadcast",
+          "name": "TV",
+          "size": 840
+        },
+        {
+          "id": "person",
+          "name": "Personen",
+          "size": 9
+        },
+        {
+          "id": "vod",
+          "name": "Video",
+          "size": 736
+        }
+      ]
+    },
+    {
+      "id": "ageRating",
+      "name": "Alterskennzeichnung",
+      "entries": [
+        {
+          "id": "unknown",
+          "name": "Keine Alterskennzeichnung",
+          "size": 778
+        },
+        {
+          "id": "0",
+          "name": "Ab 0 Jahren",
+          "size": 44
+        },
+        {
+          "id": "6",
+          "name": "Ab 6 Jahren",
+          "size": 90
+        },
+        {
+          "id": "12",
+          "name": "Ab 12 Jahren",
+          "size": 393
+        },
+        {
+          "id": "16",
+          "name": "Ab 16 Jahren",
+          "size": 102
+        },
+        {
+          "id": "18",
+          "name": "Ab 18 Jahren",
+          "size": 26
+        },
+        {
+          "id": "oaf",
+          "name": "Erwachsenenangebote",
+          "size": 152
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "GN_MV006432520000",
+      "type": "vod",
+      "title": "Big",
+      "vodType": "movie",
+      "duration": 120,
+      "mainGenre": "Comedy",
+      "countries": [ "USA" ],
+      "year": 1988,
+      "communityRating": 4,
+      "poster": "http://programm-manager.telekom.de/media/gracenote/p10873_v_v8_ab.jpg",
+      "posterNoTitle": "http://programm-manager.telekom.de/media/gracenote/p10873_i_v8_aa.jpg",
+      "posterWideNoTitle": "http://programm-manager.telekom.de/media/gracenote/p10873_i_h10_aa.jpg",
+      "scenes": [ "http://programm-manager.telekom.de/media/gracenote/p10873_i_h10_aa.jpg" ],
+      "ageRatingName": "Ab 6 Jahren (FSK)",
+      "ageRatingId": "FSK 6",
+      "partners": [
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodMain",
+      "sourceType": "vodPremium",
+      "category": "main"
+    },
+    {
+      "id": "group_big",
+      "type": "group",
+      "title": "Big Daddy",
+      "size": 4,
+      "adult": false,
+      "pcon": false,
+      "items": [
+        {
+          "id": "0036ceb4",
+          "type": "tvBroadcast",
+          "title": "Big Daddy",
+          "logicalChannelId": "axn",
+          "start": "2016-03-25T06:00:00+0100",
+          "end": "2016-03-25T07:35:00+0100",
+          "channelLogo": "http://programm-manager.telekom.de/media/0690d951a5b3f35f78d73a37fcfdfde30dbd1bf3.png",
+          "logicalChannelName": "AXN",
+          "mainGenre": "Comedy",
+          "category": "Serie",
+          "countries": [ "USA" ],
+          "year": 1999,
+          "poster": "http://programm-manager.telekom.de/media/2c7fb34d4135e6fb072385d273b9d0af76e38beb.jpg",
+          "ageRatingName": "Ab 12 Jahren",
+          "ageRatingId": "Andere 12",
+          "instantRestart": false,
+          "communityRating": 3,
+          "cluster": "tv"
+        }
+      ]
+    },
+    {
+      "id": "group_heute",
+      "type": "group",
+      "title": "Big Love",
+      "size": 17,
+      "adult": false,
+      "pcon": false,
+      "items": [
+        {
+          "id": "003b9b79",
+          "type": "tvBroadcast",
+          "title": "Big Love",
+          "logicalChannelId": "skyatlantic",
+          "subtitle": "Nachspiel",
+          "start": "2016-03-23T06:55:07+0100",
+          "end": "2016-03-23T07:53:20+0100",
+          "channelLogo": "http://programm-manager.telekom.de/media/5e0f05739f0df30ff11aaf7245266e6eb26980b5.png",
+          "logicalChannelName": "SkyAtlantic",
+          "mainGenre": "Familie",
+          "category": "Serie",
+          "countries": [ "USA" ],
+          "year": 2007,
+          "poster": "http://programm-manager.telekom.de/media/cb39c3c2df709519c9857ac1c0602340676c2dea.jpg",
+          "seriesTitle": "Big Love",
+          "seasonNumber": 2,
+          "episodeNumber": 1,
+          "ageRatingName": "Ab 12 Jahren",
+          "ageRatingId": "Andere 12",
+          "instantRestart": false,
+          "cluster": "tv"
+        }
+      ]
+    },
+    {
+      "id": "groupTypeAdult__5c577be5c4b9eec78947e128d8e48efd",
+      "type": "group",
+      "title": "Big Nothing",
+      "size": 2,
+      "adult": false,
+      "pcon": false,
+      "items": [
+        {
+          "id": "003bacf6",
+          "type": "tvBroadcast",
+          "title": "Big Nothing",
+          "logicalChannelId": "kabel-1-classics",
+          "start": "2016-03-23T20:14:53+0100",
+          "end": "2016-03-23T21:40:22+0100",
+          "channelLogo": "http://programm-manager.telekom.de/media/ddde6c3032756cfafec74330f95f01e0acb04054.png",
+          "logicalChannelName": "kabel eins Classics",
+          "mainGenre": "Thriller",
+          "category": "Spielfilm",
+          "countries": [ "Großbritannien", "Kanada" ],
+          "year": 2006,
+          "poster": "http://programm-manager.telekom.de/media/0a98fa0c2f6799f559556d0800afbcf9c0e7502e.jpg",
+          "ageRatingName": "Ab 16 Jahren",
+          "ageRatingId": "Andere 16",
+          "instantRestart": false,
+          "communityRating": 4,
+          "cluster": "tv"
+        }
+      ]
+    },
+    {
+      "id": "GN_MV007926150000",
+      "type": "vod",
+      "title": "Big Eyes",
+      "vodType": "movie",
+      "duration": 106,
+      "mainGenre": "Drama",
+      "countries": [ "USA" ],
+      "year": 2014,
+      "communityRating": 3,
+      "poster": "http://programm-manager.telekom.de/media/gracenote/p10771227_v_v8_av.jpg",
+      "posterWide": "http://programm-manager.telekom.de/media/gracenote/p10771227_v_h10_aa.jpg",
+      "posterNoTitle": "http://programm-manager.telekom.de/media/gracenote/p10771227_k_v8_aa.jpg",
+      "posterWideNoTitle": "http://programm-manager.telekom.de/media/gracenote/p10771227_i_h10_aa.jpg",
+      "scenes": [ "http://programm-manager.telekom.de/media/gracenote/p10771227_i_h10_aa.jpg" ],
+      "ageRatingName": "Ab 0 Jahren (FSK)",
+      "ageRatingId": "FSK 0",
+      "partners": [
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodMain",
+      "sourceType": "vodPremium",
+      "category": "main"
+    },
+    {
+      "id": "GN_MV008255350000",
+      "type": "vod",
+      "title": "Big Game",
+      "vodType": "movie",
+      "duration": 90,
+      "mainGenre": "Action",
+      "countries": [ "Finnland", "Deutschland", "Großbritannien" ],
+      "year": 2014,
+      "communityRating": 2,
+      "poster": "http://programm-manager.telekom.de/media/gracenote/p11308265_v_v8_ac.jpg",
+      "posterNoTitle": "http://programm-manager.telekom.de/media/gracenote/p11308265_i_v8_aa.jpg",
+      "posterWideNoTitle": "http://programm-manager.telekom.de/media/gracenote/p11308265_i_h10_aa.jpg",
+      "scenes": [ "http://programm-manager.telekom.de/media/gracenote/p11308265_i_h10_aa.jpg" ],
+      "ageRatingName": "Ab 12 Jahren (FSK)",
+      "ageRatingId": "FSK 12",
+      "partners": [
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodMain",
+      "sourceType": "vodPremium",
+      "category": "main"
+    },
+    {
+      "id": "GN_MV006116670000",
+      "type": "vod",
+      "title": "Big Daddy",
+      "vodType": "movie",
+      "duration": 93,
+      "mainGenre": "Comedy",
+      "countries": [ "USA" ],
+      "year": 1999,
+      "communityRating": 3,
+      "poster": "http://programm-manager.telekom.de/media/gracenote/p23404_v_v8_ab.jpg",
+      "posterNoTitle": "http://programm-manager.telekom.de/media/gracenote/p23404_i_v8_aa.jpg",
+      "posterWideNoTitle": "http://programm-manager.telekom.de/media/gracenote/p23404_i_h10_aa.jpg",
+      "scenes": [ "http://programm-manager.telekom.de/media/gracenote/p23404_i_h10_aa.jpg" ],
+      "ageRatingName": "Ab 12 Jahren (FSK)",
+      "ageRatingId": "FSK 12",
+      "partners": [
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodMain",
+      "sourceType": "vodPremium",
+      "category": "main"
+    },
+    {
+      "id": "GN_MV000900590000",
+      "type": "vod",
+      "title": "Big Eden",
+      "vodType": "movie",
+      "duration": 119,
+      "mainGenre": "Komödie",
+      "countries": [ "USA" ],
+      "year": 2000,
+      "poster": "http://programm-manager.telekom.de/media/gracenote/p25370_v_v8_aa.jpg",
+      "posterNoTitle": "http://programm-manager.telekom.de/media/gracenote/p25370_i_v8_aa.jpg",
+      "posterWideNoTitle": "http://programm-manager.telekom.de/media/gracenote/p25370_i_h10_aa.jpg",
+      "scenes": [ "http://programm-manager.telekom.de/media/gracenote/p25370_i_h10_aa.jpg" ],
+      "ageRatingName": "Ab 12 Jahren (FSK)",
+      "ageRatingId": "FSK 12",
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodMain",
+      "sourceType": "vodPremium",
+      "category": "main"
+    },
+    {
+      "id": "GN_MV006767530000",
+      "type": "vod",
+      "title": "Big Fish",
+      "vodType": "movie",
+      "duration": 125,
+      "mainGenre": "Drama",
+      "countries": [ "USA" ],
+      "year": 2003,
+      "poster": "http://programm-manager.telekom.de/media/gracenote/p32942_v_v8_aa.jpg",
+      "posterNoTitle": "http://programm-manager.telekom.de/media/gracenote/p32942_i_v8_aa.jpg",
+      "posterWideNoTitle": "http://programm-manager.telekom.de/media/gracenote/p32942_i_h10_aa.jpg",
+      "scenes": [ "http://programm-manager.telekom.de/media/gracenote/p32942_i_h10_aa.jpg" ],
+      "ageRatingName": "Ab 6 Jahren (FSK)",
+      "ageRatingId": "FSK 6",
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodMain",
+      "sourceType": "vodPremium",
+      "category": "main"
+    },
+    {
+      "id": "GN_SH022621970000",
+      "type": "vod",
+      "title": "Big Brother",
+      "vodType": "series",
+      "mainGenre": "Reality",
+      "countries": [ "Deutschland" ],
+      "yearFrom": 2000,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Big Brother",
+      "partners": [
+        {
+          "name": "7TV",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_7tv_icon_monochrome.png"
+        },
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2015-09-22T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_SH023481100000",
+      "type": "vod",
+      "title": "Big Fish, Big Business",
+      "vodType": "series",
+      "mainGenre": "Reality",
+      "countries": [ "USA" ],
+      "yearFrom": 2015,
+      "posterNoTitle": "http://programm-manager.telekom.de/media/gracenote/p12196986_i_v8_aa.jpg",
+      "posterWideNoTitle": "http://programm-manager.telekom.de/media/gracenote/p12196986_i_h10_aa.jpg",
+      "scenes": [ "http://programm-manager.telekom.de/media/gracenote/p12196986_i_h10_aa.jpg" ],
+      "ageRatingName": "Ab 12 Jahren (FSK)",
+      "ageRatingId": "FSK 12",
+      "seriesTitle": "Big Fish, Big Business",
+      "partners": [
+        {
+          "name": "Sky",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_sky_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2015-11-26T12:00:00+0100",
+      "category": "series"
+    },
+    {
+      "id": "GN_SH022621970000_12",
+      "type": "vod",
+      "title": "Big Brother",
+      "vodType": "season",
+      "mainGenre": "Reality",
+      "countries": [ "Deutschland" ],
+      "year": 2015,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Big Brother",
+      "seasonNumber": 12,
+      "episodeCount": 92,
+      "partners": [
+        {
+          "name": "7TV",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_7tv_icon_monochrome.png"
+        },
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2015-09-22T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_SH023481100000_1",
+      "type": "vod",
+      "title": "Big Fish, Big Business ein langer Titel ist das hier",
+      "vodType": "season",
+      "mainGenre": "Reality",
+      "countries": [ "USA" ],
+      "year": 2015,
+      "scenes": [ ],
+      "ageRatingName": "Ab 12 Jahren (FSK)",
+      "ageRatingId": "FSK 12",
+      "seriesTitle": "Big Fish, Big Business",
+      "seasonNumber": 1,
+      "episodeCount": 7,
+      "partners": [
+        {
+          "name": "Sky",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_sky_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2015-11-26T12:00:00+0100",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019155650007",
+      "type": "vod",
+      "title": "Going Big",
+      "vodType": "episode",
+      "mainGenre": "Reality",
+      "countries": [ ],
+      "year": 2014,
+      "scenes": [ ],
+      "ageRatingName": "Ab 12 Jahren",
+      "ageRatingId": "NEUTRAL 12",
+      "seriesTitle": "Million Dollar Listing Miami",
+      "seasonNumber": 1,
+      "episodeNumber": 7,
+      "partners": [
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019759960058",
+      "type": "vod",
+      "title": "Big Black",
+      "vodType": "episode",
+      "mainGenre": "Reality",
+      "countries": [ ],
+      "year": 2011,
+      "scenes": [ ],
+      "ageRatingName": "Ab 16 Jahren (FSK)",
+      "ageRatingId": "FSK 16",
+      "seriesTitle": "Ridiculousness",
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "partners": [
+        {
+          "name": "WATCHEVER",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_watchever_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2011-09-12T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP015402140195",
+      "type": "vod",
+      "title": "Big Boy",
+      "vodType": "episode",
+      "mainGenre": "Dokumentation",
+      "countries": [ "Deutschland" ],
+      "year": 2001,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Eisenbahn-Romantik",
+      "partners": [
+        {
+          "name": "ARD",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_ard_icon_farbig-monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2015-04-02T14:15:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP022621970075",
+      "type": "vod",
+      "title": "Big Brother",
+      "vodType": "episode",
+      "mainGenre": "Reality",
+      "countries": [ "Deutschland" ],
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Big Brother",
+      "seasonNumber": 12,
+      "episodeNumber": 41,
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        },
+        {
+          "name": "7TV",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_7tv_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP022621970136",
+      "type": "vod",
+      "title": "Big Brother",
+      "vodType": "episode",
+      "mainGenre": "Reality",
+      "countries": [ "Deutschland" ],
+      "year": 2015,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Big Brother",
+      "seasonNumber": 12,
+      "episodeNumber": 74,
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2015-12-04T12:00:00+0100",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP022621970140",
+      "type": "vod",
+      "title": "Big Brother",
+      "vodType": "episode",
+      "mainGenre": "Reality",
+      "countries": [ "Deutschland" ],
+      "year": 2015,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Big Brother",
+      "seasonNumber": 12,
+      "episodeNumber": 76,
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        },
+        {
+          "name": "7TV",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_7tv_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2015-12-06T12:00:00+0100",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP022621970159",
+      "type": "vod",
+      "title": "Big Brother",
+      "vodType": "episode",
+      "mainGenre": "Reality",
+      "countries": [ "Deutschland" ],
+      "year": 2015,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Big Brother",
+      "seasonNumber": 12,
+      "episodeNumber": 73,
+      "partners": [
+        {
+          "name": "7TV",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_7tv_icon_monochrome.png"
+        },
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2015-12-03T12:00:00+0100",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019759960068",
+      "type": "vod",
+      "title": "Big Cat",
+      "vodType": "episode",
+      "mainGenre": "Reality",
+      "countries": [ ],
+      "year": 2012,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Ridiculousness",
+      "seasonNumber": 2,
+      "episodeNumber": 15,
+      "partners": [
+        {
+          "name": "WATCHEVER",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_watchever_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2012-10-01T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019560670192",
+      "type": "vod",
+      "title": "Big Change",
+      "vodType": "episode",
+      "mainGenre": "Krimi",
+      "countries": [ "Deutschland" ],
+      "year": 2010,
+      "scenes": [ ],
+      "ageRatingName": "Ab 12 Jahren (FSF)",
+      "ageRatingId": "FSF 12",
+      "seriesTitle": "Richter Alexander Hold",
+      "seasonNumber": 8,
+      "episodeNumber": 52,
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "airtime": "2010-04-16T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP023433940002",
+      "type": "vod",
+      "title": "Big Foot",
+      "vodType": "episode",
+      "mainGenre": "Dokumentation",
+      "countries": [ "Großbritannien" ],
+      "year": 2014,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Mythos auf dem Prüfstand",
+      "seasonNumber": 1,
+      "episodeNumber": 6,
+      "partners": [
+        {
+          "name": "ZDF",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_zdf_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2016-03-07T23:10:00+0100",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP021590420139",
+      "type": "vod",
+      "title": "Big Game",
+      "vodType": "episode",
+      "mainGenre": "Show",
+      "countries": [ "Deutschland" ],
+      "year": 2015,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Steven liebt Kino",
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2015-06-20T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019560670193",
+      "type": "vod",
+      "title": "Big Love",
+      "vodType": "episode",
+      "mainGenre": "Krimi",
+      "countries": [ "Deutschland" ],
+      "year": 2009,
+      "scenes": [ ],
+      "ageRatingName": "Ab 12 Jahren (FSF)",
+      "ageRatingId": "FSF 12",
+      "seriesTitle": "Richter Alexander Hold",
+      "seasonNumber": 7,
+      "episodeNumber": 318,
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "airtime": "2009-11-10T12:00:00+0100",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP020926010024",
+      "type": "vod",
+      "title": "Big Party",
+      "vodType": "episode",
+      "mainGenre": "Show",
+      "countries": [ "Deutschland" ],
+      "year": 2010,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "dasbloghaus.tv",
+      "seasonNumber": 1,
+      "episodeNumber": 24,
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2010-05-16T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "groupTypeAdult__7e30b7e865248a07c5b682dc2782f92c",
+      "type": "group",
+      "title": "Big Fish Man",
+      "size": 2,
+      "adult": false,
+      "pcon": false,
+      "items": [
+        {
+          "id": "003d4752",
+          "type": "tvBroadcast",
+          "title": "Big Fish Man",
+          "logicalChannelId": "dmax",
+          "subtitle": "Thailand",
+          "start": "2016-04-02T20:10:37+0200",
+          "end": "2016-04-02T21:10:40+0200",
+          "channelLogo": "http://programm-manager.telekom.de/media/f47210c8539cdcb85e4c468f83a281f6daa66b58.png",
+          "logicalChannelName": "DMAX",
+          "mainGenre": "Dokumentation",
+          "category": "Information",
+          "countries": [ "Großbritannien" ],
+          "year": 2015,
+          "poster": "http://programm-manager.telekom.de/media/3dc71d16566e5154e2d43713df7499ab12ae25b7.jpg",
+          "seriesTitle": "Big Fish Man",
+          "ageRatingName": "Keine Alterskennzeichnung",
+          "ageRatingId": "Unbekannt",
+          "instantRestart": true,
+          "cluster": "tv"
+        }
+      ]
+    },
+    {
+      "id": "003c38a7",
+      "type": "tvBroadcast",
+      "title": "Big Mamas Haus",
+      "logicalChannelId": "kabel-1",
+      "start": "2016-03-28T22:20:00+0200",
+      "end": "2016-03-29T00:15:00+0200",
+      "channelLogo": "http://programm-manager.telekom.de/media/6c7e879751b6fd14a0e9d5b0f26b757c7152e80f.png",
+      "logicalChannelName": "kabel eins",
+      "mainGenre": "Krimi",
+      "category": "Spielfilm",
+      "countries": [ "Deutschland", "USA" ],
+      "year": 2000,
+      "poster": "http://programm-manager.telekom.de/media/8b7aa23d929d6b109d1303315ec79e2c7e581494.jpg",
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "instantRestart": true,
+      "communityRating": 2,
+      "cluster": "tv"
+    },
+    {
+      "id": "003d0f3a",
+      "type": "tvBroadcast",
+      "title": "Big Natural Breasts 3",
+      "logicalChannelId": "penthouse",
+      "start": "2016-03-29T00:00:00+0200",
+      "end": "2016-03-29T02:00:00+0200",
+      "channelLogo": "http://programm-manager.telekom.de/media/8b44f3353a69d0eff083a16b38d7ad617d1902a9.png",
+      "logicalChannelName": "Penthouse",
+      "mainGenre": "Erotischer Film",
+      "category": "Spielfilm",
+      "countries": [ ],
+      "poster": "http://programm-manager.telekom.de/media/2365642833208fb2c5eb3a87335f0f4c6d52d7ba.png",
+      "ageRatingName": "Ab 18 Jahren",
+      "ageRatingId": "Andere 18",
+      "instantRestart": false,
+      "cluster": "tv"
+    },
+    {
+      "id": "groupTypeAdult__8b805e33009f57a1d44a2ccfce4ec1d6",
+      "type": "group",
+      "title": "BIG SCREEN Magazin",
+      "size": 16,
+      "adult": false,
+      "pcon": false,
+      "items": [
+        {
+          "id": "003c85a3",
+          "type": "tvBroadcast",
+          "title": "BIG SCREEN Magazin",
+          "logicalChannelId": "mgm-sky",
+          "start": "2016-03-22T22:03:55+0100",
+          "end": "2016-03-22T22:16:35+0100",
+          "channelLogo": "http://programm-manager.telekom.de/media/47168bf62144732915a64dbd3d7d8780314f4be1.png",
+          "logicalChannelName": "MGM (Sky)",
+          "mainGenre": "Musik",
+          "category": "Musik",
+          "countries": [ ],
+          "year": 2016,
+          "poster": "http://programm-manager.telekom.de/media/4e10569e49ed41cfcfe33efec009a9a3ca344639.jpg",
+          "seriesTitle": "BIG SCREEN Magazin",
+          "ageRatingName": "Ab 12 Jahren",
+          "ageRatingId": "Andere 12",
+          "instantRestart": false,
+          "cluster": "tv"
+        }
+      ]
+    },
+    {
+      "id": "003cc2e2",
+      "type": "tvBroadcast",
+      "title": "Big Time Movie",
+      "logicalChannelId": "nickcc",
+      "start": "2016-03-31T09:05:00+0200",
+      "end": "2016-03-31T10:20:00+0200",
+      "channelLogo": "http://programm-manager.telekom.de/media/0897986f26d92297bab67136b160c531a8899482.png",
+      "logicalChannelName": "nickelodeon",
+      "mainGenre": "Komödie",
+      "category": "Spielfilm",
+      "countries": [ "USA" ],
+      "year": 2012,
+      "poster": "http://programm-manager.telekom.de/media/78fb5216eb3a7c6118f8c3a48a2330c72ae0122a.jpg",
+      "ageRatingName": "Ab 6 Jahren",
+      "ageRatingId": "Andere 6",
+      "instantRestart": true,
+      "cluster": "tv"
+    },
+    {
+      "id": "groupTypeAdult__0a93d4b06d28b3a0f1100f33b4fb3a4a",
+      "type": "group",
+      "title": "Big Time Rush",
+      "size": 6,
+      "adult": false,
+      "pcon": false,
+      "items": [
+        {
+          "id": "003c41c2",
+          "type": "tvBroadcast",
+          "title": "Big Time Rush",
+          "logicalChannelId": "nickcc",
+          "subtitle": "Big Time - Freundinnen",
+          "start": "2016-03-28T05:10:00+0200",
+          "end": "2016-03-28T05:30:00+0200",
+          "channelLogo": "http://programm-manager.telekom.de/media/0897986f26d92297bab67136b160c531a8899482.png",
+          "logicalChannelName": "nickelodeon",
+          "mainGenre": "Sitcom",
+          "category": "Serie",
+          "countries": [ "USA" ],
+          "year": 2010,
+          "poster": "http://programm-manager.telekom.de/media/53ebb702c0bcbfd0a33778ecd5f92e736d07560d.jpg",
+          "seriesTitle": "Big Time Rush",
+          "seasonNumber": 2,
+          "episodeNumber": 3,
+          "ageRatingName": "Keine Alterskennzeichnung",
+          "ageRatingId": "Unbekannt",
+          "instantRestart": true,
+          "cluster": "tv"
+        }
+      ]
+    },
+    {
+      "id": "003ce82d",
+      "type": "tvBroadcast",
+      "title": "Entscheidung am Big Horn",
+      "logicalChannelId": "mgm-sky",
+      "start": "2016-04-01T12:06:06+0200",
+      "end": "2016-04-01T13:40:22+0200",
+      "channelLogo": "http://programm-manager.telekom.de/media/47168bf62144732915a64dbd3d7d8780314f4be1.png",
+      "logicalChannelName": "MGM (Sky)",
+      "mainGenre": "Western",
+      "category": "Spielfilm",
+      "countries": [ "USA" ],
+      "year": 1965,
+      "poster": "http://programm-manager.telekom.de/media/212c081db4dab645d86f0f1197fce9fe8ccc889e.jpg",
+      "ageRatingName": "Ab 12 Jahren",
+      "ageRatingId": "Andere 12",
+      "instantRestart": false,
+      "cluster": "tv"
+    },
+    {
+      "id": "groupTypeAdult__a15874ed0490f6284b5e45f78bad57f4",
+      "type": "group",
+      "title": "Galileo Big Pictures",
+      "size": 2,
+      "adult": false,
+      "pcon": false,
+      "items": [
+        {
+          "id": "003c4ca6",
+          "type": "tvBroadcast",
+          "title": "Galileo Big Pictures",
+          "logicalChannelId": "pro7",
+          "subtitle": "Extreme Welt",
+          "start": "2016-03-28T10:45:00+0200",
+          "end": "2016-03-28T13:35:00+0200",
+          "channelLogo": "http://programm-manager.telekom.de/media/a7f56de9d6b8af8708bda4a48349ab6a3f713ecd.png",
+          "logicalChannelName": "ProSieben",
+          "mainGenre": "Talkshow",
+          "category": "Show",
+          "countries": [ "Deutschland" ],
+          "year": 2015,
+          "poster": "http://programm-manager.telekom.de/media/3ad532f66178e64ab9cbf040e4e1a2ac231dc906.jpg",
+          "seriesTitle": "Galileo Big Pictures",
+          "ageRatingName": "Keine Alterskennzeichnung",
+          "ageRatingId": "Unbekannt",
+          "instantRestart": true,
+          "cluster": "tv"
+        }
+      ]
+    },
+    {
+      "id": "003cc36f",
+      "type": "tvBroadcast",
+      "title": "Spank My Big Butt",
+      "logicalChannelId": "blue-hustler",
+      "start": "2016-03-31T01:05:00+0200",
+      "end": "2016-03-31T02:12:00+0200",
+      "channelLogo": "http://programm-manager.telekom.de/media/f6660e8167e19658dc0831526d326b2b12a0d78b.png",
+      "logicalChannelName": "Blue Hustler",
+      "mainGenre": "Verschiedenes",
+      "category": "Information",
+      "countries": [ ],
+      "poster": "http://programm-manager.telekom.de/media/bf530611addf697de02b8bbbb730892711f6164c.jpg",
+      "ageRatingName": "Ab 18 Jahren",
+      "ageRatingId": "Andere 18",
+      "instantRestart": false,
+      "cluster": "tv"
+    },
+    {
+      "id": "groupTypeAdult__6abc70912e82b825f9ccaff5287ad963",
+      "type": "group",
+      "title": "The Big Bang Theory",
+      "size": 106,
+      "adult": false,
+      "pcon": false,
+      "items": [
+        {
+          "id": "003b6b77",
+          "type": "tvBroadcast",
+          "title": "The Big Bang Theory",
+          "logicalChannelId": "pro7",
+          "subtitle": "Business im Wohnzimmer",
+          "start": "2016-03-22T15:18:29+0100",
+          "end": "2016-03-22T15:43:09+0100",
+          "channelLogo": "http://programm-manager.telekom.de/media/a7f56de9d6b8af8708bda4a48349ab6a3f713ecd.png",
+          "logicalChannelName": "ProSieben",
+          "mainGenre": "Sitcom",
+          "category": "Serie",
+          "countries": [ "USA" ],
+          "year": 2009,
+          "poster": "http://programm-manager.telekom.de/media/413f03b2bf9cec514e2633a246818374f1f6961d.jpg",
+          "seriesTitle": "The Big Bang Theory",
+          "seasonNumber": 2,
+          "episodeNumber": 18,
+          "ageRatingName": "Keine Alterskennzeichnung",
+          "ageRatingId": "Unbekannt",
+          "instantRestart": true,
+          "cluster": "tv"
+        }
+      ]
+    },
+    {
+      "id": "groupTypeAdult__51b400b4aec045227985eeb6f2fbc83d",
+      "type": "group",
+      "title": "The Big Brain Theory",
+      "size": 8,
+      "adult": false,
+      "pcon": false,
+      "items": [
+        {
+          "id": "003b9b0b",
+          "type": "tvBroadcast",
+          "title": "The Big Brain Theory",
+          "logicalChannelId": "discovery-channel",
+          "subtitle": "Die Super-Roboter",
+          "start": "2016-03-23T20:58:07+0100",
+          "end": "2016-03-23T21:44:56+0100",
+          "channelLogo": "http://programm-manager.telekom.de/media/5382ad274f6adb07566e0c1e584fa72dc81b283a.png",
+          "logicalChannelName": "Discovery Channel",
+          "mainGenre": "Wissen",
+          "category": "Information",
+          "countries": [ "USA" ],
+          "year": 2012,
+          "poster": "http://programm-manager.telekom.de/media/cb22abc0170333ac1e0366ed520a38a3e3f5906a.jpg",
+          "seriesTitle": "The Big Brain Theory",
+          "seasonNumber": 1,
+          "episodeNumber": 4,
+          "ageRatingName": "Keine Alterskennzeichnung",
+          "ageRatingId": "Unbekannt",
+          "instantRestart": false,
+          "cluster": "tv"
+        }
+      ]
+    },
+    {
+      "id": "groupTypeAdult__83177a53a8f08b134772c62af2ab351b",
+      "type": "group",
+      "title": "The Big Hit",
+      "size": 2,
+      "adult": false,
+      "pcon": false,
+      "items": [
+        {
+          "id": "003c4fd0",
+          "type": "tvBroadcast",
+          "title": "The Big Hit",
+          "logicalChannelId": "skycomedy",
+          "start": "2016-03-26T03:10:13+0100",
+          "end": "2016-03-26T04:47:40+0100",
+          "channelLogo": "http://programm-manager.telekom.de/media/d13f7315a1ce15ef90c205e43fcae0acdab12685.png",
+          "logicalChannelName": "SkyComedy",
+          "mainGenre": "Thriller",
+          "category": "Spielfilm",
+          "countries": [ "USA", "Frankreich" ],
+          "year": 1998,
+          "poster": "http://programm-manager.telekom.de/media/4a353179bb5a195f1ea6aa29c8468782ef232574.jpg",
+          "ageRatingName": "Ab 18 Jahren",
+          "ageRatingId": "Andere 18",
+          "instantRestart": false,
+          "cluster": "tv"
+        }
+      ]
+    },
+    {
+      "id": "003cc1ee",
+      "type": "tvBroadcast",
+      "title": "The Big Red One",
+      "logicalChannelId": "tnt-film",
+      "start": "2016-03-31T16:35:00+0200",
+      "end": "2016-03-31T18:25:00+0200",
+      "channelLogo": "http://programm-manager.telekom.de/media/c02d5251e889cc17b3fbcda1f8c96dada6415581.png",
+      "logicalChannelName": "TNT Film",
+      "mainGenre": "Action",
+      "category": "Spielfilm",
+      "countries": [ "USA" ],
+      "year": 1980,
+      "poster": "http://programm-manager.telekom.de/media/532b40e2f61fa48a258373856944b3a030d9eb96.jpg",
+      "ageRatingName": "Ab 16 Jahren",
+      "ageRatingId": "Andere 16",
+      "instantRestart": false,
+      "communityRating": 3,
+      "cluster": "tv"
+    },
+    {
+      "id": "gnp_489142",
+      "type": "person",
+      "title": "Big Boi",
+      "roles": [ "actor" ],
+      "poster": "http://programm-manager.telekom.de/media/gracenote_persons/489142_v9_ba.jpg",
+      "filmography": [
+        {
+          "title": "The Cookout 2",
+          "year": 2011
+        },
+        {
+          "title": "How 2 Build a Rapper",
+          "year": 2008
+        },
+        {
+          "title": "Who's Your Caddy?",
+          "year": 2007
+        }
+      ]
+    },
+    {
+      "id": "gnp_788037",
+      "type": "person",
+      "title": "Big Smo",
+      "roles": [ "actor" ],
+      "poster": "http://programm-manager.telekom.de/media/gracenote_persons/788037_v9_ba.jpg",
+      "filmography": [
+        {
+          "title": "Big Smo",
+          "year": 0
+        }
+      ]
+    },
+    {
+      "id": "GN_SH009311820000",
+      "type": "vod",
+      "title": "The Big Bang Theory",
+      "vodType": "series",
+      "mainGenre": "Sitcom",
+      "countries": [ "USA" ],
+      "yearFrom": 2007,
+      "poster": "http://programm-manager.telekom.de/media/gracenote/p185554_b_v8_al.jpg",
+      "posterWide": "http://programm-manager.telekom.de/media/gracenote/p185554_b_h10_al.jpg",
+      "posterNoTitle": "http://programm-manager.telekom.de/media/gracenote/p185554_i_v8_ad.jpg",
+      "posterWideNoTitle": "http://programm-manager.telekom.de/media/gracenote/p185554_i_h10_ad.jpg",
+      "scenes": [ "http://programm-manager.telekom.de/media/gracenote/p185554_i_h10_ad.jpg" ],
+      "ageRatingName": "Ab 6 Jahren (FSK)",
+      "ageRatingId": "FSK 6",
+      "seriesTitle": "The Big Bang Theory",
+      "partners": [
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "category": "series"
+    },
+    {
+      "id": "GN_SH019370140000",
+      "type": "vod",
+      "title": "The Big Bang Theory",
+      "vodType": "series",
+      "mainGenre": "Sitcom",
+      "countries": [ "USA" ],
+      "yearFrom": 2007,
+      "poster": "http://programm-manager.telekom.de/media/gracenote/p185554_b_v8_al.jpg",
+      "posterWide": "http://programm-manager.telekom.de/media/gracenote/p185554_b_h10_al.jpg",
+      "posterNoTitle": "http://programm-manager.telekom.de/media/gracenote/p185554_i_v8_ad.jpg",
+      "posterWideNoTitle": "http://programm-manager.telekom.de/media/gracenote/p185554_i_h10_ad.jpg",
+      "scenes": [ "http://programm-manager.telekom.de/media/gracenote/p185554_i_h10_ad.jpg" ],
+      "ageRatingName": "Ab 6 Jahren (FSK)",
+      "ageRatingId": "FSK 6",
+      "seriesTitle": "The Big Bang Theory",
+      "partners": [
+        {
+          "name": "7TV",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_7tv_icon_monochrome.png"
+        },
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        },
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "airtime": "2007-09-24T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_SH020808180000",
+      "type": "vod",
+      "title": "The Big C",
+      "vodType": "series",
+      "mainGenre": "Komödie",
+      "countries": [ "USA" ],
+      "yearFrom": 2010,
+      "poster": "http://programm-manager.telekom.de/media/gracenote/p8169270_b_v8_ad.jpg",
+      "posterWide": "http://programm-manager.telekom.de/media/gracenote/p8169270_b_h10_ac.jpg",
+      "posterNoTitle": "http://programm-manager.telekom.de/media/gracenote/p8169270_i_v8_ad.jpg",
+      "posterWideNoTitle": "http://programm-manager.telekom.de/media/gracenote/p8169270_i_h10_aa.jpg",
+      "scenes": [ "http://programm-manager.telekom.de/media/gracenote/p8169270_i_h10_aa.jpg" ],
+      "ageRatingName": "Ab 16 Jahren (FSK)",
+      "ageRatingId": "FSK 16",
+      "seriesTitle": "The Big C",
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        },
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2010-08-16T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_SH019370140000_9",
+      "type": "vod",
+      "title": "The Big Bang Theory",
+      "vodType": "season",
+      "mainGenre": "Sitcom",
+      "countries": [ "USA" ],
+      "year": 2015,
+      "poster": "http://programm-manager.telekom.de/media/gracenote/p11857828_b_v8_ab.jpg",
+      "posterWide": "http://programm-manager.telekom.de/media/gracenote/p11857828_b_h10_ab.jpg",
+      "scenes": [ ],
+      "ageRatingName": "Ab 6 Jahren (FSK)",
+      "ageRatingId": "FSK 6",
+      "seriesTitle": "The Big Bang Theory",
+      "seasonNumber": 9,
+      "episodeCount": 12,
+      "partners": [
+        {
+          "name": "7TV",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_7tv_icon_monochrome.png"
+        },
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "airtime": "2015-09-21T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_SH019370140000_8",
+      "type": "vod",
+      "title": "The Big Bang Theory",
+      "vodType": "season",
+      "mainGenre": "Sitcom",
+      "countries": [ "USA" ],
+      "year": 2014,
+      "poster": "http://programm-manager.telekom.de/media/gracenote/p10870057_b_v8_aa.jpg",
+      "posterWide": "http://programm-manager.telekom.de/media/gracenote/p10870057_b_h10_aa.jpg",
+      "scenes": [ ],
+      "ageRatingName": "Ab 6 Jahren (FSK)",
+      "ageRatingId": "FSK 6",
+      "seriesTitle": "The Big Bang Theory",
+      "seasonNumber": 8,
+      "episodeCount": 24,
+      "partners": [
+        {
+          "name": "7TV",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_7tv_icon_monochrome.png"
+        },
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        },
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "airtime": "2014-09-22T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_SH019370140000_4",
+      "type": "vod",
+      "title": "The Big Bang Theory",
+      "vodType": "season",
+      "mainGenre": "Sitcom",
+      "countries": [ "USA" ],
+      "year": 2010,
+      "poster": "http://programm-manager.telekom.de/media/gracenote/p8218988_b_v8_aa.jpg",
+      "posterWide": "http://programm-manager.telekom.de/media/gracenote/p8218988_b_h10_aa.jpg",
+      "scenes": [ ],
+      "ageRatingName": "Ab 6 Jahren (FSK)",
+      "ageRatingId": "FSK 6",
+      "seriesTitle": "The Big Bang Theory",
+      "seasonNumber": 4,
+      "episodeCount": 24,
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        },
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "airtime": "2010-09-23T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_SH019370140000_7",
+      "type": "vod",
+      "title": "The Big Bang Theory",
+      "vodType": "season",
+      "mainGenre": "Sitcom",
+      "countries": [ "USA" ],
+      "year": 2013,
+      "poster": "http://programm-manager.telekom.de/media/gracenote/p10039305_b_v8_aa.jpg",
+      "posterWide": "http://programm-manager.telekom.de/media/gracenote/p10039305_b_h10_aa.jpg",
+      "scenes": [ ],
+      "ageRatingName": "Ab 6 Jahren (FSK)",
+      "ageRatingId": "FSK 6",
+      "seriesTitle": "The Big Bang Theory",
+      "seasonNumber": 7,
+      "episodeCount": 24,
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        },
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "airtime": "2013-09-26T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_MV007309330000",
+      "type": "vod",
+      "title": "Big Bad Wolves",
+      "vodType": "movie",
+      "duration": 110,
+      "mainGenre": "Thriller",
+      "countries": [ "Israel" ],
+      "year": 2013,
+      "communityRating": 4,
+      "poster": "http://programm-manager.telekom.de/media/gracenote/p9913797_v_v8_aa.jpg",
+      "posterNoTitle": "http://programm-manager.telekom.de/media/gracenote/p9913797_i_v8_aa.jpg",
+      "posterWideNoTitle": "http://programm-manager.telekom.de/media/gracenote/p9913797_i_h10_aa.jpg",
+      "scenes": [ "http://programm-manager.telekom.de/media/gracenote/p9913797_i_h10_aa.jpg" ],
+      "ageRatingName": "Ab 18 Jahren (FSK)",
+      "ageRatingId": "FSK 18_Neu",
+      "partners": [
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodMain",
+      "sourceType": "vodPremium",
+      "category": "main"
+    },
+    {
+      "id": "GN_MV007627500000",
+      "type": "vod",
+      "title": "The Big Eden",
+      "vodType": "movie",
+      "duration": 93,
+      "mainGenre": "Dokumentation",
+      "countries": [ "Deutschland" ],
+      "year": 2011,
+      "communityRating": 4,
+      "poster": "http://programm-manager.telekom.de/media/gracenote/p11802719_v_v8_aa.jpg",
+      "scenes": [ ],
+      "ageRatingName": "Ab 12 Jahren (FSK)",
+      "ageRatingId": "FSK 12",
+      "partners": [
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodMain",
+      "sourceType": "vodPremium",
+      "category": "main"
+    },
+    {
+      "id": "GN_MV007338810000",
+      "type": "vod",
+      "title": "Big Ass Spider!",
+      "vodType": "movie",
+      "duration": 80,
+      "mainGenre": "Comedy",
+      "countries": [ "USA" ],
+      "year": 2013,
+      "communityRating": 3,
+      "poster": "http://programm-manager.telekom.de/media/gracenote/p9873245_v_v8_ab.jpg",
+      "posterNoTitle": "http://programm-manager.telekom.de/media/gracenote/p9873245_i_v7_aa.jpg",
+      "posterWideNoTitle": "http://programm-manager.telekom.de/media/gracenote/p9873245_i_h11_aa.jpg",
+      "scenes": [ "http://programm-manager.telekom.de/media/gracenote/p9873245_i_h11_aa.jpg" ],
+      "ageRatingName": "Ab 12 Jahren (FSK)",
+      "ageRatingId": "FSK 12",
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        },
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodMain",
+      "sourceType": "vodPremium",
+      "category": "main"
+    },
+    {
+      "id": "GN_MV006187840000",
+      "type": "vod",
+      "title": "The Big Wedding",
+      "vodType": "movie",
+      "duration": 90,
+      "mainGenre": "Komödie",
+      "countries": [ "USA" ],
+      "year": 2013,
+      "communityRating": 2,
+      "poster": "http://programm-manager.telekom.de/media/gracenote/p9211166_v_v8_aa.jpg",
+      "posterNoTitle": "http://programm-manager.telekom.de/media/gracenote/p9211166_i_v8_aa.jpg",
+      "posterWideNoTitle": "http://programm-manager.telekom.de/media/gracenote/p9211166_i_h10_aa.jpg",
+      "scenes": [ "http://programm-manager.telekom.de/media/gracenote/p9211166_i_h10_aa.jpg" ],
+      "ageRatingName": "Ab 12 Jahren (FSK)",
+      "ageRatingId": "FSK 12",
+      "partners": [
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodMain",
+      "sourceType": "vodPremium",
+      "category": "main"
+    },
+    {
+      "id": "groupTypeAdult__oaf",
+      "type": "group",
+      "title": "Erwachsenenangebote",
+      "size": 152,
+      "adult": true,
+      "pcon": false
+    },
+    {
+      "id": "GN_MV006263220000",
+      "type": "vod",
+      "title": "Big Mamas Haus",
+      "vodType": "movie",
+      "duration": 98,
+      "mainGenre": "Comedy",
+      "countries": [ "USA" ],
+      "year": 2000,
+      "communityRating": 2,
+      "poster": "http://programm-manager.telekom.de/media/gracenote/p25581_p_v7_ag.jpg",
+      "posterNoTitle": "http://programm-manager.telekom.de/media/gracenote/p25581_i_v8_aa.jpg",
+      "posterWideNoTitle": "http://programm-manager.telekom.de/media/gracenote/p25581_i_h10_aa.jpg",
+      "scenes": [ "http://programm-manager.telekom.de/media/gracenote/p25581_i_h10_aa.jpg" ],
+      "ageRatingName": "Ab 12 Jahren (FSK)",
+      "ageRatingId": "FSK 12",
+      "partners": [
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodMain",
+      "sourceType": "vodPremium",
+      "category": "main"
+    },
+    {
+      "id": "GN_MV007525790000",
+      "type": "vod",
+      "title": "Big Bad Wolf",
+      "vodType": "movie",
+      "mainGenre": "Horror",
+      "countries": [ "USA" ],
+      "year": 2006,
+      "poster": "http://programm-manager.telekom.de/media/gracenote/p170749_v_v8_aa.jpg",
+      "posterWideNoTitle": "http://programm-manager.telekom.de/media/gracenote/p170749_i_h10_aa.jpg",
+      "scenes": [ "http://programm-manager.telekom.de/media/gracenote/p170749_i_h10_aa.jpg" ],
+      "ageRatingName": "Ab 18 Jahren (FSK)",
+      "ageRatingId": "FSK 18",
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodMain",
+      "sourceType": "vodPremium",
+      "category": "main"
+    },
+    {
+      "id": "GN_MV007789800000",
+      "type": "vod",
+      "title": "Big City Blues",
+      "vodType": "movie",
+      "duration": 94,
+      "mainGenre": "Komödie",
+      "countries": [ "USA" ],
+      "year": 1999,
+      "poster": "http://programm-manager.telekom.de/media/gracenote/p26523_v_v8_aa.jpg",
+      "scenes": [ ],
+      "ageRatingName": "Ab 16 Jahren (FSK)",
+      "ageRatingId": "FSK 16",
+      "partners": [
+        {
+          "name": "Sky",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_sky_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodMain",
+      "sourceType": "vodPremium",
+      "category": "main"
+    },
+    {
+      "id": "GN_MV007302290000",
+      "type": "vod",
+      "title": "The Big Hit",
+      "vodType": "movie",
+      "duration": 91,
+      "mainGenre": "Action",
+      "countries": [ "USA" ],
+      "year": 1998,
+      "poster": "http://programm-manager.telekom.de/media/gracenote/p20976_v_v8_ab.jpg",
+      "posterNoTitle": "http://programm-manager.telekom.de/media/gracenote/p20976_i_v8_aa.jpg",
+      "posterWideNoTitle": "http://programm-manager.telekom.de/media/gracenote/p20976_i_h10_aa.jpg",
+      "scenes": [ "http://programm-manager.telekom.de/media/gracenote/p20976_i_h10_aa.jpg" ],
+      "ageRatingName": "Ab 18 Jahren (FSK)",
+      "ageRatingId": "FSK 18",
+      "partners": [
+        {
+          "name": "Sky",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_sky_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodMain",
+      "sourceType": "vodPremium",
+      "category": "main"
+    },
+    {
+      "id": "GN_SH009311820000_9",
+      "type": "vod",
+      "title": "The Big Bang Theory",
+      "vodType": "season",
+      "mainGenre": "Sitcom",
+      "countries": [ "USA" ],
+      "year": 2015,
+      "poster": "http://programm-manager.telekom.de/media/gracenote/p11857828_b_v8_ab.jpg",
+      "posterWide": "http://programm-manager.telekom.de/media/gracenote/p11857828_b_h10_ab.jpg",
+      "scenes": [ ],
+      "ageRatingName": "Ab 6 Jahren (FSK)",
+      "ageRatingId": "FSK 6",
+      "seriesTitle": "The Big Bang Theory",
+      "seasonNumber": 9,
+      "episodeCount": 19,
+      "partners": [
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "category": "series"
+    },
+    {
+      "id": "GN_SH022239920000",
+      "type": "vod",
+      "title": "Promi Big Brother",
+      "vodType": "series",
+      "mainGenre": "Reality",
+      "countries": [ "Deutschland" ],
+      "yearFrom": 2013,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Promi Big Brother",
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        },
+        {
+          "name": "7TV",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_7tv_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2013-09-13T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_SH020948610000",
+      "type": "vod",
+      "title": "The Big Surprise",
+      "vodType": "series",
+      "mainGenre": "Show",
+      "countries": [ "Deutschland" ],
+      "yearFrom": 2015,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "The Big Surprise",
+      "partners": [
+        {
+          "name": "7TV",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_7tv_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2015-01-15T12:00:00+0100",
+      "category": "series"
+    },
+    {
+      "id": "GN_SH019370140000_5",
+      "type": "vod",
+      "title": "The Big Bang Theory",
+      "vodType": "season",
+      "mainGenre": "Sitcom",
+      "countries": [ "USA" ],
+      "year": 2011,
+      "poster": "http://programm-manager.telekom.de/media/gracenote/p8738253_b_v8_aa.jpg",
+      "posterWide": "http://programm-manager.telekom.de/media/gracenote/p8738253_b_h10_aa.jpg",
+      "scenes": [ ],
+      "ageRatingName": "Ab 6 Jahren (FSK)",
+      "ageRatingId": "FSK 6",
+      "seriesTitle": "The Big Bang Theory",
+      "seasonNumber": 5,
+      "episodeCount": 24,
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        },
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "airtime": "2011-09-22T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_SH019370140000_6",
+      "type": "vod",
+      "title": "The Big Bang Theory",
+      "vodType": "season",
+      "mainGenre": "Sitcom",
+      "countries": [ "USA" ],
+      "year": 2012,
+      "poster": "http://programm-manager.telekom.de/media/gracenote/p9264952_b_v8_aa.jpg",
+      "posterWide": "http://programm-manager.telekom.de/media/gracenote/p9264952_b_h10_aa.jpg",
+      "scenes": [ ],
+      "ageRatingName": "Ab 6 Jahren (FSK)",
+      "ageRatingId": "FSK 6",
+      "seriesTitle": "The Big Bang Theory",
+      "seasonNumber": 6,
+      "episodeCount": 24,
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        },
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "airtime": "2012-09-27T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_SH020808180000_1",
+      "type": "vod",
+      "title": "The Big C",
+      "vodType": "season",
+      "mainGenre": "Komödie",
+      "countries": [ "USA" ],
+      "year": 2010,
+      "poster": "http://programm-manager.telekom.de/media/gracenote/p8210688_b_v8_aa.jpg",
+      "posterWide": "http://programm-manager.telekom.de/media/gracenote/p8210688_b_h10_aa.jpg",
+      "scenes": [ ],
+      "ageRatingName": "Ab 16 Jahren (FSK)",
+      "ageRatingId": "FSK 16",
+      "seriesTitle": "The Big C",
+      "seasonNumber": 1,
+      "episodeCount": 13,
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        },
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2010-08-16T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_SH020808180000_2",
+      "type": "vod",
+      "title": "The Big C",
+      "vodType": "season",
+      "mainGenre": "Komödie",
+      "countries": [ "USA" ],
+      "year": 2011,
+      "poster": "http://programm-manager.telekom.de/media/gracenote/p8646623_b_v8_aa.jpg",
+      "posterWide": "http://programm-manager.telekom.de/media/gracenote/p8646623_b_h10_aa.jpg",
+      "scenes": [ ],
+      "ageRatingName": "Ab 16 Jahren (FSK)",
+      "ageRatingId": "FSK 16",
+      "seriesTitle": "The Big C",
+      "seasonNumber": 2,
+      "episodeCount": 13,
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        },
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2011-06-27T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_SH020808180000_3",
+      "type": "vod",
+      "title": "The Big C",
+      "vodType": "season",
+      "mainGenre": "Komödie",
+      "countries": [ "USA" ],
+      "year": 2012,
+      "poster": "http://programm-manager.telekom.de/media/gracenote/p9038884_b_v8_aa.jpg",
+      "posterWide": "http://programm-manager.telekom.de/media/gracenote/p9038884_b_h10_aa.jpg",
+      "scenes": [ ],
+      "ageRatingName": "Ab 16 Jahren (FSK)",
+      "ageRatingId": "FSK 16",
+      "seriesTitle": "The Big C",
+      "seasonNumber": 3,
+      "episodeCount": 10,
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        },
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2012-04-08T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_SH022239920000_1",
+      "type": "vod",
+      "title": "Promi Big Brother",
+      "vodType": "season",
+      "mainGenre": "Reality",
+      "countries": [ "Deutschland" ],
+      "year": 2013,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Promi Big Brother",
+      "seasonNumber": 1,
+      "episodeCount": 15,
+      "partners": [
+        {
+          "name": "7TV",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_7tv_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2013-09-13T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_SH022239920000_2",
+      "type": "vod",
+      "title": "Promi Big Brother",
+      "vodType": "season",
+      "mainGenre": "Reality",
+      "countries": [ "Deutschland" ],
+      "year": 2014,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Promi Big Brother",
+      "seasonNumber": 2,
+      "episodeCount": 15,
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        },
+        {
+          "name": "7TV",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_7tv_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2014-08-15T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_SH022239920000_3",
+      "type": "vod",
+      "title": "Promi Big Brother",
+      "vodType": "season",
+      "mainGenre": "Reality",
+      "countries": [ "Deutschland" ],
+      "year": 2015,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Promi Big Brother",
+      "seasonNumber": 3,
+      "episodeCount": 15,
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        },
+        {
+          "name": "7TV",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_7tv_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2015-08-14T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_SH019370140000_1",
+      "type": "vod",
+      "title": "The Big Bang Theory",
+      "vodType": "season",
+      "mainGenre": "Sitcom",
+      "countries": [ "USA" ],
+      "year": 2007,
+      "poster": "http://programm-manager.telekom.de/media/gracenote/p7895966_b_v8_aa.jpg",
+      "posterWide": "http://programm-manager.telekom.de/media/gracenote/p7895966_b_h10_aa.jpg",
+      "scenes": [ ],
+      "ageRatingName": "Ab 12 Jahren (FSF)",
+      "ageRatingId": "FSF 12",
+      "seriesTitle": "The Big Bang Theory",
+      "seasonNumber": 1,
+      "episodeCount": 17,
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "airtime": "2007-09-24T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_SH019370140000_2",
+      "type": "vod",
+      "title": "The Big Bang Theory",
+      "vodType": "season",
+      "mainGenre": "Sitcom",
+      "countries": [ "USA" ],
+      "year": 2008,
+      "poster": "http://programm-manager.telekom.de/media/gracenote/p7895967_b_v8_aa.jpg",
+      "posterWide": "http://programm-manager.telekom.de/media/gracenote/p7895967_b_h10_aa.jpg",
+      "scenes": [ ],
+      "ageRatingName": "Ab 12 Jahren (FSF)",
+      "ageRatingId": "FSF 12",
+      "seriesTitle": "The Big Bang Theory",
+      "seasonNumber": 2,
+      "episodeCount": 23,
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "airtime": "2008-09-22T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_SH019370140000_3",
+      "type": "vod",
+      "title": "The Big Bang Theory",
+      "vodType": "season",
+      "mainGenre": "Sitcom",
+      "countries": [ "USA" ],
+      "year": 2009,
+      "poster": "http://programm-manager.telekom.de/media/gracenote/p7895968_b_v8_aa.jpg",
+      "posterWide": "http://programm-manager.telekom.de/media/gracenote/p7895968_b_h10_aa.jpg",
+      "scenes": [ ],
+      "ageRatingName": "Ab 12 Jahren (FSK)",
+      "ageRatingId": "FSK 12",
+      "seriesTitle": "The Big Bang Theory",
+      "seasonNumber": 3,
+      "episodeCount": 23,
+      "partners": [
+        {
+          "name": "7TV",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_7tv_icon_monochrome.png"
+        },
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "airtime": "2009-09-21T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_SH020948610000_1",
+      "type": "vod",
+      "title": "The Big Surprise",
+      "vodType": "season",
+      "mainGenre": "Show",
+      "countries": [ "Deutschland" ],
+      "year": 2015,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "The Big Surprise",
+      "seasonNumber": 1,
+      "episodeCount": 3,
+      "partners": [
+        {
+          "name": "7TV",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_7tv_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2015-01-15T12:00:00+0100",
+      "category": "series"
+    },
+    {
+      "id": "groupTypeAdult__43e70611f4dbf48ede5aae13299c61b2",
+      "type": "group",
+      "title": "My Big Fat Gypsy Wedding",
+      "size": 10,
+      "adult": false,
+      "pcon": false,
+      "items": [
+        {
+          "id": "003bd3d6",
+          "type": "tvBroadcast",
+          "title": "My Big Fat Gypsy Wedding",
+          "logicalChannelId": "tlc",
+          "subtitle": "Ganz neue Wege",
+          "start": "2016-03-25T06:41:45+0100",
+          "end": "2016-03-25T07:25:43+0100",
+          "channelLogo": "http://programm-manager.telekom.de/media/bd43973022bc8b5e4e44ecaf07cbeaaca3943fd6.png",
+          "logicalChannelName": "TLC",
+          "mainGenre": "Reality",
+          "category": "Serie",
+          "countries": [ "USA" ],
+          "year": 2013,
+          "poster": "http://programm-manager.telekom.de/media/79a3ba0714724a13e2ff5711573f5751dee16d58.jpg",
+          "seriesTitle": "My Big Fat Gypsy Wedding",
+          "seasonNumber": 3,
+          "episodeNumber": 1,
+          "ageRatingName": "Keine Alterskennzeichnung",
+          "ageRatingId": "Unbekannt",
+          "instantRestart": true,
+          "cluster": "tv"
+        }
+      ]
+    },
+    {
+      "id": "groupTypeAdult__618f7187a00d5d0ef391539c344d310c",
+      "type": "group",
+      "title": "Galileo Big Pictures: Extreme Welt",
+      "size": 2,
+      "adult": false,
+      "pcon": false,
+      "items": [
+        {
+          "id": "003c4a82",
+          "type": "tvBroadcast",
+          "title": "Galileo Big Pictures: Extreme Welt",
+          "logicalChannelId": "pro7",
+          "subtitle": "Extreme Welt",
+          "start": "2016-03-26T20:14:30+0100",
+          "end": "2016-03-26T23:15:26+0100",
+          "channelLogo": "http://programm-manager.telekom.de/media/a7f56de9d6b8af8708bda4a48349ab6a3f713ecd.png",
+          "logicalChannelName": "ProSieben",
+          "mainGenre": "Talkshow",
+          "category": "Show",
+          "countries": [ "Deutschland" ],
+          "year": 2015,
+          "poster": "http://programm-manager.telekom.de/media/3ad532f66178e64ab9cbf040e4e1a2ac231dc906.jpg",
+          "seriesTitle": "Galileo Big Pictures",
+          "ageRatingName": "Keine Alterskennzeichnung",
+          "ageRatingId": "Unbekannt",
+          "instantRestart": true,
+          "tvTip": true,
+          "cluster": "tv"
+        }
+      ]
+    },
+    {
+      "id": "GN_EP014192030100",
+      "type": "vod",
+      "title": "Big Mama P",
+      "vodType": "episode",
+      "mainGenre": "Sitcom",
+      "countries": [ "USA" ],
+      "year": 2016,
+      "posterNoTitle": "http://programm-manager.telekom.de/media/gracenote/p12325600_e_v8_aa.jpg",
+      "posterWideNoTitle": "http://programm-manager.telekom.de/media/gracenote/p12325600_e_h10_aa.jpg",
+      "scenes": [ "http://programm-manager.telekom.de/media/gracenote/p12325600_e_h10_aa.jpg" ],
+      "ageRatingName": "Ab 12 Jahren",
+      "ageRatingId": "NEUTRAL 12",
+      "seriesTitle": "New Girl",
+      "seasonNumber": 5,
+      "episodeNumber": 1,
+      "partners": [
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP011581240107",
+      "type": "vod",
+      "title": "The Big Game",
+      "vodType": "episode",
+      "mainGenre": "Sitcom",
+      "countries": [ "USA" ],
+      "year": 2013,
+      "posterNoTitle": "http://programm-manager.telekom.de/media/gracenote/p10349040_e_v8_aa.jpg",
+      "posterWideNoTitle": "http://programm-manager.telekom.de/media/gracenote/p10349040_e_h10_aa.jpg",
+      "scenes": [ "http://programm-manager.telekom.de/media/gracenote/p10349040_e_h10_aa.jpg" ],
+      "ageRatingName": "Ab 12 Jahren",
+      "ageRatingId": "NEUTRAL 12",
+      "seriesTitle": "Modern Family",
+      "seasonNumber": 5,
+      "episodeNumber": 9,
+      "partners": [
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP011581240137",
+      "type": "vod",
+      "title": "The Big Guns",
+      "vodType": "episode",
+      "mainGenre": "Sitcom",
+      "countries": [ "USA" ],
+      "year": 2015,
+      "posterNoTitle": "http://programm-manager.telekom.de/media/gracenote/p11368926_e_v8_aa.jpg",
+      "posterWideNoTitle": "http://programm-manager.telekom.de/media/gracenote/p11368926_e_h10_aa.jpg",
+      "scenes": [ "http://programm-manager.telekom.de/media/gracenote/p11368926_e_h10_aa.jpg" ],
+      "ageRatingName": "Ab 12 Jahren",
+      "ageRatingId": "NEUTRAL 12",
+      "seriesTitle": "Modern Family",
+      "seasonNumber": 6,
+      "episodeNumber": 12,
+      "partners": [
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP011541630096",
+      "type": "vod",
+      "title": "Too Big to Fail",
+      "vodType": "episode",
+      "mainGenre": "Drama",
+      "countries": [ "USA" ],
+      "year": 2014,
+      "posterNoTitle": "http://programm-manager.telekom.de/media/gracenote/p11146120_e_v8_aa.jpg",
+      "posterWideNoTitle": "http://programm-manager.telekom.de/media/gracenote/p11146120_e_h10_aa.jpg",
+      "scenes": [ "http://programm-manager.telekom.de/media/gracenote/p11146120_e_h10_aa.jpg" ],
+      "ageRatingName": "Ab 12 Jahren",
+      "ageRatingId": "NEUTRAL 12",
+      "seriesTitle": "Parenthood",
+      "seasonNumber": 6,
+      "episodeNumber": 6,
+      "partners": [
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP000186930602",
+      "type": "vod",
+      "title": "Walking Big & Tall",
+      "vodType": "episode",
+      "mainGenre": "Sitcom",
+      "countries": [ "USA" ],
+      "year": 2015,
+      "posterNoTitle": "http://programm-manager.telekom.de/media/gracenote/p11421885_e_v8_aa.jpg",
+      "posterWideNoTitle": "http://programm-manager.telekom.de/media/gracenote/p11421885_e_h10_aa.jpg",
+      "scenes": [ "http://programm-manager.telekom.de/media/gracenote/p11421885_e_h10_aa.jpg" ],
+      "ageRatingName": "Ab 12 Jahren",
+      "ageRatingId": "NEUTRAL 12",
+      "seriesTitle": "The Simpsons",
+      "seasonNumber": 26,
+      "episodeNumber": 13,
+      "partners": [
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019759960106",
+      "type": "vod",
+      "title": "Big Black II",
+      "vodType": "episode",
+      "mainGenre": "Reality",
+      "countries": [ ],
+      "year": 2011,
+      "scenes": [ ],
+      "ageRatingName": "Ab 16 Jahren (FSK)",
+      "ageRatingId": "FSK 16",
+      "seriesTitle": "Ridiculousness",
+      "seasonNumber": 1,
+      "episodeNumber": 16,
+      "partners": [
+        {
+          "name": "WATCHEVER",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_watchever_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2011-12-19T12:00:00+0100",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP022621970010",
+      "type": "vod",
+      "title": "Elfen bei Big Brother",
+      "vodType": "episode",
+      "mainGenre": "Reality",
+      "countries": [ "Deutschland" ],
+      "year": 2015,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Big Brother",
+      "seasonNumber": 12,
+      "episodeNumber": 6,
+      "partners": [
+        {
+          "name": "7TV",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_7tv_icon_monochrome.png"
+        },
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2015-09-27T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019374330005",
+      "type": "vod",
+      "title": "Promi Big Brother",
+      "vodType": "episode",
+      "mainGenre": "Show",
+      "countries": [ "Deutschland" ],
+      "year": 2013,
+      "scenes": [ ],
+      "ageRatingName": "Ab 12 Jahren (FSF)",
+      "ageRatingId": "FSF 12",
+      "seriesTitle": "Galileo",
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2013-09-06T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP022239920047",
+      "type": "vod",
+      "title": "Promi Big Brother Inside",
+      "vodType": "episode",
+      "mainGenre": "Reality",
+      "countries": [ "Deutschland" ],
+      "year": 2014,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Promi Big Brother",
+      "partners": [
+        {
+          "name": "7TV",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_7tv_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2014-05-01T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019374330004",
+      "type": "vod",
+      "title": "The Big One",
+      "vodType": "episode",
+      "mainGenre": "Show",
+      "countries": [ "Deutschland" ],
+      "year": 2012,
+      "scenes": [ ],
+      "ageRatingName": "Ab 12 Jahren (FSF)",
+      "ageRatingId": "FSF 12",
+      "seriesTitle": "Galileo",
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2012-01-11T12:00:00+0100",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP023220780004",
+      "type": "vod",
+      "title": "The Big Short",
+      "vodType": "episode",
+      "mainGenre": "Show",
+      "countries": [ "Deutschland" ],
+      "year": 2016,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Watch Me - das Kinomagazin",
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2016-01-16T12:00:00+0100",
+      "category": "series"
+    },
+    {
+      "id": "groupTypeAdult__6a73325383c76d8fc9327a7f76c7a5a4",
+      "type": "group",
+      "title": "Bigl",
+      "size": 5,
+      "adult": false,
+      "pcon": false,
+      "items": [
+        {
+          "id": "003e73ac",
+          "type": "tvBroadcast",
+          "title": "Bigl",
+          "logicalChannelId": "detmirtk",
+          "start": "2016-04-02T01:00:00+0200",
+          "end": "2016-04-02T02:00:00+0200",
+          "channelLogo": "http://programm-manager.telekom.de/media/dd1dbddb238bb7f39d2b067a7fe54ebc201d11b3.png",
+          "logicalChannelName": "T-Bom/T-Dom",
+          "mainGenre": "Natur und Tiere",
+          "category": "Information",
+          "countries": [ ],
+          "year": 2011,
+          "poster": "http://programm-manager.telekom.de/media/bf530611addf697de02b8bbbb730892711f6164c.jpg",
+          "seriesTitle": "Bigl",
+          "ageRatingName": "Keine Alterskennzeichnung",
+          "ageRatingId": "Unbekannt",
+          "instantRestart": false,
+          "cluster": "tv"
+        }
+      ]
+    },
+    {
+      "id": "GN_MV007561880000",
+      "type": "vod",
+      "title": "Big Trouble in Little China",
+      "vodType": "movie",
+      "duration": 98,
+      "mainGenre": "Action",
+      "countries": [ "USA" ],
+      "year": 1986,
+      "communityRating": 4,
+      "poster": "http://programm-manager.telekom.de/media/gracenote/p9376_v_v8_aa.jpg",
+      "posterNoTitle": "http://programm-manager.telekom.de/media/gracenote/p9376_i_v8_aa.jpg",
+      "posterWideNoTitle": "http://programm-manager.telekom.de/media/gracenote/p9376_i_h10_aa.jpg",
+      "scenes": [ "http://programm-manager.telekom.de/media/gracenote/p9376_i_h10_aa.jpg" ],
+      "ageRatingName": "Ab 16 Jahren (FSK)",
+      "ageRatingId": "FSK 16",
+      "partners": [
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodMain",
+      "sourceType": "vodPremium",
+      "category": "main"
+    },
+    {
+      "id": "GN_MV007342020000",
+      "type": "vod",
+      "title": "My Big Fat Greek Wedding",
+      "vodType": "movie",
+      "duration": 95,
+      "mainGenre": "Komödie",
+      "countries": [ "USA" ],
+      "year": 2002,
+      "communityRating": 3,
+      "poster": "http://programm-manager.telekom.de/media/gracenote/p29868_v_v8_af.jpg",
+      "posterNoTitle": "http://programm-manager.telekom.de/media/gracenote/p29868_i_v8_aa.jpg",
+      "posterWideNoTitle": "http://programm-manager.telekom.de/media/gracenote/p29868_i_h10_aa.jpg",
+      "scenes": [ "http://programm-manager.telekom.de/media/gracenote/p29868_i_h10_aa.jpg" ],
+      "ageRatingName": "Ab 0 Jahren (FSK)",
+      "ageRatingId": "FSK 0",
+      "partners": [
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodMain",
+      "sourceType": "vodPremium",
+      "category": "main"
+    },
+    {
+      "id": "GN_MV007342120000",
+      "type": "vod",
+      "title": "My Big Fat Greek Summer",
+      "vodType": "movie",
+      "duration": 96,
+      "mainGenre": "Komödie",
+      "countries": [ "USA", "Spanien" ],
+      "year": 2009,
+      "poster": "http://programm-manager.telekom.de/media/gracenote/p187855_p_v7_ah.jpg",
+      "posterNoTitle": "http://programm-manager.telekom.de/media/gracenote/p187855_i_v8_aa.jpg",
+      "posterWideNoTitle": "http://programm-manager.telekom.de/media/gracenote/p187855_i_h10_aa.jpg",
+      "scenes": [ "http://programm-manager.telekom.de/media/gracenote/p187855_i_h10_aa.jpg" ],
+      "ageRatingName": "Ab 0 Jahren (FSK)",
+      "ageRatingId": "FSK 0",
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodMain",
+      "sourceType": "vodPremium",
+      "category": "main"
+    },
+    {
+      "id": "GN_MV007345630000",
+      "type": "vod",
+      "title": "Nude Nuns With Big Guns",
+      "vodType": "movie",
+      "duration": 92,
+      "mainGenre": "Action",
+      "countries": [ "USA" ],
+      "year": 2010,
+      "poster": "http://programm-manager.telekom.de/media/gracenote/p9043488_v_v8_aa.jpg",
+      "posterNoTitle": "http://programm-manager.telekom.de/media/gracenote/p9043488_i_v8_ab.jpg",
+      "posterWideNoTitle": "http://programm-manager.telekom.de/media/gracenote/p9043488_i_h10_ab.jpg",
+      "scenes": [ "http://programm-manager.telekom.de/media/gracenote/p9043488_i_h10_ab.jpg" ],
+      "ageRatingName": "Ab 18 Jahren (FSK)",
+      "ageRatingId": "FSK 18",
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodMain",
+      "sourceType": "vodPremium",
+      "category": "main"
+    },
+    {
+      "id": "GN_EP006887720042",
+      "type": "vod",
+      "title": "Big Big Business: Der Glanz der Schattenwirtschaft",
+      "vodType": "episode",
+      "mainGenre": "Wissen",
+      "countries": [ "Deutschland" ],
+      "year": 2014,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Faszination Wissen",
+      "partners": [
+        {
+          "name": "ARD",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_ard_icon_farbig-monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2016-01-20T15:00:00+0100",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019952660037",
+      "type": "vod",
+      "title": "Big Boys, Big Toys - Modellbau XXL",
+      "vodType": "episode",
+      "mainGenre": "Dokumentation",
+      "countries": [ "Deutschland" ],
+      "year": 2014,
+      "scenes": [ ],
+      "ageRatingName": "Ab 12 Jahren (FSF)",
+      "ageRatingId": "FSF 12",
+      "seriesTitle": "Experience - Die Reportage",
+      "seasonNumber": 2,
+      "episodeNumber": 57,
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2014-08-21T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP017398160009",
+      "type": "vod",
+      "title": "Big Sur and Strawberry Lube",
+      "vodType": "episode",
+      "mainGenre": "Sitcom",
+      "countries": [ "USA" ],
+      "year": 2013,
+      "posterNoTitle": "http://programm-manager.telekom.de/media/gracenote/p10296830_e_v8_aa.jpg",
+      "posterWideNoTitle": "http://programm-manager.telekom.de/media/gracenote/p10296830_e_h10_aa.jpg",
+      "scenes": [ "http://programm-manager.telekom.de/media/gracenote/p10296830_e_h10_aa.jpg" ],
+      "ageRatingName": "Ab 12 Jahren",
+      "ageRatingId": "NEUTRAL 12",
+      "seriesTitle": "Mom",
+      "seasonNumber": 1,
+      "episodeNumber": 8,
+      "partners": [
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019560660106",
+      "type": "vod",
+      "title": "Big Bernhard is watching you",
+      "vodType": "episode",
+      "mainGenre": "Krimi",
+      "countries": [ "Deutschland" ],
+      "year": 2009,
+      "scenes": [ ],
+      "ageRatingName": "Ab 12 Jahren (FSF)",
+      "ageRatingId": "FSF 12",
+      "seriesTitle": "Richterin Barbara Salesch",
+      "seasonNumber": 10,
+      "episodeNumber": 249,
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "airtime": "2009-04-30T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019560670032",
+      "type": "vod",
+      "title": "Big Braffer is watching you",
+      "vodType": "episode",
+      "mainGenre": "Krimi",
+      "countries": [ "Deutschland" ],
+      "year": 2009,
+      "scenes": [ ],
+      "ageRatingName": "Ab 12 Jahren (FSF)",
+      "ageRatingId": "FSF 12",
+      "seriesTitle": "Richter Alexander Hold",
+      "seasonNumber": 7,
+      "episodeNumber": 172,
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        },
+        {
+          "name": "7TV",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_7tv_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "airtime": "2009-01-19T12:00:00+0100",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019952770107",
+      "type": "vod",
+      "title": "Big, Bigger, USA",
+      "vodType": "episode",
+      "mainGenre": "Wissen",
+      "countries": [ "Deutschland" ],
+      "year": 2015,
+      "scenes": [ ],
+      "ageRatingName": "Ab 12 Jahren (FSF)",
+      "ageRatingId": "FSF 12",
+      "seriesTitle": "Galileo 360 Grad",
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        },
+        {
+          "name": "7TV",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_7tv_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2015-03-19T12:00:00+0100",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019684630035",
+      "type": "vod",
+      "title": "Big-Data-Business",
+      "vodType": "episode",
+      "mainGenre": "Nachrichten",
+      "countries": [ "Deutschland" ],
+      "year": 2015,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "makro",
+      "partners": [
+        {
+          "name": "ZDF",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_zdf_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2015-05-29T21:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP016982900139",
+      "type": "vod",
+      "title": "My Big Fat Polish Wedding",
+      "vodType": "episode",
+      "mainGenre": "Sitcom",
+      "countries": [ "USA" ],
+      "year": 2015,
+      "posterNoTitle": "http://programm-manager.telekom.de/media/gracenote/p11658682_e_v8_aa.jpg",
+      "posterWideNoTitle": "http://programm-manager.telekom.de/media/gracenote/p11658682_e_h10_aa.jpg",
+      "scenes": [ "http://programm-manager.telekom.de/media/gracenote/p11658682_e_h10_aa.jpg" ],
+      "ageRatingName": "Ab 12 Jahren (FSF)",
+      "ageRatingId": "FSF 12",
+      "seriesTitle": "2 Broke Girls",
+      "seasonNumber": 4,
+      "episodeNumber": 22,
+      "partners": [
+        {
+          "name": "7TV",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_7tv_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "airtime": "2015-05-18T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "003d5575",
+      "type": "tvBroadcast",
+      "title": "Banshee: Small town. Big secrets",
+      "logicalChannelId": "skyatlantic",
+      "subtitle": "Der neue Sheriff",
+      "start": "2016-04-04T23:00:00+0200",
+      "end": "2016-04-05T00:00:00+0200",
+      "channelLogo": "http://programm-manager.telekom.de/media/5e0f05739f0df30ff11aaf7245266e6eb26980b5.png",
+      "logicalChannelName": "SkyAtlantic",
+      "mainGenre": "Krimi",
+      "category": "Serie",
+      "countries": [ "USA" ],
+      "year": 2013,
+      "poster": "http://programm-manager.telekom.de/media/4fba34de96bc51cbf1ecd6b4665fbc858921a699.jpg",
+      "seriesTitle": "Banshee",
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "ageRatingName": "Ab 16 Jahren",
+      "ageRatingId": "Andere 16",
+      "instantRestart": false,
+      "cluster": "tv"
+    },
+    {
+      "id": "003a52de",
+      "type": "tvBroadcast",
+      "title": "Big Data - die Überwachung der Erde",
+      "logicalChannelId": "phoenix",
+      "start": "2016-03-22T18:00:00+0100",
+      "end": "2016-03-22T18:30:00+0100",
+      "channelLogo": "http://programm-manager.telekom.de/media/2072e55f68f8d8b9bc277b894d694e7c0807dba7.png",
+      "logicalChannelName": "PHOENIX",
+      "mainGenre": "Dokumentation",
+      "category": "Information",
+      "countries": [ "Deutschland" ],
+      "year": 2015,
+      "poster": "http://programm-manager.telekom.de/media/bf530611addf697de02b8bbbb730892711f6164c.jpg",
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "instantRestart": true,
+      "cluster": "tv"
+    }
+  ]
+}

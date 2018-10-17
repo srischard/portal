@@ -1,0 +1,175 @@
+{
+    "totalItems": 4,
+    "totalGroups": 4,
+    "offset": 0,
+    "sort": "airtime_default",
+    "navigators": [
+        {
+            "id": "cluster",
+            "name": "Cluster",
+            "entries": [
+                {
+                    "id": "vodSeries",
+                    "name": "Serie",
+                    "size": 4
+                }
+            ]
+        }
+    ],
+    "results": [
+        {
+            "id": "GN_EP025523620001",
+            "type": "vod",
+            "title": "Der verhasste Gast",
+            "vodType": "episode",
+            "duration": 22,
+            "mainGenre": "Comedy",
+            "countries": [
+                "USA"
+            ],
+            "year": 2015,
+            "posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11775715_e_h10_aa.jpg",
+            "posterNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11775715_e_v8_aa.jpg",
+            "posterWideNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11775715_e_h10_aa.jpg",
+            "scenes": [
+                "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11775715_e_h10_aa.jpg"
+            ],
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "seriesTitle": "The Muppets",
+            "seasonNumber": 1,
+            "episodeNumber": 1,
+            "partners": [
+                {
+                    "name": "7TV",
+                    "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/4c165a6936c8e37a2a3723bb25093b07b1773318.png",
+                    "$$hashKey": "object:2528"
+                }
+            ],
+            "cluster": "vodSeries",
+            "sourceType": "vodPremium",
+            "category": "series",
+            "qualities": []
+        },
+        {
+            "id": "GN_EP019378230055",
+            "type": "vod",
+            "title": "Der Captain",
+            "vodType": "episode",
+            "duration": 22,
+            "mainGenre": "Sitcom",
+            "countries": [
+                "USA"
+            ],
+            "year": 2013,
+            "posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p10239407_e_h10_aa.jpg",
+            "posterNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p10239407_e_v8_aa.jpg",
+            "posterWideNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p10239407_e_h10_aa.jpg",
+            "scenes": [
+                "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p10239407_e_h10_aa.jpg"
+            ],
+            "ageRatingName": "Ab 12 Jahren (FSF)",
+            "ageRatingId": "FSF 12",
+            "seriesTitle": "New Girl",
+            "seasonNumber": 3,
+            "episodeNumber": 4,
+            "episodeCount": 23,
+            "partners": [
+                {
+                    "name": "Maxdome",
+                    "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/34dc487dada6dcfd0556e38de4a1857aa0fdb51e.png",
+                    "$$hashKey": "object:2551"
+                },
+                {
+                    "name": "Sky On Demand",
+                    "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/3b535513543b56f3e783906c57b51982214dd7d5.png",
+                    "$$hashKey": "object:2552"
+                }
+            ],
+            "cluster": "vodSeries",
+            "sourceType": "vodPremium",
+            "category": "series",
+            "qualities": [
+                "SD",
+                "HD"
+            ]
+        },
+        {
+            "id": "GN_EP019577180020",
+            "type": "vod",
+            "title": "Getrübte Wahrnehmung",
+            "vodType": "episode",
+            "duration": 43,
+            "mainGenre": "Komödie",
+            "countries": [
+                "USA"
+            ],
+            "year": 2010,
+            "scenes": [
+                "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p3562980_i_h10_aa.jpg"
+            ],
+            "ageRatingName": "Ab 6 Jahren (FSF)",
+            "ageRatingId": "FSF 6",
+            "seriesTitle": "Drop Dead Diva",
+            "seasonNumber": 2,
+            "episodeNumber": 6,
+            "episodeCount": 13,
+            "partners": [
+                {
+                    "name": "Maxdome",
+                    "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/34dc487dada6dcfd0556e38de4a1857aa0fdb51e.png",
+                    "$$hashKey": "object:2577"
+                }
+            ],
+            "cluster": "vodSeries",
+            "sourceType": "tvArchive",
+            "category": "series",
+            "qualities": [
+                "SD"
+            ]
+        },
+        {
+            "id": "GN_EP019370140039",
+            "type": "vod",
+            "title": "Das Cooper-Nowitzki Theorem",
+            "vodType": "episode",
+            "duration": 22,
+            "mainGenre": "Sitcom",
+            "countries": [
+                "USA"
+            ],
+            "year": 2008,
+            "posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p3358670_e_h10_aa.jpg",
+            "posterNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p3358670_e_v8_aa.jpg",
+            "posterWideNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p3358670_e_h10_aa.jpg",
+            "scenes": [
+                "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p3358670_e_h10_aa.jpg"
+            ],
+            "ageRatingName": "Ab 12 Jahren (FSF)",
+            "ageRatingId": "FSF 12",
+            "seriesTitle": "The Big Bang Theory",
+            "seasonNumber": 2,
+            "episodeNumber": 6,
+            "episodeCount": 23,
+            "partners": [
+                {
+                    "name": "Maxdome",
+                    "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/34dc487dada6dcfd0556e38de4a1857aa0fdb51e.png",
+                    "$$hashKey": "object:2600"
+                },
+                {
+                    "name": "Sky On Demand",
+                    "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/3b535513543b56f3e783906c57b51982214dd7d5.png",
+                    "$$hashKey": "object:2601"
+                }
+            ],
+            "cluster": "vodSeries",
+            "sourceType": "vodPremium",
+            "category": "series",
+            "qualities": [
+                "SD",
+                "HD"
+            ]
+        }
+    ]
+}

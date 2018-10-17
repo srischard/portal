@@ -1,0 +1,18 @@
+[
+    {
+        "icon": null,
+        "lastPlaybackPosition": 0,
+        "lastPlaybackTime": 1460628319000,
+        "title": null,
+        "zosaId": "79b06fdf:071f5cfbe8b",
+        "zosaType": "ChannelItem"
+    },
+	{
+        "icon": null,
+        "lastPlaybackPosition": 0,
+        "lastPlaybackTime": 1460628319000,
+        "title": null,
+        "zosaId": "zosa:VodItem0815",
+        "zosaType": "VodItem"
+    }
+]

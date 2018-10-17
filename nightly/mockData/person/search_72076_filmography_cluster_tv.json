@@ -1,0 +1,99 @@
+{
+	"totalItems": 21,
+	"totalGroups": 3,
+	"offset": 0,
+	"sort": "airtime_default",
+	"navigators": [{
+			"id": "cluster",
+			"name": "Cluster",
+			"entries": [{
+					"id": "tv",
+					"name": "TV Sendung",
+					"size": 21
+				}
+			]
+		}
+	],
+	"results": [{
+			"id": "groupClusterAdult__ba5616904a64dbe250645cd2c1613b7c",
+			"type": "group",
+			"title": "The Closer",
+			"size": 18,
+			"items": [{
+					"id": "005e9b6e",
+					"type": "tvBroadcast",
+					"title": "The Closer",
+					"logicalChannelId": "top8_kabel-eins",
+					"subtitle": "Das Sorgenkind",
+					"start": "2018-05-28T08:33:18+0200",
+					"end": "2018-05-28T09:29:15+0200",
+					"channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/89e2610e39d1907664d7d27c1a94049dff52dbe2.png",
+					"logicalChannelName": "Top8_kabel eins",
+					"mainGenre": "Krimi",
+					"category": "Serie",
+					"countries": ["USA"],
+					"year": 2008,
+					"poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p3142798_e_h10_ad.jpg",
+					"seriesTitle": "The Closer",
+					"seasonNumber": 4,
+					"episodeNumber": 6,
+					"ageRatingName": "Keine Altersangabe",
+					"ageRatingId": "Unbekannt",
+					"instantRestart": true,
+					"cluster": "tv"
+				}
+			]
+		}, {
+			"id": "groupClusterAdult__c1ed8872357b06eeab57e0dda1c2dcc8",
+			"type": "group",
+			"title": "Law & Order",
+			"size": 2,
+			"items": [{
+					"id": "005f3228",
+					"type": "tvBroadcast",
+					"title": "Law & Order",
+					"logicalChannelId": "specialstreams_multilangsubt-01_rtlnitro",
+					"subtitle": "Die Rache des Ninja",
+					"start": "2018-06-06T08:15:00+0200",
+					"end": "2018-06-06T09:00:00+0200",
+					"channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/3906f352af146fe73054c5555eb6e43d1e2aee50.png",
+					"logicalChannelName": "SpecialStreams_multiLangSubt 01_RTLNITRO",
+					"mainGenre": "Drama",
+					"category": "Spielfilm",
+					"countries": ["USA"],
+					"year": 2001,
+					"poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p1289818_e_h10_ac.jpg",
+					"seriesTitle": "Law & Order",
+					"seasonNumber": 11,
+					"episodeNumber": 22,
+					"ageRatingName": "Keine Altersangabe",
+					"ageRatingId": "Unbekannt",
+					"instantRestart": true,
+					"cluster": "tv"
+				}
+			]
+		}, {
+			"id": "005f980d",
+			"type": "tvBroadcast",
+			"title": "Criminal Intent - Verbrechen im Visier",
+			"logicalChannelId": "top8_vox",
+			"subtitle": "Geisteskrank",
+			"start": "2018-06-10T11:35:00+0200",
+			"end": "2018-06-10T12:20:00+0200",
+			"channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/0db98191e0217ae10f2f430c694665f3ee93ea1f.png",
+			"logicalChannelName": "Top8_VOX",
+			"mainGenre": "Krimi",
+			"category": "Serie",
+			"countries": ["USA"],
+			"year": 2002,
+			"poster": "http://epgpm-sl0.ver.sda.t-online.de/media/d25ab41c12bc6d553d9dc4d86b58887555f17a36.png",
+			"seriesTitle": "Criminal Intent - Verbrechen im Visier",
+			"seasonNumber": 1,
+			"episodeNumber": 12,
+			"ageRatingName": "Keine Altersangabe",
+			"ageRatingId": "Unbekannt",
+			"instantRestart": true,
+			"cluster": "tv"
+		}
+	]
+}

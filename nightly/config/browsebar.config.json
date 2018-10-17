@@ -1,0 +1,15 @@
+﻿{
+
+  // Timeout in milliseconds after the InfoBar bar will be closed for first usage, the default value is 8000.
+  "autoCloseFirstStartMs": 8000,
+
+  // Timeout in milliseconds after the InfoBar bar will be closed, the default value is 4000.
+  "autoCloseInfoBarMs": 4000,
+
+  // Timeout in milliseconds after the BrowseBar bar will be closed, the default value is 8000.
+  "autoCloseBrowseBarMs": 8000,
+
+  // TimeSpan between two key events that must elapse to, until the long press function is activated. The default value is 200.
+  "longPressTimeSpan": 200
+
+}

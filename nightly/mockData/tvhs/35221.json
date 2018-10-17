@@ -1,0 +1,288 @@
+{
+    "$type": "articlepage",
+    "telemetry": {
+        "version": "98.0.0.1140-335897e9cafbc2d41cf195de30ec4c76a828efb6",
+        "flexId": 35221,
+        "documentGroup": "TVHS_DG_test_articlePage"
+    },
+    "menu": {
+        "href": "https://x1wcss.t-online.de/tvhs/v2/iptv2015/DocumentGroupRedirect/TVHS_DG_MainMenu"
+    },
+    "content": {
+        "title": "Eurosport",
+        "backgroundImage": {
+            "href": "http://x3dlart.t-online.de/tucathosting/FlexDocumentReleaseImageHostingVolume_m1/LiveTvDiscovery/download/0000035221/0000035221_img_561324_636598096392192236.jpg"
+        },
+        "previewPageUrl": {
+            "href": "https://x3dlart.t-online.de/imagion-creative/EntertainTV_G4/ExtendedLicense/BETA_TU_G4_VoD_TestArticle-v5/BETA_TU_G4_VoD_TestArticle-v5_AP01/html/BETA_TU_G4_VoD_TestArticle-v5_AP01.html"
+        },
+        "pages": [
+            {
+                "pageUrl": {
+                    "href": "https://x3dlart.t-online.de/imagion-creative/EntertainTV_G4/2018/02/BETA_TU_G4_Aktion_Eurosport1HDforFree_180209/BETA_TU_G4_Aktion_Eurosport1HDforFree_180209_AP01/html/BETA_TU_G4_Aktion_Eurosport1HDforFree_180209_AP01.html"
+                },
+                "actionButtons": [
+                    {
+                        "id": 35686,
+                        "title": "Alle anzeigen",
+                        "image": {
+                            "href": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11178688_i_h10_aa.jpg"
+                        },
+                        "iconImage": {
+                            "href": "http://x3dlart.t-online.de/tucathosting/FlexDocumentReleaseImageHostingVolume_m1/CE_Videoload_Content/download/0000035686/0000035686_img_695158_636631178505272923.png"
+                        },
+                        "stageImage": {
+                            "href": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11178688_i_h10_aa.jpg"
+                        },
+                        "channelLogo": {
+                            "href": "http://epgpm-sl0.ver.sda.t-online.de/media/a95812a41f6b67c659c09e78bfef67c23353782b.png"
+                        },
+                        "type": "Teaser",
+                        "details": {
+                            "href": "https://x1wcss.t-online.de/tvhs/v2/iptv2015/DocumentGroupRedirect/TVHS_DG_UG_PayTV-Highlights"
+                        }
+                    }
+                ]
+            },
+            {
+                "pageUrl": {
+                    "href": "https://x3dlart.t-online.de/imagion-creative/EntertainTV_G4/2018/02/BETA_TU_G4_Aktion_Eurosport1HDforFree_180209/BETA_TU_G4_Aktion_Eurosport1HDforFree_180209_AP01/html/BETA_TU_G4_Aktion_Eurosport1HDforFree_180209_AP01.html"
+                },
+                "actionButtons": [
+                    {
+                        "id": 35448,
+                        "title": "Single Asset - VoD Movie",
+                        "description": "Als der millionenschwere James King wegen Betrugs verurteilt wird, bittet er Darnell Lewis, ihn auf das Leben im Knast vorzubereiten...",
+                        "image": {
+                            "href": "http://x3dlart.t-online.de/TUIPTVHosting01/images/videoload_import/pic_544583.jpg"
+                        },
+                        "stageImage": {
+                            "href": "http://x3dlart.t-online.de/TUIPTVHosting01/images/videoload_import/pic_544583.jpg"
+                        },
+                        "type": "Teaser",
+                        "details": {
+                            "href": "https://x1wcss.t-online.de/cvss/IPTV2015@First/vodclient/v2/assetdetails/28931/DMM_MOVIE_158134"
+                        }
+                    },
+                    {
+                        "id": 35449,
+                        "title": "Multi Asset - VoD Series",
+                        "image": {
+                            "href": "http://x3dlart.t-online.de/TUIPTVHosting01/images/CE_AutomatedRegressionTest/Series_646_2/pic_523747.jpg"
+                        },
+                        "stageImage": {
+                            "href": "http://x3dlart.t-online.de/TUIPTVHosting01/images/CE_AutomatedRegressionTest/Series_646_2/pic_523747.jpg"
+                        },
+                        "type": "Teaser",
+                        "details": {
+                            "href": "https://x1wcss.t-online.de/cvss/IPTV2015@First/vodclient/v2/assetdetails/28931/DMM_SERIES_646"
+                        }
+                    },
+                    {
+                        "id": 35446,
+                        "title": "Unstructured Grid",
+                        "subtitle": "Sendung verpasst",
+                        "image": {
+                            "href": "http://x3dlart.t-online.de/tucathosting/FlexDocumentReleaseImageHostingVolume_m1/CE_Videoload_Content/download/0000035446/0000035446_img_688754_636620815152226220.png"
+                        },
+                        "stageImage": {
+                            "href": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p157986_i_h10_aa.jpg"
+                        },
+                        "type": "Teaser",
+                        "details": {
+                            "href": "https://x1wcss.t-online.de/tvhs/v2/iptv2015/UnstructuredGrid/35294"
+                        }
+                    },
+                    {
+                        "id": 35445,
+                        "title": "Structured Grid",
+                        "subtitle": "Startseite",
+                        "image": {
+                            "href": "http://x3dlart.t-online.de/tucathosting/FlexDocumentReleaseImageHostingVolume_m1/CE_Videoload_Content/download/0000035445/0000035445_img_688754_636620814367827381.png"
+                        },
+                        "type": "Teaser",
+                        "details": {
+                            "href": "https://x1wcss.t-online.de/tvhs/v2/iptv2015/StructuredGrid/35021"
+                        }
+                    },
+                    {
+                        "id": 35213,
+                        "title": "TV-Highlight",
+                        "image": {
+                            "href": "http://epgpm-sl0.ver.sda.t-online.de/media/71608c5e6f016bfdc1f28741c6aefc18ebc1f59d.jpg"
+                        },
+                        "stageImage": {
+                            "href": "http://epgpm-sl0.ver.sda.t-online.de/media/71608c5e6f016bfdc1f28741c6aefc18ebc1f59d.jpg"
+                        },
+                        "channelLogo": {
+                            "href": "http://epgpm-sl0.ver.sda.t-online.de/media/0db98191e0217ae10f2f430c694665f3ee93ea1f.png"
+                        },
+                        "type": "Teaser",
+                        "details": {
+                            "parameters": "{ \"id\": \"0060a19d\" }",
+                            "href": "navigate.tvDetail"
+                        }
+                    }
+                ],
+                "trailers": {
+                    "title": "Empfehlungen",
+                    "items": [
+                        {
+                            "image": {
+                                "href": "http://x3dlart.t-online.de/TUIPTVHosting01/images/videoload_import/pic_544706.jpg"
+                            },
+                            "title": "Automation Movie - Traumfrauen",
+                            "trailer": {
+                                "href": "https://x1wcss.t-online.de/cvss/IPTV2015@First/vodclient/v2/player/28932/158143/Trailer"
+                            },
+                            "type": "Trailer",
+                            "details": {
+                                "href": "https://x1wcss.t-online.de/cvss/IPTV2015@First/vodclient/v2/assetdetails/28931/DMM_MOVIE_158143"
+                            }
+                        },
+                        {
+                            "image": {
+                                "href": "http://x3dlart.t-online.de/TUIPTVHosting01/images/videoload_import/pic_544694.jpg"
+                            },
+                            "title": "Sword of Vengeance - Schwert der Rache",
+                            "trailer": {
+                                "href": "https://x1wcss.t-online.de/cvss/IPTV2015@First/vodclient/v2/player/28932/158142/Trailer"
+                            },
+                            "type": "Trailer",
+                            "details": {
+                                "href": "https://x1wcss.t-online.de/cvss/IPTV2015@First/vodclient/v2/assetdetails/28931/DMM_MOVIE_158142"
+                            }
+                        },
+                        {
+                            "image": {
+                                "href": "http://x3dlart.t-online.de/TUIPTVHosting01/images/videoload_import/pic_544667.jpg"
+                            },
+                            "title": "Pitch Perfect 2",
+                            "trailer": {
+                                "href": "https://x1wcss.t-online.de/cvss/IPTV2015@First/vodclient/v2/player/28932/158141/Trailer"
+                            },
+                            "type": "Trailer",
+                            "details": {
+                                "href": "https://x1wcss.t-online.de/cvss/IPTV2015@First/vodclient/v2/assetdetails/28931/DMM_MOVIE_158141"
+                            }
+                        },
+                        {
+                            "image": {
+                                "href": "http://x3dlart.t-online.de/TUIPTVHosting01/images/videoload_import/pic_544649.jpg"
+                            },
+                            "title": "Honig im Kopf",
+                            "trailer": {
+                                "href": "https://x1wcss.t-online.de/cvss/IPTV2015@First/vodclient/v2/player/28932/158139/Trailer"
+                            },
+                            "type": "Trailer",
+                            "details": {
+                                "href": "https://x1wcss.t-online.de/cvss/IPTV2015@First/vodclient/v2/assetdetails/28931/DMM_MOVIE_158139"
+                            }
+                        },
+                        {
+                            "image": {
+                                "href": "http://x3dlart.t-online.de/TUIPTVHosting01/images/videoload_import/pic_544623.jpg"
+                            },
+                            "title": "Home Sweet Hell - Nichts ist so, wie es scheint...",
+                            "trailer": {
+                                "href": "https://x1wcss.t-online.de/cvss/IPTV2015@First/vodclient/v2/player/28932/158138/Trailer"
+                            },
+                            "type": "Trailer",
+                            "details": {
+                                "href": "https://x1wcss.t-online.de/cvss/IPTV2015@First/vodclient/v2/assetdetails/28931/DMM_MOVIE_158138"
+                            }
+                        },
+                        {
+                            "image": {
+                                "href": "http://x3dlart.t-online.de/TUIPTVHosting01/images/videoload_import/pic_544583.jpg"
+                            },
+                            "title": "Der Knastcoach",
+                            "trailer": {
+                                "href": "https://x1wcss.t-online.de/cvss/IPTV2015@First/vodclient/v2/player/28932/158134/Trailer"
+                            },
+                            "type": "Trailer",
+                            "details": {
+                                "href": "https://x1wcss.t-online.de/cvss/IPTV2015@First/vodclient/v2/assetdetails/28931/DMM_MOVIE_158134"
+                            }
+                        },
+                        {
+                            "image": {
+                                "href": "http://x3dlart.t-online.de/TUIPTVHosting01/images/videoload_import/pic_535875.jpg"
+                            },
+                            "title": "Automation Movie - Into The Woods",
+                            "trailer": {
+                                "href": "https://x1wcss.t-online.de/cvss/IPTV2015@First/vodclient/v2/player/28932/157331/Trailer"
+                            },
+                            "type": "Trailer",
+                            "details": {
+                                "href": "https://x1wcss.t-online.de/cvss/IPTV2015@First/vodclient/v2/assetdetails/28931/DMM_MOVIE_157331"
+                            }
+                        },
+                        {
+                            "image": {
+                                "href": "http://x3dlart.t-online.de/TUIPTVHosting01/images/videoload_import/pic_535845.jpg"
+                            },
+                            "title": "Tommy Cooper: Not Like That, Like This",
+                            "trailer": {
+                                "href": "https://x1wcss.t-online.de/cvss/IPTV2015@First/vodclient/v2/player/28932/157330/Trailer"
+                            },
+                            "type": "Trailer",
+                            "details": {
+                                "href": "https://x1wcss.t-online.de/cvss/IPTV2015@First/vodclient/v2/assetdetails/28931/DMM_MOVIE_157330"
+                            }
+                        },
+                        {
+                            "image": {
+                                "href": "http://x3dlart.t-online.de/TUIPTVHosting01/images/Web_SystemTest/pic_534617.jpg"
+                            },
+                            "title": "Kleiner starker Panda",
+                            "trailer": {
+                                "href": "https://x1wcss.t-online.de/cvss/IPTV2015@First/vodclient/v2/player/28932/157202/Trailer"
+                            },
+                            "type": "Trailer",
+                            "details": {
+                                "href": "https://x1wcss.t-online.de/cvss/IPTV2015@First/vodclient/v2/assetdetails/28931/DMM_MOVIE_157202"
+                            }
+                        },
+                        {
+                            "image": {
+                                "href": "http://x3dlart.t-online.de/TUIPTVHosting01/images/Web_SystemTest/pic_534450.jpg"
+                            },
+                            "title": "Home Sweet Hell - Nichts ist so, wie es scheint...",
+                            "trailer": {
+                                "href": "https://x1wcss.t-online.de/cvss/IPTV2015@First/vodclient/v2/player/28932/157164/Trailer"
+                            },
+                            "type": "Trailer",
+                            "details": {
+                                "href": "https://x1wcss.t-online.de/cvss/IPTV2015@First/vodclient/v2/assetdetails/28931/DMM_MOVIE_157164"
+                            }
+                        },
+                        {
+                            "image": {
+                                "href": "http://x3dlart.t-online.de/TUIPTVHosting01/images/Web_SystemTest/pic_534381.jpg"
+                            },
+                            "title": "Baymax - Riesiges Robowabohu",
+                            "trailer": {
+                                "href": "https://x1wcss.t-online.de/cvss/IPTV2015@First/vodclient/v2/player/28932/157144/Trailer"
+                            },
+                            "type": "Trailer",
+                            "details": {
+                                "href": "https://x1wcss.t-online.de/cvss/IPTV2015@First/vodclient/v2/assetdetails/28931/DMM_MOVIE_157144"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "pageUrl": {
+                    "href": "https://x3dlart.t-online.de/imagion-creative/EntertainTV_G4/2018/02/BETA_TU_G4_Aktion_Eurosport1HDforFree_180209/BETA_TU_G4_Aktion_Eurosport1HDforFree_180209_AP01/html/BETA_TU_G4_Aktion_Eurosport1HDforFree_180209_AP01.html"
+                },
+                "actionButtons": [],
+                "trailers": {
+                    "title": "Empfehlungen TV",
+                    "items": []
+                }
+            }
+        ]
+    }
+}

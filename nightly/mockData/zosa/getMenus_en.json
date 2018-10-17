@@ -1,0 +1,402 @@
+[
+    {
+        "menuItems": [
+            {
+                "menuType": "MenuItem",
+                "action": {
+                    "params": {
+                        "targetId": "44447",
+                        "target": "homeCatalogue"
+                    },
+                    "name": "navigate"
+                },
+                "menuText": "News",
+                "visible": true,
+                "hubVisible": false
+            },
+            {
+                "menuType": "MenuItem",
+                "action": {
+                    "params": {
+                        "targetId": "44450",
+                        "target": "homeCatalogue"
+                    },
+                    "name": "navigate"
+                },
+                "menuText": "More TV",
+                "visible": true,
+                "hubVisible": false
+            },
+            {
+                "menuType": "MenuItem",
+                "action": {
+                    "params": {
+                        "targetId": "44449",
+                        "target": "homeCatalogue"
+                    },
+                    "name": "navigate"
+                },
+                "menuText": "EntertainTV",
+                "visible": true,
+                "hubVisible": false
+            },
+            {
+                "menuType": "MenuItem",
+                "action": {
+                    "params": {
+                        "targetId": "54730",
+                        "target": "homeCatalogue"
+                    },
+                    "name": "navigate"
+                },
+                "menuText": "Contact & Imprint",
+                "visible": true,
+                "hubVisible": false
+            },
+            {
+                "menuType": "MenuItem",
+                "action": {
+                    "params": {
+                        "targetId": "54729",
+                        "target": "homeCatalogue"
+                    },
+                    "name": "navigate"
+                },
+                "menuText": "Privacy",
+                "visible": true,
+                "hubVisible": false
+            },
+            {
+                "menuType": "MenuItem",
+                "action": {
+                    "params": {
+                        "target": "openSource"
+                    },
+                    "name": "navigate"
+                },
+                "menuText": "License",
+                "visible": true,
+                "hubVisible": false
+            },
+            {
+                "menuType": "MenuItem",
+                "action": {
+                    "params": {
+                        "targetId": "46981",
+                        "target": "homeCatalogue"
+                    },
+                    "name": "navigate"
+                },
+                "menuText": "Test",
+                "visible": false,
+                "hubVisible": false
+            }
+        ],
+        "id": "44455"
+    },
+    {
+        "menuItems": [
+            {
+                "menuType": "MenuItem",
+                "action": {
+                    "name": "navigate",
+                    "params": {
+                        "target": "search"
+                    }
+                },
+                "menuText": "Search",
+                "hubVisible": false,
+                "visible": true,
+                "iconUrl": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000044457/0000044457_img_3630166_635757540123346059.png"
+            },
+            {
+                "menuType": "MenuSeparator",
+                "action": {
+                    "name": "navigate"
+                },
+                "hubVisible": true,
+                "visible": true
+            },
+            {
+                "focus": {
+                    "hubType": "HomeHubPresenter",
+                    "targetId": "56327"
+                },
+                "menuType": "MenuItem",
+                "action": {
+                    "name": "navigate",
+                    "params": {
+                        "targetId": "44447",
+                        "target": "homeCatalogue"
+                    }
+                },
+                "menuText": "Home",
+                "hubVisible": true,
+                "visible": true,
+                "iconUrl": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000044457/0000044457_img_3629682_635757433985377446.png"
+            },
+            {
+                "focus": {
+                    "hubType": "TvHubPresenter",
+                    "targetId": "44456"
+                },
+                "menuType": "MenuItem",
+                "action": {
+                    "name": "navigate",
+                    "params": {
+                        "target": "epg"
+                    }
+                },
+                "menuText": "TV Program",
+                "hubVisible": true,
+                "visible": true,
+                "iconUrl": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000044457/0000044457_img_3629683_635757433985377446.png"
+            },
+            {
+                "focus": {
+                    "hubType": "VideoHubPresenter",
+                    "targetId": "44426"
+                },
+                "menuType": "MenuItem",
+                "action": {
+                    "name": "navigate",
+                    "params": {
+                        "externalUrl": "",
+                        "target": "vodCatalogue"
+                    }
+                },
+                "menuText": "On Demand",
+                "hubVisible": true,
+                "visible": true,
+                "iconUrl": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000044457/0000044457_img_3629684_635757433985377446.png"
+            },
+            {
+                "focus": {
+                    "hubType": "MyContentHubPresenter",
+                    "targetId": "44440"
+                },
+                "menuType": "MenuItem",
+                "action": {
+                    "name": "navigate",
+                    "params": {
+                        "target": "myRecordings"
+                    }
+                },
+                "menuText": "My Content",
+                "hubVisible": true,
+                "visible": true,
+                "iconUrl": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000044457/0000044457_img_3693619_635778396833563240.png"
+            },
+            {
+                "focus": {
+                    "hubType": "ChildrenHubPresenter",
+                    "targetId": "44439"
+                },
+                "menuType": "MenuItem",
+                "action": {
+                    "name": "navigate",
+                    "params": {
+                        "externalUrl": "TV_VOD_DG_SG_Kids_Ab_0",
+                        "target": "vodCatalogue"
+                    }
+                },
+                "menuText": "Kids",
+                "hubVisible": true,
+                "visible": true,
+                "iconUrl": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000044457/0000044457_img_3629686_635757433985377446.png"
+            },
+            {
+                "focus": {
+                    "hubType": "AppsHubPresenter",
+                    "targetId": "44442"
+                },
+                "menuType": "MenuItem",
+                "action": {
+                    "name": "navigate",
+                    "params": {
+                        "target": "appPortal"
+                    }
+                },
+                "menuText": "Apps",
+                "hubVisible": true,
+                "visible": true,
+                "iconUrl": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000044457/0000044457_img_3629687_635757433985377446.png"
+            },
+            {
+                "menuType": "MenuSeparator",
+                "action": {
+                    "name": "navigate"
+                },
+                "hubVisible": true,
+                "visible": true
+            },
+            {
+                "menuType": "MenuItem",
+                "action": {
+                    "name": "navigate",
+                    "params": {
+                        "target": "settings"
+                    }
+                },
+                "menuText": "Settings",
+                "hubVisible": false,
+                "visible": true,
+                "iconUrl": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000044457/0000044457_img_3629688_635757433985377446.png"
+            }
+        ],
+        "id": "44457"
+    },
+    {
+        "menuItems": [
+            {
+                "action": {
+                    "params": {
+                        "target": "catalogue"
+                    },
+                    "name": "navigate"
+                },
+                "focus": {
+                    "hubType": "HomeHubPresenter",
+                    "targetId": "33877"
+                },
+                "menuType": "MenuItem",
+                "menuText": "Start TV",
+                "visible": true,
+                "hubVisible": true
+            },
+            {
+                "action": {
+                    "name": "navigate"
+                },
+                "focus": {
+                    "targetId": "33903"
+                },
+                "menuType": "MenuItem",
+                "menuText": "Entertain TV",
+                "visible": true,
+                "hubVisible": true
+            },
+            {
+                "action": {
+                    "name": "navigate"
+                },
+                "focus": {
+                    "targetId": "33922"
+                },
+                "menuType": "MenuItem",
+                "menuText": "Catalogue page - VoD SG",
+                "visible": true,
+                "hubVisible": true
+            },
+            {
+                "action": {
+                    "name": "navigate"
+                },
+                "focus": {
+                    "targetId": "33921"
+                },
+                "menuType": "MenuItem",
+                "menuText": "Catalogue page - VoD UG",
+                "visible": true,
+                "hubVisible": true
+            },
+            {
+                "action": {
+                    "name": "navigate"
+                },
+                "focus": {
+                    "targetId": "33929"
+                },
+                "menuType": "MenuItem",
+                "menuText": "Catalogue page - TV SG",
+                "visible": true,
+                "hubVisible": true
+            },
+            {
+                "action": {
+                    "name": "navigate"
+                },
+                "focus": {
+                    "targetId": "33928"
+                },
+                "menuType": "MenuItem",
+                "menuText": "Catalogue page - TV UG",
+                "visible": true,
+                "hubVisible": true
+            },
+            {
+                "action": {
+                    "name": "navigate"
+                },
+                "focus": {
+                    "targetId": "33930"
+                },
+                "menuType": "MenuItem",
+                "menuText": "Catalogue page - TV Advanced SP",
+                "visible": true,
+                "hubVisible": true
+            },
+            {
+                "action": {
+                    "name": "navigate"
+                },
+                "focus": {
+                    "targetId": "33933"
+                },
+                "menuType": "MenuItem",
+                "menuText": "VOD detail page",
+                "visible": true,
+                "hubVisible": true
+            },
+            {
+                "action": {
+                    "name": "navigate"
+                },
+                "focus": {
+                    "targetId": "33934"
+                },
+                "menuType": "MenuItem",
+                "menuText": "TV detail page",
+                "visible": true,
+                "hubVisible": true
+            },
+            {
+                "action": {
+                    "name": "navigate"
+                },
+                "focus": {
+                    "targetId": "33920"
+                },
+                "menuType": "MenuItem",
+                "menuText": "Article page",
+                "visible": true,
+                "hubVisible": true
+            },
+            {
+                "action": {
+                    "name": "navigate"
+                },
+                "focus": {
+                    "targetId": "33932"
+                },
+                "menuType": "MenuItem",
+                "menuText": "Whitelabel App",
+                "visible": true,
+                "hubVisible": true
+            },
+            {
+                "action": {
+                    "name": "navigate"
+                },
+                "focus": {
+                    "targetId": "33931"
+                },
+                "menuType": "MenuItem",
+                "menuText": "3rd party App",
+                "visible": true,
+                "hubVisible": true
+            }
+        ],
+        "id": "33880"
+    }
+]

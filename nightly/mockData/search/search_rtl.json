@@ -1,0 +1,199 @@
+{
+  "totalItems" : 726,
+  "totalGroups" : 64,
+  "offset" : 0,
+  "sort" : "relevance",
+  "navigators" : [ {
+    "id" : "partnerIds",
+    "name" : "Partnerangebote",
+    "entries" : [ {
+      "id" : "maxdome",
+      "name" : "Maxdome",
+      "size" : 6
+    } ]
+  }, {
+    "id" : "availability",
+    "name" : "Verfügbarkeit",
+    "entries" : [ {
+      "id" : "chargeVod",
+      "name" : "Kostenpflichtig",
+      "size" : 6
+    } ]
+  }, {
+    "id" : "type",
+    "name" : "Quelle",
+    "entries" : [ {
+      "id" : "logicalChannel",
+      "name" : "Sender",
+      "size" : 13
+    }, {
+      "id" : "broadcast",
+      "name" : "TV",
+      "size" : 707
+    }, {
+      "id" : "vod",
+      "name" : "Video",
+      "size" : 6
+    } ]
+  }, {
+    "id" : "ageRating",
+    "name" : "Alterskennzeichnung",
+    "entries" : [ {
+      "id" : "unknown",
+      "name" : "Keine Alterskennzeichnung",
+      "size" : 693
+    }, {
+      "id" : "0",
+      "name" : "Ab 0 Jahren",
+      "size" : 2
+    }, {
+      "id" : "12",
+      "name" : "Ab 12 Jahren",
+      "size" : 18
+    } ]
+  } ],
+  "results": [
+    {
+      "id": "rtl",
+      "type": "tvChannel",
+      "title": "RTL HD",
+      "languages": [ "deutsch" ],
+      "genres": [ "Hauptprogramme" ],
+      "poster": "http://programm-manager.telekom.de/media/677f684aabfc03b8110b90e5b4ea5b3ac3e5d578.png"
+    },
+    {
+      "id": "groupTypeAdult__69e90150bda6ed4b2768e96c02d53eaa",
+      "type": "group",
+      "title": "RTL Aktuell",
+      "size": 70,
+      "adult": false,
+      "pcon": false,
+      "items": [
+        {
+          "id": "0036f2d5",
+          "type": "tvBroadcast",
+          "title": "RTL Aktuell",
+          "logicalChannelId": "rtl",
+          "start": "2016-02-23T18:45:00+0100",
+          "end": "2016-02-23T19:03:00+0100",
+          "channelLogo": "http://programm-manager.telekom.de/media/677f684aabfc03b8110b90e5b4ea5b3ac3e5d578.png",
+          "logicalChannelName": "RTL",
+          "mainGenre": "Wissen",
+          "category": "Information",
+          "countries": [ "Deutschland" ],
+          "year": 2016,
+          "poster": "http://programm-manager.telekom.de/media/725becf760cb13ded60c6789bf003c380d0136a5.jpg",
+          "seriesTitle": "RTL Aktuell",
+          "ageRatingName": "Keine Alterskennzeichnung",
+          "ageRatingId": "Unbekannt",
+          "instantRestart": true,
+          "cluster": "tv"
+        }
+      ]
+    },
+    {
+      "id": "groupTypeAdult__6a40d8b0ffeab19bf46d91bf0d90aa47",
+      "type": "group",
+      "title": "RTL Nachtjournal",
+      "size": 100,
+      "adult": false,
+      "pcon": false,
+      "items": [
+        {
+          "id": "00371ae5",
+          "type": "tvBroadcast",
+          "title": "RTL Nachtjournal",
+          "logicalChannelId": "rtl",
+          "start": "2016-02-24T00:00:00+0100",
+          "end": "2016-02-24T00:27:00+0100",
+          "channelLogo": "http://programm-manager.telekom.de/media/677f684aabfc03b8110b90e5b4ea5b3ac3e5d578.png",
+          "logicalChannelName": "RTL",
+          "mainGenre": "Nachrichten",
+          "category": "Information",
+          "countries": [ "Deutschland" ],
+          "year": 2016,
+          "poster": "http://programm-manager.telekom.de/media/e016108bb31f84b210f0fb70cad8a826a865f0c8.jpg",
+          "seriesTitle": "RTL Nachtjournal",
+          "ageRatingName": "Keine Alterskennzeichnung",
+          "ageRatingId": "Unbekannt",
+          "instantRestart": true,
+          "cluster": "tv"
+        }
+      ]
+    },
+    {
+      "id": "groupTypeAdult__d7b9c209059a500011af3ce120a0b6ec",
+      "type": "group",
+      "title": "RTL Bibelclip",
+      "size": 10,
+      "adult": false,
+      "pcon": false,
+      "items": [
+        {
+          "id": "00381656",
+          "type": "tvBroadcast",
+          "title": "RTL Bibelclip",
+          "logicalChannelId": "rtl",
+          "start": "2016-02-28T17:35:00+0100",
+          "end": "2016-02-28T17:45:00+0100",
+          "channelLogo": "http://programm-manager.telekom.de/media/677f684aabfc03b8110b90e5b4ea5b3ac3e5d578.png",
+          "logicalChannelName": "RTL",
+          "countries": [ ],
+          "poster": "http://programm-manager.telekom.de/media/a6d198d61c9c82eac7f1f2e48e80d626015655a4.png",
+          "ageRatingName": "Keine Alterskennzeichnung",
+          "ageRatingId": "Unbekannt",
+          "instantRestart": true,
+          "cluster": "tv"
+        }
+      ]
+    },
+    {
+      "id": "passion",
+      "type": "tvChannel",
+      "title": "RTL Passion",
+      "languages": [ "deutsch" ],
+      "genres": [ "Spielfilme/Serien" ],
+      "poster": "http://programm-manager.telekom.de/media/216eb04110df53f43f13844f878fcd6c7f0648ef.png"
+    },
+    {
+      "id": "rtl-crime",
+      "type": "tvChannel",
+      "title": "RTL Crime",
+      "languages": [ "deutsch", "englisch" ],
+      "genres": [ "Spielfilme/Serien" ],
+      "poster": "http://programm-manager.telekom.de/media/970021674e287d44759384a741e4fe4efdb2a8dc.png"
+    },
+    {
+      "id": "rtl-hessen",
+      "type": "tvChannel",
+      "title": "RTL Hessen",
+      "languages": [ "deutsch" ],
+      "genres": [ "Lokalsender", "Regionale Programme" ],
+      "poster": "http://programm-manager.telekom.de/media/677f684aabfc03b8110b90e5b4ea5b3ac3e5d578.png"
+    },
+    {
+      "id": "rtl-living",
+      "type": "tvChannel",
+      "title": "RTL Living",
+      "languages": [ "deutsch" ],
+      "genres": [ "Musik/Lifestyle/Comedy" ],
+      "poster": "http://programm-manager.telekom.de/media/450028f93c4db873a79e88216557b38a1450d84d.png"
+    },
+    {
+      "id": "rtl-nrw",
+      "type": "tvChannel",
+      "title": "RTL NRW",
+      "languages": [ "deutsch" ],
+      "genres": [ "Lokalsender", "Regionale Programme" ],
+      "poster": "http://programm-manager.telekom.de/media/677f684aabfc03b8110b90e5b4ea5b3ac3e5d578.png"
+    },
+    {
+      "id": "rtl2",
+      "type": "tvChannel",
+      "title": "RTL II",
+      "languages": [ "deutsch" ],
+      "genres": [ "Hauptprogramme" ],
+      "poster": "http://programm-manager.telekom.de/media/7c4d2bf9ee5de9e003283769b1ab3d5aa0b6b8b5.png"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+﻿{
+	"enabled":  true,
+	"iss": "http://ngisstest.t-online.de/iss/",
+	"autoProtocol": true,
+	"client": "vtu_ngtv",
+	"resolution": {
+		"720p": 0.66666667,
+		"1080p": 1,
+		"2160p": 2
+	}
+}
