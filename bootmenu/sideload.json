@@ -9,7 +9,13 @@
   {"env":"t0","model":"mrsat","build":"nightlyv2","url":"https://appepidat10002.tu0.sngtv.t-online.de:33227/EPG/NGTV_Nightly2.0_MRSAT/index.html"},
   {"env":"t0","model":"mr400z","build":"nightlyv2","url":"https://appepidat10002.tu0.sngtv.t-online.de:33227/EPG/NGTV_Nightly2.0_MR400Z/index.html"},
   
-  
+   
+  {"env":"t0","model":"mrentry","build":"stableV2","url":"https://appepidat30003.tu0.sngtv.t-online.de:33227/EPG/dt-ui-ngtv-mem-epgi-ui-mrentry-tu-2.50.6258/index.html"},
+  {"env":"t0","model":"mr401","build":"stableV2","url":"https://appepidat30003.tu0.sngtv.t-online.de:33227/EPG/dt-ui-ngtv-mem-epgi-ui-mr401-tu-2.50.6258/index.html"},
+  {"env":"t0","model":"mrsat","build":"stableV2","url":"https://appepidat30003.tu0.sngtv.t-online.de:33227/EPG/dt-ui-ngtv-mem-epgi-ui-mrsat-tu-2.50.6258/index.html"},
+  {"env":"t0","model":"mr400z","build":"stableV2","url":"https://appepidat30003.tu0.sngtv.t-online.de:33227/EPG/dt-ui-ngtv-mem-epgi-ui-mr400z-tu-2.50.6258/index.html"},
+
+ 
   {"env":"t0","model":"mrentry","build":"stable","url":"https://appepidat10001.tu0.sngtv.t-online.de:33227/EPG/NGTV_MREntry/index.html"},
   {"env":"t0","model":"mr401","build":"stable","url":"https://appepidat10001.tu0.sngtv.t-online.de:33227/EPG/NGTV_MR401/index.html"},
   {"env":"t0","model":"mrsat","build":"stable","url":"https://appepidat10001.tu0.sngtv.t-online.de:33227/EPG/NGTV_MRSAT/index.html"},
