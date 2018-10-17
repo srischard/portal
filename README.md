@@ -1,1 +1,1 @@
-# portal
+# Portal for accessing some websites
