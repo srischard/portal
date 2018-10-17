@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="utf-8">
+    <title>Entertain Boot Menu</title>
+</head>
+
+<body onload="focusFirst(); getData(); ">
+    <div class="title">ENTERTAIN TV BOOT MENU</div>
+    <h1>Please choose: </h1>
+
+    <div class="maincontainer">
+        <form action="#">
+            <div class="flex">
+                <div class="formcolumn">
+                    <legend>environment:</legend>
+                    <div class="flexcontainer">
+                        <div class="radioarea">
+                            <input class="radioctrl" onfocus="radioFocus(event)" onblur="radioBlur(event)" type="radio" name="environmentGroup" value="local">
+                            <label>Local</label>
+                        </div>
+                        <div class="radioarea">
+                            <input class="radioctrl" onfocus="radioFocus(event)" onblur="radioBlur(event)" type="radio" name="environmentGroup" value="preprod"
+                            />
+                            <label>PreProd</label>
+                        </div>
+                        <div class="radioarea">
+                            <input class="radioctrl" onfocus="radioFocus(event)" onblur="radioBlur(event)" type="radio" name="environmentGroup" value="t0"
+                            />
+                            <label>T0</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="formcolumn">
+                    <legend>receiver:</legend>
+                    <div class="flexcontainer">
+                        <div class="radioarea">
+                            <input class="radioctrl" onfocus="radioFocus(event)" onblur="radioBlur(event)" type="radio" name="receiverGroup" value="mr401">
+                            <label>MR401</label>
+                        </div>
+                        <div class="radioarea">
+                            <input class="radioctrl" onfocus="radioFocus(event)" onblur="radioBlur(event)" type="radio" name="receiverGroup" value="mrentry">
+                            <label>MREntry</label>
+                        </div>
+                        <div class="radioarea">
+                            <input class="radioctrl" onfocus="radioFocus(event)" onblur="radioBlur(event)" type="radio" name="receiverGroup" value="mrsat">
+                            <label>MRSat</label>
+                        </div>
+                        <div class="radioarea">
+                            <input class="radioctrl" onfocus="radioFocus(event)" onblur="radioBlur(event)" type="radio" name="receiverGroup" value="mr400z">
+                            <label>MR400Z</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="formcolumn disabled">
+                    <legend>build:</legend>
+                    <div class="flexcontainer">
+                        <div class="radioarea">
+                            <input class="radioctrl" onfocus="radioFocus(event)" onblur="radioBlur(event)" type="radio" name="buildGroup" id="nbuild"
+                                disabled value="nightly">
+                            <label>Nightly</label>
+                        </div>
+                        <div class="radioarea">
+                            <input class="radioctrl" onfocus="radioFocus(event)" onblur="radioBlur(event)" type="radio" name="buildGroup" id="sbuild"
+                                disabled value="stable">
+                            <label>Stable</label>
+                        </div>
+                        <div class="radioarea">
+                            <input class="radioctrl" onfocus="radioFocus(event)" onblur="radioBlur(event)" type="radio" name="buildGroup" id="sbuildv2"
+                                disabled value="stableV2">
+                            <label>StableV2</label>
+                        </div>
+                        <div class="radioarea">
+                            <input class="radioctrl" onfocus="radioFocus(event)" onblur="radioBlur(event)" type="radio" name="buildGroup" id="hbuild"
+                                disabled value="hotfix">
+                            <label>Hotfix</label>
+                        </div>
+                        <div class="radioarea">
+                            <input class="radioctrl" onfocus="radioFocus(event)" onblur="radioBlur(event)" type="radio" name="buildGroup" id="nv2build"
+                                disabled value="nightlyv2">
+                            <label>NightlyV2</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="formcolumn">
+                    <legend>subscriber:</legend>
+                    <div class="flexcontainer">
+                        <div class="radioarea">
+                            <input class="radioctrl" onfocus="radioFocus(event)" onblur="radioBlur(event)" type="radio" name="subscriberGroup" value="IPTV">
+                            <label>IPTV</label>
+                        </div>
+                        <div class="radioarea">
+                            <input class="radioctrl" onfocus="radioFocus(event)" onblur="radioBlur(event)" type="radio" name="subscriberGroup" value="BASISTV">
+                            <label>BasisTV</label>
+                        </div>
+                        <div class="radioarea">
+                            <input class="radioctrl" onfocus="radioFocus(event)" onblur="radioBlur(event)" type="radio" name="subscriberGroup" value="SATHYBRID">
+                            <label>SatHybrid</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="formcolumn">
+                    <div class="buttonarea marginTop">
+                        <input class="actionbutton" id="commitbutton" type="button" value="Start" onclick="commit()">
+                    </div>
+                    <div class="buttonarea">
+                        <input class="actionbutton" type="button" value="Settings" onclick="showView('settingcontainer')">
+                    </div>
+
+                    <div class="buttonarea">
+                        <input class="actionbutton" type="button" value="jsZosaTestPortal" onclick="self.location.href='file:///usr/share/jsZosaTestPortal/index.html'">
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+
+    <div class="settingcontainer hidden">
+        <form action="#">
+            <div class="flex">
+                <div class="formcolumn">
+                    <legend>Local backend:</legend>
+                    <div class="flexcontainer">
+                        <div class="radioarea">
+                            <input class="radioctrl" onfocus="radioFocus(event)" onblur="radioBlur(event)" type="radio" name="localbackendGroup" id="preprodBackend"
+                                value="preprod">
+                            <label>PreProd</label>
+                        </div>
+                        <div class="radioarea">
+                            <input class="radioctrl" onfocus="radioFocus(event)" onblur="radioBlur(event)" type="radio" name="localbackendGroup" id="t0Backend"
+                                value="tu">
+                            <label>T0</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="formcolumn">
+                    <legend>resolution:</legend>
+                    <div class="flexcontainer">
+                        <div class="radioarea">
+                            <input class="radioctrl" onfocus="radioFocus(event)" onblur="radioBlur(event)" type="radio" name="resolution" value="720p">
+                            <label>720p</label>
+                        </div>
+                        <div class="radioarea">
+                            <input class="radioctrl" onfocus="radioFocus(event)" onblur="radioBlur(event)" type="radio" name="resolution" value="1080p">
+                            <label>1080p</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="formcolumn">
+                    <legend>loglevel:</legend>
+                    <div class="flexcontainer">
+                        <div class="radioarea">
+                            <input class="radioctrl" onfocus="radioFocus(event)" onblur="radioBlur(event)" type="radio" name="loglevel" value="debug">
+                            <label>debug</label>
+                        </div>
+                        <div class="radioarea">
+                            <input class="radioctrl" onfocus="radioFocus(event)" onblur="radioBlur(event)" type="radio" name="loglevel" value="info">
+                            <label>info</label>
+                        </div>
+                        <div class="radioarea">
+                            <input class="radioctrl" onfocus="radioFocus(event)" onblur="radioBlur(event)" type="radio" name="loglevel" value="warn">
+                            <label>warn</label>
+                        </div>
+                        <div class="radioarea">
+                            <input class="radioctrl" onfocus="radioFocus(event)" onblur="radioBlur(event)" type="radio" name="loglevel" value="error">
+                            <label>error</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="formcolumn">
+                    <legend>imagescale is enabled:</legend>
+                    <div class="flexcontainer">
+                        <div class="radioarea">
+                            <input class="radioctrl" onfocus="radioFocus(event)" onblur="radioBlur(event)" type="radio" name="imagescale" value="true">
+                            <label>true</label>
+                        </div>
+                        <div class="radioarea">
+                            <input class="radioctrl" onfocus="radioFocus(event)" onblur="radioBlur(event)" type="radio" name="imagescale" value="false">
+                            <label>false</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="formcolumn">
+                    <legend>TVHS appname:</legend>
+                    <div class="flexcontainer">
+                        <div class="radioarea">
+                            <input class="radioctrl" onfocus="radioFocus(event)" onblur="radioBlur(event)" type="radio" name="appname" value="ui20">
+                            <label>ui20</label>
+                        </div>
+                        <div class="radioarea">
+                            <input class="radioctrl" onfocus="radioFocus(event)" onblur="radioBlur(event)" type="radio" name="appname" value="ui20test">
+                            <label>ui20test</label>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="formcolumn">
+                    <div class="buttonarea">
+                        <input class="actionbutton" id="backbutton" type="button" value="Back" onclick="showView('maincontainer')">
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+    <div id="url"></div>
+    <div id="message"></div>
+
+    <script src="script.js"></script>
+
+    <footer>
+        For questions, help or comments please contact:
+        <br> DL-CTO-MSD@dli.telekom.com
+
+    </footer>
+</body>
+
+</html>

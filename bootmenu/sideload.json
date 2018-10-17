@@ -1,0 +1,38 @@
+[
+  {"env":"t0","model":"mrentry","build":"nightly","url":"https://appepidat10002.tu0.sngtv.t-online.de:33227/EPG/NGTV_Nightly_MREntry/index.html"},
+  {"env":"t0","model":"mr401","build":"nightly","url":"https://appepidat10002.tu0.sngtv.t-online.de:33227/EPG/NGTV_Nightly_MR401/index.html"},
+  {"env":"t0","model":"mrsat","build":"nightly","url":"https://appepidat10002.tu0.sngtv.t-online.de:33227/EPG/NGTV_Nightly_MRSAT/index.html"},
+  {"env":"t0","model":"mr400z","build":"nightly","url":"https://appepidat10002.tu0.sngtv.t-online.de:33227/EPG/NGTV_Nightly_MR400Z/index.html"},
+
+  {"env":"t0","model":"mrentry","build":"nightlyv2","url":"https://appepidat10002.tu0.sngtv.t-online.de:33227/EPG/NGTV_Nightly2.0_MREntry/index.html"},
+  {"env":"t0","model":"mr401","build":"nightlyv2","url":"https://appepidat10002.tu0.sngtv.t-online.de:33227/EPG/NGTV_Nightly2.0_MR401/index.html"},
+  {"env":"t0","model":"mrsat","build":"nightlyv2","url":"https://appepidat10002.tu0.sngtv.t-online.de:33227/EPG/NGTV_Nightly2.0_MRSAT/index.html"},
+  {"env":"t0","model":"mr400z","build":"nightlyv2","url":"https://appepidat10002.tu0.sngtv.t-online.de:33227/EPG/NGTV_Nightly2.0_MR400Z/index.html"},
+  
+  
+  {"env":"t0","model":"mrentry","build":"stable","url":"https://appepidat10001.tu0.sngtv.t-online.de:33227/EPG/NGTV_MREntry/index.html"},
+  {"env":"t0","model":"mr401","build":"stable","url":"https://appepidat10001.tu0.sngtv.t-online.de:33227/EPG/NGTV_MR401/index.html"},
+  {"env":"t0","model":"mrsat","build":"stable","url":"https://appepidat10001.tu0.sngtv.t-online.de:33227/EPG/NGTV_MRSAT/index.html"},
+  {"env":"t0","model":"mr400z","build":"stable","url":"https://appepidat10001.tu0.sngtv.t-online.de:33227/EPG/NGTV_MR400Z/index.html"},
+  {"env":"t0","model":"mr401","build":"hotfix","url":"https://appepidat10002.tu0.sngtv.t-online.de:33227/EPG/NGTV_MR401A/hotfix/index.html"},
+  
+  {"env":"preprod","model":"mrentry","build":"nightly","url":"https://appepidap10001.prep.sngtv.t-online.de:33227/EPG/NGTV_Nightly_MREntry/index.html"},
+  {"env":"preprod","model":"mr401","build":"nightly","url":"https://appepidap10001.prep.sngtv.t-online.de:33227/EPG/NGTV_Nightly_MR401/index.html"},
+  {"env":"preprod","model":"mrsat","build":"nightly","url":"https://appepidap10001.prep.sngtv.t-online.de:33227/EPG/NGTV_Nightly_MRSAT/index.html"},
+  {"env":"preprod","model":"mr400z","build":"nightly","url":"https://appepidap10001.prep.sngtv.t-online.de:33227/EPG/NGTV_Nightly_MR400Z/index.html"},
+  
+  {"env":"preprod","model":"mrentry","build":"stable","url":"https://appepidap10001.prep.sngtv.t-online.de:33227/EPG/NGTV_MREntry/index.html"},
+  {"env":"preprod","model":"mr401","build":"stable","url":"https://appepidap10001.prep.sngtv.t-online.de:33227/EPG/NGTV_MR401/index.html"},
+  {"env":"preprod","model":"mrsat","build":"stable","url":"https://appepidap10001.prep.sngtv.t-online.de:33227/EPG/NGTV_MRSAT/index.html"},
+  {"env":"preprod","model":"mr400z","build":"stable","url":"https://appepidap10001.prep.sngtv.t-online.de:33227/EPG/NGTV_MR400Z/index.html"},
+  
+  {"env":"preprod","model":"mrentry","build":"stableV2","url":"https://appepidap10001.prep.sngtv.t-online.de:33227/EPG/NGTV_MREntry_v2/index.html"},
+  {"env":"preprod","model":"mr401","build":"stableV2","url":"https://appepidap10001.prep.sngtv.t-online.de:33227/EPG/NGTV_MR401_v2/index.html"},
+  {"env":"preprod","model":"mrsat","build":"stableV2","url":"https://appepidap10001.prep.sngtv.t-online.de:33227/EPG/NGTV_MRSAT_v2/index.html"},
+  {"env":"preprod","model":"mr400z","build":"stableV2","url":"https://appepidap10001.prep.sngtv.t-online.de:33227/EPG/NGTV_MR400Z_v2/index.html"},
+  
+  {"env":"prod","model":"mrentry","build":"testepg","url":"https://appepifk10012.prod.sngtv.t-online.de:33227/EPG/NGTV_MREntry/index.html"},
+  {"env":"prod","model":"mr401","build":"testepg","url":"https://appepifk10012.prod.sngtv.t-online.de:33227/EPG/NGTV_MR401/index.html"},
+  {"env":"prod","model":"mrsat","build":"testepg","url":"https://appepifk10012.prod.sngtv.t-online.de:33227/EPG/NGTV_MRSAT/index.html"},
+  {"env":"prod","model":"mr400z","build":"testepg","url":"https://appepifk10012.prod.sngtv.t-online.de:33227/EPG/NGTV_MR400Z/index.html"}
+]
