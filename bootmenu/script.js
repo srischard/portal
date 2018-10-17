@@ -2,7 +2,7 @@ var jsonConfigurationName = "entertainBootMenuConfig";
 
 var currentView = "maincontainer";
 
-var demoURL = "http://demoserver.ptlda.net/bootmenu/bootmenu/sideload.json";
+var demoURL = "https://cto-tvd.github.io/portal/bootmenu/sideload.json";
 
 function callAjax(demoURL, callback) {
     var xmlhttp;
