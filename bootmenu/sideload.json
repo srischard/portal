@@ -5,7 +5,7 @@
   {"env":"t0","model":"mr400z","build":"nightly","url":"https://appepidat10002.tu0.sngtv.t-online.de:33227/EPG/NGTV_Nightly_MR400Z/index.html"},
 
   {"env":"t0","model":"mrentry","build":"nightlyv2","url":"https://appepidat10002.tu0.sngtv.t-online.de:33227/EPG/NGTV_Nightly2.0_MREntry/index.html"},
-  {"env":"t0","model":"mr401","build":"nightlyv2","url": "https://cto-tvd.github.io/portal/nightly/index.html"},
+  {"env":"t0","model":"mr401","build":"nightlyv2","url": "https://appepidat10002.tu0.sngtv.t-online.de:33227/EPG/NGTV_Nightly2.0_MR401/index.html"},
   {"env":"t0","model":"mrsat","build":"nightlyv2","url":"https://appepidat10002.tu0.sngtv.t-online.de:33227/EPG/NGTV_Nightly2.0_MRSAT/index.html"},
   {"env":"t0","model":"mr400z","build":"nightlyv2","url":"https://appepidat10002.tu0.sngtv.t-online.de:33227/EPG/NGTV_Nightly2.0_MR400Z/index.html"},
   
