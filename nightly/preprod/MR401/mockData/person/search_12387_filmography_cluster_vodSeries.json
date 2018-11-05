@@ -1,0 +1,28 @@
+{
+	"totalItems": 27,
+	"totalGroups": 1,
+	"offset": 0,
+	"sort": "airtime_default",
+	"navigators": [
+		{
+			"id": "cluster",
+			"name": "Cluster",
+			"entries": [
+				{
+					"id": "vodSeries",
+					"name": "Serie",
+					"size": 27
+				}
+			]
+		}
+	],
+	"results": [
+		{
+			"id": "groupCluster12Adult__pcon",
+			"type": "group",
+			"title": "Gesperrte Angebote",
+			"size": 27,
+			"pcon": true
+		}
+	]
+}

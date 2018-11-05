@@ -1,0 +1,84 @@
+{
+	"ClientUpdateNotification": {
+		"STB_Model": [
+		{
+			"Type": [
+			{
+				"SubscriberType": "IPTV_DT",
+				"Version": [
+				{
+					"mediaReceiverVersion": "151",
+					"sectionTitle": "Dieses Software Update enthält allgemeine Verbesserungen der Leistung und Stabilität des Systems.",
+					"sectionDescription": "<br><ul>Viel Spaß mit Ihrem EntertainTV.</ul><ul>Ihre Telekom</ul>"
+				},
+				{
+					"mediaReceiverVersion": "152",
+					"sectionTitle": "Dieses Software Update enthält allgemeine Verbesserungen der Leistung und Stabilität des Systems.",
+					"sectionDescription": "<br><ul>Viel Spaß mit Ihrem EntertainTV.</ul><ul>Ihre Telekom</ul>"
+				},
+				{
+					"mediaReceiverVersion": "Default",
+					"sectionTitle": "Dieses Software Update enthält allgemeine Verbesserungen der Leistung und Stabilität des Systems.",
+					"sectionDescription": "<br><ul>Viel Spaß mit Ihrem EntertainTV.</ul><ul>Ihre Telekom</ul>"
+				}]
+			},
+			{
+				"SubscriberType": "IPTV_PREVIEW_DT",
+				"Version": [
+				{
+					"mediaReceiverVersion": "151",
+					"sectionTitle": "Dieses Software Update enthält allgemeine Verbesserungen der Leistung und Stabilität des Systems.",
+					"sectionDescription": "<br><ul>Viel Spaß mit Ihrem EntertainTV.</ul><ul>Ihre Telekom</ul>"
+				},
+				{
+					"mediaReceiverVersion": "152",
+					"sectionTitle": "Dieses Software Update enthält allgemeine Verbesserungen der Leistung und Stabilität des Systems.",
+					"sectionDescription": "<br><ul>Viel Spaß mit Ihrem EntertainTV.</ul><ul>Ihre Telekom</ul>"
+				},
+				{
+					"mediaReceiverVersion": "Default",
+					"sectionTitle": "Dieses Software Update enthält allgemeine Verbesserungen der Leistung und Stabilität des Systems.",
+					"sectionDescription": "<br><ul>Viel Spaß mit Ihrem EntertainTV.</ul><ul>Ihre Telekom</ul>"
+				}]
+			},
+			{
+				"SubscriberType": "IPTV_OTT_DT",
+				"Version": [
+				{
+					"mediaReceiverVersion": "151",
+					"sectionTitle": "Dieses Software Update enthält allgemeine Verbesserungen der Leistung und Stabilität des Systems.",
+					"sectionDescription": "<br><ul>Viel Spaß mit Ihrem EntertainTV.</ul><ul>Ihre Telekom</ul>"
+				},
+				{
+					"mediaReceiverVersion": "152",
+					"sectionTitle": "Dieses Software Update enthält allgemeine Verbesserungen der Leistung und Stabilität des Systems.",
+					"sectionDescription": "<br><ul>Viel Spaß mit Ihrem EntertainTV.</ul><ul>Ihre Telekom</ul>"
+				},
+				{
+					"mediaReceiverVersion": "Default",
+					"sectionTitle": "Dieses Software Update enthält allgemeine Verbesserungen der Leistung und Stabilität des Systems.",
+					"sectionDescription": "<br><ul>Viel Spaß mit Ihrem EntertainTV.</ul><ul>Ihre Telekom</ul>"
+				}]
+			},
+			{
+				"SubscriberType": "IPTV_OTT_PREVIEW_DT",
+				"Version": [
+				{
+					"mediaReceiverVersion": "151",
+					"sectionTitle": "Dieses Software Update enthält allgemeine Verbesserungen der Leistung und Stabilität des Systems.",
+					"sectionDescription": "<br><ul>Viel Spaß mit Ihrem EntertainTV.</ul><ul>Ihre Telekom</ul>"
+				},
+				{
+					"mediaReceiverVersion": "152",
+					"sectionTitle": "Dieses Software Update enthält allgemeine Verbesserungen der Leistung und Stabilität des Systems.",
+					"sectionDescription": "<br><ul>Viel Spaß mit Ihrem EntertainTV.</ul><ul>Ihre Telekom</ul>"
+				},
+				{
+					"mediaReceiverVersion": "Default",
+					"sectionTitle": "Dieses Software Update enthält allgemeine Verbesserungen der Leistung und Stabilität des Systems.",
+					"sectionDescription": "<br><ul>Viel Spaß mit Ihrem EntertainTV.</ul><ul>Ihre Telekom</ul>"
+				}]
+			}]
+		}] 
+	}
+}

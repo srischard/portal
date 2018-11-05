@@ -1,0 +1,14 @@
+[
+	{
+		"contentType": "ChannelItem",
+		"title": "My favorite channels",
+		"zosaId": "fav:e282d056",
+		"zosaType": "FavoriteListItem"
+	},
+	{
+		"contentType": "VodItem",
+		"title": "My favorits vods",
+		"zosaId": "fav:958fa748",
+		"zosaType": "FavoriteListItem"
+	}
+]

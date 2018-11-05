@@ -1,0 +1,506 @@
+[
+    {
+        "satelliteId": "0192E",
+        "referenceTransponders": [
+            {
+                "transponderId": "192E12110000000H",
+                "polarity": 3,
+                "frequency": 12110,
+                "modulationType": "QPSK",
+                "symbolRate": 27500,
+                "transportStreamId": 1073,
+                "originalNetworkId": 1,
+                "networkId": 1,
+                "modulationSystem": "DVB-S",
+                "fecRate": "3/4",
+                "rollOffFactor": 0.0,
+                "deliverySystemDescriptor": "430b0121100001928102750003"
+            },
+            {
+                "transponderId": "192E12480000000V",
+                "polarity": 2,
+                "frequency": 12480,
+                "modulationType": "QPSK",
+                "symbolRate": 27500,
+                "transportStreamId": 33,
+                "originalNetworkId": 133,
+                "networkId": 133,
+                "modulationSystem": "DVB-S",
+                "fecRate": "3/4",
+                "rollOffFactor": 0.0,
+                "deliverySystemDescriptor": "430b012480000192a102750003"
+            }
+        ],
+        "name": "Astra 19,2° Ost MOCKED",
+        "satellitePosition": 192,
+        "isMainSatellite": true
+    },
+    {
+        "satelliteId": "0008W",
+        "referenceTransponders": [
+            {
+                "transponderId": "8W11881000000V",
+                "polarity": 2,
+                "frequency": 11881,
+                "modulationType": "8PSK",
+                "symbolRate": 30000,
+                "transportStreamId": 9,
+                "originalNetworkId": 4369,
+                "networkId": 4369,
+                "modulationSystem": "DVB-S2",
+                "fecRate": "3/4",
+                "rollOffFactor": 0.0,
+                "deliverySystemDescriptor": "430b0118810000082603000003"
+            },
+            {
+                "transponderId": "8W12092000000H",
+                "polarity": 3,
+                "frequency": 12092,
+                "modulationType": "QPSK",
+                "symbolRate": 28000,
+                "transportStreamId": 11,
+                "originalNetworkId": 4369,
+                "networkId": 4369,
+                "modulationSystem": "DVB-S",
+                "fecRate": "7/8",
+                "rollOffFactor": 0.0,
+                "deliverySystemDescriptor": "430b0120920000080102800005"
+            }
+        ],
+        "name": "Thor/Intelsat 0,8° West",
+        "satellitePosition": -8,
+        "isMainSatellite": false
+    },
+    {
+        "satelliteId": "0048E",
+        "referenceTransponders": [
+            {
+                "transponderId": "48E11385000000H",
+                "polarity": 3,
+                "frequency": 11385,
+                "modulationType": "8PSK",
+                "symbolRate": 30000,
+                "transportStreamId": 37,
+                "originalNetworkId": 86,
+                "networkId": 86,
+                "modulationSystem": "DVB-S2",
+                "fecRate": "3/4",
+                "rollOffFactor": 0.0,
+                "deliverySystemDescriptor": "430b0113850000488603000003"
+            },
+            {
+                "transponderId": "48E12206000000V",
+                "polarity": 2,
+                "frequency": 12206,
+                "modulationType": "8PSK",
+                "symbolRate": 30000,
+                "transportStreamId": 24,
+                "originalNetworkId": 68,
+                "networkId": 68,
+                "modulationSystem": "DVB-S2",
+                "fecRate": "2/3",
+                "rollOffFactor": 0.0,
+                "deliverySystemDescriptor": "430b012206000048a603000002"
+            }
+        ],
+        "name": "Astra 4,8° Ost",
+        "satellitePosition": 48,
+        "isMainSatellite": false
+    },
+    {
+        "satelliteId": "0050W",
+        "referenceTransponders": [
+            {
+                "transponderId": "50W11059000000H",
+                "polarity": 3,
+                "frequency": 11059,
+                "modulationType": "QPSK",
+                "symbolRate": 23700,
+                "transportStreamId": 10900,
+                "originalNetworkId": 0,
+                "networkId": 0,
+                "modulationSystem": "DVB-S",
+                "fecRate": "3/4",
+                "rollOffFactor": 0.0,
+                "deliverySystemDescriptor": "430b0110590000500102370003"
+            },
+            {
+                "transponderId": "50W11512000000V",
+                "polarity": 2,
+                "frequency": 11512,
+                "modulationType": "8PSK",
+                "symbolRate": 29950,
+                "transportStreamId": 20200,
+                "originalNetworkId": 1375,
+                "networkId": 1375,
+                "modulationSystem": "DVB-S2",
+                "fecRate": "3/4",
+                "rollOffFactor": 0.0,
+                "deliverySystemDescriptor": "430b0115120000502602995003"
+            }
+        ],
+        "name": "Atlantic Bird 5° West",
+        "satellitePosition": -50,
+        "isMainSatellite": false
+    },
+    {
+        "satelliteId": "0090E",
+        "referenceTransponders": [
+            {
+                "transponderId": "90E11823000000H",
+                "polarity": 3,
+                "frequency": 11823,
+                "modulationType": "QPSK",
+                "symbolRate": 27500,
+                "transportStreamId": 1,
+                "originalNetworkId": 100,
+                "networkId": 1325,
+                "modulationSystem": "DVB-S",
+                "fecRate": "3/4",
+                "rollOffFactor": 0.0,
+                "deliverySystemDescriptor": "430b0118230000908102750003"
+            },
+            {
+                "transponderId": "90E12073000000V",
+                "polarity": 2,
+                "frequency": 12073,
+                "modulationType": "8PSK",
+                "symbolRate": 30000,
+                "transportStreamId": 50190,
+                "originalNetworkId": 158,
+                "networkId": 158,
+                "modulationSystem": "DVB-S2",
+                "fecRate": "3/4",
+                "rollOffFactor": 0.0,
+                "deliverySystemDescriptor": "430b012073000090a603000003"
+            }
+        ],
+        "name": "Eurobird 9° Ost",
+        "satellitePosition": 90,
+        "isMainSatellite": false
+    },
+    {
+        "satelliteId": "0100E",
+        "referenceTransponders": [
+            {
+                "transponderId": "100E11221000000V",
+                "polarity": 2,
+                "frequency": 11221,
+                "modulationType": "QPSK",
+                "symbolRate": 30000,
+                "transportStreamId": 1,
+                "originalNetworkId": 16,
+                "networkId": 16,
+                "modulationSystem": "DVB-S2",
+                "fecRate": "5/6",
+                "rollOffFactor": 0.0,
+                "deliverySystemDescriptor": "430b011221000100a103000004"
+            },
+            {
+                "transponderId": "100E11346000000H",
+                "polarity": 3,
+                "frequency": 11346,
+                "modulationType": "QPSK",
+                "symbolRate": 27500,
+                "transportStreamId": 1,
+                "originalNetworkId": 1,
+                "networkId": 1,
+                "modulationSystem": "DVB-S",
+                "fecRate": "3/4",
+                "rollOffFactor": 0.0,
+                "deliverySystemDescriptor": "430b0113460001008102750003"
+            }
+        ],
+        "name": "Eutelsat 10° Ost",
+        "satellitePosition": 100,
+        "isMainSatellite": false
+    },
+    {
+        "satelliteId": "0130E",
+        "referenceTransponders": [
+            {
+                "transponderId": "130E10930000000H",
+                "polarity": 3,
+                "frequency": 10930,
+                "modulationType": "8PSK",
+                "symbolRate": 30000,
+                "transportStreamId": 12100,
+                "originalNetworkId": 318,
+                "networkId": 318,
+                "modulationSystem": "DVB-S2",
+                "fecRate": "2/3",
+                "rollOffFactor": 0.0,
+                "deliverySystemDescriptor": "430b0109300001308603000002"
+            },
+            {
+                "transponderId": "130E11919000000V",
+                "polarity": 2,
+                "frequency": 11919,
+                "modulationType": "QPSK",
+                "symbolRate": 29900,
+                "transportStreamId": 6000,
+                "originalNetworkId": 272,
+                "networkId": 272,
+                "modulationSystem": "DVB-S",
+                "fecRate": "5/6",
+                "rollOffFactor": 0.0,
+                "deliverySystemDescriptor": "430b011919000130a102990004"
+            }
+        ],
+        "name": "Hotbird 13° Ost",
+        "satellitePosition": 130,
+        "isMainSatellite": false
+    },
+    {
+        "satelliteId": "0160E",
+        "referenceTransponders": [
+            {
+                "transponderId": "160E11262000000H",
+                "polarity": 3,
+                "frequency": 11262,
+                "modulationType": "QPSK",
+                "symbolRate": 30000,
+                "transportStreamId": 1,
+                "originalNetworkId": 366,
+                "networkId": 1,
+                "modulationSystem": "DVB-S",
+                "fecRate": "2/3",
+                "rollOffFactor": 0.0,
+                "deliverySystemDescriptor": "430b0112620001608103000002"
+            },
+            {
+                "transponderId": "160E11366000000V",
+                "polarity": 2,
+                "frequency": 11366,
+                "modulationType": "QPSK",
+                "symbolRate": 30000,
+                "transportStreamId": 24100,
+                "originalNetworkId": 366,
+                "networkId": 101,
+                "modulationSystem": "DVB-S",
+                "fecRate": "3/4",
+                "rollOffFactor": 0.0,
+                "deliverySystemDescriptor": "430b011366000160a103000003"
+            }
+        ],
+        "name": "Eutelsat 16° Ost",
+        "satellitePosition": 160,
+        "isMainSatellite": false
+    },
+    {
+        "satelliteId": "0235E",
+        "referenceTransponders": [
+            {
+                "transponderId": "235E11739000000V",
+                "polarity": 2,
+                "frequency": 11739,
+                "modulationType": "8PSK",
+                "symbolRate": 29900,
+                "transportStreamId": 3202,
+                "originalNetworkId": 3,
+                "networkId": 3,
+                "modulationSystem": "DVB-S2",
+                "fecRate": "2/3",
+                "rollOffFactor": 0.0,
+                "deliverySystemDescriptor": "430b011739000235a602990002"
+            },
+            {
+                "transponderId": "235E11915000000H",
+                "polarity": 3,
+                "frequency": 11915,
+                "modulationType": "8PSK",
+                "symbolRate": 29900,
+                "transportStreamId": 3211,
+                "originalNetworkId": 3,
+                "networkId": 3,
+                "modulationSystem": "DVB-S2",
+                "fecRate": "2/3",
+                "rollOffFactor": 0.0,
+                "deliverySystemDescriptor": "430b0119150002358602990002"
+            }
+        ],
+        "name": "Astra 23,5° Ost",
+        "satellitePosition": 235,
+        "isMainSatellite": false
+    },
+    {
+        "satelliteId": "0282E",
+        "referenceTransponders": [
+            {
+                "transponderId": "282E11837000000H",
+                "polarity": 3,
+                "frequency": 11837,
+                "modulationType": "QPSK",
+                "symbolRate": 27500,
+                "transportStreamId": 2007,
+                "originalNetworkId": 2,
+                "networkId": 32,
+                "modulationSystem": "DVB-S",
+                "fecRate": "5/6",
+                "rollOffFactor": 0.0,
+                "deliverySystemDescriptor": "430b0118370002828102750004"
+            },
+            {
+                "transponderId": "282E12324000000V",
+                "polarity": 2,
+                "frequency": 12324,
+                "modulationType": "QPSK",
+                "symbolRate": 29500,
+                "transportStreamId": 2032,
+                "originalNetworkId": 2,
+                "networkId": 32,
+                "modulationSystem": "DVB-S2",
+                "fecRate": "8/9",
+                "rollOffFactor": 0.0,
+                "deliverySystemDescriptor": "430b012324000282a502950006"
+            }
+        ],
+        "name": "Astra 28,2° Ost",
+        "satellitePosition": 282,
+        "isMainSatellite": false
+    },
+    {
+        "satelliteId": "0300W",
+        "referenceTransponders": [
+            {
+                "transponderId": "300W10770000000H",
+                "polarity": 3,
+                "frequency": 10770,
+                "modulationType": "8PSK",
+                "symbolRate": 30000,
+                "transportStreamId": 6,
+                "originalNetworkId": 6,
+                "networkId": 6,
+                "modulationSystem": "DVB-S2",
+                "fecRate": "5/6",
+                "rollOffFactor": 0.0,
+                "deliverySystemDescriptor": "430b0107700003000603000004"
+            },
+            {
+                "transponderId": "300W11891000000V",
+                "polarity": 2,
+                "frequency": 11891,
+                "modulationType": "QPSK",
+                "symbolRate": 30000,
+                "transportStreamId": 4,
+                "originalNetworkId": 49,
+                "networkId": 49,
+                "modulationSystem": "DVB-S",
+                "fecRate": "5/6",
+                "rollOffFactor": 0.0,
+                "deliverySystemDescriptor": "430b0118910003002103000004"
+            }
+        ],
+        "name": "Hispasat 30° West",
+        "satellitePosition": -300,
+        "isMainSatellite": false
+    },
+    {
+        "satelliteId": "0315E",
+        "referenceTransponders": [
+            {
+                "transponderId": "315E11836000000H",
+                "polarity": 3,
+                "frequency": 11836,
+                "modulationType": "8PSK",
+                "symbolRate": 30000,
+                "transportStreamId": 0,
+                "originalNetworkId": 1821,
+                "networkId": 1,
+                "modulationSystem": "DVB-S2",
+                "fecRate": "3/5",
+                "rollOffFactor": 0.0,
+                "deliverySystemDescriptor": "430b0118360003158603000007"
+            },
+            {
+                "transponderId": "315E12012000000V",
+                "polarity": 2,
+                "frequency": 12012,
+                "modulationType": "8PSK",
+                "symbolRate": 30000,
+                "transportStreamId": 5216,
+                "originalNetworkId": 167,
+                "networkId": 167,
+                "modulationSystem": "DVB-S2",
+                "fecRate": "3/4",
+                "rollOffFactor": 0.0,
+                "deliverySystemDescriptor": "430b012012000315a603000003"
+            }
+        ],
+        "name": "Astra 31,5° Ost",
+        "satellitePosition": 315,
+        "isMainSatellite": false
+    },
+    {
+        "satelliteId": "0390E",
+        "referenceTransponders": [
+            {
+                "transponderId": "390E12214000000V",
+                "polarity": 2,
+                "frequency": 12214,
+                "modulationType": "QPSK",
+                "symbolRate": 30000,
+                "transportStreamId": 4,
+                "originalNetworkId": 1,
+                "networkId": 1,
+                "modulationSystem": "DVB-S",
+                "fecRate": "7/8",
+                "rollOffFactor": 0.0,
+                "deliverySystemDescriptor": "430b012214000390a103000005"
+            },
+            {
+                "transponderId": "390E12524000000H",
+                "polarity": 3,
+                "frequency": 12524,
+                "modulationType": "QPSK",
+                "symbolRate": 30000,
+                "transportStreamId": 1,
+                "originalNetworkId": 1,
+                "networkId": 1,
+                "modulationSystem": "DVB-S",
+                "fecRate": "7/8",
+                "rollOffFactor": 0.0,
+                "deliverySystemDescriptor": "430b0125240003908103000005"
+            }
+        ],
+        "name": "Hellas Sat 39° Ost",
+        "satellitePosition": 390,
+        "isMainSatellite": false
+    },
+    {
+        "satelliteId": "0420E",
+        "referenceTransponders": [
+            {
+                "transponderId": "420E11096000000H",
+                "polarity": 3,
+                "frequency": 11096,
+                "modulationType": "QPSK",
+                "symbolRate": 30000,
+                "transportStreamId": 61,
+                "originalNetworkId": 42,
+                "networkId": 42,
+                "modulationSystem": "DVB-S",
+                "fecRate": "5/6",
+                "rollOffFactor": 0.0,
+                "deliverySystemDescriptor": "430b0110960004208103000004"
+            },
+            {
+                "transponderId": "420E11558000000V",
+                "polarity": 2,
+                "frequency": 11558,
+                "modulationType": "QPSK",
+                "symbolRate": 30000,
+                "transportStreamId": 30601,
+                "originalNetworkId": 1070,
+                "networkId": 1070,
+                "modulationSystem": "DVB-S",
+                "fecRate": "2/3",
+                "rollOffFactor": 0.0,
+                "deliverySystemDescriptor": "430b011558000420a103000002"
+            }
+        ],
+        "name": "Türksat 42° Ost",
+        "satellitePosition": 420,
+        "isMainSatellite": false
+    }
+]

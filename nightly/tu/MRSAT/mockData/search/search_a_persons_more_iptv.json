@@ -1,0 +1,377 @@
+{
+    "totalItems": 3528,
+    "totalGroups": 3528,
+    "offset": 0,
+    "sort": "relevance",
+    "navigators": [],
+    "results": [
+        {
+            "id": "gnp_2255",
+            "type": "person",
+            "title": "Adam Sandler",
+            "roles": [
+                "actor",
+                "producer",
+                "voice"
+            ],
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote_persons/2255_v9_ba.jpg",
+            "filmography": [
+                {
+                    "title": "Hotel Transylvania 3: Summer Vacation",
+                    "year": 2018
+                },
+                {
+                    "title": "The Week Of",
+                    "year": 2018
+                },
+                {
+                    "title": "Sandy Wexler",
+                    "year": 2017
+                }
+            ]
+        },
+        {
+            "id": "gnp_170518",
+            "type": "person",
+            "title": "Aamir Khan",
+            "roles": [
+                "actor",
+                "director",
+                "producer"
+            ],
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote_persons/170518_v9_ba.jpg",
+            "filmography": [
+                {
+                    "title": "Secret Superstar",
+                    "year": 2017
+                },
+                {
+                    "title": "Dangal",
+                    "year": 2016
+                },
+                {
+                    "title": "The Snake Charmer",
+                    "year": 2016
+                }
+            ]
+        },
+        {
+            "id": "gnp_1570",
+            "type": "person",
+            "title": "Arnold Schwarzenegger",
+            "roles": [
+                "actor",
+                "director",
+                "host",
+                "producer"
+            ],
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote_persons/1570_v9_bb.jpg",
+            "filmography": [
+                {
+                    "title": "Terminator 6",
+                    "year": 2019
+                },
+                {
+                    "title": "Aftermath",
+                    "year": 2017
+                },
+                {
+                    "title": "Killing Gunther",
+                    "year": 2017
+                }
+            ]
+        },
+        {
+            "id": "gnp_790743",
+            "type": "person",
+            "title": "Anne Will",
+            "roles": [
+                "actor",
+                "host"
+            ],
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote_persons/790743_v9_ba.jpg",
+            "filmography": [
+                {
+                    "title": "Die Diskussion"
+                },
+                {
+                    "title": "Wir sind das Volk!"
+                },
+                {
+                    "title": "Nervöse Republik - Podiumsdiskussion"
+                }
+            ]
+        },
+        {
+            "id": "gnp_782",
+            "type": "person",
+            "title": "Alfred Hitchcock",
+            "roles": [
+                "actor",
+                "director",
+                "host",
+                "producer"
+            ],
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote_persons/782_v9_ba.jpg",
+            "filmography": [
+                {
+                    "title": "German Concentration Camps Factual Survey",
+                    "year": 2014
+                },
+                {
+                    "title": "Family Plot",
+                    "year": 1976
+                },
+                {
+                    "title": "Frenzy",
+                    "year": 1972
+                }
+            ]
+        },
+        {
+            "id": "gnp_2396",
+            "type": "person",
+            "title": "Adriano Celentano",
+            "roles": [
+                "actor",
+                "director"
+            ],
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote_persons/2396_v4_ba.jpg",
+            "filmography": [
+                {
+                    "title": "1960",
+                    "year": 2010
+                },
+                {
+                    "title": "Il burbero",
+                    "year": 1986
+                },
+                {
+                    "title": "Joan Lui: Ma un giorno nel paese arrivo io di lunedì",
+                    "year": 1985
+                }
+            ]
+        },
+        {
+            "id": "gnp_284319",
+            "type": "person",
+            "title": "Axel Prahl",
+            "roles": [
+                "actor",
+                "host",
+                "voice"
+            ],
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote_persons/284319_v9_ba.jpg",
+            "filmography": [
+                {
+                    "title": "Die kleine Hexe",
+                    "year": 2018
+                },
+                {
+                    "title": "Timm Thaler oder das verkaufte Lachen",
+                    "year": 2017
+                },
+                {
+                    "title": "Der gute Bulle",
+                    "year": 2017
+                }
+            ]
+        },
+        {
+            "id": "gnp_30905",
+            "type": "person",
+            "title": "Jennifer Aniston",
+            "roles": [
+                "actor",
+                "director",
+                "host",
+                "producer",
+                "voice"
+            ],
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote_persons/30905_v9_ba.jpg",
+            "filmography": [
+                {
+                    "title": "The Yellow Birds",
+                    "year": 2017
+                },
+                {
+                    "title": "Mother's Day",
+                    "year": 2016
+                },
+                {
+                    "title": "Storks",
+                    "year": 2016
+                }
+            ]
+        },
+        {
+            "id": "gnp_646001",
+            "type": "person",
+            "title": "Adrian Topol",
+            "roles": [
+                "actor",
+                "director",
+                "producer"
+            ],
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote_persons/646001_v9_ba.jpg",
+            "filmography": [
+                {
+                    "title": "Nicht mit uns! Der Silikon-Skandal",
+                    "year": 2017
+                },
+                {
+                    "title": "Inga Lindström: Das Postboot in den Schären",
+                    "year": 2017
+                },
+                {
+                    "title": "Schneeflöckchen",
+                    "year": 2017
+                }
+            ]
+        },
+        {
+            "id": "gnp_2657",
+            "type": "person",
+            "title": "Al Pacino",
+            "roles": [
+                "actor",
+                "director",
+                "producer"
+            ],
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote_persons/2657_v9_ba.jpg",
+            "filmography": [
+                {
+                    "title": "Once Upon a Time in Hollywood",
+                    "year": 2019
+                },
+                {
+                    "title": "Paterno",
+                    "year": 2018
+                },
+                {
+                    "title": "Julian Schnabel: A Private Portrait",
+                    "year": 2017
+                }
+            ]
+        },
+        {
+            "id": "gnp_806139",
+            "type": "person",
+            "title": "Alfons Schuhbeck",
+            "roles": [
+                "actor",
+                "host"
+            ],
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote_persons/806139_v9_ba.jpg",
+            "filmography": [
+                {
+                    "title": "Sophie kocht",
+                    "year": 2015
+                },
+                {
+                    "title": "Verstehen Sie Spaß?"
+                },
+                {
+                    "title": "Schuhbecks"
+                }
+            ]
+        },
+        {
+            "id": "gnp_767",
+            "type": "person",
+            "title": "Audrey Hepburn",
+            "roles": [
+                "actor"
+            ],
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote_persons/767_v9_ba.jpg",
+            "filmography": [
+                {
+                    "title": "Always",
+                    "year": 1989
+                },
+                {
+                    "title": "Love Among Thieves",
+                    "year": 1987
+                },
+                {
+                    "title": "They All Laughed",
+                    "year": 1981
+                }
+            ]
+        },
+        {
+            "id": "gnp_633445",
+            "type": "person",
+            "title": "Aaron Karl",
+            "roles": [
+                "actor"
+            ],
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote_persons/633445_v9_ba.jpg",
+            "filmography": [
+                {
+                    "title": "Lou Andreas-Salomé",
+                    "year": 2016
+                },
+                {
+                    "title": "Die Freischwimmerin",
+                    "year": 2014
+                },
+                {
+                    "title": "Der Metzger und der Tote im Haifischbecken",
+                    "year": 2014
+                }
+            ]
+        },
+        {
+            "id": "gnp_73023",
+            "type": "person",
+            "title": "Aaron Eckhart",
+            "roles": [
+                "actor",
+                "producer",
+                "voice"
+            ],
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote_persons/73023_v9_ba.jpg",
+            "filmography": [
+                {
+                    "title": "London Has Fallen",
+                    "year": 2016
+                },
+                {
+                    "title": "Sully",
+                    "year": 2016
+                },
+                {
+                    "title": "Incarnate",
+                    "year": 2016
+                }
+            ]
+        },
+        {
+            "id": "gnp_5729",
+            "type": "person",
+            "title": "Anthony Hopkins",
+            "roles": [
+                "actor",
+                "director",
+                "producer",
+                "voice"
+            ],
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote_persons/5729_v9_bb.jpg",
+            "filmography": [
+                {
+                    "title": "King Lear",
+                    "year": 2018
+                },
+                {
+                    "title": "Thor: Ragnarok",
+                    "year": 2017
+                },
+                {
+                    "title": "Transformers: The Last Knight",
+                    "year": 2017
+                }
+            ]
+        }
+    ]
+}

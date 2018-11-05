@@ -1,0 +1,63 @@
+[
+  {
+    "duration": null,
+    "zosaType": "VodItem",
+    "isBlocked": false,
+    "zosaId": "zosa:FFxKQxpWEQ4eQwdWVlZNW19f",
+    "streams": null,
+    "icon": null,
+    "title": "DT Vod",
+    "genres": null,
+    "secondaryName": null,
+    "productionYear": null,
+    "participants": null,
+    "subtitleLanguages": null,
+    "description": null,
+    "minViewingAge": null,
+    "vodType": 0,
+    "isFavorited": null,
+    "numChildren": null,
+    "productionCompany": null,
+    "clipStreams": null,
+    "childIndex": null,
+    "parents": null,
+    "availabilityStartTime": null,
+    "availabilityEndTime": null,
+    "subscriptionEndTime": null,
+    "isSubscribed": null,
+    "audioLanguages": null,
+    "images": null,
+    "parentalRating": null,
+    "isLocked": null,
+    "parentalRatingLabel": null,
+    "parentalRatingAgency": null,
+    "isAdult": null,
+    "categoryIds": null,
+    "customProps": [
+      {
+        "key": "playUrl",
+        "value": "http://xsvc27-stu.main.xcdn.sda.t-online.de/smooth01/streaming/ReferenceContents/177414/635963295756201277/DTAG-test-chart-H264_deu_20_3400k.ism/Manifest"
+      },
+      {
+        "key": "playDrmLAUrl",
+        "value": "https://x3licf.dmm.t-online.de/LicenseFrontend_Iptv/v1.0/LicenseAcquisition.asmx"
+      },
+      {
+        "key": "playDrmKeyId",
+        "value": "eyLZ/3fC0keZjiVaFj6hQg=="
+      },
+      {
+        "key": "playDrmLAPB",
+        "value": "<lapb version=\"1\"><contentNo>177414</contentNo><profile>IPTV</profile><auth type=\"sts\">ECCTzqUCKtFOvpQKcSqdPQelAAwHqAAAAVURl0gNAAABnoqHLA0BAQgAAAFVEZdIDPz4RZQTiNO2v9sX0PFRgW3BwPGjAQwSAEkBAAAAAABJFzMD6QAwAQRhbGlhAAZiYXVlcjQBBHp1c2EAB0JpcmdpdDQBBHVzdGEAATMBBG5hbWUABkJhdWVyNAIBKQIFWwINiAIORAIOEAIN6AIOLwIOKQIN8wINhAKDzQINmgIBRwIAUQIOJQIODgIN8QINmAICEwIOJgIOLgIOLAIN8gIOIwIODAINnAIOJAIN5AKAcQIOLQIOQwIONwIODQIOKAIN3AICEQKDuQIODwINkAIN5QIN5wIOJwIOOAIN5gAA</auth><agent>Zenterio-\"OsVersion\"</agent><recovery allow=\"false\" /><requestId>Zenterio-SmoothstreamHD_test</requestId></lapb>"
+      },
+      {
+        "key": "bandwidthType",
+        "value": "VOD HD"
+      },
+      {
+        "key": "mfwPlaySessionToken",
+        "value": "2147483652"
+      }
+    ]
+  }
+]

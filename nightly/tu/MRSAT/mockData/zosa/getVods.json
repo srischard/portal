@@ -1,0 +1,36 @@
+[
+  {
+    "icon": null,
+    "lastPlaybackPosition": 0,
+    "lastPlaybackTime": 1460628319000,
+    "title": "This data has been manually created",
+    "zosaId": "zosa:VodItem0815",
+    "zosaType": "VodItem",
+    "customProps": [
+      {
+        "key": "playUrl",
+        "value": "http://xsvc20-stu.main.xcdn.sda.t-online.de/smooth01/streaming/ReferenceContents/177406/635963278924974394/DTAG-test-chart-H264_deu_20_1300k.ism/Manifest"
+      },
+      {
+        "key": "playDrmLAUrl",
+        "value": "https://x3wcss.t-online.de/cmrs/IPTV2015-First/media/v1/smoothstreaming/177406"
+      },
+      {
+        "key": "playDrmKeyId",
+        "value": ""
+      },
+      {
+        "key": "playDrmLAPB",
+        "value": ""
+      },
+      {
+        "key": "bandwidthType",
+        "value": "VOD SD"
+      },
+      {
+        "key": "mfwPlaySessionToken",
+        "value": "2147483650"
+      }
+    ]
+  }
+]

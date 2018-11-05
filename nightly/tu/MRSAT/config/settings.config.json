@@ -1,0 +1,329 @@
+{
+  "userStoreKeyHdSd": "appcore.setting.device.hdsd.alwaysSd",
+  "defaultValueHdSd": "false",
+
+  "userStoreKeyMenuSounds": "appcore.setting.device.menusounds.enable",
+  "defaultValueMenuSounds": "true",
+
+  "userStoreKeyContinueWatchingTimeStamp": "appcore.setting.continuewatchingtimestamp",
+
+  "userStoreKeyStartFirstTimeUsage": "appcore.setting.device.firsttimeusage.start",
+  "defaultValueStartFirstTimeUsage": "true",
+
+  "userStoreKeyProductStartOption": "appcore.setting.device.productstartoption",
+  "defaultValueProductStartOption": "menu",
+
+  "userStoreKeyIsCustomScreenformat": "appcore.setting.device.screenformat.custom",
+  "userStoreKeyStartPageParameters": "appcore.setting.device.startpage.parameters",
+
+  "userStoreKeyPurchasesLock": "appcore.setting.youthprotection.purchases.lock",
+  "defaultValuePurchasesLock": "true",
+
+  "userStoreKeyUsbMediaLock": "appcore.setting.youthprotection.usbmedia.lock",
+  "defaultValueUsbMediaLock": "true",
+
+  "userStoreKeyTvMessages": "appcore.tvmessages.stack",
+
+  "userStoreKeyEnableDevicePairing": "appcore.setting.alldevices.pairing.enable",
+  "defaultValueEnableDevicePairing": "false",
+
+  "userStoreKeyYouTubeSearchResultsLocked" : "appcore.youTubeSearchResultsLocked",
+
+  "userStoreKeySuppressAskToSetMaster" : "appcore.suppressAskToSetMaster",
+
+  "userStoreKeySatWizardLastRuntime" : "appcore.satWizardLastRuntime",
+
+  "userStoreKeyPowerManagementMode" : "appcore.setting.device.powermanagement.mode.value",
+  "userStoreKeyPwrMgmtSelectionIsDefault" : "appcore.setting.device.powermanagement.mode.isDefault",
+  "powerManagementModeDefaultValue" : "powerSave",
+
+  "defaultAudioLanguage": "ger",
+  "defaultSubtitleLanguage": "ger",
+
+  "minLengthStbName": 3,
+  "maxLengthStbName": 20,
+
+  "userAgentBrowserVersionRegExpression" : "(ISP_STB_NetFront.*) \\(",
+
+  "companionDeviceName": "(PHONE|PAD):(.*)",
+
+  "infopages": {
+
+    "device_hdsdmapping": {
+      "title": "appCore.STB_ST_TI052",
+      "text": "appCore.INFOTEXT_HDSD"
+    },
+
+    "device_hdcp": {
+      "title": "appCore.STB_ST_TI150",
+      "text": "appCore.STB_ST_TI151"
+    },
+
+    "device_audio": {
+      "title": "",
+      "text": ""
+    },
+
+    "device_channelmgmt": {
+      "title": "",
+      "text": ""
+    },
+
+    "device_hddstate": {
+      "title": "appCore.INFOTITLE_HDD",
+      "text": "appCore.INFOTEXT_HDD"
+    },
+
+    "device_menusounds": {
+      "title": "",
+      "text": ""
+    },
+
+    "device_powermgmt": {
+      "title": "appCore.STB_ST_TI014",
+      "text": "appCore.STB_ST_TI068"
+    },
+
+    "device_screenformat": {
+      "title": "",
+      "text": ""
+    },
+
+    "device_systemreset": {
+      "title": "",
+      "text": ""
+    },
+
+    "device_systemreboot": {
+      "title": "",
+      "text": ""
+    },
+
+    "device_systemstate": {
+      "title": "",
+      "text": ""
+    },
+
+    "device_startpage": {
+      "title": "",
+      "text": ""
+    },
+
+    "alldevices_receiver": {
+      "title": "",
+      "text": ""
+    },
+
+    "alldevices_pairing": {
+      "title": "",
+      "text": ""
+    },
+
+    "alldevices_recording_function": {
+      "title": "",
+      "text": ""
+    },
+
+    "user_channelmanagement": {
+      "title": "",
+      "text": ""
+    },
+
+    "alldevices_recordings": {
+      "title": "appCore.STB_CR_TI031",
+      "text": "appCore.STB_CR_TI059"
+    },
+
+    "alldevices_recordings_type": {
+      "title": "appCore.STB_CR_TI034",
+      "text": "appCore.STB_CR_TI059_2"
+    },
+
+    "alldevices_recordings_quality": {
+      "title": "appCore.STB_CR_TI035",
+      "text": "appCore.STB_CR_TI059_3"
+    },
+
+    "alldevices_recordings_location": {
+      "title": "appCore.STB_CR_TI036",
+      "text": "appCore.STB_CR_TI059_4"
+    },
+
+    "alldevices_recordings_buffer": {
+      "title": "appCore.STB_CR_TI037",
+      "text": "appCore.STB_CR_TI059_5"
+    },
+
+    "alldevices_recordings_deletemode": {
+      "title": "appCore.STB_CR_TI038",
+      "text": "appCore.STB_CR_TI059_6"
+    },
+
+    "sat_settings": {
+      "title": "",
+      "text": ""
+    },
+
+    "sat_cablelength": {
+      "title": "",
+      "text": ""
+    },
+
+    "user_bookings": {
+      "title": "",
+      "text": ""
+    },
+
+    "user_pinmgmt": {
+      "title": "",
+      "text": ""
+    },
+
+    "user_usagedata": {
+      "title": "",
+      "text": ""
+    },
+
+    "user_interstitial": {
+      "title": "",
+      "text": ""
+    },
+
+    "user_apps": {
+      "title": "",
+      "text": ""
+    },
+
+    "youthprotection_ageverifications": {
+      "title": "",
+      "text": ""
+    },
+
+    "youthprotection_comfort": {
+      "title": "",
+      "text": ""
+    },
+
+    "youthprotection_contenttypes": {
+      "title": "",
+      "text": ""
+    },
+
+    "youthprotection_functions": {
+      "title": "",
+      "text": ""
+    },
+
+    "youthprotection_visibilities": {
+      "title": "appCore.STB_CR_TI013",
+      "text" : "appCore.STB_CR_TI014_WITHOUT_EROTIK"
+    }
+  },
+
+  "languageData": [
+    {
+      "iconStyleName": "dttv-icon-audiodescription",
+      "displayName": "appCore.STB_ST_TI044",
+      "id": "audiodesc"
+    },
+    {
+      "iconStyleName": "dttv-icon-language",
+      "displayName": "appCore.STB_ST_TI043",
+      "id": "ger|deu"
+    },
+    {
+      "iconStyleName": "dttv-icon-language",
+      "displayName": "appCore.STB_ST_TI042",
+      "id": "eng"
+    },
+    {
+      "iconStyleName": "dttv-icon-language",
+      "displayName": "appCore.STB_ST_TI041",
+      "id": "fra|fre"
+    },
+    {
+      "iconStyleName": "dttv-icon-language",
+      "displayName": "appCore.STB_ST_TI045",
+      "id": "ita"
+    },
+    {
+      "iconStyleName": "dttv-icon-language",
+      "displayName": "appCore.STB_ST_TI046",
+      "id": "spa"
+    },
+    {
+      "iconStyleName": "dttv-icon-language",
+      "displayName": "appCore.STB_ST_TI046_A",
+      "id": "tur"
+    },
+    {
+      "iconStyleName": "dttv-icon-language",
+      "displayName": "appCore.STB_ST_TI046_B",
+      "id": "pol"
+    },
+    {
+      "iconStyleName": "dttv-icon-language",
+      "displayName": "appCore.STB_ST_TI046_C",
+      "id": "rus"
+    }
+  ],
+  "subtitleData": [
+    {
+      "iconStyleName": "dttv-icon-subtitleoff",
+      "displayName": "appCore.STB_ST_TI047",
+      "id": "nosubtitle"
+    },
+    {
+      "iconStyleName": "dttv-icon-subtitle",
+      "displayName": "appCore.STB_ST_TI043",
+      "id": "ger|deu"
+    },
+    {
+      "iconStyleName": "dttv-icon-subtitle",
+      "displayName": "appCore.STB_ST_TI042",
+      "id": "eng"
+    },
+    {
+      "iconStyleName": "dttv-icon-subtitle",
+      "displayName": "appCore.STB_ST_TI041",
+      "id": "fra|fre"
+    },
+    {
+      "iconStyleName": "dttv-icon-subtitle",
+      "displayName": "appCore.STB_ST_TI045",
+      "id": "ita"
+    },
+    {
+      "iconStyleName": "dttv-icon-subtitle",
+      "displayName": "appCore.STB_ST_TI046",
+      "id": "spa"
+    },
+    {
+      "iconStyleName": "dttv-icon-subtitle",
+      "displayName": "appCore.STB_ST_TI046_A",
+      "id": "tur"
+    },
+    {
+      "iconStyleName": "dttv-icon-subtitle",
+      "displayName": "appCore.STB_ST_TI046_B",
+      "id": "pol"
+    },
+    {
+      "iconStyleName": "dttv-icon-subtitle",
+      "displayName": "appCore.STB_ST_TI046_C",
+      "id": "rus"
+    }
+  ],
+  "audioFormatData": [
+    {
+      "iconStyleName": "dttv-icon-dolby",
+      "displayName": "appCore.STB_ST_TI039",
+      "id": "dolby"
+    },
+    {
+      "iconStyleName": "dttv-icon-stereo",
+      "displayName": "appCore.STB_ST_TI040",
+      "id": "stereo"
+    }
+  ]
+}

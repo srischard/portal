@@ -1,0 +1,9 @@
+{
+    "attachDialEventHandlerDelay": 2000,
+    "internalApps": {
+        "urlPattern": "^http(s)*:\/\/Internal:",
+        "webRadioUrlPattern": "^http(s)*:\/\/Internal:WebRadio$",
+        "whiteLabelUrlPattern": "^http(s)*:\/\/Internal:WhiteLableAPP",
+        "moreTvUrl": "^http(s)*:\/\/Internal:MehrTvAPP"
+    }
+}

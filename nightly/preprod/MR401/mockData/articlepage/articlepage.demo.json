@@ -1,0 +1,225 @@
+{
+    "$type": "articlepage",
+    "telemetry": {
+        "version": "0.0.1",
+        "flexId": 98765,
+        "documentGroup": "TVHS_DG_test_articlePage"
+    },
+    "menu": {
+        "href": "https://x1wcss.t-online.de/tvhs/v2/iptv2015/DocumentGroupRedirect/TVHS_DG_MainMenu"
+    },
+    "content": {
+        "title": "ArticlePage demo",
+        "backgroundImage": {
+            "href": "mockData/articlepage/background.image.jpg"
+        },
+        "pages": [
+            {
+                "pageUrl": {
+                    "href": "mockData/articlepage/iframe_80x8.5_BU.html"
+                },
+                "pageHeight": 204,
+                "actionButtons": [],
+                "trailers": {}
+            },
+            {
+                "pageUrl": {
+                    "href": "mockData/articlepage/iframe_80x20_BU.html"
+                },
+                "pageHeight": 480,
+                "actionButtons": [],
+                "trailers": {}
+            },
+            {
+                "pageUrl": {
+                    "href": "mockData/articlepage/iframe_80x26_BU.html"
+                },
+                "pageHeight": 624,
+                "actionButtons": [],
+                "trailers": {}
+            },
+            {
+                "pageUrl": {
+                    "href": "mockData/articlepage/iframe_80x33.5_BU.html"
+                },
+                "pageHeight": 804,
+                "actionButtons": [],
+                "trailers": {}
+            },
+            {
+                "pageUrl": {
+                    "href": "mockData/articlepage/iframe_80x8.5_BU.html"
+                },
+                "pageHeight": 204,
+                "actionButtons": [
+                    {
+                        "id": 12345,
+                        "title": "Button 1",
+                        "type": "Teaser",
+                        "details": {
+                            "href": "navigate.epg"
+                        }
+                    },
+                    {
+                        "id": 12345,
+                        "title": "Button 2",
+                        "type": "Teaser",
+                        "details": {
+                            "href": "navigate.epg"
+                        }
+                    },
+                    {
+                        "id": 12345,
+                        "title": "Button 3",
+                        "type": "Teaser",
+                        "details": {
+                            "href": "navigate.epg"
+                        }
+                    }
+                ],
+                "trailers": {}
+            },
+            {
+                "pageUrl": {
+                    "href": "mockData/articlepage/iframe_80x20_BU.html"
+                },
+                "pageHeight": 480,
+                "actionButtons": [],
+                "trailers": {
+                    "title": "Trailer list",
+                    "items": [
+                        {
+                            "title": "Trailer 1",
+                            "type": "Trailer",
+                            "details": {
+                                "href": "navigate.search"
+                            }
+                        },
+                        {
+                            "title": "Trailer 2",
+                            "type": "Trailer",
+                            "details": {
+                                "href": "navigate.search"
+                            }
+                        },
+                        {
+                            "title": "Trailer 3",
+                            "type": "Trailer",
+                            "details": {
+                                "href": "navigate.search"
+                            }
+                        },
+                        {
+                            "title": "Trailer 4",
+                            "type": "Trailer",
+                            "details": {
+                                "href": "navigate.search"
+                            }
+                        },
+                        {
+                            "title": "Trailer 5",
+                            "type": "Trailer",
+                            "details": {
+                                "href": "navigate.search"
+                            }
+                        },
+                        {
+                            "title": "Trailer 6",
+                            "type": "Trailer",
+                            "details": {
+                                "href": "navigate.search"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "pageUrl": {
+                    "href": "mockData/articlepage/iframe_80x26_BU.html"
+                },
+                "pageHeight": 624,
+                "actionButtons": [
+                    {
+                        "id": 12345,
+                        "title": "Button 1",
+                        "type": "Teaser",
+                        "details": {
+                            "href": "navigate.epg"
+                        }
+                    },
+                    {
+                        "id": 12345,
+                        "title": "Button 2",
+                        "type": "Teaser",
+                        "details": {
+                            "href": "navigate.epg"
+                        }
+                    },
+                    {
+                        "id": 12345,
+                        "title": "Button 3",
+                        "type": "Teaser",
+                        "details": {
+                            "href": "navigate.epg"
+                        }
+                    }
+                ],
+                "trailers": {
+                    "title": "Trailer list",
+                    "items": [
+                        {
+                            "title": "Trailer 1",
+                            "type": "Trailer",
+                            "details": {
+                                "href": "navigate.search"
+                            }
+                        },
+                        {
+                            "title": "Trailer 2",
+                            "type": "Trailer",
+                            "details": {
+                                "href": "navigate.search"
+                            }
+                        },
+                        {
+                            "title": "Trailer 3",
+                            "type": "Trailer",
+                            "details": {
+                                "href": "navigate.search"
+                            }
+                        },
+                        {
+                            "title": "Trailer 4",
+                            "type": "Trailer",
+                            "details": {
+                                "href": "navigate.search"
+                            }
+                        },
+                        {
+                            "title": "Trailer 5",
+                            "type": "Trailer",
+                            "details": {
+                                "href": "navigate.search"
+                            }
+                        },
+                        {
+                            "title": "Trailer 6",
+                            "type": "Trailer",
+                            "details": {
+                                "href": "navigate.search"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "pageUrl": {
+                    "href": "mockData/articlepage/iframe_80x33.5_BU.html"
+                },
+                "pageHeight": 804,
+                "actionButtons": [],
+                "trailers": {}
+            }
+        ]
+    }
+}

@@ -1,0 +1,159 @@
+{
+	"totalItems": 4,
+	"totalGroups": 4,
+	"offset": 0,
+	"sort": "airtime_default",
+	"navigators": [
+		{
+			"id": "cluster",
+			"name": "Cluster",
+			"entries": [
+				{
+					"id": "vodMain",
+					"name": "Video",
+					"size": 4
+				}
+			]
+		}
+	],
+	"results": [
+		{
+			"id": "GN_MV007377360000",
+			"type": "vod",
+			"title": "The Equalizer",
+			"vodType": "movie",
+			"duration": 132,
+			"mainGenre": "Action",
+			"countries": [
+				"USA"
+			],
+			"year": 2014,
+			"poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p10549100_v_v8_ar.jpg",
+			"posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p10549100_v_h10_ac.jpg",
+			"posterNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p10549100_k_v8_aa.jpg",
+			"posterWideNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p10549100_k_h10_aa.jpg",
+			"scenes": [
+				"http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p10549100_i_h10_aa.jpg"
+			],
+			"ageRatingName": "Ab 16 Jahren (FSK)",
+			"ageRatingId": "FSK 16",
+			"partners": [
+				{
+					"name": "Sky On Demand",
+					"logo": "http://epgpm-sl0.ver.sda.t-online.de/media/3b535513543b56f3e783906c57b51982214dd7d5.png"
+				}
+			],
+			"cluster": "vodMain",
+			"sourceType": "vodPremium",
+			"category": "main",
+			"qualities": [
+				"SD"
+			]
+		},
+		{
+			"id": "GN_MV006691870000",
+			"type": "vod",
+			"title": "Flight",
+			"vodType": "movie",
+			"duration": 138,
+			"mainGenre": "Drama",
+			"countries": [
+				"USA"
+			],
+			"year": 2012,
+			"poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p9253979_v_v8_aa.jpg",
+			"posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p9253979_v_h8_ak.jpg",
+			"posterNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p9253979_k_v8_aa.jpg",
+			"posterWideNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p9253979_k_h12_aa.jpg",
+			"scenes": [
+				"http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p9253979_i_h10_ab.jpg"
+			],
+			"ageRatingName": "Ab 12 Jahren (FSK)",
+			"ageRatingId": "FSK 12",
+			"partners": [
+				{
+					"name": "Sky On Demand",
+					"logo": "http://epgpm-sl0.ver.sda.t-online.de/media/3b535513543b56f3e783906c57b51982214dd7d5.png"
+				}
+			],
+			"cluster": "vodMain",
+			"sourceType": "vodPremium",
+			"category": "main",
+			"qualities": [
+				"SD"
+			]
+		},
+		{
+			"id": "GN_MV006150130000",
+			"type": "vod",
+			"title": "The Book of Eli",
+			"vodType": "movie",
+			"duration": 112,
+			"mainGenre": "Abenteuer",
+			"countries": [
+				"USA"
+			],
+			"year": 2010,
+			"poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p189972_v_v8_ag.jpg",
+			"posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p189972_v_h10_aa.jpg",
+			"posterNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p189972_k_v8_aa.jpg",
+			"posterWideNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p189972_i_h10_ab.jpg",
+			"scenes": [
+				"http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p189972_i_h10_ab.jpg"
+			],
+			"ageRatingName": "Ab 16 Jahren (FSK)",
+			"ageRatingId": "FSK 16",
+			"partners": [
+				{
+					"name": "Maxdome",
+					"logo": "http://epgpm-sl0.ver.sda.t-online.de/media/34dc487dada6dcfd0556e38de4a1857aa0fdb51e.png"
+				},
+				{
+					"name": "Sky On Demand",
+					"logo": "http://epgpm-sl0.ver.sda.t-online.de/media/3b535513543b56f3e783906c57b51982214dd7d5.png"
+				}
+			],
+			"cluster": "vodMain",
+			"sourceType": "vodPremium",
+			"category": "main",
+			"qualities": [
+				"HD",
+				"SD"
+			]
+		},
+		{
+			"id": "GN_MV006775500000",
+			"type": "vod",
+			"title": "Unstoppable - AuÃŸer Kontrolle",
+			"vodType": "movie",
+			"duration": 94,
+			"mainGenre": "Action",
+			"countries": [
+				"USA"
+			],
+			"year": 2010,
+			"poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p8129775_v_v8_ac.jpg",
+			"posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p8129775_i_h10_ab.jpg",
+			"posterNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p8129775_i_v8_aa.jpg",
+			"posterWideNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p8129775_i_h10_ab.jpg",
+			"scenes": [
+				"http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p8129775_i_h10_ab.jpg"
+			],
+			"ageRatingName": "Ab 12 Jahren (FSK)",
+			"ageRatingId": "FSK 12",
+			"partners": [
+				{
+					"name": "Maxdome",
+					"logo": "http://epgpm-sl0.ver.sda.t-online.de/media/34dc487dada6dcfd0556e38de4a1857aa0fdb51e.png"
+				}
+			],
+			"cluster": "vodMain",
+			"sourceType": "vodPremium",
+			"category": "main",
+			"qualities": [
+				"SD",
+				"HD"
+			]
+		}
+	]
+}

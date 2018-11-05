@@ -1,0 +1,96 @@
+﻿[
+    {
+        "defaultValue": "030000",
+        "isEditableByOperator": true,
+        "dataType": "time",
+        "key": "STBNightlyRebootEndTime",
+        "name": "STB Nightly Reboot End Time",
+        "description": "Defines latest time of automatic reboot during night.",
+        "domainType": "device",
+        "isEditableByEndUser": true
+    },
+    {
+        "key": "STBNightlyReboot",
+        "isEditableByOperator": true,
+        "defaultValue": "On",
+        "dataType": "enum",
+        "name": "STB Nightly Reboot",
+        "domainType": "device",
+        "description": "Defines whether an STB in Standby mode is automatically rebooted during night.",
+        "isEditableByEndUser": true,
+        "enumOptions": [
+            "On",
+            "Off"
+        ]
+    },
+    {
+        "isEditableByOperator": false,
+        "dataType": "longstring",
+        "key": "ZSATodudbconfig",
+        "name": "Zenterio SAT",
+        "description": "Datafield for Zenterio client to store device specific information like the satellite configuration, diseqc and unicable paramaters.",
+        "domainType": "device",
+        "isEditableByEndUser": true
+    },
+    {
+        "defaultValue": "020000",
+        "isEditableByOperator": true,
+        "dataType": "time",
+        "key": "STBNightlyRebootStartTime",
+        "name": "STB Nightly Reboot Start Time",
+        "description": "Defines earliest time of automatic reboot during night.",
+        "domainType": "device",
+        "isEditableByEndUser": true
+    },
+    {
+        "key": "InterstitialPageOnOff",
+        "isEditableByOperator": true,
+        "defaultValue": "On",
+        "dataType": "string",
+        "name": "InterstitialPageOnOff",
+        "domainType": "device",
+        "description": "Device setting to enable/disable the display of the interstitial page",
+        "isEditableByEndUser": true,
+        "validationRegEx": "^(On|Off)$"
+    },
+    {
+        "key": "StartPageOnOff",
+        "isEditableByOperator": true,
+        "defaultValue": "On",
+        "dataType": "string",
+        "name": "StartPageOnOff",
+        "domainType": "device",
+        "description": "Device setting to enable/disable the display of the start page",
+        "isEditableByEndUser": true,
+        "validationRegEx": "^(On|Off)$"
+    },
+    {
+        "isEditableByEndUser": true,
+        "key": "STBSatSettings",
+        "description": "Settings configured  via sat setup wizard",
+        "name": "STBSatSettings",
+        "isEditableByOperator": true,
+        "domainType": "subscriber",
+        "dataType": "longstring"
+    },
+    {
+        "isEditableByEndUser": true,
+        "key": "3DPartyAllow",
+        "description": "Stores status of grant of the subscriber per app concerning the data privacy.",
+        "name": "3DPartyAllow",
+        "defaultValue": "{}",
+        "isEditableByOperator": true,
+        "domainType": "subscriber",
+        "dataType": "longstring"
+    },
+    {
+        "isEditableByEndUser": true,
+        "key": "3DPartyDataPrivacy",
+        "description": "Enables data privacy page per app, including data for info page.",
+        "name": "3DPartyDataPrivacy",
+        "defaultValue": "{\n    \"apps\": [\n        {\n            \"cmsId\": \"bild\",\n            \"text\": \"Netflix Testtext: Wenn Sie \\\"{{app_name}}\\\" nutzen erklären Sie sich einverstanden, dass die Telekom \\\"{{app_name}}\\\"  die Information übermittelt, von welchem Ort in der EntertainTv-Oberfläche die  \\\"{{app_name}}\\\" -Applikation aufgerufen wurde. Diese Information wird durch die Telekom weder Ihrer Person noch Ihrem Media Receiver zugeordnet. Sie dient \\\"{{app_name}}\\\"  lediglich zu quantitativen Auswertung der verschiedenen Aufruf-Punkte in EntertainTV.\",\n            \"dataprivacyDocId\": 32530\n        },\n        {\n            \"cmsId\": \"MediencenterZ\",\n            \"text\": \"Magenta CloudZ Testtext: Wenn Sie \\\"{{app_name}}\\\" nutzen erklären Sie sich einverstanden, dass die Telekom \\\"{{app_name}}\\\"  die Information übermittelt, von welchem Ort in der EntertainTv-Oberfläche die  \\\"{{app_name}}\\\" -Applikation aufgerufen wurde. Diese Information wird durch die Telekom weder Ihrer Person noch Ihrem Media Receiver zugeordnet. Sie dient \\\"{{app_name}}\\\"  lediglich zu quantitativen Auswertung der verschiedenen Aufruf-Punkte in EntertainTV.\",\n            \"dataprivacyDocId\": 32530\n        }\n    ]\n}",
+        "isEditableByOperator": true,
+        "domainType": "subscriber",
+        "dataType": "longstring"
+    }
+]

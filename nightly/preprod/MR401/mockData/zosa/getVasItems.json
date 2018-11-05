@@ -1,0 +1,3066 @@
+[
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWU1VJ",
+		"isSubscribed": true,
+		"isBlocked": false,
+		"availabilityStartTime": 1490803432000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": null,
+		"title": "FC BAYERN.TV",
+		"parentalRating": null,
+		"url": "https://ngtv-development.fcbtvlive.de/index.html",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/43f9495e882297b4ff02fd29e381248969686e65.png",
+				"imageType": 0
+			}
+		],
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "MR400"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserExt"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": null,
+		"isAdult": null,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "fcbayerntv"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWU1NN",
+		"isSubscribed": true,
+		"isBlocked": false,
+		"availabilityStartTime": 1489160781000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 0,
+		"title": "MagentaCLOUD Z",
+		"parentalRating": 0,
+		"url": "http://193.33.92.73:81/index.html",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/8419579e57b231a8f94b6f10098f6eb8535d9214.png",
+				"imageType": 0
+			}
+		],
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "1080;720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "DEFAULT"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserInt"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": "MagentaCLOUD",
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "0+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "MediencenterZ"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWU1NM",
+		"isSubscribed": true,
+		"isBlocked": false,
+		"availabilityStartTime": 1489160781000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 0,
+		"title": "Telekom Mail Z",
+		"parentalRating": 0,
+		"url": "https://tv2email.ver.sul.t-online.de/zen",
+		"description": "Mit der Applikation E-Mail können Sie Ihre empfangenen E-Mails direkt zu Hause an Ihrem Fernseher abrufen und lesen. Dabei können Sie sich Ihren Posteingang anzeigen lassen, die E-Mails nach verschiedenen Vorgaben sortieren lassen und sich dann in einer Detailansicht die von Ihnen ausgewählte E-Mail lesen. Zusätzlich können Sie auf schnelle Weise E-Mails löschen. Voraussetzung ist eine T-Online E-Mailadresse. Sie erreichen das E-Mail Center im Internet unter www.t-online.de/email Mit Ihrer E-Mail-Adresse und Ihrem dazugehörigen Passwort sowie Ihrer Benutzer-PIN melden Sie sich an.",
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/e4f12af07db011b90deeba4c9f4606708f24d3ef.png",
+				"imageType": 0
+			}
+		],
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "1080;720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "DEFAULT"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserInt"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": "Mit der Applikation E-Mail können Sie Ihre empfangenen E-Mails direkt zu Hause an Ihrem Fernseher abrufen und lesen.",
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "0+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "eMailZ"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWU1NO",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1486137234000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "Netflix",
+		"parentalRating": 12,
+		"url": "netflix",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/4a6592c39fedff2781ddfc5689d01d7e5954fe75.png",
+				"imageType": 0
+			}
+		],
+		"customProps": [
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "DEFAULT"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "netflix"
+			},
+			{
+				"key": "DIAL_APP_NAME",
+				"value": "Netflix"
+			},
+			{
+				"key": "DIAL_ENABLE",
+				"value": "true"
+			},
+			{
+				"key": "DIAL_ALLOW_STOP",
+				"value": "true"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "Netflix"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWU1BC",
+		"isSubscribed": true,
+		"isBlocked": false,
+		"availabilityStartTime": 1485363614000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": null,
+		"title": "YouTubeZ",
+		"parentalRating": null,
+		"url": "https://www.youtube.de/tv",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/f875b3a4749896a34f7924be5706ba2c861ad730.png",
+				"imageType": 0
+			}
+		],
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "1080;720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "YT2016"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserExt"
+			},
+			{
+				"key": "DIAL_APP_NAME",
+				"value": "YouTube"
+			},
+			{
+				"key": "DIAL_ENABLE",
+				"value": "true"
+			},
+			{
+				"key": "DIAL_ALLOW_STOP",
+				"value": "true"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": null,
+		"isAdult": null,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "YouTubeZ"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWU1BN",
+		"isSubscribed": true,
+		"isBlocked": false,
+		"availabilityStartTime": 1485363614000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 0,
+		"title": "App 7 (iFrame)",
+		"parentalRating": 0,
+		"url": "http://193.33.92.73:81/index.html",
+		"description": null,
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "1080;720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "DEFAULT"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserInt"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": "App 7 (iFrame)",
+		"availabilityEndTime": 2114380799000,
+		"isAdult": false,
+		"parentalRatingLabel": "0+",
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "app7"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWU1BM",
+		"isSubscribed": true,
+		"isBlocked": false,
+		"availabilityStartTime": 1485363614000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": null,
+		"title": "App 10",
+		"parentalRating": null,
+		"url": "http://unknown",
+		"description": null,
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "1080;720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "MR400"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserExt"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": "App 10",
+		"availabilityEndTime": 2114380799000,
+		"isAdult": null,
+		"parentalRatingLabel": null,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "app10"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWU1BP",
+		"isSubscribed": true,
+		"isBlocked": false,
+		"availabilityStartTime": 1485363614000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 0,
+		"title": "App 6 (iFrame)",
+		"parentalRating": 0,
+		"url": "https://qaware-stb-zenterio.s3.amazonaws.com/index.html",
+		"description": null,
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "1080;720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "DEFAULT"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserInt"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": "App 6 (iFrame)",
+		"availabilityEndTime": 2114380799000,
+		"isAdult": false,
+		"parentalRatingLabel": "0+",
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "app6"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWU1BO",
+		"isSubscribed": true,
+		"isBlocked": false,
+		"availabilityStartTime": 1485363614000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": null,
+		"title": "App 11",
+		"parentalRating": null,
+		"url": "http://unknown",
+		"description": null,
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "1080;720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "MR400"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserExt"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": "App 11",
+		"availabilityEndTime": 2114380799000,
+		"isAdult": null,
+		"parentalRatingLabel": null,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "app11"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWU1BJ",
+		"isSubscribed": true,
+		"isBlocked": false,
+		"availabilityStartTime": 1485363614000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 0,
+		"title": "FRANCE 24",
+		"parentalRating": 0,
+		"url": "http://connected-tv.france24.com/dt/dt.html",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/895780dcdf6488cf28cf29c8ba242a4413741f60.png",
+				"imageType": 0
+			}
+		],
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "MR400"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserExt"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			},
+			{
+				"key": "dayTimeStart",
+				"value": "00:00:00"
+			}
+		],
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "0+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "france24"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWU1BI",
+		"isSubscribed": true,
+		"isBlocked": false,
+		"availabilityStartTime": 1485363614000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": null,
+		"title": "App 9",
+		"parentalRating": null,
+		"url": "http://unknown",
+		"description": null,
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "MR400"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserExt"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": "App 9",
+		"availabilityEndTime": 2114380799000,
+		"isAdult": null,
+		"parentalRatingLabel": null,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "app9"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWU1BL",
+		"isSubscribed": true,
+		"isBlocked": false,
+		"availabilityStartTime": 1485363614000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 0,
+		"title": "App 8",
+		"parentalRating": 0,
+		"url": "http://unknown",
+		"description": null,
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "MR400"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserExt"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": "App 8",
+		"availabilityEndTime": 2114380799000,
+		"isAdult": false,
+		"parentalRatingLabel": "0+",
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "app8"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWU1FM",
+		"isSubscribed": true,
+		"isBlocked": false,
+		"availabilityStartTime": 1478788615000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 0,
+		"title": "Telekom Eishockey",
+		"parentalRating": 0,
+		"url": "http://ngtv-stage.telekomeishockey.de/index.html#/playlist/7",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "1",
+				"url": "http://appepidat30001.tu0.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20161213/000102/0001020007437331/c8037837-6f38-4aa7-9887-dbfbcc8e9f4a.jpg",
+				"imageType": 2
+			},
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/5b863bf11b4a198f5897fc4cad389e3fac15b3be.png",
+				"imageType": 0
+			},
+			{
+				"serviceProviderImageType": "7",
+				"url": "http://appepidat30001.tu0.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20161213/000102/0001020007437331/9a11449b-5d80-4602-b6eb-1ac617b4182c.jpg",
+				"imageType": 1
+			}
+		],
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "MR400"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserExt"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": "DEL-Eishockey-App von Sportmarketing",
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "0+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": {
+			"url": "http://appepidat30001.tu0.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20161213/000102/0001020007437331/c8037837-6f38-4aa7-9887-dbfbcc8e9f4a.jpg",
+			"width": null,
+			"height": null
+		},
+		"cmsId": "TelekomEishockeyFC"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVFZL",
+		"isSubscribed": true,
+		"isBlocked": false,
+		"availabilityStartTime": 1477473118000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": null,
+		"title": "YouTube H Debug",
+		"parentalRating": null,
+		"url": "https://www.youtube.de/tv?launch=menu&additionalDataUrl=http%3A%2F%2Flocalhost%3A56789%2FdialData%2FYouTube&env_isVideoInfoVisible=1&env_forceFullAnimation=1",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/f875b3a4749896a34f7924be5706ba2c861ad730.png",
+				"imageType": 0
+			}
+		],
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "1080"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "YT2016"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserExt"
+			},
+			{
+				"key": "DIAL_ENABLE",
+				"value": "false"
+			},
+			{
+				"key": "DIAL_ALLOW_STOP",
+				"value": "false"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": "YouTube Debug Huawei",
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": null,
+		"isAdult": null,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "YouTubeHDebug"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVFZK",
+		"isSubscribed": true,
+		"isBlocked": false,
+		"availabilityStartTime": 1477473118000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": null,
+		"title": "YouTube Z Debug",
+		"parentalRating": null,
+		"url": "https://www.youtube.de/tv?env_isVideoInfoVisible=1&env_forceFullAnimation=1",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/f875b3a4749896a34f7924be5706ba2c861ad730.png",
+				"imageType": 0
+			}
+		],
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "1080;720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "YT2016"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserExt"
+			},
+			{
+				"key": "DIAL_ENABLE",
+				"value": "false"
+			},
+			{
+				"key": "DIAL_ALLOW_STOP",
+				"value": "false"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": "YouTube Debug Zenterio",
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": null,
+		"isAdult": null,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "YouTubeZDebug"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVFNL",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1471259423000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "BILD",
+		"parentalRating": 12,
+		"url": "http://json.bild.de/tv/smarttv/index.html",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/a11d1676c9fe04d72780ee91a8050c190585bb6f.png",
+				"imageType": 0
+			}
+		],
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "MR400"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserExt"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": "App zur Bild-Zeitung",
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "bild"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVFNK",
+		"isSubscribed": true,
+		"isBlocked": false,
+		"availabilityStartTime": 1471014995000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 0,
+		"title": "MagentaCLOUD",
+		"parentalRating": 0,
+		"url": "http://193.33.92.73/index.html",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/8419579e57b231a8f94b6f10098f6eb8535d9214.png",
+				"imageType": 0
+			}
+		],
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "1080;720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "DEFAULT"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserInt"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": "MagentaCLOUD",
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "0+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "Mediencenter"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVFBC",
+		"isSubscribed": true,
+		"isBlocked": false,
+		"availabilityStartTime": 1470820951000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 0,
+		"title": "Wetter.com",
+		"parentalRating": 0,
+		"url": "http://ng.tv.wetter.com/",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/0ac06ebe9a01b9acc4d81cdeec4d4d45837ef6d1.png",
+				"imageType": 0
+			}
+		],
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "MR400"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserExt"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": "Wetter-App der ProSiebenSat.1-Gruppe",
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "0+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "wettercom"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVFBN",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1470820951000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "TV NOW",
+		"parentalRating": 12,
+		"url": "http://stage.entertain.tvnow.de",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/81b1fa77e1a3281e077bf7c2b22e6d05a1c108e9.png",
+				"imageType": 0
+			}
+		],
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "MR400"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserExt"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": "RTL-Mediathek",
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "tv-now"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVFBP",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1470820951000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 16,
+		"title": "ARTE +7",
+		"parentalRating": 16,
+		"url": "http://www.arte.tv/hbbtvv2/notv/entertain/index.html?lang=de_DE&page=PLUS7&tv=false",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/cfdcbe1197f833e397dfd346fb33952558943d1c.png",
+				"imageType": 0
+			}
+		],
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "MR400"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserExt"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": "Arte Mediathek",
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "16+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "arte7"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVFBO",
+		"isSubscribed": true,
+		"isBlocked": false,
+		"availabilityStartTime": 1470820951000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 0,
+		"title": "Telekom Eishockey",
+		"parentalRating": 0,
+		"url": "http://ngtv-stage.telekomeishockey.de/index.html",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/813211e534f990eda849a8f0e103970a1a53ec13.png",
+				"imageType": 0
+			}
+		],
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "MR400"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserExt"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": "DEL-Eishockey-App von Sportmarketing",
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "0+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "telekom-eishockey"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVFBJ",
+		"isSubscribed": true,
+		"isBlocked": false,
+		"availabilityStartTime": 1470233034000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 0,
+		"title": "App 4 (iFrame)",
+		"parentalRating": 0,
+		"url": "http://ngtv.telekomeishockey.de/index.html",
+		"description": null,
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "1080;720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "DEFAULT"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserInt"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": "App 4 (iFrame)",
+		"availabilityEndTime": 2114380799000,
+		"isAdult": false,
+		"parentalRatingLabel": "0+",
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "app4"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVFBI",
+		"isSubscribed": true,
+		"isBlocked": false,
+		"availabilityStartTime": 1470233034000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 0,
+		"title": "App 3 (tab)",
+		"parentalRating": 0,
+		"url": "http://polaris-prod.axtest.net",
+		"description": null,
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "MR400"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserExt"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": "App 3 (tab)",
+		"availabilityEndTime": 2114380799000,
+		"isAdult": false,
+		"parentalRatingLabel": "0+",
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "app3"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVFBL",
+		"isSubscribed": true,
+		"isBlocked": false,
+		"availabilityStartTime": 1470233034000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 0,
+		"title": "App 5 (iFrame)",
+		"parentalRating": 0,
+		"url": "https://ngtv-stage.fcbtvlive.de/index.html#/",
+		"description": null,
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "1080;720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "DEFAULT"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserInt"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": "App 5 (iFrame)",
+		"availabilityEndTime": 2114380799000,
+		"isAdult": false,
+		"parentalRatingLabel": "0+",
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "app5"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVFBK",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1470233034000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "Netzkino",
+		"parentalRating": 12,
+		"url": "http://www.netzkino.de/smarttv/entertain",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/35b55b34d7de8edc1af1eaea855c9337f6b81d86.png",
+				"imageType": 0
+			}
+		],
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "MR400"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserExt"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": "Deutscher AVOD-Service",
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "Netzkino"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVFFD",
+		"isSubscribed": true,
+		"isBlocked": false,
+		"availabilityStartTime": 1470233034000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 0,
+		"title": "App 1 (tab)",
+		"parentalRating": 0,
+		"url": "http://telekom-ext-test4.maxdome.de/tv/index.html?env=stage",
+		"description": null,
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "MR400"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserExt"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": "App 1 (tab)",
+		"availabilityEndTime": 2114380799000,
+		"isAdult": false,
+		"parentalRatingLabel": "0+",
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "app1"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVFFC",
+		"isSubscribed": true,
+		"isBlocked": false,
+		"availabilityStartTime": 1470233034000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 0,
+		"title": "App 2 (tab)",
+		"parentalRating": 0,
+		"url": "http://polaris-test.axtest.net",
+		"description": null,
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "MR400"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserExt"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": "App 2 (tab)",
+		"availabilityEndTime": 2114380799000,
+		"isAdult": false,
+		"parentalRatingLabel": "0+",
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "app2"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVFFP",
+		"isSubscribed": true,
+		"isBlocked": false,
+		"availabilityStartTime": 1470130186000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 0,
+		"title": "COUCHPLAY",
+		"parentalRating": 0,
+		"url": "http://dtbox.itsmy.tv/spielecenter/",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/eb65c9cb1bcf93645a3fc19acbf8e8cf6300fa9f.png",
+				"imageType": 0
+			}
+		],
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "MR400"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserExt"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "0+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "couchplay"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVFFO",
+		"isSubscribed": true,
+		"isBlocked": false,
+		"availabilityStartTime": 1470130186000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 0,
+		"title": "Ampya",
+		"parentalRating": 0,
+		"url": "http://thisisadummyurl.de/",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/9350e56a51560ded9131e9313d6df43812c37197.png",
+				"imageType": 0
+			}
+		],
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "MR400"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserExt"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "0+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "ampya"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVFFL",
+		"isSubscribed": true,
+		"isBlocked": false,
+		"availabilityStartTime": 1466414907000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": null,
+		"title": "maxdome",
+		"parentalRating": null,
+		"url": "http://telekom.maxdome.de/tv/index.html?env=live",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/67743b66aec50291d41b36d3703f98c361842be3.png",
+				"imageType": 0
+			}
+		],
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "MR400"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserExt"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": null,
+		"isAdult": null,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "maxdome"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVVlN",
+		"isSubscribed": true,
+		"isBlocked": false,
+		"availabilityStartTime": 1460113128000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 0,
+		"title": "Lokal-TV",
+		"parentalRating": 0,
+		"url": "https://Internal:LocalChannel",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "1",
+				"url": "http://appepidat30001.tu0.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170112/000102/0001020003021858/83dda2e2-59ea-45e2-8c11-043b0aeac0a1.jpg",
+				"imageType": 2
+			},
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/3e3af017c2593a36c8766ebceffacbc857ca49c6.png",
+				"imageType": 0
+			},
+			{
+				"serviceProviderImageType": "7",
+				"url": "http://appepidat30001.tu0.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20161213/000102/0001020003021858/af4d245e-b998-4e8e-b68a-64efeb84b33b.jpg",
+				"imageType": 1
+			}
+		],
+		"customProps": null,
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "0+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": {
+			"url": "http://appepidat30001.tu0.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20170112/000102/0001020003021858/83dda2e2-59ea-45e2-8c11-043b0aeac0a1.jpg",
+			"width": null,
+			"height": null
+		},
+		"cmsId": "LocalTV"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVVdN",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1457597270000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "nrwision2",
+		"parentalRating": 12,
+		"url": "https://Internal:WhiteLableAPP?ServiceID=DG_TV_VoD_App_nrwision",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/79ccacfc425ad03db9de79a424924de839665735.png",
+				"imageType": 0
+			}
+		],
+		"customProps": null,
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "nrwision2"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVVdM",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1457597270000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "CityVision2",
+		"parentalRating": 12,
+		"url": "https://Internal:WhiteLableAPP?ServiceID=DG_TV_VoD_App_cityvision",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/9bb6cf0613e53161c3ebc8dd7902dd0d492136f5.png",
+				"imageType": 0
+			}
+		],
+		"customProps": null,
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "CityVision2"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVVdI",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1455110925000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "Sky on Demand",
+		"parentalRating": 12,
+		"url": "http://UAT-T.ONDEMAND.SKY.DE",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/7900f819a67f02fc1465a8e6542db4afd4c96c10.png",
+				"imageType": 0
+			}
+		],
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "MR400"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserExt"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "Sky"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVVc",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1444293755000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "ZDF Mediathek",
+		"parentalRating": 12,
+		"url": "https://hbbtv.zdf.de/zdfm3/tentertain.php",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/d2597e84398a2c22ba235cc8e84da09177b58602.png",
+				"imageType": 0
+			}
+		],
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "MR400"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserExt"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "ZDFMediathek"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVVRC",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1452514116000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "TLC",
+		"parentalRating": 12,
+		"url": "https://Internal:WhiteLableAPP?ServiceID=DG_TV_VoD_App_TLC",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/f3dc283c56c2730b9377c63a73e0a9c28e04f60f.png",
+				"imageType": 0
+			}
+		],
+		"customProps": null,
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "TLC"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVVRN",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1452514116000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "E-Entertainment",
+		"parentalRating": 12,
+		"url": "https://Internal:WhiteLableAPP?ServiceID=DG_TV_VoD_App_Eentertainment",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/0b7db7199a7cb56774e5deda1f4257c95858e6e3.png",
+				"imageType": 0
+			}
+		],
+		"customProps": null,
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "Eentertainment"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVVRM",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1452514116000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "TNT Serie",
+		"parentalRating": 12,
+		"url": "https://Internal:WhiteLableAPP?ServiceID=DG_TV_VoD_App_TNTSerie",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/219cd2f3a2cffe9fb9b96eb3c8348baf359cec71.png",
+				"imageType": 0
+			}
+		],
+		"customProps": null,
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "TNTSerie"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVVRP",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1452514116000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "Telekom Fussball",
+		"parentalRating": 12,
+		"url": "https://Internal:WhiteLableAPP?ServiceID=DG_TV_VoD_App_TelekomFussball",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/ca782435afcf81cd08de5c08a501e33af4a6650b.png",
+				"imageType": 0
+			}
+		],
+		"customProps": null,
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "TelekomFussball"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVVRO",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1452514115000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "Sky Fussball",
+		"parentalRating": 12,
+		"url": "https://Internal:WhiteLableAPP?ServiceID=DG_TV_VoD_App_SkyFussball",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/64b4dda683c90ad7f0609d157824a915a0b678a6.png",
+				"imageType": 0
+			}
+		],
+		"customProps": null,
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "SkyFussball"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVVRJ",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1452514115000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "TNT Glitz",
+		"parentalRating": 12,
+		"url": "https://Internal:WhiteLableAPP?ServiceID=DG_TV_VoD_App_TNTGlitz",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/162d5c06468c92f2cdc27b7a6adc1f0dbaca3958.png",
+				"imageType": 0
+			}
+		],
+		"customProps": null,
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "TNTGlitz"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVVRI",
+		"isSubscribed": true,
+		"isBlocked": false,
+		"availabilityStartTime": 1452514115000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 0,
+		"title": "Telekom Basketball",
+		"parentalRating": 0,
+		"url": "http://ngtv-stage.telekombasketball.de/index.html",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/f04d1688d31f3b4602f4c39316e2061a5eaa003b.png",
+				"imageType": 0
+			}
+		],
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "MR400"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserExt"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": "BBL-Basketball-App von Sportmarketing",
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "0+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "TelekomBasketball"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVVRL",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1452514116000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "HSVtotal",
+		"parentalRating": 12,
+		"url": "https://Internal:WhiteLableAPP?ServiceID=DG_TV_VoD_App_HSVtotal",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/2e1100d4f13d6f8b51fa205e0f0444cef9b275c1.png",
+				"imageType": 0
+			}
+		],
+		"customProps": null,
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "HSVtotal"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVVRK",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1452514115000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "sportdigital",
+		"parentalRating": 12,
+		"url": "https://Internal:WhiteLableAPP?ServiceID=DG_TV_VoD_App_Sportdigital",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/2dd0a0c60be37069d57b9ed021cf001f56658f40.png",
+				"imageType": 0
+			}
+		],
+		"customProps": null,
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "SportDigital"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVVQ",
+		"isSubscribed": true,
+		"isBlocked": false,
+		"availabilityStartTime": 1444293755000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 0,
+		"title": "Zubuchoptionen",
+		"parentalRating": 0,
+		"url": "https://ng-moretv.atu0.sda.t-online.de:8477/ClientH/index.html",
+		"description": null,
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "MR400"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserInt"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"isAdult": false,
+		"parentalRatingLabel": "0+",
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "MehrTV"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVVVD",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1452514116000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "Universal Channel",
+		"parentalRating": 12,
+		"url": "https://Internal:WhiteLableAPP?ServiceID=DG_TV_VoD_App_UniversalChannel",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/47b61038c212b7689f2cdbaa06aa258f5096a69f.png",
+				"imageType": 0
+			}
+		],
+		"customProps": null,
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "UniversalChannel"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVVVC",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1452514115000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "Sony TV",
+		"parentalRating": 12,
+		"url": "https://Internal:WhiteLableAPP?ServiceID=DG_TV_VoD_App_SonyTV",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/bc87440deaeaa70191899d550804e1e3b9ef6a49.png",
+				"imageType": 0
+			}
+		],
+		"customProps": null,
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "SonyTV"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVVVN",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1452514116000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "BVBtotal",
+		"parentalRating": 12,
+		"url": "https://Internal:WhiteLableAPP?ServiceID=DG_TV_VoD_App_BVBtotal",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/29606484a643942b94b5f6524d356106abcc4f77.png",
+				"imageType": 0
+			}
+		],
+		"customProps": null,
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "BVBtotal"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVVVM",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1452514115000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "Sport1",
+		"parentalRating": 12,
+		"url": "https://Internal:WhiteLableAPP?ServiceID=DG_TV_VoD_App_Sport1",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/62117ad4575424a373a14286f8cfeb2ac5563ab1.png",
+				"imageType": 0
+			}
+		],
+		"customProps": null,
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "Sport1"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVVVP",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1452514109000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "7TV",
+		"parentalRating": 12,
+		"url": " http://7tv-ngtv-test.p7s1digital.de",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/597a8aa9908891846e646a4f9bc4ffb2b5716174.png",
+				"imageType": 0
+			}
+		],
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "MR400"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserExt"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "7TV"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVVVO",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1452514110000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "13th Street",
+		"parentalRating": 12,
+		"url": "https://Internal:WhiteLableAPP?ServiceID=DG_TV_VoD_App_13thStreet",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/7719b5dd07e3732fcd0ac37b5a1444dec0abffd5.png",
+				"imageType": 0
+			}
+		],
+		"customProps": null,
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "13thStreet"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVVVJ",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1452514110000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "Cartoon Network",
+		"parentalRating": 12,
+		"url": "https://Internal:WhiteLableAPP?ServiceID=DG_TV_VoD_App_CartoonNetwork",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/f7f450b128013ee812511bf6f4c7b37f0aaf0c2a.png",
+				"imageType": 0
+			}
+		],
+		"customProps": null,
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "CartoonNetwork"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVVVI",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1452514110000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "Boomerang",
+		"parentalRating": 12,
+		"url": "https://Internal:WhiteLableAPP?ServiceID=DG_TV_VoD_App_Boomerang",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/bca10e204deb5c763403c655188a2ec3b70141b8.png",
+				"imageType": 0
+			}
+		],
+		"customProps": null,
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "Boomerang"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVVVL",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1452514110000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "auto motor und sport",
+		"parentalRating": 12,
+		"url": "https://Internal:WhiteLableAPP?ServiceID=DG_TV_VoD_App_automotorsport",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/50fd6e3152254e38bed20a062e79c1c92dd02890.png",
+				"imageType": 0
+			}
+		],
+		"customProps": null,
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "automotorsport"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVVVK",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1452514110000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "DMAX",
+		"parentalRating": 12,
+		"url": "https://Internal:WhiteLableAPP?ServiceID=DG_TV_VoD_App_DMAX",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/221c102ef46518a94759c8bf17db262afddf0e18.png",
+				"imageType": 0
+			}
+		],
+		"customProps": null,
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "DMAX"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVVU",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1444293755000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "Servus TV",
+		"parentalRating": 12,
+		"url": "https://Internal:WhiteLableAPP?ServiceID=DG_TV_VoD_App_ServusTV",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/6f317aa469e3663973ca8f58fbd21ebec71f8c58.png",
+				"imageType": 0
+			}
+		],
+		"customProps": null,
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "ServusTV"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVVJD",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1452514110000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "Bon Gusto",
+		"parentalRating": 12,
+		"url": "https://Internal:WhiteLableAPP?ServiceID=DG_TV_VoD_App_BonGusto",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/2c3cde8d6a2ee05d2058fe0e5f8766702d1c5fb7.png",
+				"imageType": 0
+			}
+		],
+		"customProps": null,
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "BonGusto"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVVJC",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1452514110000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "nrwision",
+		"parentalRating": 12,
+		"url": "https://Internal:WhiteLableAPP?ServiceID=DG_TV_VoD_App_nrwision",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "1",
+				"url": "http://appepidat30001.tu0.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20161213/000102/0001020001377156/f97da0b7-d1ec-4166-8202-bebf739f6582.png",
+				"imageType": 2
+			},
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/e10392c13284929b026f3ca377fdc9cf9d6c7d95.png",
+				"imageType": 0
+			},
+			{
+				"serviceProviderImageType": "7",
+				"url": "http://appepidat30001.tu0.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20161213/000102/0001020001377156/1dc39999-f894-4d19-99c8-320927d4315a.jpg",
+				"imageType": 1
+			}
+		],
+		"customProps": null,
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": {
+			"url": "http://appepidat30001.tu0.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20161213/000102/0001020001377156/f97da0b7-d1ec-4166-8202-bebf739f6582.png",
+			"width": null,
+			"height": null
+		},
+		"cmsId": "nrwision"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVVJN",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1452514109000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "Disney XD",
+		"parentalRating": 12,
+		"url": "https://Internal:WhiteLableAPP?ServiceID=DG_TV_VoD_App_DisneyXD",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/bd3563ada6bc8048ecee448cea4de902eb60eb51.png",
+				"imageType": 0
+			}
+		],
+		"customProps": null,
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "DisneyXD"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVVJM",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1452514110000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "CityVision",
+		"parentalRating": 12,
+		"url": "https://Internal:WhiteLableAPP?ServiceID=DG_TV_VoD_App_cityvision",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "1",
+				"url": "http://appepidat30001.tu0.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20161213/000102/0001020001377165/e366a326-f94e-4fed-9608-a9f04256daeb.png",
+				"imageType": 2
+			},
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/f27181650a74893472dd30929a42a0b35524d09e.png",
+				"imageType": 0
+			},
+			{
+				"serviceProviderImageType": "7",
+				"url": "http://appepidat30001.tu0.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20161213/000102/0001020001377165/8e2699aa-7279-4b64-930e-0b2e4d2dd170.jpg",
+				"imageType": 1
+			}
+		],
+		"customProps": null,
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": {
+			"url": "http://appepidat30001.tu0.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20161213/000102/0001020001377165/e366a326-f94e-4fed-9608-a9f04256daeb.png",
+			"width": null,
+			"height": null
+		},
+		"cmsId": "CityVision"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVVJP",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1452514110000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "History",
+		"parentalRating": 12,
+		"url": "https://Internal:WhiteLableAPP?ServiceID=DG_TV_VoD_App_History",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/cdd352c9c0aefd5ba95fe1f8f94b71240f0a30d4.png",
+				"imageType": 0
+			}
+		],
+		"customProps": null,
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "History"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVVJO",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1452514110000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "cnn",
+		"parentalRating": 12,
+		"url": "https://Internal:WhiteLableAPP?ServiceID=DG_TV_VoD_App_CNN",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/0685b9287558d39d7ce29d7b86e6e77897feaa38.png",
+				"imageType": 0
+			}
+		],
+		"customProps": null,
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "cnn"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVVJJ",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1452514110000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "A&E",
+		"parentalRating": 12,
+		"url": "https://Internal:WhiteLableAPP?ServiceID=DG_TV_VoD_App_AundE",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/02100e50835dab1b69b71a5bc7a536d5be7c49aa.png",
+				"imageType": 0
+			}
+		],
+		"customProps": null,
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "AundE"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVVJI",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1452514110000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "Disney Junior",
+		"parentalRating": 12,
+		"url": "https://Internal:WhiteLableAPP?ServiceID=DG_TV_VoD_App_DisneyJunior",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/2c31866243975d8a2dcb1ca471cb04b31c8a16d6.png",
+				"imageType": 0
+			}
+		],
+		"customProps": null,
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "DisneyJunior"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVVJL",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1452514109000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "AXN",
+		"parentalRating": 12,
+		"url": "https://Internal:WhiteLableAPP?ServiceID=DG_TV_VoD_App_AXN",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/781a478cd6fcabf222de52c3c62548cae6b29f91.png",
+				"imageType": 0
+			}
+		],
+		"customProps": null,
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "AXN"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVVA",
+		"isSubscribed": true,
+		"isBlocked": false,
+		"availabilityStartTime": 1444293755000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 0,
+		"title": "PIN Verwaltung",
+		"parentalRating": 0,
+		"url": "https://ng-uac.atu0.sda.t-online.de:8478/ClientH/index.html",
+		"description": null,
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "MR400"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserInt"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"isAdult": false,
+		"parentalRatingLabel": "0+",
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "PIN"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVVE",
+		"isSubscribed": true,
+		"isBlocked": false,
+		"availabilityStartTime": 1444293755000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": null,
+		"title": "YouTube",
+		"parentalRating": null,
+		"url": "https://www.youtube.de/tv?launch=menu&additionalDataUrl=http%3A%2F%2Flocalhost%3A56789%2FdialData%2FYouTube",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "1",
+				"url": "http://appepidat30001.tu0.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20161213/000102/0001020000000103/93376da2-1016-4ead-bfc6-85ee75c61361.png",
+				"imageType": 2
+			},
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/f875b3a4749896a34f7924be5706ba2c861ad730.png",
+				"imageType": 0
+			},
+			{
+				"serviceProviderImageType": "7",
+				"url": "http://appepidat30001.tu0.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20161213/000102/0001020000000103/d4d4173d-e67e-4c00-930c-d662f2d91304.png",
+				"imageType": 1
+			}
+		],
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "YT2016"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserExt"
+			},
+			{
+				"key": "DIAL_ENABLE",
+				"value": "false"
+			},
+			{
+				"key": "DIAL_ALLOW_STOP",
+				"value": "false"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": null,
+		"isAdult": null,
+		"isLocked": false,
+		"icon": {
+			"url": "http://appepidat30001.tu0.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20161213/000102/0001020000000103/93376da2-1016-4ead-bfc6-85ee75c61361.png",
+			"width": null,
+			"height": null
+		},
+		"cmsId": "YouTube"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVlhL",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1452253775000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "Spiegel TV Wissen",
+		"parentalRating": 12,
+		"url": "https://Internal:WhiteLableAPP?ServiceID=DG_TV_VoD_App_SpiegelTVWissen",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/3c5a5dd98f1ec86b7d3263dfa0a4a01784ee1a8f.png",
+				"imageType": 0
+			}
+		],
+		"customProps": null,
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "SpiegelTVWissen"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVlY",
+		"isSubscribed": true,
+		"isBlocked": false,
+		"availabilityStartTime": 1444293755000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 0,
+		"title": "Telekom Mail",
+		"parentalRating": 0,
+		"url": "https://tv2email.ver.sul.t-online.de",
+		"description": "Mit der Applikation E-Mail können Sie Ihre empfangenen E-Mails direkt zu Hause an Ihrem Fernseher abrufen und lesen. Dabei können Sie sich Ihren Posteingang anzeigen lassen, die E-Mails nach verschiedenen Vorgaben sortieren lassen und sich dann in einer Detailansicht die von Ihnen ausgewählte E-Mail lesen. Zusätzlich können Sie auf schnelle Weise E-Mails löschen. Voraussetzung ist eine T-Online E-Mailadresse. Sie erreichen das E-Mail Center im Internet unter www.t-online.de/email Mit Ihrer E-Mail-Adresse und Ihrem dazugehörigen Passwort sowie Ihrer Benutzer-PIN melden Sie sich an.",
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/e4f12af07db011b90deeba4c9f4606708f24d3ef.png",
+				"imageType": 0
+			}
+		],
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "1080;720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "DEFAULT"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserInt"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": "Mit der Applikation E-Mail können Sie Ihre empfangenen E-Mails direkt zu Hause an Ihrem Fernseher abrufen und lesen.",
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "0+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "eMail"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVldM",
+		"isSubscribed": true,
+		"isBlocked": false,
+		"availabilityStartTime": 1445414075000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 0,
+		"title": "FUSSBALL interaktiv (light)",
+		"parentalRating": 0,
+		"url": "https://ibuli-ui-st.sys.sda.t-online.de/htdocs/index.html",
+		"description": null,
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "1080;720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "DEFAULT"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserInt"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": "FUSSBALL interaktiv - Aktuelle Informationen und Statistiken der ersten und zweiten Bundesliga.",
+		"availabilityEndTime": 2114380799000,
+		"isAdult": false,
+		"parentalRatingLabel": "0+",
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "iBuliLight"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVldI",
+		"isSubscribed": true,
+		"isBlocked": false,
+		"availabilityStartTime": 1445414075000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 0,
+		"title": "Meine Aufnahmen",
+		"parentalRating": 0,
+		"url": "https://Internal:RecordingChannel",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "1",
+				"url": "http://appepidat30001.tu0.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20161213/000102/0001020000357046/ab33dae6-418b-4f4f-882e-71f3891d36d7.png",
+				"imageType": 2
+			},
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/5907a60bfb29f7bd3d141b1dc36ab3c74d4b6e5b.png",
+				"imageType": 0
+			},
+			{
+				"serviceProviderImageType": "7",
+				"url": "http://appepidat30001.tu0.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20161213/000102/0001020000357046/6e97f158-ecfc-4ee6-92fe-15111ab197f8.png",
+				"imageType": 1
+			}
+		],
+		"customProps": null,
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "0+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": {
+			"url": "http://appepidat30001.tu0.sngtv.t-online.de:33220/EPG/jsp/images/universal/film/poster/fileEntity/20161213/000102/0001020000357046/ab33dae6-418b-4f4f-882e-71f3891d36d7.png",
+			"width": null,
+			"height": null
+		},
+		"cmsId": "RecordingChannel"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVldL",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1445414074000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "TNT Film",
+		"parentalRating": 12,
+		"url": "https://Internal:WhiteLableAPP?ServiceID=DG_TV_VoD_App_TNTFilm",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/5e096e698637fbd9749322efbdbec093b82d6ea1.png",
+				"imageType": 0
+			}
+		],
+		"customProps": null,
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "TNTFilm"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVldK",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1445414075000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "Videoload",
+		"parentalRating": 12,
+		"url": "https://Internal:WhiteLableAPP?ServiceID=DG_TV_VoD_App_Videoload",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/343bc027c9cfaed28681037508dc2348825b9036.png",
+				"imageType": 0
+			}
+		],
+		"customProps": null,
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "Videoload"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVlc",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1444293755000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "ARD Mediathek",
+		"parentalRating": 12,
+		"url": "http://hbbtv.ardmediathek.de/hbbtv-ard/mediathek/?devicegroup=hbbtv&context=entertain",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/b4320840435f3820448ce6acaeafda0f05422f76.png",
+				"imageType": 0
+			}
+		],
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "MR400"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserExt"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "ARDMediathek"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVlRC",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1445414074000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "Entertain Selection",
+		"parentalRating": 12,
+		"url": "https://Internal:WhiteLableAPP?ServiceID=DG_TV_VoD_App_EntertainSelection",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/8c7e0ce881e4d9b146d8b943da976c002875af20.png",
+				"imageType": 0
+			}
+		],
+		"customProps": null,
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "EntertainSelection"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVlRN",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1445414074000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "Kinowelt",
+		"parentalRating": 12,
+		"url": "https://Internal:WhiteLableAPP?ServiceID=DG_TV_VoD_App_Kinowelt",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/3bb0892c8a7536c475b2d57d547c824201ab0861.png",
+				"imageType": 0
+			}
+		],
+		"customProps": null,
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "Kinowelt"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVlRM",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1445414074000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "Syfy",
+		"parentalRating": 12,
+		"url": "https://Internal:WhiteLableAPP?ServiceID=DG_TV_VoD_App_Syfy",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/2551cec36a64c8174f4c322458557210b35980dd.png",
+				"imageType": 0
+			}
+		],
+		"customProps": null,
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "Syfy"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVlRP",
+		"isSubscribed": true,
+		"isBlocked": true,
+		"availabilityStartTime": 1445414074000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 12,
+		"title": "Disney Channel",
+		"parentalRating": 12,
+		"url": "https://Internal:WhiteLableAPP?ServiceID=DG_TV_VoD_App_DisneyChannel",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/2ef762f6d053f286bb3816f63c7eadc7a9e37c05.png",
+				"imageType": 0
+			}
+		],
+		"customProps": null,
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "12+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "DisneyChannel"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVlU",
+		"isSubscribed": true,
+		"isBlocked": false,
+		"availabilityStartTime": 1444293755000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 0,
+		"title": "FUSSBALL interaktiv",
+		"parentalRating": 0,
+		"url": "https://ibuli-ui-st.sys.sda.t-online.de/htdocs/index.html#/",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/ba070c4ec87e426096ed42a42f98f6becbf0e24e.png",
+				"imageType": 0
+			}
+		],
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "1080;720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "DEFAULT"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserInt"
+			}
+		],
+		"shortDescription": "FUSSBALL interaktiv - Aktuelle Informationen und Statistiken der ersten und zweiten Bundesliga.",
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "0+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "iBuLi"
+	},
+	{
+		"vasType": 1,
+		"zosaId": "zosa:FFxKQxpWEQAJQwdWVlI",
+		"isSubscribed": true,
+		"isBlocked": false,
+		"availabilityStartTime": 1444293755000,
+		"parentalRatingAgency": null,
+		"zosaType": "VasItem",
+		"minViewingAge": 0,
+		"title": "phonostar Radio",
+		"parentalRating": 0,
+		"url": "https://Internal:WebRadio",
+		"description": null,
+		"images": [
+			{
+				"serviceProviderImageType": "4",
+				"url": "http://epgpm-sl0.ver.sda.t-online.de/media/7d0dad096ec403376397db3d44bef3fc11888fdc.png",
+				"imageType": 0
+			}
+		],
+		"customProps": [
+			{
+				"key": "RESOLUTION",
+				"value": "720"
+			},
+			{
+				"key": "KEY_MAPPING_ID",
+				"value": "MR400"
+			},
+			{
+				"key": "MANIFEST_NAME",
+				"value": "browserInt"
+			},
+			{
+				"key": "TURN_VIDEO_OFF",
+				"value": "true"
+			}
+		],
+		"shortDescription": null,
+		"availabilityEndTime": 2114380799000,
+		"parentalRatingLabel": "0+",
+		"isAdult": false,
+		"isLocked": false,
+		"icon": null,
+		"cmsId": "Webradio"
+	}
+]

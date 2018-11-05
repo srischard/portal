@@ -1,0 +1,10 @@
+{
+    "loglevel": "info",
+    "loggertype": "console",
+    "msgfilter": ".",
+    "endpoint": "http://192.168.2.101:8089/",
+    "buffer": {
+        "lines": 100,
+        "time": 1
+    }
+}

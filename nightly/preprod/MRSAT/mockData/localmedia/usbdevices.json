@@ -1,0 +1,233 @@
+[{
+    "itemId": 0,
+    "active": true,
+    "name": "Mock Stick 0",
+    "isContainer": false,
+    "type": "device",
+    "children":[
+       {
+           "properties":{
+                "itemId": 10,
+                "isContainer": true,
+                "name": "C Folder 0-0",
+                "type": "item",
+                "specificType": 18,     
+                "modificationTimeUTC": 1487955415527,
+                "childCount": 99,
+                "children":[]
+                }
+       },
+       { 
+           "properties":{
+                "itemId": 11,
+                "isContainer": true,
+                "name": "A Folder 0-1",
+                "type": "item",
+                "specificType": 18,     
+                "modificationTimeUTC": 0,
+                "childCount": 1,
+                "children":[]
+                }
+       },
+       { 
+           "properties":{
+                "itemId": 12,
+                "name": "Image 0-0",
+                "type": "item",
+                "fileType": "image",           
+                "fileExtension": "JPG",
+                "size": 2000000,
+                "modificationTimeUTC": 0
+                }
+       },
+       { 
+           "properties":{
+                "itemId": 13,
+                "name": "Image 0-1",
+                "type": "item",
+                "fileType":"image",     
+                "fileExtension": "PNG",
+                "size": 3000000,
+                "modificationTimeUTC": 0
+                }
+       },
+       { 
+           "properties":{
+                "itemId": 14,
+                "name": "Audio 0-0",
+                "type": "item",
+                "fileType": "audio",    
+                "fileExtension": "MP3",
+                "duration": 42,
+                "modificationTimeUTC": 0
+                }
+       },
+       { 
+           "properties":{
+                "itemId": 15,
+                "name": "Video 0-0",
+                "type": "item",
+                "fileType": "video",     
+                "fileExtension": "MP4",
+                "duration": 238,
+                "modificationTimeUTC": 0
+                }
+       },
+        { 
+           "properties":{
+                "itemId": 16,
+                "name": "Video 0-1",
+                "type": "item",
+                "fileType": "video",     
+                "fileExtension": "MP4",
+                "duration": 238,
+                "modificationTimeUTC": 0
+                }
+       },
+        { 
+           "properties":{
+                "itemId": 17,
+                "name": "Audio 0-1",
+                "type": "item",
+                "fileType": "audio",    
+                "fileExtension": "MP3",
+                "duration": 42,
+                "modificationTimeUTC": 0
+                }
+       },
+       {
+           "properties":{
+                "itemId": 18,
+                "isContainer": true,
+                "name": "B Folder 0-3",
+                "type": "item",
+                "modificationTimeUTC": 0,
+                "childCount": 7,
+                "children":[]
+                }
+       },
+       {
+           "properties":{
+                "itemId": 19,
+                "isContainer": false,
+                "name": "GanzBöse.Exe",
+                "type": "item",
+                "fileType": "exe",    
+                "modificationTimeUTC": 0,
+                "childCount": 7,
+                "children":[]
+                }
+       }
+    ]
+},
+{
+    "itemId": 1,
+    "active": true,
+    "name": "Mock Stick 1",
+    "isContainer": false,
+    "type": "device",
+    "specificType": "storageFolder",
+       "children":[
+       {
+           "properties":{
+                "itemId": 101,
+                "isContainer": true,
+                "name": "Folder 1-0",
+                "type": "item",
+                "specificType": 18,     
+                "modificationTimeUTC": 1487955415527,
+                "childCount": 99,
+                "children":[]
+                }
+       },
+       { 
+           "properties":{
+                "itemId": 102,
+                "isContainer": true,
+                "name": "Folder 1-1",
+                "type": "item",
+                "specificType": 18,     
+                "modificationTimeUTC": 0,
+                "childCount": 1,
+                "children":[]
+                }
+       },
+       { 
+           "properties":{
+                "itemId": 103,
+                "name": "Image 1-0",
+                "type": "item",
+                "fileType": "image",           
+                "fileExtension": "JPG",
+                "size": 2000000,
+                "modificationTimeUTC": 0
+                }
+       },
+       { 
+           "properties":{
+                "itemId": 104,
+                "name": "Image 1-1",
+                "type": "item",
+                "fileType":"image",     
+                "fileExtension": "PNG",
+                "size": 3000000,
+                "modificationTimeUTC": 0
+                }
+       },
+       { 
+           "properties":{
+                "itemId": 105,
+                "name": "Audio 1-0",
+                "type": "item",
+                "fileType": "audio",    
+                "fileExtension": "MP3",
+                "duration": 42,
+                "modificationTimeUTC": 0
+                }
+       },
+       { 
+           "properties":{
+                "itemId": 106,
+                "name": "Video 1-0",
+                "type": "item",
+                "fileType": "video",     
+                "fileExtension": "MP4",
+                "duration": 238,
+                "modificationTimeUTC": 0
+                }
+       },
+        { 
+           "properties":{
+                "itemId": 107,
+                "name": "Video 1-1",
+                "type": "item",
+                "fileType": "video",     
+                "fileExtension": "MP4",
+                "duration": 238,
+                "modificationTimeUTC": 0
+                }
+       },
+        { 
+           "properties":{
+                "itemId": 108,
+                "name": "Audio 1-1",
+                "type": "item",
+                "fileType": "audio",    
+                "fileExtension": "MP3",
+                "duration": 42,
+                "modificationTimeUTC": 0
+                }
+       },
+       {
+           "properties":{
+                "itemId":109,
+                "isContainer": true,
+                "name": "Folder 11-3",
+                "type": "item",
+                "modificationTimeUTC": 0,
+                "childCount": 7,
+                "children":[]
+                }
+       }
+    ]
+}]

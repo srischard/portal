@@ -1,0 +1,339 @@
+﻿{
+  "totalItems" : 223,
+  "totalGroups" : 117,
+  "offset" : 0,
+  "sort" : "relevance",
+  "navigators" : [ {
+    "id" : "partnerIds",
+    "name" : "Partnerangebote",
+    "entries" : [ {
+      "id" : "7tv",
+      "name" : "7TV",
+      "size" : 2
+    }, {
+      "id" : "ard",
+      "name" : "ARD",
+      "size" : 3
+    }, {
+      "id" : "entertainselection",
+      "name" : "Entertain Selection",
+      "size" : 1
+    }, {
+      "id" : "erotic-lounge",
+      "name" : "Erotic Lounge",
+      "size" : 2
+    }, {
+      "id" : "sky",
+      "name" : "Sky",
+      "size" : 8
+    }, {
+      "id" : "videoload",
+      "name" : "Videoload",
+      "size" : 35
+    }, {
+      "id" : "watchever",
+      "name" : "WATCHEVER",
+      "size" : 5
+    }, {
+      "id" : "zdf",
+      "name" : "ZDF",
+      "size" : 2
+    }, {
+      "id" : "maxdome",
+      "name" : "maxdome",
+      "size" : 41
+    } ]
+  }, {
+    "id" : "availability",
+    "name" : "Verfügbarkeit",
+    "entries" : [ {
+      "id" : "freeVod",
+      "name" : "Kostenlos",
+      "size" : 8
+    }, {
+      "id" : "chargeVod",
+      "name" : "Kostenpflichtig",
+      "size" : 72
+    } ]
+  }, {
+    "id" : "type",
+    "name" : "Quelle",
+    "entries" : [ {
+      "id" : "logicalChannel",
+      "name" : "Sender",
+      "size" : 1
+    }, {
+      "id" : "broadcast",
+      "name" : "TV",
+      "size" : 140
+    }, {
+      "id" : "person",
+      "name" : "Personen",
+      "size" : 4
+    }, {
+      "id" : "vod",
+      "name" : "Video",
+      "size" : 78
+    } ]
+  }, {
+    "id" : "ageRating",
+    "name" : "Alterskennzeichnung",
+    "entries" : [ {
+      "id" : "unknown",
+      "name" : "Keine Alterskennzeichnung",
+      "size" : 148
+    }, {
+      "id" : "0",
+      "name" : "Ab 0 Jahren",
+      "size" : 5
+    }, {
+      "id" : "6",
+      "name" : "Ab 6 Jahren",
+      "size" : 5
+    }, {
+      "id" : "12",
+      "name" : "Ab 12 Jahren",
+      "size" : 51
+    }, {
+      "id" : "16",
+      "name" : "Ab 16 Jahren",
+      "size" : 9
+    }, {
+      "id" : "18",
+      "name" : "Ab 18 Jahren",
+      "size" : 2
+    }, {
+      "id" : "oaf",
+      "name" : "Erwachsenenangebote",
+      "size" : 2
+    } ]
+  } ],
+  "results" : [ {
+    "id" : "arte",
+    "type" : "tvChannel",
+    "title" : "ARTE HD",
+    "languages" : [ "deutsch", "französisch" ],
+    "genres" : [ "News/Doku/Kultur" ],
+    "poster" : "http://programm-manager.telekom.de/media/a94bb4917f279b02cb739e788c18f38a009f95a0.png"
+  }, {
+    "id" : "groupTypeAdult__3b75f3ad0872b5699183771cb5279166",
+    "type" : "group",
+    "title" : "ARTE Journal",
+    "size" : 24,
+    "adult" : false,
+    "pcon" : false,
+    "items" : [ {
+      "id" : "00368d2e",
+      "type" : "tvBroadcast",
+      "title" : "ARTE Journal",
+      "logicalChannelId" : "arte",
+      "start" : "2016-02-29T13:20:00+0100",
+      "end" : "2016-02-29T13:45:00+0100",
+      "channelLogo" : "http://programm-manager.telekom.de/media/a94bb4917f279b02cb739e788c18f38a009f95a0.png",
+      "logicalChannelName" : "ARTE",
+      "mainGenre" : "Politik",
+      "category" : "Information",
+      "countries" : [ "Deutschland", "Frankreich" ],
+      "year" : 2016,
+      "poster" : "http://programm-manager.telekom.de/media/cf83b49e944fb8b77846142dcb256e3fa82dd245.jpg",
+      "seriesTitle" : "Arte Journal",
+      "ageRatingName" : "Keine Alterskennzeichnung",
+      "ageRatingId" : "Unbekannt",
+      "instantRestart" : true,
+      "cluster" : "tv"
+    } ]
+  }, {
+    "id" : "groupTypeAdult__bdb014e13982a50cb5a19a6f39863bd8",
+    "type" : "group",
+    "title" : "ARTE Reportage",
+    "size" : 3,
+    "adult" : false,
+    "pcon" : false,
+    "items" : [ {
+      "id" : "003769ac",
+      "type" : "tvBroadcast",
+      "title" : "ARTE Reportage",
+      "logicalChannelId" : "arte",
+      "start" : "2016-03-05T17:05:00+0100",
+      "end" : "2016-03-05T18:00:00+0100",
+      "channelLogo" : "http://programm-manager.telekom.de/media/a94bb4917f279b02cb739e788c18f38a009f95a0.png",
+      "logicalChannelName" : "ARTE",
+      "mainGenre" : "Dokumentation",
+      "category" : "Information",
+      "countries" : [ "Deutschland" ],
+      "year" : 2015,
+      "poster" : "http://programm-manager.telekom.de/media/0431210d63bdddc59a01d327acd6b145e29a0b65.jpg",
+      "seriesTitle" : "ARTE Reportage",
+      "seasonNumber" : 1,
+      "episodeNumber" : 0,
+      "ageRatingName" : "Keine Alterskennzeichnung",
+      "ageRatingId" : "Unbekannt",
+      "instantRestart" : true,
+      "cluster" : "tv"
+    } ]
+  }, {
+    "id" : "groupTypeAdult__d5d755a984d55b35327650266a7994d9",
+    "type" : "group",
+    "title" : "ARTE Journal Junior",
+    "size" : 9,
+    "adult" : false,
+    "pcon" : false,
+    "items" : [ {
+      "id" : "0036d809",
+      "type" : "tvBroadcast",
+      "title" : "ARTE Journal Junior",
+      "logicalChannelId" : "arte",
+      "start" : "2016-03-01T07:35:00+0100",
+      "end" : "2016-03-01T07:40:00+0100",
+      "channelLogo" : "http://programm-manager.telekom.de/media/a94bb4917f279b02cb739e788c18f38a009f95a0.png",
+      "logicalChannelName" : "ARTE",
+      "mainGenre" : "Kinder",
+      "category" : "Kinder",
+      "countries" : [ "Frankreich", "Deutschland" ],
+      "year" : 2014,
+      "poster" : "http://programm-manager.telekom.de/media/13c50cb1d4a79baf106f336fc9eb96857540dedc.jpg",
+      "seriesTitle" : "ARTE Journal Junior",
+      "ageRatingName" : "Keine Alterskennzeichnung",
+      "ageRatingId" : "Unbekannt",
+      "instantRestart" : true,
+      "cluster" : "tv"
+    } ]
+  }, {
+    "id" : "groupTypeAdult__18639ef2c4bc48dae859278073370be9",
+    "type" : "group",
+    "title" : "Best of ARTE Journal",
+    "size" : 2,
+    "adult" : false,
+    "pcon" : false,
+    "items" : [ {
+      "id" : "00376997",
+      "type" : "tvBroadcast",
+      "title" : "Best of ARTE Journal",
+      "logicalChannelId" : "arte",
+      "start" : "2016-03-05T04:10:00+0100",
+      "end" : "2016-03-05T05:05:00+0100",
+      "channelLogo" : "http://programm-manager.telekom.de/media/a94bb4917f279b02cb739e788c18f38a009f95a0.png",
+      "logicalChannelName" : "ARTE",
+      "mainGenre" : "Dokumentation",
+      "category" : "Information",
+      "countries" : [ "Frankreich", "Deutschland" ],
+      "poster" : "http://programm-manager.telekom.de/media/9cad58583af1a33d168516a69edaee76164f3c53.jpg",
+      "seriesTitle" : "Best of ARTE Journal",
+      "ageRatingName" : "Keine Alterskennzeichnung",
+      "ageRatingId" : "Unbekannt",
+      "instantRestart" : true,
+      "cluster" : "tv"
+    } ]
+  }, {
+    "id" : "groupTypeAdult__2685c94171c81de86593cf662cacc920",
+    "type" : "group",
+    "title" : "ARTE Junior Das Magazin",
+    "size" : 2,
+    "adult" : false,
+    "pcon" : false,
+    "items" : [ {
+      "id" : "00377701",
+      "type" : "tvBroadcast",
+      "title" : "ARTE Junior Das Magazin",
+      "logicalChannelId" : "arte",
+      "start" : "2016-03-06T09:15:00+0100",
+      "end" : "2016-03-06T09:30:00+0100",
+      "channelLogo" : "http://programm-manager.telekom.de/media/a94bb4917f279b02cb739e788c18f38a009f95a0.png",
+      "logicalChannelName" : "ARTE",
+      "mainGenre" : "Wissen",
+      "category" : "Information",
+      "countries" : [ "Frankreich", "Deutschland" ],
+      "year" : 2015,
+      "poster" : "http://programm-manager.telekom.de/media/8f06f33b3e7b9cdc0bbec180989b9c38aaac64ae.jpg",
+      "seriesTitle" : "ARTE Junior Magazin",
+      "ageRatingName" : "Keine Alterskennzeichnung",
+      "ageRatingId" : "Unbekannt",
+      "instantRestart" : true,
+      "cluster" : "tv"
+    } ]
+  }, {
+    "id" : "gnp_77248",
+    "type" : "person",
+    "title" : "Arte Johnson",
+    "roles" : [ "actor" ],
+    "poster" : "http://programm-manager.telekom.de/media/gracenote_persons/77248_v9_ba.jpg",
+    "filmography" : [ {
+      "title" : "Second Chance",
+      "year" : 1996
+    }, {
+      "title" : "Captiva Island",
+      "year" : 1995
+    }, {
+      "title" : "Assault of the Party Nerds 2: The Heavy Petting Detective",
+      "year" : 1995
+    } ]
+  }, {
+    "id" : "GN_EP019559930369",
+    "type" : "vod",
+    "title" : "L'arte in Cucina, Düsseldorf",
+    "vodType" : "episode",
+    "mainGenre" : "Show",
+    "countries" : [ "Deutschland" ],
+    "year" : 2016,
+    "scenes" : [ ],
+    "ageRatingName" : "Ab 6 Jahren (FSF)",
+    "ageRatingId" : "FSF 6",
+    "seriesTitle" : "Mein Lokal, Dein Lokal - Wo schmeckt's am Besten?",
+    "partners" : [ {
+      "name" : "7TV",
+      "logo" : "http://programm-manager.telekom.de/media/partners/48x48_7tv_icon_monochrome.png"
+    }, {
+      "name" : "maxdome",
+      "logo" : "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+    } ],
+    "cluster" : "vodSeries",
+    "sourceType" : "tvArchive",
+    "airtime" : "2016-02-04T12:00:00+0100",
+    "category" : "series"
+  }, {
+    "id" : "GN_EP019842690024",
+    "type" : "vod",
+    "title" : "Artefakte",
+    "vodType" : "episode",
+    "mainGenre" : "Drama",
+    "countries" : [ "USA", "Kanada" ],
+    "year" : 1999,
+    "scenes" : [ ],
+    "ageRatingName" : "Keine Alterskennzeichnung",
+    "ageRatingId" : "Unbekannt",
+    "seriesTitle" : "Akte X - Die unheimlichen Fälle des FBI",
+    "seasonNumber" : 6,
+    "episodeNumber" : 22,
+    "partners" : [ {
+      "name" : "maxdome",
+      "logo" : "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+    }, {
+      "name" : "Sky",
+      "logo" : "http://programm-manager.telekom.de/media/partners/48x48_sky_icon_monochrome.png"
+    } ],
+    "cluster" : "vodSeries",
+    "sourceType" : "vodPremium",
+    "airtime" : "1999-05-16T12:00:00+0200",
+    "category" : "series"
+  }, {
+    "id" : "GN_EP021876240006",
+    "type" : "vod",
+    "title" : "Artenvielfalt",
+    "vodType" : "episode",
+    "mainGenre" : "Kinder",
+    "countries" : [ "Frankreich" ],
+    "scenes" : [ ],
+    "ageRatingName" : "Ab 6 Jahren",
+    "ageRatingId" : "NEUTRAL 6",
+    "seriesTitle" : "Es war einmal unsere Erde",
+    "seasonNumber" : 1,
+    "episodeNumber" : 16,
+    "partners" : [ {
+      "name" : "Entertain Selection",
+      "logo" : "http://programm-manager.telekom.de/media/partners/48x48_entertain_selection_icon_monochrome.png"
+    } ],
+    "cluster" : "vodSeries",
+    "sourceType" : "tvArchive",
+    "category" : "series"
+  } ]
+}

@@ -1,0 +1,38 @@
+﻿[
+    {
+        "key": "ZSATodudbconfig",
+        "value": ""
+    },
+    {
+        "key": "STBNightlyRebootEndTime",
+        "value": "030000"
+    },
+    {
+        "key": "STBNightlyReboot",
+        "value": "On"
+    },
+    {
+        "key": "STBNightlyRebootStartTime",
+        "value": "020000"
+    },
+    {
+        "key": "InterstitialPageOnOff",
+        "value": "On"
+    },
+    {
+        "key": "StartPageOnOff",
+        "value": "On"
+    },
+    {
+        "key": "3DPartyAllow",
+        "value": "{}"
+    },
+    {
+        "key": "3DPartyDataPrivacy",
+        "value": "{\n    \"apps\": [\n        {\n            \"cmsId\": \"ARDMediathek\",\n            \"text\": \"Netflix Testtext: Wenn Sie \\\"{{app_name}}\\\" nutzen erklären Sie sich einverstanden, dass die Telekom \\\"{{app_name}}\\\"  die Information übermittelt, von welchem Ort in der EntertainTv-Oberfläche die  \\\"{{app_name}}\\\" -Applikation aufgerufen wurde. Diese Information wird durch die Telekom weder Ihrer Person noch Ihrem Media Receiver zugeordnet. Sie dient \\\"{{app_name}}\\\"  lediglich zu quantitativen Auswertung der verschiedenen Aufruf-Punkte in EntertainTV.\",\n            \"dataprivacyDocId\": 32530\n        },\n        {\n            \"cmsId\": \"MediencenterZ\",\n            \"text\": \"Magenta CloudZ Testtext: Wenn Sie \\\"{{app_name}}\\\" nutzen erklären Sie sich einverstanden, dass die Telekom \\\"{{app_name}}\\\"  die Information übermittelt, von welchem Ort in der EntertainTv-Oberfläche die  \\\"{{app_name}}\\\" -Applikation aufgerufen wurde. Diese Information wird durch die Telekom weder Ihrer Person noch Ihrem Media Receiver zugeordnet. Sie dient \\\"{{app_name}}\\\"  lediglich zu quantitativen Auswertung der verschiedenen Aufruf-Punkte in EntertainTV.\",\n            \"dataprivacyDocId\": 32530\n        }\n    ]\n}"
+    },
+    {
+        "key": "STBSatSettings",
+        "value": "{\"stbGuid\": \"5250561E-F69C-465B-AFD0-D1CA421F66D9\"}"
+    }
+]

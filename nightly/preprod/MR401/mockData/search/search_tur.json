@@ -1,0 +1,241 @@
+{
+  "totalItems" : 262,
+  "totalGroups" : 177,
+  "offset" : 0,
+  "sort" : "relevance",
+  "navigators" : [ {
+    "id" : "partnerIds",
+    "name" : "Partnerangebote",
+    "entries" : [ {
+      "id" : "7tv",
+      "name" : "7TV",
+      "size" : 1
+    }, {
+      "id" : "maxdome",
+      "name" : "Maxdome",
+      "size" : 140
+    }, {
+      "id" : "sky",
+      "name" : "Sky",
+      "size" : 140
+    }, {
+      "id" : "videoload",
+      "name" : "Videoload",
+      "size" : 14
+    } ]
+  }, {
+    "id" : "availability",
+    "name" : "Verfügbarkeit",
+    "entries" : [ {
+      "id" : "freeVod",
+      "name" : "Kostenlos",
+      "size" : 1
+    }, {
+      "id" : "chargeVod",
+      "name" : "Kostenpflichtig",
+      "size" : 161
+    } ]
+  }, {
+    "id" : "type",
+    "name" : "Quelle",
+    "entries" : [ {
+      "id" : "logicalChannel",
+      "name" : "Sender",
+      "size" : 4
+    }, {
+      "id" : "broadcast",
+      "name" : "TV",
+      "size" : 94
+    }, {
+      "id" : "person",
+      "name" : "Personen",
+      "size" : 3
+    }, {
+      "id" : "vod",
+      "name" : "Video",
+      "size" : 161
+    } ]
+  }, {
+    "id" : "ageRating",
+    "name" : "Alterskennzeichnung",
+    "entries" : [ {
+      "id" : "unknown",
+      "name" : "Keine Alterskennzeichnung",
+      "size" : 84
+    }, {
+      "id" : "0",
+      "name" : "Ab 0 Jahren",
+      "size" : 1
+    }, {
+      "id" : "6",
+      "name" : "Ab 6 Jahren",
+      "size" : 1
+    }, {
+      "id" : "12",
+      "name" : "Ab 12 Jahren",
+      "size" : 29
+    }, {
+      "id" : "16",
+      "name" : "Ab 16 Jahren",
+      "size" : 141
+    }, {
+      "id" : "18",
+      "name" : "Ab 18 Jahren",
+      "size" : 2
+    } ]
+  } ],
+  "results" : [ {
+    "id" : "moviemax-turk",
+    "type" : "tvChannel",
+    "title" : "Moviemax Turk",
+    "languages" : [ "türkisch" ],
+    "genres" : [ "Fremdsprachen" ],
+    "poster" : "http://programm-manager.telekom.de/media/9c73b1215dddcfe2d8f118e08fcf28da83a47377.png"
+  }, {
+    "id" : "show-turk",
+    "type" : "tvChannel",
+    "title" : "Show Turk",
+    "languages" : [ "türkisch" ],
+    "genres" : [ "Fremdsprachen" ],
+    "poster" : "http://programm-manager.telekom.de/media/922ff3d59904e7ceebe76237d876bc7bb3a6116a.png"
+  }, {
+    "id" : "GN_EP019367660059",
+    "type" : "vod",
+    "title" : "Mein Freund Turk",
+    "vodType" : "episode",
+    "mainGenre" : "Sitcom",
+    "countries" : [ "USA" ],
+    "year" : 2004,
+    "scenes" : [ ],
+    "ageRatingName" : "Ab 16 Jahren (FSF)",
+    "ageRatingId" : "FSF 16",
+    "seriesTitle" : "Scrubs - Die Anfänger",
+    "seasonNumber" : 3,
+    "episodeNumber" : 18,
+    "partners" : [ {
+      "name" : "Maxdome",
+      "logo" : "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+    }, {
+      "name" : "Sky",
+      "logo" : "http://programm-manager.telekom.de/media/partners/48x48_sky_icon_monochrome.png"
+    } ],
+    "cluster" : "vodSeries",
+    "sourceType" : "vodPremium",
+    "airtime" : "2004-04-06T12:00:00+0200",
+    "category" : "series"
+  }, {
+    "id" : "video-barker-entertain-turk",
+    "type" : "tvChannel",
+    "title" : "Video Barker Entertain Turk",
+    "languages" : [ "deutsch" ],
+    "genres" : [ ]
+  }, {
+    "id" : "GN_EP002960010267",
+    "type" : "vod",
+    "title" : "Turkey Guys",
+    "vodType" : "episode",
+    "mainGenre" : "Sitcom",
+    "countries" : [ "USA" ],
+    "year" : 2014,
+    "posterNoTitle" : "http://programm-manager.telekom.de/media/gracenote/p11198482_e_v8_aa.jpg",
+    "posterWideNoTitle" : "http://programm-manager.telekom.de/media/gracenote/p11198482_e_h10_aa.jpg",
+    "scenes" : [ "http://programm-manager.telekom.de/media/gracenote/p11198482_e_h10_aa.jpg" ],
+    "ageRatingName" : "Ab 12 Jahren",
+    "ageRatingId" : "NEUTRAL 12",
+    "seriesTitle" : "Family Guy",
+    "seasonNumber" : 13,
+    "episodeNumber" : 6,
+    "partners" : [ {
+      "name" : "Videoload",
+      "logo" : "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+    } ],
+    "cluster" : "vodSeries",
+    "sourceType" : "vodPremium",
+    "category" : "series"
+  }, {
+    "id" : "GN_EP019559930150",
+    "type" : "vod",
+    "title" : "La Turka, Essen",
+    "vodType" : "episode",
+    "mainGenre" : "Show",
+    "countries" : [ "Deutschland" ],
+    "year" : 2014,
+    "scenes" : [ ],
+    "ageRatingName" : "Ab 6 Jahren (FSF)",
+    "ageRatingId" : "FSF 6",
+    "seriesTitle" : "Mein Lokal, Dein Lokal - Wo schmeckt's am Besten?",
+    "partners" : [ {
+      "name" : "7TV",
+      "logo" : "http://programm-manager.telekom.de/media/partners/48x48_7tv_icon_monochrome.png"
+    }, {
+      "name" : "Maxdome",
+      "logo" : "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+    } ],
+    "cluster" : "vodSeries",
+    "sourceType" : "tvArchive",
+    "airtime" : "2014-05-23T12:00:00+0200",
+    "category" : "series"
+  }, {
+    "id" : "gnp_5207",
+    "type" : "person",
+    "title" : "Ann Turkel",
+    "roles" : [ "actor" ],
+    "poster" : "http://programm-manager.telekom.de/media/gracenote_persons/5207_v9_ba.jpg",
+    "filmography" : [ {
+      "title" : "The Fear",
+      "year" : 1995
+    }, {
+      "title" : "White Hot: The Mysterious Murder of Thelma Todd",
+      "year" : 1991
+    }, {
+      "title" : "Deep Space",
+      "year" : 1987
+    } ]
+  }, {
+    "id" : "GN_EP011581240133",
+    "type" : "vod",
+    "title" : "Three Turkeys",
+    "vodType" : "episode",
+    "mainGenre" : "Kultur",
+    "countries" : [ "USA" ],
+    "year" : 2014,
+    "posterNoTitle" : "http://programm-manager.telekom.de/media/gracenote/p11210718_e_v8_aa.jpg",
+    "posterWideNoTitle" : "http://programm-manager.telekom.de/media/gracenote/p11210718_e_h10_aa.jpg",
+    "scenes" : [ "http://programm-manager.telekom.de/media/gracenote/p11210718_e_h10_aa.jpg" ],
+    "ageRatingName" : "Ab 12 Jahren",
+    "ageRatingId" : "NEUTRAL 12",
+    "seriesTitle" : "Modern Family",
+    "seasonNumber" : 6,
+    "episodeNumber" : 8,
+    "partners" : [ {
+      "name" : "Videoload",
+      "logo" : "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+    } ],
+    "cluster" : "vodSeries",
+    "sourceType" : "vodPremium",
+    "category" : "series"
+  }, {
+    "id" : "turkmax-gurme",
+    "type" : "tvChannel",
+    "title" : "Turkmax Gurme",
+    "languages" : [ "türkisch" ],
+    "genres" : [ "Fremdsprachen" ],
+    "poster" : "http://programm-manager.telekom.de/media/fdb2016000aa123cbf6a96ffd8873a75eae33491.png"
+  }, {
+    "id" : "gnp_673118",
+    "type" : "person",
+    "title" : "Mohammed Al Turki",
+    "roles" : [ "producer" ],
+    "poster" : "http://programm-manager.telekom.de/media/gracenote_persons/673118_v9_ba.jpg",
+    "filmography" : [ {
+      "title" : "Desert Dancer",
+      "year" : 2015
+    }, {
+      "title" : "Time Out of Mind",
+      "year" : 2014
+    }, {
+      "title" : "99 Homes",
+      "year" : 2014
+    } ]
+  } ]
+}

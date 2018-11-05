@@ -1,0 +1,5 @@
+﻿{
+  "setup_warning_quality_threshold":  40,
+  "livetvQualityThresholdMinimum":  5,
+  "livetvQualityThresholdMaximum":  15
+}

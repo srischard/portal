@@ -1,0 +1,390 @@
+{
+  "totalItems": 3021,
+  "totalGroups": 1227,
+  "offset": 0,
+  "sort": "relevance",
+  "navigators": [
+    {
+      "id": "partnerIds",
+      "name": "Partnerangebote",
+      "entries": [
+        {
+          "id": "7tv",
+          "name": "7TV",
+          "size": 110
+        },
+        {
+          "id": "ard",
+          "name": "ARD",
+          "size": 325
+        },
+        {
+          "id": "cnn",
+          "name": "CNN",
+          "size": 1
+        },
+        {
+          "id": "cityvision",
+          "name": "City Vision",
+          "size": 1
+        },
+        {
+          "id": "disney-channel",
+          "name": "Disney Channel",
+          "size": 1
+        },
+        {
+          "id": "entertainselection",
+          "name": "Entertain Selection",
+          "size": 5
+        },
+        {
+          "id": "erotic-lounge",
+          "name": "Erotic Lounge",
+          "size": 63
+        },
+        {
+          "id": "maxdome",
+          "name": "Maxdome",
+          "size": 448
+        },
+        {
+          "id": "nrwision",
+          "name": "NRWision",
+          "size": 1
+        },
+        {
+          "id": "sky",
+          "name": "Sky",
+          "size": 22
+        },
+        {
+          "id": "telekom-fussball",
+          "name": "Telekom Fußball",
+          "size": 1
+        },
+        {
+          "id": "x_ngtvtest",
+          "name": "Testprovider",
+          "size": 7
+        },
+        {
+          "id": "videoload",
+          "name": "Videoload",
+          "size": 69
+        },
+        {
+          "id": "zdf",
+          "name": "ZDF",
+          "size": 37
+        },
+        {
+          "id": "tvPackages",
+          "name": "TV-Pakete",
+          "size": 24
+        }
+      ]
+    },
+    {
+      "id": "availability",
+      "name": "Verfügbarkeit",
+      "entries": [
+        {
+          "id": "freeVod",
+          "name": "Kostenlos",
+          "size": 506
+        },
+        {
+          "id": "chargeVod",
+          "name": "Kostenpflichtig",
+          "size": 593
+        }
+      ]
+    },
+    {
+      "id": "type",
+      "name": "Quelle",
+      "entries": [
+        {
+          "id": "broadcast",
+          "name": "TV",
+          "size": 2028
+        },
+        {
+          "id": "vod",
+          "name": "Video",
+          "size": 993
+        }
+      ]
+    },
+    {
+      "id": "ageRating",
+      "name": "Alterskennzeichnung",
+      "entries": [
+        {
+          "id": "unknown",
+          "name": "Keine Alterskennzeichnung",
+          "size": 1803
+        },
+        {
+          "id": "0",
+          "name": "Ab 0 Jahren",
+          "size": 41
+        },
+        {
+          "id": "6",
+          "name": "Ab 6 Jahren",
+          "size": 132
+        },
+        {
+          "id": "12",
+          "name": "Ab 12 Jahren",
+          "size": 447
+        },
+        {
+          "id": "16",
+          "name": "Ab 16 Jahren",
+          "size": 402
+        },
+        {
+          "id": "18",
+          "name": "Ab 18 Jahren",
+          "size": 132
+        },
+        {
+          "id": "oaf",
+          "name": "Erwachsenenangebote",
+          "size": 64
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "groupType16Adult__pcon",
+      "type": "group",
+      "title": "Gesperrte Angebote",
+      "size": 534,
+      "adult": false,
+      "pcon": true
+    },
+    {
+      "id": "groupType16Adult__oaf",
+      "type": "group",
+      "title": "Erwachsenenangebote",
+      "size": 64,
+      "adult": true,
+      "pcon": false
+    },
+    {
+      "id": "GN_EP019866900013",
+      "type": "vod",
+      "title": "Folge 18",
+      "vodType": "episode",
+      "mainGenre": "Drama",
+      "countries": [ "Irland", "Kanada", "USA" ],
+      "year": 2008,
+      "posterNoTitle": "http://programm-manager.telekom.de/media/gracenote/p3307449_e_v8_ab.jpg",
+      "posterWideNoTitle": "http://programm-manager.telekom.de/media/gracenote/p3307449_e_h10_ab.jpg",
+      "scenes": [ "http://programm-manager.telekom.de/media/gracenote/p3307449_e_h10_ab.jpg" ],
+      "ageRatingName": "Ab 12 Jahren (FSK)",
+      "ageRatingId": "FSK 12",
+      "seriesTitle": "Die Tudors",
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "partners": [
+        {
+          "name": "Maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        },
+        {
+          "name": "Sky",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_sky_icon_monochrome.png"
+        },
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "airtime": "2008-05-18T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP018448350284",
+      "type": "vod",
+      "title": "Folge 18",
+      "vodType": "episode",
+      "mainGenre": "Romantik",
+      "countries": [ "Deutschland" ],
+      "year": 1995,
+      "scenes": [ ],
+      "ageRatingName": "Ab 12 Jahren (FSF)",
+      "ageRatingId": "FSF 12",
+      "seriesTitle": "Verbotene Liebe",
+      "seasonNumber": 1,
+      "episodeNumber": 18,
+      "partners": [
+        {
+          "name": "Maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "airtime": "1995-01-26T12:00:00+0100",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019223740017",
+      "type": "vod",
+      "title": "Folge 18",
+      "vodType": "episode",
+      "mainGenre": "Show",
+      "countries": [ "Deutschland" ],
+      "year": 2014,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Hirschhausens Quiz des Menschen",
+      "seasonNumber": 7,
+      "episodeNumber": 3,
+      "partners": [
+        {
+          "name": "ARD",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_ard_icon_farbig-monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2014-10-02T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019560040012",
+      "type": "vod",
+      "title": "Folge 18",
+      "vodType": "episode",
+      "mainGenre": "Krimi",
+      "countries": [ "Deutschland" ],
+      "year": 2011,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Mein Revier - Ordnungshüter räumen auf",
+      "seasonNumber": 3,
+      "episodeNumber": 18,
+      "partners": [
+        {
+          "name": "Maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2011-08-29T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019639370030",
+      "type": "vod",
+      "title": "Folge 18",
+      "vodType": "episode",
+      "mainGenre": "Auto",
+      "countries": [ "Deutschland" ],
+      "year": 2009,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Abenteuer Auto",
+      "seasonNumber": 10,
+      "episodeNumber": 18,
+      "partners": [
+        {
+          "name": "Maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2009-05-09T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019639370111",
+      "type": "vod",
+      "title": "Folge 18",
+      "vodType": "episode",
+      "mainGenre": "Auto",
+      "countries": [ "Deutschland" ],
+      "year": 2011,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Abenteuer Auto",
+      "seasonNumber": 12,
+      "episodeNumber": 18,
+      "partners": [
+        {
+          "name": "Maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2011-05-14T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019639370149",
+      "type": "vod",
+      "title": "Folge 18",
+      "vodType": "episode",
+      "mainGenre": "Auto",
+      "countries": [ "Deutschland" ],
+      "year": 2007,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Abenteuer Auto",
+      "seasonNumber": 8,
+      "episodeNumber": 18,
+      "partners": [
+        {
+          "name": "Maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2007-05-05T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019639370169",
+      "type": "vod",
+      "title": "Folge 18",
+      "vodType": "episode",
+      "mainGenre": "Auto",
+      "countries": [ "Deutschland" ],
+      "year": 2010,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Abenteuer Auto",
+      "seasonNumber": 11,
+      "episodeNumber": 18,
+      "partners": [
+        {
+          "name": "Maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2010-05-08T12:00:00+0200",
+      "category": "series"
+    }
+  ]
+}

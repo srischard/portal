@@ -1,0 +1,11 @@
+{
+  // definitions for fonts
+  "TeleGroteskNor": "fileblob(src/src-de-telekom-style/font/TeleGroteskNor.ttf)",
+  "TeleGroteskFet": "fileblob(src/src-de-telekom-style/font/TeleGroteskFet.ttf)",
+  "TeleGroteskHal": "fileblob(src/src-de-telekom-style/font/TeleGroteskHal.ttf)",
+  "TeleGroteskHeadlineRegular0": "fileblob(src/src-de-telekom-style/font/TeleGroteskHeadline-Regular_0.ttf)",
+  "TeleGroteskHeadlineUltra0": "fileblob(src/src-de-telekom-style/font/TeleGroteskHeadline-Ultra_0.ttf)",
+  // definitions for images
+  "spritemap": "fileblob({ return 'src/src-de-telekom-style/' + config.resolution + '/sprite.png'; })",
+  "defaultBackground": "fileblob({ return 'src/src-de-telekom-style/' + config.resolution + '/background-image.png'; })"
+}

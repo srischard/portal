@@ -1,0 +1,274 @@
+{
+  "results": [
+    {
+      "id": "GN_SH022657050000",
+      "type": "vod",
+      "title": "Django Asül: Boxenstopp",
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "vodType": "movie",
+      "sourceType": "tvArchive",
+      "mainGenre": "Verschiedenes",
+      "poster": null,
+      "posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p12118659_i_h10_aa.jpg",
+      "scene": [
+        "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p12118659_i_h10_aa.jpg"
+      ],
+      "airtime": "2016-07-06T21:45:00+02:00",
+      "communityRating": null,
+      "partners": [
+        {
+          "partnerId": "zdf",
+          "name": "ZDF",
+          "logoUrlColorless": "http://epgpm-sl0.ver.sda.t-online.de/media/partners/48x48_zdf_icon_monochrome.png"
+        },
+        {
+            "partnerId": "servus-tv",
+            "name": "Servus TV",
+            "logoUrlColorless": "http://epgpm-sl0.ver.sda.t-online.de/media/297c2a158f9548a15cd86898d45937ef6612aec8.png"
+        }
+      ],
+      "ageRatingId": "Unbekannt",
+      "qualities": [ ],
+      "category": "other"
+    },
+    {
+      "id": "GN_MV005451360000",
+      "type": "vod",
+      "title": "Vier Drillinge sind einer zu viel",
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "vodType": "movie",
+      "sourceType": "vodPremium",
+      "mainGenre": "Comedy",
+      "poster": null,
+      "posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p10494440_i_h10_aa.jpg",
+      "scene": [
+        "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p10494440_i_h10_aa.jpg"
+      ],
+      "airtime": "2016-06-28T18:30:00+02:00",
+      "communityRating": null,
+      "partners": [
+        {
+          "partnerId": "ard",
+          "name": "ARD",
+          "logoUrlColorless": "http://epgpm-sl0.ver.sda.t-online.de/media/partners/48x48_ard_icon_farbig-monochrome.png"
+        },
+        {
+          "partnerId": "zdf",
+          "name": "ZDF",
+          "logoUrlColorless": "http://epgpm-sl0.ver.sda.t-online.de/media/partners/48x48_zdf_icon_monochrome.png"
+        }
+      ],
+      "ageRatingId": "Unbekannt",
+      "qualities": [        
+        "SD",
+        "HD"
+      ],
+      "category": "main"
+    },
+    {
+      "id": "GN_MV006563000000",
+      "type": "vod",
+      "title": "Nicht mit mir, Liebling",
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "vodType": "movie",
+      "sourceType": "tvArchive",
+      "mainGenre": "Comedy",
+      "poster": null,
+      "posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11211001_i_h10_aa.jpg",
+      "scene": [
+        "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11211001_i_h10_aa.jpg"
+      ],
+      "airtime": "2016-06-26T14:55:00+02:00",
+      "communityRating": null,
+      "partners": [
+      ],
+      "ageRatingId": "FSK 0",
+      "qualities": [
+          "SD",
+          "HD",
+          "UHD"
+      ],
+      "category": "other"
+    },
+    {
+      "id": "GN_MV006476890000",
+      "type": "vod",
+      "title": "Ich leih' dir meinen Mann",
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "vodType": "movie",
+      "sourceType": "tvArchive",
+      "mainGenre": "Comedy",
+      "poster": null,
+      "posterWide": null,
+      "scene": [ ],
+      "airtime": "2016-06-26T12:00:00+02:00",
+      "communityRating": null,
+      "partners": [
+        {
+          "name": "ARD",
+          "logoUrlColorless": "http://epgpm-sl0.ver.sda.t-online.de/media/partners/48x48_ard_icon_farbig-monochrome.png"
+        }
+      ],
+      "ageRatingId": "Unbekannt",
+      "qualities": [ ],
+      "category": "other"
+    },
+    {
+      "id": "GN_SH023695800000",
+      "type": "vod",
+      "title": "Oliver Welke und Dietmar Wischmeyer: Im Herzen jung!",
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "vodType": "movie",
+      "sourceType": "tvArchive",
+      "mainGenre": "Verschiedenes",
+      "poster": null,
+      "posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p12617077_i_h10_aa.jpg",
+      "scene": [
+        "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p12617077_i_h10_aa.jpg"
+      ],
+      "airtime": "2016-06-24T22:00:00+02:00",
+      "communityRating": null,
+      "partners": [
+        {
+          "partnerId": "zdf",
+          "name": "ZDF",
+          "logoUrlColorless": "http://epgpm-sl0.ver.sda.t-online.de/media/partners/48x48_zdf_icon_monochrome.png"
+        }
+      ],
+      "ageRatingId": "Unbekannt",
+      "qualities": [ ],
+      "category": "other"
+    },
+    {
+      "id": "GN_MV008178600000",
+      "type": "vod",
+      "title": "Simon sagt auf Wiedersehen zu seiner Vorhaut",
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "vodType": "movie",
+      "sourceType": "tvArchive",
+      "mainGenre": "Comedy",
+      "poster": null,
+      "posterWide": null,
+      "scene": [ ],
+      "airtime": "2016-06-22T00:35:00+02:00",
+      "communityRating": null,
+      "partners": [
+        {
+          "name": "ARD",
+          "logoUrlColorless": "http://epgpm-sl0.ver.sda.t-online.de/media/partners/48x48_ard_icon_farbig-monochrome.png"
+        }
+      ],
+      "ageRatingId": "Unbekannt",
+      "qualities": [ ],
+      "category": "other"
+    },
+    {
+      "id": "GN_MV007975950000",
+      "type": "vod",
+      "title": "Der Liebling des Himmels",
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "vodType": "movie",
+      "sourceType": "tvArchive",
+      "mainGenre": "Romantik",
+      "poster": null,
+      "posterWide": null,
+      "scene": [ ],
+      "airtime": "2016-06-21T22:10:00+02:00",
+      "communityRating": null,
+      "partners": [
+        {
+          "name": "ARD",
+          "logoUrlColorless": "http://epgpm-sl0.ver.sda.t-online.de/media/partners/48x48_ard_icon_farbig-monochrome.png"
+        }
+      ],
+      "ageRatingId": "FSK 6",
+      "qualities": [ ],
+      "category": "other"
+    },
+    {
+      "id": "GN_MV006408270000",
+      "type": "vod",
+      "title": "Ich schenk dir einen Seitensprung",
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "vodType": "movie",
+      "sourceType": "tvArchive",
+      "mainGenre": "Comedy",
+      "poster": null,
+      "posterWide": null,
+      "scene": [ ],
+      "airtime": "2016-06-19T15:35:00+02:00",
+      "communityRating": null,
+      "partners": [
+        {
+          "name": "ARD",
+          "logoUrlColorless": "http://epgpm-sl0.ver.sda.t-online.de/media/partners/48x48_ard_icon_farbig-monochrome.png"
+        }
+      ],
+      "ageRatingId": "FSK 0",
+      "qualities": [ ],
+      "category": "other"
+    },
+    {
+      "id": "GN_SH024399120000",
+      "type": "vod",
+      "title": "Herbert Knebel Solo: Ich glaub, ich geh kaputt",
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "vodType": "movie",
+      "sourceType": "tvArchive",
+      "mainGenre": "Verschiedenes",
+      "poster": null,
+      "posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p12936704_i_h10_aa.jpg",
+      "scene": [
+        "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p12936704_i_h10_aa.jpg"
+      ],
+      "airtime": "2016-06-18T21:40:00+02:00",
+      "communityRating": null,
+      "partners": [
+        {
+          "name": "ARD",
+          "logoUrlColorless": "http://epgpm-sl0.ver.sda.t-online.de/media/partners/48x48_ard_icon_farbig-monochrome.png"
+        }
+      ],
+      "ageRatingId": "Unbekannt",
+      "qualities": [ ],
+      "category": "other"
+    },
+    {
+      "id": "GN_SH022593110000",
+      "type": "vod",
+      "title": "Sebastian Pufpaff: Auf Anfang",
+      "seasonNumber": null,
+      "episodeNumber": null,
+      "vodType": "movie",
+      "sourceType": "tvArchive",
+      "mainGenre": "Verschiedenes",
+      "poster": null,
+      "posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p12092332_i_h10_aa.jpg",
+      "scene": [
+        "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p12092332_i_h10_aa.jpg"
+      ],
+      "airtime": "2016-06-17T22:30:00+02:00",
+      "communityRating": null,
+      "partners": [
+        {
+          "partnerId": "zdf",
+          "name": "ZDF",
+          "logoUrlColorless": "http://epgpm-sl0.ver.sda.t-online.de/media/partners/48x48_zdf_icon_monochrome.png"
+        }
+      ],
+      "ageRatingId": "Unbekannt",
+      "qualities": [ ],
+      "category": "other"
+    }
+  ]
+}
+  

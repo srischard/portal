@@ -1,0 +1,58 @@
+{
+	"ClientUpdateNotification": {
+		"STB_Model": [{
+			"Type": [{
+				"SubscriberType": "BASISTV_DT",
+				"Version": [{
+					"mediaReceiverVersion": "S1 8.0.1 build #7",
+					"sectionTitle": "Verbesserungen in den folgenden Bereichen stehen fÃ¼r Sie im Rahmen des FUTs zur VerfÃ¼gung",
+					"sectionDescription": "<br><li>STB Model: MRENTRY</li><li>SubscriberType: BASISTV_DT</li><li>Client Version: $VERSION</li><br><ul>description_1.1.1</ul><ul>description_2.1.1</ul>"
+				},
+				{
+					"mediaReceiverVersion": "Default",
+					"sectionTitle": "Verbesserungen in den folgenden Bereichen stehen fÃ¼r Sie nach dem Software Update zur VerfÃ¼gung:",
+					"sectionDescription": "<br><li>STB Model: MRENTRY</li><li>SubscriberType: BASISTV_DT</li><li>Client Version: Default</li><br><ul>description_1.1.2</ul><ul>description_2.1.2</ul>"
+				}]
+			},
+			{
+				"SubscriberType": "BASISTV_OTT_DT",
+				"Version": [{
+					"mediaReceiverVersion": "S1 8.0.1 build #7",
+					"sectionTitle": "Verbesserungen in den folgenden Bereichen stehen fÃ¼r Sie im Rahmen des FUTs zur VerfÃ¼gung:",
+					"sectionDescription": "<br><li>STB Model: MRENTRY</li><li>SubscriberType: BASISTV_OTT_DT</li><li>Client Version: $VERSION</li><br><ul>description_1.2.1</ul><ul>description_2.2.1</ul>"
+				},
+				{
+					"mediaReceiverVersion": "Default",
+					"sectionTitle": "Verbesserungen in den folgenden Bereichen stehen fÃ¼r Sie nach dem Software Update zur VerfÃ¼gung:",
+					"sectionDescription": "<br><li>STB Model: MRENTRY</li><li>SubscriberType: BASISTV_OTT_DT</li><li>Client Version: Default</li><br><ul>description_1.2.2</ul><ul>description_2.2.2</ul>"
+				}]
+			},
+			{
+				"SubscriberType": "BASISTV_PREVIEW_DT",
+				"Version": [{
+					"mediaReceiverVersion": "S1 8.0.1 build #7",
+					"sectionTitle": "Verbesserungen in den folgenden Bereichen stehen fÃ¼r Sie im Rahmen des FUTs zur VerfÃ¼gung:",
+					"sectionDescription": "<br><li>STB Model: MRENTRY</li><li>SubscriberType: BASISTV_PREVIEW_DT</li><li>Client Version: $VERSION</li><br><ul>description_1.3.1</ul><ul>description_2.3.1</ul>"
+				},
+				{
+					"mediaReceiverVersion": "Default",
+					"sectionTitle": "Verbesserungen in den folgenden Bereichen stehen fÃ¼r Sie nach dem Software Update zur VerfÃ¼gung:",
+					"sectionDescription": "<br><li>STB Model: MRENTRY</li><li>SubscriberType: BASISTV_PREVIEW_DT</li><li>Client Version: Default</li><br><ul>description_1.3.2</ul><ul>description_2.3.2</ul>"
+				}]
+			},
+			{
+				"SubscriberType": "BASISTV_OTT_PREVIEW_DT",
+				"Version": [{
+					"mediaReceiverVersion": "S1 8.0.1 build #7",
+					"sectionTitle": "Verbesserungen in den folgenden Bereichen stehen fÃ¼r Sie im Rahmen des FUTs zur VerfÃ¼gung",
+					"sectionDescription": "<br><li>STB Model: MRENTRY</li><li>SubscriberType: BASISTV_OTT_PREVIEW_DT</li><li>Client Version: $VERSION</li><br><ul>description_1.4.1</ul><ul>description_2.4.1</ul>"
+				},
+				{
+					"mediaReceiverVersion": "Default",
+					"sectionTitle": "Verbesserungen in den folgenden Bereichen stehen fÃ¼r Sie nach dem Software Update zur VerfÃ¼gung:",
+					"sectionDescription": "<br><li>STB Model: MRENTRY</li><li>SubscriberType: BASISTV_OTT_PREVIEW_DT</li><li>Client Version: Default</li><br><ul>description_1.4.2</ul><ul>description_2.4.2</ul>"
+				}]
+			}]
+		}]
+	}
+}

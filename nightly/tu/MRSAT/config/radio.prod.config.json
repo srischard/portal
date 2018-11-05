@@ -1,0 +1,6 @@
+{
+  "urlService": "https://itvmusica-bl.sfm.t-online.de/radiorest/rest/",
+  "urlImage": "https://itvmusica-bl.sfm.t-online.de/radiows/",
+  "showUnselectableSortoptions": true,
+  "useIssForBackground": true  
+}

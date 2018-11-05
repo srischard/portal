@@ -1,0 +1,9 @@
+﻿{
+
+  // Timeout in milliseconds after a user input is accepted and send to system
+  "autoCloseInputTimeoutMs": 2000,
+
+  // Timeout in milliseconds to show formatted data before closing dialog
+  "autoDelayCloseTimeoutMs": 200
+
+}

@@ -1,0 +1,17 @@
+{
+    "ClientUpdateNotification": {
+        "titleOfDescription": "Informationen zur neuen Version",
+        "Type": [
+            {
+                "mediaReceiverVersion": "2",
+                "sectionTitle": "Folgende Neuerungen stehen für Sie nach dem Software Update zur Verfügung:",
+                "sectionDescription": "<br><li>Programmieren Sie Aufnahmen mit nur einem Tastendruck</li><li>Definieren Sie einen konkreten Zeitpunkt für Serienaufnahmen</li><li>Drücken Sie während einer laufenden Sendung 2x die OK-Taste um in Ihre Aufnahmen zu springen</li><li>Über die Programmübersicht ausgewählte Sendungen der kommenden 14 Tage schon heute als On Demand Inhalt abrufen</li><li>Youtube Inhalte über die intelligente Suche finden</li><li>Ob eine Sendung für die Funktion Restart zur Verfügung steht, erkennen Sie jetzt noch schneller.</li><br><ul style='color: #ebebeb'>Ausführlichere Informationen zu diesen Neuerungen finden Sie unter HOME > HILFE & TIPPS > AKTUELLE SERVICEMELDUNGEN > SOFTWARE UPDATE</ul><br><ul>Viel Spaß mit Ihrem EntertainTV.</ul><ul>Ihre Telekom</ul>"
+            },
+            {
+                "mediaReceiverVersion": "3",
+                "sectionTitle": "Folgende Neuerungen stehen für Sie nach dem Software Update zur Verfügung:",
+                "sectionDescription": "<br><li>Programmieren Sie Aufnahmen mit nur einem Tastendruck</li><li>Definieren Sie einen konkreten Zeitpunkt für Serienaufnahmen</li><li>Drücken Sie während einer laufenden Sendung 2x die OK-Taste um in Ihre Aufnahmen zu springen</li><li>Über die Programmübersicht ausgewählte Sendungen der kommenden 14 Tage schon heute als On Demand Inhalt abrufen</li><li>Youtube Inhalte über die intelligente Suche finden</li><li>Ob eine Sendung für die Funktion Restart zur Verfügung steht, erkennen Sie jetzt noch schneller.</li><br><ul style='color: #ebebeb'>Ausführlichere Informationen zu diesen Neuerungen finden Sie unter HOME > HILFE & TIPPS > AKTUELLE SERVICEMELDUNGEN > SOFTWARE UPDATE</ul><br><ul>Viel Spaß mit Ihrem EntertainTV.</ul><ul>Ihre Telekom</ul>"
+            }
+        ]
+    }
+}

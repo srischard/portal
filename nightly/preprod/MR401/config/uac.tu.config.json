@@ -1,0 +1,5 @@
+﻿{
+  "serviceUrl": "https://ng-uac.atu0.sda.t-online.de:8478/Server/api"
+  //"serviceUrl" : "http://mpf-dev.atu0.sda.t-online.de/MPF/NGUAC/Server/api"
+  //"serviceUrl" : "http://localhost/MPF/NGUAC/Server/api"
+}

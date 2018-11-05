@@ -1,0 +1,63 @@
+[
+  {
+    "duration": null,
+    "zosaType": "VodItem",
+    "isBlocked": false,
+    "zosaId": "zosa:FFxKQxpWEQ4eQwdWOBUfHBo0NAwVABoDFBUICg8GODI-MBsFAg8ZHRcbEwQe",
+    "streams": null,
+    "icon": null,
+    "title": "DT Vod",
+    "genres": null,
+    "secondaryName": null,
+    "productionYear": null,
+    "participants": null,
+    "subtitleLanguages": null,
+    "description": null,
+    "minViewingAge": null,
+    "vodType": 0,
+    "isFavorited": null,
+    "numChildren": null,
+    "productionCompany": null,
+    "clipStreams": null,
+    "childIndex": null,
+    "parents": null,
+    "availabilityStartTime": null,
+    "availabilityEndTime": null,
+    "subscriptionEndTime": null,
+    "isSubscribed": null,
+    "audioLanguages": null,
+    "images": null,
+    "parentalRating": null,
+    "isLocked": null,
+    "parentalRatingLabel": null,
+    "parentalRatingAgency": null,
+    "isAdult": null,
+    "categoryIds": null,
+    "customProps": [
+      {
+        "key": "playUrl",
+        "value": "http://xsvc20-stu.main.xcdn.sda.t-online.de/smooth01/streaming/ReferenceContents/177406/635963278924974394/DTAG-test-chart-H264_deu_20_1300k.ism/Manifest"
+      },
+      {
+        "key": "playDrmLAUrl",
+        "value": "https://x3wcss.t-online.de/cmrs/IPTV2015-First/media/v1/smoothstreaming/177406"
+      },
+      {
+        "key": "playDrmKeyId",
+        "value": ""
+      },
+      {
+        "key": "playDrmLAPB",
+        "value": ""
+      },
+      {
+        "key": "bandwidthType",
+        "value": "VOD SD"
+      },
+      {
+        "key": "mfwPlaySessionToken",
+        "value": "2147483650"
+      }
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+{
+	"totalItems": 3,
+	"totalGroups": 2,
+	"offset": 0,
+	"sort": "airtime_default",
+	"navigators": [
+		{
+			"id": "cluster",
+			"name": "Cluster",
+			"entries": [
+				{
+					"id": "vodMain",
+					"name": "Video",
+					"size": 3
+				}
+			]
+		}
+	],
+	"results": [
+		{
+			"id": "GN_MV005673460000",
+			"type": "vod",
+			"title": "Cats & Dogs: Die Rache der Kitty Kahlohr",
+			"vodType": "movie",
+			"duration": 82,
+			"mainGenre": "Kinder",
+			"countries": [
+				"USA"
+			],
+			"year": 2010,
+			"poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p7995627_v_v8_aa.jpg",
+			"posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p7995627_k_h10_aa.jpg",
+			"posterNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p7995627_k_v8_aa.jpg",
+			"posterWideNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p7995627_k_h10_aa.jpg",
+			"scenes": [
+				"http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p7995627_i_h10_aa.jpg"
+			],
+			"ageRatingName": "Ab 6 Jahren (FSK)",
+			"ageRatingId": "FSK 6",
+			"partners": [
+				{
+					"name": "Sky On Demand",
+					"logo": "http://epgpm-sl0.ver.sda.t-online.de/media/3b535513543b56f3e783906c57b51982214dd7d5.png"
+				}
+			],
+			"cluster": "vodMain",
+			"sourceType": "vodPremium",
+			"category": "main",
+			"qualities": [
+				"SD"
+			]
+		},
+		{
+			"id": "groupCluster12Adult__pcon",
+			"type": "group",
+			"title": "Gesperrte Angebote",
+			"size": 2,
+			"pcon": true
+		}
+	]
+}

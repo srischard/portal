@@ -1,0 +1,299 @@
+{
+	"totalItems": 63,
+	"totalGroups": 63,
+	"offset": 0,
+	"sort": "airtime_default",
+	"navigators": [{
+			"id": "cluster",
+			"name": "Cluster",
+			"entries": [{
+					"id": "vodSeries",
+					"name": "Serie",
+					"size": 63
+				}
+			]
+		}
+	],
+	"results": [{
+			"id": "GN_EP019734650066",
+			"type": "vod",
+			"title": "Schlüsselübergabe",
+			"vodType": "episode",
+			"duration": 22,
+			"mainGenre": "Sitcom",
+			"countries": ["USA"],
+			"year": 2013,
+			"posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p9844130_e_h10_ab.jpg",
+			"posterNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p9844130_e_v8_aa.jpg",
+			"posterWideNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p9844130_e_h10_ab.jpg",
+			"scenes": ["http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p9844130_e_h10_ab.jpg"],
+			"ageRatingName": "Ab 6 Jahren (FSF)",
+			"ageRatingId": "FSF 6",
+			"seriesTitle": "Parks and Recreation",
+			"seasonNumber": 5,
+			"episodeNumber": 17,
+			"episodeCount": 22,
+			"partners": [{
+					"name": "Sky On Demand",
+					"logo": "http://epgpm-sl0.ver.sda.t-online.de/media/3b535513543b56f3e783906c57b51982214dd7d5.png"
+				}
+			],
+			"cluster": "vodSeries",
+			"sourceType": "vodPremium",
+			"category": "series",
+			"qualities": ["HD"]
+		}, {
+			"id": "GN_EP019664790013",
+			"type": "vod",
+			"title": "Das Angebot",
+			"vodType": "episode",
+			"duration": 23,
+			"mainGenre": "Kinder",
+			"countries": ["USA"],
+			"year": 2012,
+			"posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p9131740_e_h8_ab.jpg",
+			"posterNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p9131740_e_v8_ab.jpg",
+			"posterWideNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p9131740_e_h8_ab.jpg",
+			"scenes": ["http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p9131740_e_h8_ab.jpg"],
+			"ageRatingName": "Keine Altersangabe",
+			"ageRatingId": "Unbekannt",
+			"seriesTitle": "Der ultimative Spider-Man",
+			"seasonNumber": 1,
+			"episodeNumber": 2,
+			"episodeCount": 27,
+			"partners": [{
+					"name": "Sky On Demand",
+					"logo": "http://epgpm-sl0.ver.sda.t-online.de/media/3b535513543b56f3e783906c57b51982214dd7d5.png"
+				}
+			],
+			"cluster": "vodSeries",
+			"sourceType": "vodPremium",
+			"category": "series",
+			"qualities": ["SD"]
+		}, {
+			"id": "GN_EP019664790014",
+			"type": "vod",
+			"title": "Große Verantwortung",
+			"vodType": "episode",
+			"duration": 23,
+			"mainGenre": "Kinder",
+			"countries": ["USA"],
+			"year": 2012,
+			"posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p9035881_e_h8_ab.jpg",
+			"posterNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p9035881_e_v8_ab.jpg",
+			"posterWideNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p9035881_e_h8_ab.jpg",
+			"scenes": ["http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p9035881_e_h8_ab.jpg"],
+			"ageRatingName": "Keine Altersangabe",
+			"ageRatingId": "Unbekannt",
+			"seriesTitle": "Der ultimative Spider-Man",
+			"seasonNumber": 1,
+			"episodeNumber": 1,
+			"episodeCount": 27,
+			"partners": [{
+					"name": "Sky On Demand",
+					"logo": "http://epgpm-sl0.ver.sda.t-online.de/media/3b535513543b56f3e783906c57b51982214dd7d5.png"
+				}
+			],
+			"cluster": "vodSeries",
+			"sourceType": "vodPremium",
+			"category": "series",
+			"qualities": ["SD"]
+		}, {
+			"id": "GN_EP020071710045",
+			"type": "vod",
+			"title": "Die Schlinge um den Hals",
+			"vodType": "episode",
+			"duration": 59,
+			"mainGenre": "Drama",
+			"countries": ["USA"],
+			"year": 2003,
+			"posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p2003597_e_h10_ac.jpg",
+			"posterNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p2003597_e_v8_ab.jpg",
+			"posterWideNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p2003597_e_h10_ac.jpg",
+			"scenes": ["http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p2003597_e_h10_ac.jpg"],
+			"ageRatingName": "Keine Altersangabe",
+			"ageRatingId": "Unbekannt",
+			"seriesTitle": "Oz - Hölle hinter Gittern",
+			"seasonNumber": 6,
+			"episodeNumber": 4,
+			"episodeCount": 8,
+			"partners": [{
+					"name": "Sky On Demand",
+					"logo": "http://epgpm-sl0.ver.sda.t-online.de/media/3b535513543b56f3e783906c57b51982214dd7d5.png"
+				}
+			],
+			"cluster": "vodSeries",
+			"sourceType": "vodPremium",
+			"category": "series",
+			"qualities": ["SD"]
+		}, {
+			"id": "GN_EP020071710046",
+			"type": "vod",
+			"title": "Der Klang des Nichts",
+			"vodType": "episode",
+			"duration": 59,
+			"mainGenre": "Drama",
+			"countries": ["USA"],
+			"year": 2003,
+			"posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p2003596_e_h11_ac.jpg",
+			"posterNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p2003596_e_v7_ab.jpg",
+			"posterWideNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p2003596_e_h11_ac.jpg",
+			"scenes": ["http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p2003596_e_h11_ac.jpg"],
+			"ageRatingName": "Keine Altersangabe",
+			"ageRatingId": "Unbekannt",
+			"seriesTitle": "Oz - Hölle hinter Gittern",
+			"seasonNumber": 6,
+			"episodeNumber": 3,
+			"episodeCount": 8,
+			"partners": [{
+					"name": "Sky On Demand",
+					"logo": "http://epgpm-sl0.ver.sda.t-online.de/media/3b535513543b56f3e783906c57b51982214dd7d5.png"
+				}
+			],
+			"cluster": "vodSeries",
+			"sourceType": "vodPremium",
+			"category": "series",
+			"qualities": ["SD"]
+		}, {
+			"id": "GN_EP020071710047",
+			"type": "vod",
+			"title": "Der böse Blick",
+			"vodType": "episode",
+			"duration": 59,
+			"mainGenre": "Drama",
+			"countries": ["USA"],
+			"year": 2003,
+			"posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p2003595_e_h11_ac.jpg",
+			"posterNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p2003595_e_v7_ab.jpg",
+			"posterWideNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p2003595_e_h11_ac.jpg",
+			"scenes": ["http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p2003595_e_h11_ac.jpg"],
+			"ageRatingName": "Keine Altersangabe",
+			"ageRatingId": "Unbekannt",
+			"seriesTitle": "Oz - Hölle hinter Gittern",
+			"seasonNumber": 6,
+			"episodeNumber": 2,
+			"episodeCount": 8,
+			"partners": [{
+					"name": "Sky On Demand",
+					"logo": "http://epgpm-sl0.ver.sda.t-online.de/media/3b535513543b56f3e783906c57b51982214dd7d5.png"
+				}
+			],
+			"cluster": "vodSeries",
+			"sourceType": "vodPremium",
+			"category": "series",
+			"qualities": ["SD"]
+		}, {
+			"id": "GN_EP020071710048",
+			"type": "vod",
+			"title": "Das Böse schläft nicht",
+			"vodType": "episode",
+			"duration": 60,
+			"mainGenre": "Drama",
+			"countries": ["USA"],
+			"year": 2003,
+			"posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p2003594_e_h10_ac.jpg",
+			"posterNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p2003594_e_v8_ab.jpg",
+			"posterWideNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p2003594_e_h10_ac.jpg",
+			"scenes": ["http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p2003594_e_h10_ac.jpg"],
+			"ageRatingName": "Keine Altersangabe",
+			"ageRatingId": "Unbekannt",
+			"seriesTitle": "Oz - Hölle hinter Gittern",
+			"seasonNumber": 6,
+			"episodeNumber": 1,
+			"episodeCount": 8,
+			"partners": [{
+					"name": "Sky On Demand",
+					"logo": "http://epgpm-sl0.ver.sda.t-online.de/media/3b535513543b56f3e783906c57b51982214dd7d5.png"
+				}
+			],
+			"cluster": "vodSeries",
+			"sourceType": "vodPremium",
+			"category": "series",
+			"qualities": ["SD"]
+		}, {
+			"id": "GN_EP020071710051",
+			"type": "vod",
+			"title": "Hoffnungen und Träume",
+			"vodType": "episode",
+			"duration": 100,
+			"mainGenre": "Drama",
+			"countries": ["USA"],
+			"year": 2003,
+			"posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p2003601_e_h10_ac.jpg",
+			"posterNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p2003601_e_v8_ab.jpg",
+			"posterWideNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p2003601_e_h10_ac.jpg",
+			"scenes": ["http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p2003601_e_h10_ac.jpg"],
+			"ageRatingName": "Keine Altersangabe",
+			"ageRatingId": "Unbekannt",
+			"seriesTitle": "Oz - Hölle hinter Gittern",
+			"seasonNumber": 6,
+			"episodeNumber": 8,
+			"episodeCount": 8,
+			"partners": [{
+					"name": "Sky On Demand",
+					"logo": "http://epgpm-sl0.ver.sda.t-online.de/media/3b535513543b56f3e783906c57b51982214dd7d5.png"
+				}
+			],
+			"cluster": "vodSeries",
+			"sourceType": "vodPremium",
+			"category": "series",
+			"qualities": ["SD"]
+		}, {
+			"id": "GN_EP020071710052",
+			"type": "vod",
+			"title": "Vergeben oder verrecken",
+			"vodType": "episode",
+			"duration": 59,
+			"mainGenre": "Drama",
+			"countries": ["USA"],
+			"year": 2003,
+			"posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p2003598_e_h10_ac.jpg",
+			"posterNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p2003598_e_v8_ab.jpg",
+			"posterWideNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p2003598_e_h10_ac.jpg",
+			"scenes": ["http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p2003598_e_h10_ac.jpg"],
+			"ageRatingName": "Keine Altersangabe",
+			"ageRatingId": "Unbekannt",
+			"seriesTitle": "Oz - Hölle hinter Gittern",
+			"seasonNumber": 6,
+			"episodeNumber": 5,
+			"episodeCount": 8,
+			"partners": [{
+					"name": "Sky On Demand",
+					"logo": "http://epgpm-sl0.ver.sda.t-online.de/media/3b535513543b56f3e783906c57b51982214dd7d5.png"
+				}
+			],
+			"cluster": "vodSeries",
+			"sourceType": "vodPremium",
+			"category": "series",
+			"qualities": ["SD"]
+		}, {
+			"id": "GN_EP020071710053",
+			"type": "vod",
+			"title": "Treibgut des Lebens",
+			"vodType": "episode",
+			"duration": 59,
+			"mainGenre": "Drama",
+			"countries": ["USA"],
+			"year": 2003,
+			"posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p2003600_e_h10_ac.jpg",
+			"posterNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p2003600_e_v8_ab.jpg",
+			"posterWideNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p2003600_e_h10_ac.jpg",
+			"scenes": ["http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p2003600_e_h10_ac.jpg"],
+			"ageRatingName": "Keine Altersangabe",
+			"ageRatingId": "Unbekannt",
+			"seriesTitle": "Oz - Hölle hinter Gittern",
+			"seasonNumber": 6,
+			"episodeNumber": 7,
+			"episodeCount": 8,
+			"partners": [{
+					"name": "Sky On Demand",
+					"logo": "http://epgpm-sl0.ver.sda.t-online.de/media/3b535513543b56f3e783906c57b51982214dd7d5.png"
+				}
+			],
+			"cluster": "vodSeries",
+			"sourceType": "vodPremium",
+			"category": "series",
+			"qualities": ["SD"]
+		}
+	]
+}

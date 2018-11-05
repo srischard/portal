@@ -1,0 +1,127 @@
+{
+    "totalItems": 16,
+    "totalGroups": 16,
+    "offset": 0,
+    "sort": "relevance",
+    "navigators": [],
+    "results": [
+        {
+            "id": "ARDMediathek",
+            "type": "app",
+            "title": "ARD Mediathek",
+            "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/b4320840435f3820448ce6acaeafda0f05422f76.png",
+            "ageRatingName": "Ab 12 Jahren",
+            "ageRatingId": "Andere 12"
+        },
+        {
+            "id": "123.tvDerAuktionsSender",
+            "type": "app",
+            "title": "1-2-3.tv Der Auktions-Sender",
+            "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/071019c9a6a9e232a994641e118f76cc889c4054.png",
+            "ageRatingName": "Ab 0 Jahren",
+            "ageRatingId": "Andere 0"
+        },
+        {
+            "id": "ampya",
+            "type": "app",
+            "title": "App 12",
+            "ageRatingName": "Ab 0 Jahren",
+            "ageRatingId": "Andere 0"
+        },
+        {
+            "id": "app1",
+            "type": "app",
+            "title": "App 1 (tab)",
+            "shortDescription": "App 1 (tab)",
+            "ageRatingName": "Ab 0 Jahren",
+            "ageRatingId": "Andere 0"
+        },
+        {
+            "id": "app10",
+            "type": "app",
+            "title": "App 10",
+            "shortDescription": "App 10",
+            "ageRatingName": "Ab 0 Jahren",
+            "ageRatingId": "Andere 0"
+        },
+        {
+            "id": "app11",
+            "type": "app",
+            "title": "App 11",
+            "shortDescription": "App 11",
+            "ageRatingName": "Ab 0 Jahren",
+            "ageRatingId": "Andere 0"
+        },
+        {
+            "id": "app12",
+            "type": "app",
+            "title": "App 12",
+            "ageRatingName": "Ab 0 Jahren",
+            "ageRatingId": "Andere 0"
+        },
+        {
+            "id": "app2",
+            "type": "app",
+            "title": "App 2 (tab)",
+            "shortDescription": "App 2 (tab)",
+            "ageRatingName": "Ab 0 Jahren",
+            "ageRatingId": "Andere 0"
+        },
+        {
+            "id": "app3",
+            "type": "app",
+            "title": "App 3 (tab)",
+            "shortDescription": "App 3 (tab)",
+            "ageRatingName": "Ab 0 Jahren",
+            "ageRatingId": "Andere 0"
+        },
+        {
+            "id": "app4",
+            "type": "app",
+            "title": "App 4 (iFrame)",
+            "shortDescription": "App 4 (iFrame)",
+            "ageRatingName": "Ab 0 Jahren",
+            "ageRatingId": "Andere 0"
+        },
+        {
+            "id": "app5",
+            "type": "app",
+            "title": "App 5 (iFrame)",
+            "shortDescription": "App 5 (iFrame)",
+            "ageRatingName": "Ab 0 Jahren",
+            "ageRatingId": "Andere 0"
+        },
+        {
+            "id": "app6",
+            "type": "app",
+            "title": "App 6 (iFrame)",
+            "shortDescription": "App 6 (iFrame)",
+            "ageRatingName": "Ab 0 Jahren",
+            "ageRatingId": "Andere 0"
+        },
+        {
+            "id": "app7",
+            "type": "app",
+            "title": "App 7 (iFrame)",
+            "shortDescription": "App 7 (iFrame)",
+            "ageRatingName": "Ab 0 Jahren",
+            "ageRatingId": "Andere 0"
+        },
+        {
+            "id": "app8",
+            "type": "app",
+            "title": "App 8",
+            "shortDescription": "App 8",
+            "ageRatingName": "Ab 0 Jahren",
+            "ageRatingId": "Andere 0"
+        },
+        {
+            "id": "app9",
+            "type": "app",
+            "title": "App 9",
+            "shortDescription": "App 9",
+            "ageRatingName": "Ab 0 Jahren",
+            "ageRatingId": "Andere 0"
+        }
+    ]
+}

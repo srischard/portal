@@ -1,0 +1,265 @@
+{
+    "assignment": [
+        "mr401"
+    ],
+    "featureStructure": {
+        "assignmentSource": [
+            {
+                "type": "urlSource",
+                "query": "subscriber_type",
+                "rule": {
+                    "expression": "BASISTV",
+                    "assignment": "basistv"
+                }
+            },
+            {
+                "type": "urlSource",
+                "query": "subscriber_type",
+                "rule": {
+                    "expression": "IPTV",
+                    "assignment": "iptv"
+                }
+            },
+            {
+                "type": "urlSource",
+                "query": "subscriber_type",
+                "rule": {
+                    "expression": "SATHYBRID",
+                    "assignment": "sathybrid"
+                }
+            }
+        ],
+        "definition": {
+            "rights": {
+                "full": [
+                    "viewItems",
+                    "addItems",
+                    "deleteItems",
+                    "editItems"
+                ],
+                "read": [
+                    "viewItems"
+                ],
+                "edit": [
+                    "viewItems",
+                    "addItems",
+                    "deleteItems",
+                    "editItems"
+                ]
+            }
+        },
+        "assignment": {
+            "mr401": {
+                "rights": {
+                    "app": [
+                        "full"
+                    ],
+                    "browsebar": [
+                        "full"
+                    ],
+                    "recordingtease": [
+                        "none"
+                    ],
+                    "usb": [
+                        "none"
+                    ],
+                    "moreTvMySubscriptionsPackages": [
+                        "none"
+                    ],
+                    "animationBrowsebarInOut": [
+                        "none"
+                    ],
+                    "avscontent": [
+                        "none"
+                    ],
+                    "startuppage": [
+                        "none"
+                    ],
+                    "satellite": [
+                        "none"
+                    ],
+                    "netpvr": [
+                        "none"
+                    ]
+                },
+                "values": {
+                    "partnerMapId": {
+                        "value": "entertaintvZ"
+                    },
+                    "appMapId": {
+                        "value": "APPS_ZENTERIO"
+                    },
+                    "mainMenuId": {
+                        "value": 10344
+                    },
+                    "appname720": {
+                        "value": "ui20"
+                    },
+                    "appname1080": {
+                        "value": "ui20"
+                    }
+                },
+                "assignment": {
+                    "sathybrid": {
+                        "rights": {
+                            "satellitesubscriber": [
+                                "full"
+                            ]
+                        }
+                    }
+                }
+            },
+            "mrentry": {
+                "rights": {
+                    "app": [
+                        "full"
+                    ],
+                    "browsebar": [
+                        "full"
+                    ],
+                    "recording": [
+                        "none"
+                    ],
+                    "recordingtease": [
+                        "read"
+                    ],
+                    "hdd": [
+                        "none"
+                    ],
+                    "multiroom": [
+                        "none"
+                    ],
+                    "apps": [
+                        "none"
+                    ],
+                    "usb": [
+                        "none"
+                    ],
+                    "timeshift": [
+                        "none"
+                    ],
+                    "streamuhd": [
+                        "none"
+                    ],
+                    "avscontent": [
+                        "none"
+                    ],
+                    "radio": [
+                        "none"
+                    ],
+                    "catchup": [
+                        "none"
+                    ],
+                    "moreTvMySubscriptionsVendors": [
+                        "full"
+                    ],
+                    "moreTvRelatedPackages": [
+                        "full"
+                    ],
+                    "animationDialog": [
+                        "none"
+                    ],
+                    "animationSubviewBouncing": [
+                        "none"
+                    ],
+                    "animationBrowsebarInOut": [
+                        "none"
+                    ],
+                    "streamconflict": [
+                        "none"
+                    ],
+                    "resourceconflict": [
+                        "none"
+                    ],
+                    "startuppage": [
+                        "none"
+                    ],
+                    "satellite": [
+                        "none"
+                    ]
+                },
+                "values": {
+                    "partnerMapId": {
+                        "value": "starttvfull"
+                    },
+                    "mainMenuId": {
+                        "value": 10343
+                    },
+                    "appname720": {
+                        "value": "vod-starttv"
+                    },
+                    "appname1080": {
+                        "value": "vod-starttv"
+                    }
+                },
+                "assignment": {
+                    "sathybrid": {
+                        "rights": {
+                            "satellitesubscriber": [
+                                "full"
+                            ]
+                        }
+                    }
+                }
+            },
+            "mrsat": {
+                "rights": {
+                    "app": [
+                        "full"
+                    ],
+                    "browsebar": [
+                        "full"
+                    ],
+                    "recordingtease": [
+                        "none"
+                    ],
+                    "usb": [
+                        "none"
+                    ],
+                    "moreTvMySubscriptionsPackages": [
+                        "none"
+                    ],
+                    "animationBrowsebarInOut": [
+                        "none"
+                    ],
+                    "avscontent": [
+                        "none"
+                    ],
+                    "startuppage": [
+                        "none"
+                    ],
+                    "satellite": [],
+                    "netpvr": [
+                        "none"
+                    ]
+                },
+                "values": {
+                    "partnerMapId": {
+                        "value": "entertaintvZ"
+                    },
+                    "appMapId": {
+                        "value": "APPS_ZENTERIO"
+                    },
+                    "mainMenuId": {
+                        "value": 10208
+                    },
+                    "appname720": {
+                        "value": "vod-sd"
+                    },
+                    "appname1080": {
+                        "value": "vod-hd"
+                    }
+                },
+                "assignment": {
+                    "sathybrid": {
+                        "rights": {
+                            "satellite": [
+                                "full"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

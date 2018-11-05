@@ -1,0 +1,9 @@
+{
+    // The Categories API endpoint is located at
+    "categoriesEndpoint": "https://api-global.netflix.com/preapp/tiles",
+
+    // The Discovery API endpoint is located at
+    "discoveryEndpoint": "https://api-global.netflix.com/preapp/tiles",
+
+    "language": "de-DE"
+}

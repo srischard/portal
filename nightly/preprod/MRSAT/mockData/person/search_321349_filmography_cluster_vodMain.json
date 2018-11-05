@@ -1,0 +1,120 @@
+{
+    "totalItems": 3,
+    "totalGroups": 3,
+    "offset": 0,
+    "sort": "airtime_default",
+    "navigators": [
+        {
+            "id": "cluster",
+            "name": "Cluster",
+            "entries": [
+                {
+                    "id": "vodMain",
+                    "name": "Video",
+                    "size": 3
+                }
+            ]
+        }
+    ],
+    "results": [
+        {
+            "id": "GN_MV007797860000",
+            "type": "vod",
+            "title": "Viel Lärm um Nichts",
+            "vodType": "movie",
+            "duration": 109,
+            "mainGenre": "Komödie",
+            "countries": [
+                "USA"
+            ],
+            "year": 2012,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p9467683_v_v8_ac.jpg",
+            "posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p9467683_i_h10_aa.jpg",
+            "posterNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p9467683_i_v8_aa.jpg",
+            "posterWideNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p9467683_i_h10_aa.jpg",
+            "scenes": [
+                "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p9467683_i_h10_aa.jpg"
+            ],
+            "ageRatingName": "Ab 0 Jahren (FSK)",
+            "ageRatingId": "FSK 0",
+            "partners": [
+                {
+                    "name": "Maxdome",
+                    "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/34dc487dada6dcfd0556e38de4a1857aa0fdb51e.png"
+                }
+            ],
+            "cluster": "vodMain",
+            "sourceType": "vodPremium",
+            "category": "main",
+            "qualities": [
+                "SD"
+            ]
+        },
+        {
+            "id": "GN_MV006671740000",
+            "type": "vod",
+            "title": "Powder Blue",
+            "vodType": "movie",
+            "duration": 108,
+            "mainGenre": "Drama",
+            "countries": [
+                "USA"
+            ],
+            "year": 2009,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p3495336_v_v8_ab.jpg",
+            "posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p3495336_i_h10_aa.jpg",
+            "posterNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p3495336_i_v8_aa.jpg",
+            "posterWideNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p3495336_i_h10_aa.jpg",
+            "scenes": [
+                "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p3495336_i_h10_aa.jpg"
+            ],
+            "ageRatingName": "Ab 12 Jahren (FSK)",
+            "ageRatingId": "FSK 12",
+            "partners": [
+                {
+                    "name": "Maxdome",
+                    "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/34dc487dada6dcfd0556e38de4a1857aa0fdb51e.png"
+                }
+            ],
+            "cluster": "vodMain",
+            "sourceType": "vodPremium",
+            "category": "main",
+            "qualities": [
+                "SD"
+            ]
+        },
+        {
+            "id": "GN_MV006364880000",
+            "type": "vod",
+            "title": "Million Dollar Baby",
+            "vodType": "movie",
+            "duration": 132,
+            "mainGenre": "Drama",
+            "countries": [
+                "USA"
+            ],
+            "year": 2004,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p35226_v_v8_aq.jpg",
+            "posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p35226_i_h10_aa.jpg",
+            "posterNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p35226_i_v8_aa.jpg",
+            "posterWideNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p35226_i_h10_aa.jpg",
+            "scenes": [
+                "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p35226_i_h10_aa.jpg"
+            ],
+            "ageRatingName": "Ab 12 Jahren (FSK)",
+            "ageRatingId": "FSK 12",
+            "partners": [
+                {
+                    "name": "Maxdome",
+                    "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/34dc487dada6dcfd0556e38de4a1857aa0fdb51e.png"
+                }
+            ],
+            "cluster": "vodMain",
+            "sourceType": "vodPremium",
+            "category": "main",
+            "qualities": [
+                "SD"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+	"totalItems": 95,
+	"totalGroups": 77,
+	"offset": 0,
+	"sort": "airtime_default",
+	"navigators": [{
+			"id": "cluster",
+			"name": "Cluster",
+			"entries": [{
+					"id": "tv",
+					"name": "TV Sendung",
+					"size": 21
+				}, {
+					"id": "vodMain",
+					"name": "Video",
+					"size": 11
+				}, {
+					"id": "vodSeries",
+					"name": "Serie",
+					"size": 63
+				}
+			]
+		}
+	],
+	"results": []
+}

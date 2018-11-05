@@ -1,0 +1,1784 @@
+[
+    {
+        "title": "Exklusiv",
+        "backgroundImage": "http://x3dlart.t-online.de/tucathosting/FlexDocumentReleaseImageHostingVolume_m1/LiveTvDiscovery/0000033068/0000033068_img_608337_636213760950337797.jpg",
+        "previewURL": "https://x3dlart.t-online.de/imagion-creative/StartTV_Test/Home/SiF_milakunis_170101_170101/SiF_milakunis_170101_170101_AP01/html/SiF_milakunis_170101_170101_AP01.html",
+        "pages": [
+            {
+                "url": "https://x3dlart.t-online.de/imagion-creative/StartTV_Test/Home/SiF_milakunis_170101_170101/SiF_milakunis_170101_170101_AP02/html/SiF_milakunis_170101_170101_AP02.html"
+            },
+            {
+                "menu": [
+                    {
+                        "title": "Mehr von Mila Kunis auf Abruf",
+                        "action": {
+                            "params": {
+                                "targetId": "33067",
+                                "target": "catalogue"
+                            },
+                            "name": "navigate"
+                        }
+                    },
+                    {
+                        "title": "Navigate -> details",
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=003b52fa",
+                                "target": "detail"
+                            },
+                            "name": "navigate"
+                        }
+                    }
+                ],
+                "url": "https://x3dlart.t-online.de/imagion-creative/StartTV_Test/Home/SiF_milakunis_170101_170101/SiF_milakunis_170101_170101_AP03/html/SiF_milakunis_170101_170101_AP03.html"
+            }
+        ],
+        "id": "56167"
+    },
+    {
+        "title": "exklusiv-video",
+        "backgroundImage": "http://x3dlart.t-online.de/tucathosting/FlexDocumentReleaseImageHostingVolume_m1/LiveTvDiscovery/0000033622/0000033622_img_615927_636274299234415684.jpg",
+        "pages": [
+            {
+                "url": "https://x3dlart.t-online.de/imagion-creative/2017/04/TE_Film_Matula_170411/TE_Film_Matula_170411_AP01/html/TE_Film_Matula_170411_AP01.html"
+            },
+            {
+                "url": "https://x3dlart.t-online.de/imagion-creative/2017/04/TE_Film_Matula_170411/TE_Film_Matula_170411_AP01/html/TE_Film_Matula_170411_AP01.html"
+            },
+            {
+                "url": "https://x3dlart.t-online.de/imagion-creative/2017/04/TE_Film_Matula_170411/TE_Film_Matula_170411_AP01/html/TE_Film_Matula_170411_AP01.html"
+            },
+            {
+                "trailers": {
+                    "tiles": [
+                        {
+                            "formattedContent": {
+                                "backgroundUrl": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p9563107_i_v8_aa.jpg",
+                                "title": "Ein Fall für zwei"
+                            },
+                            "contentId": "GN_SERIES_9563107",
+                            "style": "singleHigh",
+                            "action": {
+                                "params": {
+                                    "externalUrl": "id=047cbb44:79b06fdf:f235e115554",
+                                    "target": "detail"
+                                },
+                                "name": "navigate"
+                            }
+                        }
+                    ],
+                    "title": "Auf Abruf"
+                },
+                "menu": [
+                    {
+                        "title": "Claus Theo Gärtner im Interview",
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=DMM_MOVIE_9208205928594974038"
+                            },
+                            "name": "playVideo"
+                        }
+                    },
+                    {
+                        "title": "Aufnahme von Matula planen",
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=007b54c2",
+                                "target": "detail"
+                            },
+                            "name": "navigate"
+                        }
+                    },
+                    {
+                        "title": "Aufnahme von Matula planen 2 und der Text ist zu lang",
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=007b54c3",
+                                "target": "detail"
+                            },
+                            "name": "navigate"
+                        }
+                    },
+                    {
+                        "title": "Aufnahme",
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=007b54c4",
+                                "target": "detail"
+                            },
+                            "name": "navigate"
+                        }
+                    },
+                    {
+                        "title": "Aufnahme von Matula planen 4",
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=007b54c5",
+                                "target": "detail"
+                            },
+                            "name": "navigate"
+                        }
+                    },
+                    {
+                        "title": "Aufnahme 5",
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=007b54c6",
+                                "target": "detail"
+                            },
+                            "name": "navigate"
+                        }
+                    },
+                    {
+                        "title": "Aufnahme von Matula planen 6",
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=007b54c7",
+                                "target": "detail"
+                            },
+                            "name": "navigate"
+                        }
+                    },
+                    {
+                        "title": "Aufnahme von Matula planen 7",
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=007b54c8",
+                                "target": "detail"
+                            },
+                            "name": "navigate"
+                        }
+                    }
+                ],
+                "url": "https://x3dlart.t-online.de/imagion-creative/2017/04/TE_Film_Matula_170411/TE_Film_Matula_170411_AP02/html/TE_Film_Matula_170411_AP02.html"
+            }
+        ],
+        "id": "56074"
+    },
+    {
+        "backgroundImage": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000056167/0000056167_img_5577772_636190549339465633.jpg",
+        "previewURL": "https://dlart.t-online.de/hosting_imagion-creative/2017/01/TV_moerderischestille_170104_170104/TV_moerderischestille_170104_170104_AP01/html/TV_moerderischestille_170104_170104_AP01.html",
+        "pages": [
+            {
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/2017/01/TV_moerderischestille_170104_170104/TV_moerderischestille_170104_170104_AP02/html/TV_moerderischestille_170104_170104_AP02.html"
+            },
+            {
+                "menu": [
+                    {
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=DMM_MOVIE_9208205928594953133"
+                            },
+                            "name": "playVideo"
+                        },
+                        "title": "Peter Lohmeyer und Friedemann Fromm im EntertainTV-Interview"
+                    },
+                    {
+                        "action": {
+                            "params": {
+                                "externalUrl": "ZDFMediathek",
+                                "target": "app"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "ZDF-Mediathek aufrufen"
+                    }
+                ],
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/2017/01/TV_moerderischestille_170104_170104/TV_moerderischestille_170104_170104_AP03/html/TV_moerderischestille_170104_170104_AP03.html"
+            }
+        ],
+        "id": "561679999",
+        "title": "Exklusiv"
+    },
+    {
+        "backgroundImage": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000056074/0000056074_img_5570593_636186915736704989.jpg",
+        "previewURL": "https://dlart.t-online.de/hosting_imagion-creative/2016/12/Serie_bigbangs10_161230_161230/Serie_bigbangs10_161230_161230_AP01/html/Serie_bigbangs10_161230_161230_AP01.html",
+        "pages": [
+            {
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/2016/12/Serie_bigbangs10_161230_161230/Serie_bigbangs10_161230_161230_AP02/html/Serie_bigbangs10_161230_161230_AP02.html"
+            },
+            {
+                "menu": [
+                    {
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=GN_SERIES_185554",
+                                "target": "voddetail"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "The Big Bang Theory auf Abruf"
+                    }
+                ],
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/2016/12/Serie_bigbangs10_161230_161230/Serie_bigbangs10_161230_161230_AP03/html/Serie_bigbangs10_161230_161230_AP03.html",
+                "trailers": {
+                    "title": "Die Serie im TV",
+                    "tiles": [
+                        {
+                            "startTime": "2017-01-16T14:42:11.000Z",
+                            "endTime": "2017-01-16T15:07:09.000Z",
+                            "action": {
+                                "params": {
+                                    "target": "detail"
+                                },
+                                "name": "navigate"
+                            },
+                            "contentId": "006cb3b4",
+                            "style": "singleHuge",
+                            "channelId": "pro7",
+                            "formattedContent": {
+                                "backgroundUrl": "http://programm-manager.telekom.de/media/gracenote/p9806364_e_h10_aa.jpg",
+                                "title": "Ordnung in der Abstellkammer"
+                            }
+                        }
+                    ]
+                }
+            }
+        ],
+        "id": "560749999"
+    },
+    {
+        "pages": [
+            {
+                "menu": [
+                    {
+                        "title": "Start LiveTV channel",
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=zdf"
+                            },
+                            "name": "tune"
+                        }
+                    },
+                    {
+                        "title": "Play Help Video",
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=DMM_MOVIE_9208205928594904259"
+                            },
+                            "name": "playvideo"
+                        }
+                    },
+                    {
+                        "title": "Play trailer",
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=GN_MV008134350000"
+                            },
+                            "name": "playvideo"
+                        }
+                    },
+                    {
+                        "title": "Use Fußball Interaktiv",
+                        "action": {
+                            "params": {
+                                "externalUrl": "iBuliLight?#blitztabelle?hub=true&league=1",
+                                "target": "app"
+                            },
+                            "name": "navigate"
+                        }
+                    },
+                    {
+                        "title": "Play trailer 1",
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=DMM_MOVIE_158133"
+                            },
+                            "name": "playvideo"
+                        }
+                    },
+                    {
+                        "title": "Tune channel 1",
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=top8_das-erste"
+                            },
+                            "name": "tune"
+                        }
+                    },
+                    {
+                        "title": "Start App 2",
+                        "action": {
+                            "params": {
+                                "externalUrl": "YouTubeZ?q=ab",
+                                "target": "app"
+                            },
+                            "name": "navigate"
+                        }
+                    },
+                    {
+                        "title": "Plan recording",
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=0040749e",
+                                "target": "detail"
+                            },
+                            "name": "navigate"
+                        }
+                    },
+                    {
+                        "title": "Play Video/Goto VOD",
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=DMM_MOVIE_162385",
+                                "target": "voddetail"
+                            },
+                            "name": "navigate"
+                        }
+                    }
+                ],
+                "url": "https://x3dlart.t-online.de/imagion-creative/default/TE_Hilfe_ButtonTest/TE_Hilfe_ButtonTest_AP01/html/TE_Hilfe_ButtonTest_AP01.html"
+            }
+        ],
+        "id": "56180"
+    },
+    {
+        "pages": [
+            {
+                "url": "https://x3dlart.t-online.de/imagion-creative/default/TE_Hilfe_STV_BugShowOff_Testing/TE_Hilfe_STV_BugShowOff_Testing_AP01/html/TE_Hilfe_STV_BugShowOff_Testing_AP01.html"
+            },
+            {
+                "menu": [
+                    {
+                        "title": "Ein 3-zeiliger Button der nach 2 Zeilen abgeschnitten wird",
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=GN_MV006218840000",
+                                "target": "voddetail"
+                            },
+                            "name": "navigate"
+                        }
+                    },
+                    {
+                        "title": "Channel-Tune ZDF",
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=zdf"
+                            },
+                            "name": "tune"
+                        }
+                    }
+                ],
+                "url": "https://x3dlart.t-online.de/imagion-creative/default/TE_Hilfe_STV_BugShowOff_Testing/TE_Hilfe_STV_BugShowOff_Testing_AP02/html/TE_Hilfe_STV_BugShowOff_Testing_AP02.html"
+            },
+            {
+                "url": "https://x3dlart.t-online.de/imagion-creative/default/TE_Hilfe_STV_BugShowOff_Testing/TE_Hilfe_STV_BugShowOff_Testing_AP03/html/TE_Hilfe_STV_BugShowOff_Testing_AP03.html",
+                "trailers": {
+                    "tiles": [
+                        {
+                            "formattedContent": {
+                                "backgroundUrl": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p1299864_e_h10_ad.jpg",
+                                "title": "Die Simpsons"
+                            },
+                            "contentId": "0041504e",
+                            "style": "singleHuge",
+                            "channelId": "top8_prosieben",
+                            "startTime": "2017-07-14T12:15:05.000Z",
+                            "endTime": "2017-07-14T12:43:11.000Z",
+                            "action": {
+                                "params": {
+                                    "target": "detail"
+                                },
+                                "name": "navigate"
+                            }
+                        },
+                        {
+                            "formattedContent": {
+                                "backgroundUrl": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p9561785_b_h10_aa.jpg",
+                                "title": "ZDF-Morgenmagazin"
+                            },
+                            "contentId": "0041491c",
+                            "style": "singleHuge",
+                            "channelId": "top8_zdf",
+                            "startTime": "2017-07-17T03:30:00.000Z",
+                            "endTime": "2017-07-17T07:00:00.000Z",
+                            "action": {
+                                "params": {
+                                    "target": "detail"
+                                },
+                                "name": "navigate"
+                            }
+                        }
+                    ],
+                    "title": "Trailer"
+                }
+            }
+        ],
+        "backgroundImage": "http://x3dlart.t-online.de/tucathosting/FlexDocumentReleaseImageHostingVolume_m1/LiveTvDiscovery/0000033888/0000033888_img_621736_636347565123690228.jpg",
+        "id": "56169"
+    },
+    {
+        "pages": [
+            {
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/Dauerbelegungen/Allg_Testartikel/Testarticle_No3_160321_HTML/articles/_article_template/Testarticle_No3_160321_AP01.html"
+            },
+            {
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/Dauerbelegungen/Allg_Testartikel/Testarticle_No3_160321_HTML/articles/_article_template/Testarticle_No3_160321_AP02.html"
+            },
+            {
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/Dauerbelegungen/Allg_Testartikel/Testarticle_No3_160321_HTML/articles/_article_template/Testarticle_No3_160321_AP03.html",
+                "menu": [
+                    {
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=DMM_MOVIE_158030",
+                                "target": "voddetail"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "Navigate free VOD detail page"
+                    },
+                    {
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=DMM_MOVIE_158030"
+                            },
+                            "name": "playVideo"
+                        },
+                        "title": "Play free VOD"
+                    },
+                    {
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=DMM_MOVIE_157213",
+                                "target": "voddetail"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "Navigate purchase VOD detail page"
+                    },
+                    {
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=DMM_MOVIE_157213",
+                                "target": "voddetail"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "Play purchase VOD"
+                    }
+                ],
+                "trailers": {
+                    "title": "TEST-singleHugeTiles",
+                    "tiles": [
+                        {
+                            "action": {
+                                "params": {
+                                    "externalUrl": "id=DMM_MOVIE_158018",
+                                    "target": "voddetail"
+                                },
+                                "name": "navigate"
+                            },
+                            "contentId": "Webradio",
+                            "style": "singleHuge",
+                            "formattedContent": {
+                                "backgroundUrl": "http://epgpm-sl0.ver.sda.t-online.de/media/7d0dad096ec403376397db3d44bef3fc11888fdc.png"
+                            }
+                        },
+                        {
+                            "action": {
+                                "params": {
+                                    "externalUrl": "id=DMM_MOVIE_158018"
+                                },
+                                "name": "playVideo"
+                            },
+                            "contentId": "Webradio",
+                            "style": "singleHuge",
+                            "formattedContent": {
+                                "backgroundUrl": "http://epgpm-sl0.ver.sda.t-online.de/media/7d0dad096ec403376397db3d44bef3fc11888fdc.png"
+                            }
+                        },
+                        {
+                            "action": {
+                                "params": {
+                                    "externalUrl": "id=DMM_MOVIE_158018",
+                                    "target": "voddetail"
+                                },
+                                "name": "navigate"
+                            },
+                            "contentId": "Webradio",
+                            "style": "singleHuge",
+                            "formattedContent": {
+                                "backgroundUrl": "http://epgpm-sl0.ver.sda.t-online.de/media/7d0dad096ec403376397db3d44bef3fc11888fdc.png"
+                            }
+                        },
+                        {
+                            "action": {
+                                "params": {
+                                    "externalUrl": "id=DMM_MOVIE_158030"
+                                },
+                                "name": "navigate"
+                            },
+                            "contentId": "Webradio",
+                            "style": "singleHuge",
+                            "formattedContent": {
+                                "backgroundUrl": "http://epgpm-sl0.ver.sda.t-online.de/media/7d0dad096ec403376397db3d44bef3fc11888fdc.png"
+                            }
+                        }
+                    ]
+                }
+            }
+        ],
+        "id": "31857",
+        "backgroundImage": "http://x3dlart.t-online.de/tucathosting/FlexDocumentReleaseImageHostingVolume_m1/LiveTvDiscovery/0000031857/0000031857_img_561322_636010793519674593.jpg"
+    },
+    {
+        "backgroundImage": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000050585/0000050585_img_4453922_635975337276151509.jpg",
+        "pages": [
+            {
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/2016/05/Serie_DuskDawn_160501_HTML/articles/_article_template/Serie_DuskDawn_160501_AP01.html"
+            },
+            {
+                "menu": [
+                    {
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=00430b3c",
+                                "target": "detail"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "Serienaufnahme programmieren"
+                    },
+                    {
+                        "action": {
+                            "params": {
+                                "externalUrl": "MehrTV?scenario=detail&package=45781&from=discoveryhub",
+                                "target": "app"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "TV-Paket Big TV hinzubuchen"
+                    }
+                ],
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/2016/05/Serie_DuskDawn_160501_HTML/articles/_article_template/Serie_DuskDawn_160501_AP02.html",
+                "trailers": {
+                    "tiles": [
+                        {
+                            "action": {
+                                "params": {
+                                    "target": "voddetail"
+                                },
+                                "name": "navigate"
+                            },
+                            "contentId": "GN_MV006180360000",
+                            "style": "singleHigh",
+                            "formattedContent": {
+                                "backgroundUrl": "http://programm-manager.telekom.de/media/gracenote/p17605_v_v8_ae.jpg",
+                                "title": "From Dusk Till Dawn"
+                            }
+                        }
+                    ],
+                    "title": "Der Film"
+                }
+            }
+        ],
+        "id": "50585"
+    },
+    {
+        "backgroundImage": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000050650/0000050650_img_4123783_635978834855136428.jpg",
+        "pages": [
+            {
+                "menu": [
+                    {
+                        "action": {
+                            "params": {
+                                "targetId": "50651",
+                                "target": "editorial"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "Die Artikel sind mir zu kurz"
+                    },
+                    {
+                        "action": {
+                            "params": {
+                                "targetId": "50652",
+                                "target": "editorial"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "Die Artikel sind mir zu lang"
+                    },
+                    {
+                        "action": {
+                            "params": {
+                                "targetId": "50653",
+                                "target": "editorial"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "Die Länge ist genau richtig"
+                    }
+                ],
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/2016/05/TV_aktion_votingumfang_160504_160504/TV_aktion_votingumfang_160504_160504_AP01/html/TV_aktion_votingumfang_160504_160504_AP01.html"
+            }
+        ],
+        "id": "50650"
+    },
+    {
+        "backgroundImage": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000050652/0000050652_img_4123783_635978831933686974.jpg",
+        "pages": [
+            {
+                "menu": [
+                    {
+                        "action": {
+                            "params": {
+                                "targetId": "44447",
+                                "target": "homeCatalogue"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "Home"
+                    }
+                ],
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/2016/05/TV_aktion_votingumfang_160504_160504/TV_aktion_votingumfang_160504_160504_AP02/html/TV_aktion_votingumfang_160504_160504_AP02.html"
+            }
+        ],
+        "id": "50652"
+    },
+    {
+        "backgroundImage": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000050653/0000050653_img_4123783_635978832190154262.jpg",
+        "pages": [
+            {
+                "menu": [
+                    {
+                        "action": {
+                            "params": {
+                                "targetId": "44447",
+                                "target": "homeCatalogue"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "Home"
+                    }
+                ],
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/2016/05/TV_aktion_votingumfang_160504_160504/TV_aktion_votingumfang_160504_160504_AP02/html/TV_aktion_votingumfang_160504_160504_AP02.html"
+            }
+        ],
+        "id": "50653"
+    },
+    {
+        "backgroundImage": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000050656/0000050656_img_4465091_635978626494410144.jpg",
+        "pages": [
+            {
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/2016/05/TV_Seitdudabist_160504_HTML/articles/_article_template/TV_Seitdudabist_160504_AP01.html"
+            },
+            {
+                "menu": [
+                    {
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=0041011b",
+                                "target": "detail"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "Aufnahme planen"
+                    }
+                ],
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/2016/05/TV_Seitdudabist_160504_HTML/articles/_article_template/TV_Seitdudabist_160504_AP02.html"
+            }
+        ],
+        "id": "50656"
+    },
+    {
+        "backgroundImage": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000045332/0000045332_img_4123783_635908766793222334.jpg",
+        "pages": [
+            {
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/Hilfe-Themen/Hilfe_Remote_150906_HTML_NEW/articles/_article_template/Hilfe_Remote_150906_ap01.html"
+            },
+            {
+                "menu": [
+                    {
+                        "action": {
+                            "params": {
+                                "targetId": "49152",
+                                "target": "editorial"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "Weitere Neuerungen bei EntertainTV"
+                    },
+                    {
+                        "action": {
+                            "params": {
+                                "targetId": "49579",
+                                "target": "homeCatalogue"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "Hilfe-Übersicht Intuitive Bedienung"
+                    }
+                ],
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/Hilfe-Themen/Hilfe_Remote_150906_HTML_NEW/articles/_article_template/Hilfe_Remote_150906_ap02.html"
+            }
+        ],
+        "id": "45332"
+    },
+    {
+        "backgroundImage": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000046311/0000046311_img_3727380_635787708037417990.png",
+        "pages": [
+            {
+                "menu": [
+                    {
+                        "action": {
+                            "params": {
+                                "targetId": "44447",
+                                "target": "homeCatalogue"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "Home"
+                    }
+                ],
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/Dauerbelegungen/150924_ap_x_under-construction_HTML/articles/article_template/150925_ap02_x_UNDER_CONSTRUCTION.html"
+            }
+        ],
+        "id": "46311"
+    },
+    {
+        "backgroundImage": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000047819/0000047819_img_4123783_635954500223966503.jpg",
+        "pages": [
+            {
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/Hilfe-Themen/Hilfe_HDSendverw_160414_HTML_NEW/articles/_article_template/Hilfe_HDSendverw_160414_ap01.html"
+            },
+            {
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/Hilfe-Themen/Hilfe_HDSendverw_160414_HTML_NEW/articles/_article_template/Hilfe_HDSendverw_160414_ap02.html"
+            },
+            {
+                "menu": [
+                    {
+                        "action": {
+                            "params": {
+                                "targetId": "49098",
+                                "target": "homeCatalogue"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "Hilfe-Übersicht aufrufen"
+                    }
+                ],
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/Hilfe-Themen/Hilfe_HDSendverw_160414_HTML_NEW/articles/_article_template/Hilfe_HDSendverw_160414_ap03.html"
+            }
+        ],
+        "id": "47819"
+    },
+    {
+        "backgroundImage": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000049152/0000049152_img_4246594_635924291050385376.jpg",
+        "previewURL": "https://dlart.t-online.de/hosting_imagion-creative/Hilfe-Themen/Hilfe_Willkommen_XXXXXX_HTML/articles/_article_template/Hilfe_Willkommen_XXXXXX_AP01.html",
+        "pages": [
+            {
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/Hilfe-Themen/Hilfe_Willkommen_XXXXXX_HTML/articles/_article_template/Hilfe_Willkommen_XXXXXX_AP02.html"
+            },
+            {
+                "menu": [
+                    {
+                        "action": {
+                            "params": {
+                                "targetId": "49321",
+                                "target": "editorial"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "Weitere Tipps zu Restart"
+                    },
+                    {
+                        "action": {
+                            "params": {
+                                "targetId": "45332",
+                                "target": "editorial"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "Weitere Tipps zur Fernbedienung"
+                    },
+                    {
+                        "action": {
+                            "params": {
+                                "targetId": "49321",
+                                "target": "editorial"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "Weitere Tipps zu Restart 2"
+                    },
+                    {
+                        "action": {
+                            "params": {
+                                "targetId": "45332",
+                                "target": "editorial"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "Weitere Tipps zur Fernbedienung 2"
+                    },
+                    {
+                        "action": {
+                            "params": {
+                                "targetId": "49321",
+                                "target": "editorial"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "Weitere Tipps zu Restart 3"
+                    },
+                    {
+                        "action": {
+                            "params": {
+                                "targetId": "45332",
+                                "target": "editorial"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "Weitere Tipps zur Fernbedienung 3"
+                    }
+                ],
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/Hilfe-Themen/Hilfe_Willkommen_XXXXXX_HTML/articles/_article_template/Hilfe_Willkommen_160301_AP03.html"
+            }
+        ],
+        "title": "Neu",
+        "id": "49152"
+    },
+    {
+        "backgroundImage": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000049321/0000049321_img_4123783_635924145613216364.jpg",
+        "pages": [
+            {
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/Hilfe-Themen/Hilfe_EPGRestart_160301_HTML/articles/_article_template/Hilfe_EPGRestart_160301_AP01.html"
+            },
+            {
+                "menu": [
+                    {
+                        "action": {
+                            "params": {
+                                "targetId": "50070",
+                                "target": "editorial"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "Weitere Tipps zum EPG"
+                    },
+                    {
+                        "action": {
+                            "params": {
+                                "targetId": "49578",
+                                "target": "homeCatalogue"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "Hilfe-Übersicht Zeitversetzt fernsehen"
+                    }
+                ],
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/Hilfe-Themen/Hilfe_EPGRestart_160301_HTML/articles/_article_template/Hilfe_EPGRestart_160301_AP02.html"
+            }
+        ],
+        "id": "49321"
+    },
+    {
+        "backgroundImage": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000050070/0000050070_img_4123783_635957008976456331.jpg",
+        "pages": [
+            {
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/Hilfe-Themen/Hilfe_EPG_160411_HTML_NEW/articles/_article_template/Hilfe_EPG_160411_AP01.html"
+            },
+            {
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/Hilfe-Themen/Hilfe_EPG_160411_HTML_NEW/articles/_article_template/Hilfe_EPG_160411_AP02.html"
+            },
+            {
+                "menu": [
+                    {
+                        "action": {
+                            "params": {
+                                "targetId": "49321",
+                                "target": "editorial"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "Weitere Tipps zu Restart"
+                    },
+                    {
+                        "action": {
+                            "params": {
+                                "targetId": "50079",
+                                "target": "editorial"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "Weitere Tipps zu 7 Tage Replay"
+                    },
+                    {
+                        "action": {
+                            "params": {
+                                "targetId": "49578",
+                                "target": "homeCatalogue"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "Hilfe-Übersicht Zeitversetzt fernsehen"
+                    }
+                ],
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/Hilfe-Themen/Hilfe_EPG_160411_HTML_NEW/articles/_article_template/Hilfe_EPG_160411_AP03.html"
+            }
+        ],
+        "id": "50070"
+    },
+    {
+        "backgroundImage": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000050079/0000050079_img_4123783_635957010236336559.jpg",
+        "pages": [
+            {
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/Hilfe-Themen/Hilfe_EPGReplay_160411_HTML_NEW/articles/_article_template/Hilfe_EPGReplay_160411_AP01.html"
+            },
+            {
+                "menu": [
+                    {
+                        "action": {
+                            "params": {
+                                "targetId": "50070",
+                                "target": "editorial"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "Weitere Tipps zum EPG"
+                    },
+                    {
+                        "action": {
+                            "params": {
+                                "targetId": "49578",
+                                "target": "homeCatalogue"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "Hilfe-Übersicht Zeitversetzt fernsehen"
+                    }
+                ],
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/Hilfe-Themen/Hilfe_EPGReplay_160411_HTML_NEW/articles/_article_template/Hilfe_EPGReplay_160411_AP02.html"
+            }
+        ],
+        "id": "50079"
+    },
+    {
+        "backgroundImage": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000050258/0000050258_img_4414086_635966690463922746.jpg",
+        "previewURL": "https://dlart.t-online.de/hosting_imagion-creative/2016/04/Serie_Billions_160420_HTML/articles/_article_template/Serie_Billions_160420_ap01.html",
+        "pages": [
+            {
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/2016/04/Serie_Billions_160420_HTML/articles/_article_template/Serie_Billions_160420_ap02.html"
+            },
+            {
+                "menu": [
+                    {
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=0042bf8b",
+                                "target": "detail"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "Aufnahme der Serie planen"
+                    },
+                    {
+                        "action": {
+                            "params": {
+                                "externalUrl": "MehrTV?scenario=portal_sky&from=discoveryhub",
+                                "target": "app"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "Sky Entertainment Paket buchen"
+                    }
+                ],
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/2016/04/Serie_Billions_160420_HTML/articles/_article_template/Serie_Billions_160420_ap03.html",
+                "trailers": {
+                    "tiles": [
+                        {
+                            "action": {
+                                "params": {
+                                    "target": "voddetail"
+                                },
+                                "name": "navigate"
+                            },
+                            "contentId": "GN_MV006242950000",
+                            "style": "singleHigh",
+                            "formattedContent": {
+                                "backgroundUrl": "http://programm-manager.telekom.de/media/gracenote/p10501_v_v8_ab.jpg",
+                                "title": "Wall Street"
+                            }
+                        },
+                        {
+                            "action": {
+                                "params": {
+                                    "target": "voddetail"
+                                },
+                                "name": "navigate"
+                            },
+                            "contentId": "GN_MV006759410000",
+                            "style": "singleHigh",
+                            "formattedContent": {
+                                "backgroundUrl": "http://programm-manager.telekom.de/media/gracenote/p9991602_v_v8_aa.jpg",
+                                "title": "The Wolf of Wall Street"
+                            }
+                        }
+                    ],
+                    "title": "Zum Thema"
+                }
+            }
+        ],
+        "id": "50258"
+    },
+    {
+        "backgroundImage": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000050569/0000050569_img_4452714_635975317132861265.jpg",
+        "previewURL": "https://dlart.t-online.de/hosting_imagion-creative/2016/05/SiF_DiCaprio_160501_HTML/articles/_article_template/SiF_DiCaprio_160501_AP01.html",
+        "pages": [
+            {
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/2016/05/SiF_DiCaprio_160501_HTML/articles/_article_template/SiF_DiCaprio_160501_AP02.html"
+            },
+            {
+                "menu": [
+                    {
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=GN_MV008443530000",
+                                "target": "voddetail"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "Videoload"
+                    },
+                    {
+                        "action": {
+                            "params": {
+                                "targetId": "50571",
+                                "target": "catalogue"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "Weitere Filme mit Leonardo DiCaprio und dem anderen da"
+                    }
+                ],
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/2016/05/SiF_DiCaprio_160501_HTML/articles/_article_template/SiF_DiCaprio_160501_AP03.html",
+                "trailers": {
+                    "tiles": [
+                        {
+                            "action": {
+                                "params": {
+                                    "target": "voddetail"
+                                },
+                                "name": "navigate"
+                            },
+                            "contentId": "GN_MV007684790000",
+                            "style": "singleHuge",
+                            "formattedContent": {
+                                "backgroundUrl": "http://www.mrwallpaper.com/wallpapers/airplane-flight-sunset-1280x720.jpg",
+                                "title": "Trailer 1",
+                                "subtitle": "Subheadline 1"
+                            }
+                        },
+                        {
+                            "action": {
+                                "params": {
+                                    "target": "voddetail"
+                                },
+                                "name": "navigate"
+                            },
+                            "contentId": "GN_MV008188910000",
+                            "style": "singleHuge",
+                            "formattedContent": {
+                                "backgroundUrl": "http://www.mrwallpaper.com/wallpapers/armed-f5-tiger.jpg",
+                                "title": "A LEGO Brickumentary"
+                            }
+                        },
+                        {
+                            "action": {
+                                "params": {
+                                    "target": "voddetail"
+                                },
+                                "name": "navigate"
+                            },
+                            "contentId": "GN_MV008640550000",
+                            "style": "singleHuge",
+                            "formattedContent": {
+                                "backgroundUrl": "http://www.mrwallpaper.com/wallpapers/propeller-plane-1.jpg",
+                                "title": "Lego Friends - Freunde fürs Leben"
+                            }
+                        },
+                        {
+                            "action": {
+                                "params": {
+                                    "target": "voddetail"
+                                },
+                                "name": "navigate"
+                            },
+                            "contentId": "GN_MV007675830000",
+                            "style": "singleHuge",
+                            "formattedContent": {
+                                "backgroundUrl": "http://www.mrwallpaper.com/wallpapers/harrier-vertical-takeoff.jpg",
+                                "title": "LEGO DC Comics Super Heroes: Gerechtigkeitsliga VS Bizarro Liga"
+                            }
+                        },
+                        {
+                            "action": {
+                                "params": {
+                                    "target": "voddetail"
+                                },
+                                "name": "navigate"
+                            },
+                            "contentId": "GN_MV007985110000",
+                            "style": "singleHuge",
+                            "formattedContent": {
+                                "backgroundUrl": "http://www.mrwallpaper.com/wallpapers/f35-jet-fighter.jpg",
+                                "title": "LEGO DC Comics Super Heroes: Gerechtigkeitsliga: Angriff der Legion"
+                            }
+                        },
+                        {
+                            "action": {
+                                "params": {
+                                    "target": "voddetail"
+                                },
+                                "name": "navigate"
+                            },
+                            "contentId": "GN_MV007459240000",
+                            "style": "singleHuge",
+                            "formattedContent": {
+                                "backgroundUrl": "http://www.mrwallpaper.com/wallpapers/jas-39b-gripen-etps.jpg",
+                                "title": "LEGO Batman - Der Film: Vereinigung der DC-Superhelden"
+                            }
+                        }
+                    ],
+                    "title": "Mehr Lego und noch mejr Inhalt"
+                }
+            }
+        ],
+        "title": "Star im Fokus",
+        "id": "50569"
+    },
+    {
+        "pages": [
+            {
+                "menu": [
+                    {
+                        "action": {
+                            "params": {
+                                "targetId": "44447",
+                                "target": "homeCatalogue"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "Home"
+                    }
+                ],
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/2016/05/TV_aktion_votingumfang_160504_160504/TV_aktion_votingumfang_160504_160504_AP02/html/TV_aktion_votingumfang_160504_160504_AP02.html"
+            }
+        ],
+        "backgroundImage": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000050651/0000050651_img_4123783_635978831704676038.jpg",
+        "id": "50651"
+    },
+    {
+        "id": "50581",
+        "backgroundImage": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000050581/0000050581_img_4453884_635975392498987485.jpg",
+        "pages": [
+            {
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/2016/05/Kids_LegoDC_160501_HTML/articles/_article_template/Kids_LegoDC_160501_AP01.html"
+            },
+            {
+                "menu": [
+                    {
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=GN_MV008751430000",
+                                "target": "voddetail"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "Cosmic Clash 1 bei Videoload"
+                    },
+                    {
+                        "action": {
+                            "params": {
+                                "target": "search"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "Open Search"
+                    },
+                    {
+                        "action": {
+                            "params": {
+                                "target": "epg"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "TV Programm"
+                    },
+                    {
+                        "action": {
+                            "params": {
+                                "target": "settings"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "Einstellungen"
+                    },
+                    {
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=GN_MV008751430000",
+                                "target": "voddetail"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "Cosmic Clash 3 bei Videoload"
+                    },
+                    {
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=GN_MV008751430000",
+                                "target": "voddetail"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "Cosmic Clash 4 bei Videoload"
+                    },
+                    {
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=GN_MV008751430000",
+                                "target": "voddetail"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "Cosmic Clash 5 bei Videoload"
+                    },
+                    {
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=GN_MV008751430000",
+                                "target": "voddetail"
+                            },
+                            "name": "navigate"
+                        },
+                        "title": "Cosmic Clash 6 bei Videoload"
+                    }
+                ],
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/2016/05/Kids_LegoDC_160501_HTML/articles/_article_template/Kids_LegoDC_160501_AP02.html",
+                "trailers": {
+                    "tiles": [
+                        {
+                            "action": {
+                                "params": {
+                                    "target": "voddetail"
+                                },
+                                "name": "navigate"
+                            },
+                            "contentId": "GN_MV007684790000",
+                            "style": "singleHigh",
+                            "formattedContent": {
+                                "backgroundUrl": "http://programm-manager.telekom.de/media/gracenote/p11846442_v_v8_aa.jpg",
+                                "title": "The LEGO Movie Part 1 of 8 and very good",
+                                "subtitle": "Subheadline"
+                            }
+                        },
+                        {
+                            "action": {
+                                "params": {
+                                    "target": "voddetail"
+                                },
+                                "name": "navigate"
+                            },
+                            "contentId": "GN_MV008188910000",
+                            "style": "singleHigh",
+                            "formattedContent": {
+                                "backgroundUrl": "http://programm-manager.telekom.de/media/gracenote/p10816151_v_v8_aa.jpg",
+                                "title": "A LEGO Brickumentary"
+                            }
+                        },
+                        {
+                            "action": {
+                                "params": {
+                                    "target": "voddetail"
+                                },
+                                "name": "navigate"
+                            },
+                            "contentId": "GN_MV008640550000",
+                            "style": "singleHigh",
+                            "formattedContent": {
+                                "backgroundUrl": "http://programm-manager.telekom.de/media/gracenote/p12448470_v_v8_ab.jpg",
+                                "title": "Lego Friends - Freunde fürs Leben"
+                            }
+                        },
+                        {
+                            "action": {
+                                "params": {
+                                    "target": "voddetail"
+                                },
+                                "name": "navigate"
+                            },
+                            "contentId": "GN_MV007675830000",
+                            "style": "singleHigh",
+                            "formattedContent": {
+                                "backgroundUrl": "http://programm-manager.telekom.de/media/gracenote/p11837648_v_v8_aa.jpg",
+                                "title": "LEGO DC Comics Super Heroes: Gerechtigkeitsliga VS Bizarro Liga"
+                            }
+                        },
+                        {
+                            "action": {
+                                "params": {
+                                    "target": "voddetail"
+                                },
+                                "name": "navigate"
+                            },
+                            "contentId": "GN_MV007985110000",
+                            "style": "singleHigh",
+                            "formattedContent": {
+                                "backgroundUrl": "http://programm-manager.telekom.de/media/gracenote/p11878121_v_v8_av.jpg",
+                                "title": "LEGO DC Comics Super Heroes: Gerechtigkeitsliga: Angriff der Legion"
+                            }
+                        },
+                        {
+                            "action": {
+                                "params": {
+                                    "target": "voddetail"
+                                },
+                                "name": "navigate"
+                            },
+                            "contentId": "GN_MV007459240000",
+                            "style": "singleHigh",
+                            "formattedContent": {
+                                "backgroundUrl": "http://programm-manager.telekom.de/media/gracenote/p9899178_v_v8_av.jpg",
+                                "title": "LEGO Batman - Der Film: Vereinigung der DC-Superhelden"
+                            }
+                        }
+                    ],
+                    "title": "Mehr Lego"
+                }
+            }
+        ]
+    },
+    {
+        "pages": [
+            {
+                "menu": [
+                    {
+                        "title": "Start LiveTV channel",
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=zdf"
+                            },
+                            "name": "tune"
+                        }
+                    },
+                    {
+                        "title": "Play Help Video",
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=DMM_MOVIE_9208205928594904259"
+                            },
+                            "name": "playVideo"
+                        }
+                    },
+                    {
+                        "title": "Play trailer",
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=GN_MV008134350000"
+                            },
+                            "name": "playVideo"
+                        }
+                    },
+                    {
+                        "title": "Use Fußball Interaktiv",
+                        "action": {
+                            "params": {
+                                "externalUrl": "iBuliLight?#blitztabelle?hub=true&league=1",
+                                "target": "app"
+                            },
+                            "name": "navigate"
+                        }
+                    },
+                    {
+                        "title": "Play trailer 1",
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=DMM_MOVIE_158133"
+                            },
+                            "name": "playVideo"
+                        }
+                    },
+                    {
+                        "title": "Tune channel 1",
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=top8_das-erste"
+                            },
+                            "name": "tune"
+                        }
+                    },
+                    {
+                        "title": "Start App 2",
+                        "action": {
+                            "params": {
+                                "externalUrl": "YouTubeZ?q=ab",
+                                "target": "app"
+                            },
+                            "name": "navigate"
+                        }
+                    },
+                    {
+                        "title": "Plan recording",
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=0040749e",
+                                "target": "detail"
+                            },
+                            "name": "navigate"
+                        }
+                    },
+                    {
+                        "title": "Play Video/Goto VOD",
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=DMM_MOVIE_162385",
+                                "target": "voddetail"
+                            },
+                            "name": "navigate"
+                        }
+                    }
+                ],
+                "url": "https://x3dlart.t-online.de/imagion-creative/default/TE_Hilfe_ButtonTest/TE_Hilfe_ButtonTest_AP01/html/TE_Hilfe_ButtonTest_AP01.html"
+            }
+        ],
+        "id": "33869"
+    },
+    {
+        "backgroundImage": "http://x3dlart.t-online.de/tucathosting/FlexDocumentReleaseImageHostingVolume_m1/LiveTvDiscovery/0000031857/0000031857_img_561322_636010793519674593.jpg",
+        "pages": [
+            {
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/Dauerbelegungen/Allg_Testartikel/Testarticle_No3_160321_HTML/articles/_article_template/Testarticle_No3_160321_AP01.html"
+            },
+            {
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/Dauerbelegungen/Allg_Testartikel/Testarticle_No3_160321_HTML/articles/_article_template/Testarticle_No3_160321_AP02.html"
+            },
+            {
+                "menu": [
+                    {
+                        "title": "Navigate free VOD detail page",
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=DMM_MOVIE_158030",
+                                "target": "voddetail"
+                            },
+                            "name": "navigate"
+                        }
+                    },
+                    {
+                        "title": "Play free VOD",
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=DMM_MOVIE_158024"
+                            },
+                            "name": "playVideo"
+                        }
+                    },
+                    {
+                        "title": "Navigate purchase VOD detail page",
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=DMM_MOVIE_157213",
+                                "target": "voddetail"
+                            },
+                            "name": "navigate"
+                        }
+                    },
+                    {
+                        "title": "Play purchase VOD",
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=DMM_MOVIE_157213",
+                                "target": "voddetail"
+                            },
+                            "name": "navigate"
+                        }
+                    }
+                ],
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/Dauerbelegungen/Allg_Testartikel/Testarticle_No3_160321_HTML/articles/_article_template/Testarticle_No3_160321_AP03.html",
+                "trailers": {
+                    "tiles": [
+                        {
+                            "contentId": "Webradio",
+                            "style": "singleHuge",
+                            "action": {
+                                "params": {
+                                    "externalUrl": "id=DMM_MOVIE_158018",
+                                    "target": "voddetail"
+                                },
+                                "name": "navigate"
+                            },
+                            "formattedContent": {
+                                "backgroundUrl": "http://epgpm-sl0.ver.sda.t-online.de/media/7d0dad096ec403376397db3d44bef3fc11888fdc.png"
+                            }
+                        },
+                        {
+                            "contentId": "Webradio",
+                            "style": "singleHuge",
+                            "action": {
+                                "params": {
+                                    "externalUrl": "id=DMM_MOVIE_158018"
+                                },
+                                "name": "playVideo"
+                            },
+                            "formattedContent": {
+                                "backgroundUrl": "http://epgpm-sl0.ver.sda.t-online.de/media/7d0dad096ec403376397db3d44bef3fc11888fdc.png"
+                            }
+                        },
+                        {
+                            "contentId": "Webradio",
+                            "style": "singleHuge",
+                            "action": {
+                                "params": {
+                                    "externalUrl": "id=DMM_MOVIE_158018",
+                                    "target": "voddetail"
+                                },
+                                "name": "navigate"
+                            },
+                            "formattedContent": {
+                                "backgroundUrl": "http://epgpm-sl0.ver.sda.t-online.de/media/7d0dad096ec403376397db3d44bef3fc11888fdc.png"
+                            }
+                        },
+                        {
+                            "contentId": "Webradio",
+                            "style": "singleHuge",
+                            "action": {
+                                "params": {
+                                    "externalUrl": "id=DMM_MOVIE_158030"
+                                },
+                                "name": "navigate"
+                            },
+                            "formattedContent": {
+                                "backgroundUrl": "http://epgpm-sl0.ver.sda.t-online.de/media/7d0dad096ec403376397db3d44bef3fc11888fdc.png"
+                            }
+                        }
+                    ],
+                    "title": "TEST-singleHugeTiles"
+                }
+            }
+        ],
+        "id": "31857"
+    },
+    {
+        "backgroundImage": "http://x3dlart.t-online.de/tucathosting/FlexDocumentReleaseImageHostingVolume_m1/LiveTvDiscovery/0000031856/0000031856_img_561324_636010773645324587.jpg",
+        "pages": [
+            {
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/Dauerbelegungen/Allg_Testartikel/Testarticle_No2_160321_HTML/articles/_article_template/Testarticle_No2_160321_AP02.html"
+            },
+            {
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/Dauerbelegungen/Allg_Testartikel/Testarticle_No2_160321_HTML/articles/_article_template/Testarticle_No2_160321_AP03.html"
+            },
+            {
+                "menu": [
+                    {
+                        "title": "Navigate Search",
+                        "action": {
+                            "params": {
+                                "target": "search"
+                            },
+                            "name": "navigate"
+                        }
+                    },
+                    {
+                        "title": "Navigate Settings",
+                        "action": {
+                            "params": {
+                                "target": "settings"
+                            },
+                            "name": "navigate"
+                        }
+                    },
+                    {
+                        "title": "Navigate EPG",
+                        "action": {
+                            "params": {
+                                "target": "epg"
+                            },
+                            "name": "navigate"
+                        }
+                    },
+                    {
+                        "title": "Navigate Editorial",
+                        "action": {
+                            "params": {
+                                "targetId": "31854",
+                                "target": "editorial"
+                            },
+                            "name": "navigate"
+                        }
+                    },
+                    {
+                        "title": "Navigate WebRadio",
+                        "action": {
+                            "params": {
+                                "externalUrl": "Webradio",
+                                "target": "app"
+                            },
+                            "name": "navigate"
+                        }
+                    },
+                    {
+                        "title": "Navigate app ARD Mediathek",
+                        "action": {
+                            "params": {
+                                "externalUrl": "ARDMediathek",
+                                "target": "app"
+                            },
+                            "name": "navigate"
+                        }
+                    },
+                    {
+                        "title": "Navigate app Youtube",
+                        "action": {
+                            "params": {
+                                "externalUrl": "YouTube",
+                                "target": "app"
+                            },
+                            "name": "navigate"
+                        }
+                    },
+                    {
+                        "title": "Navigate app Emaill",
+                        "action": {
+                            "params": {
+                                "externalUrl": "eMail",
+                                "target": "app"
+                            },
+                            "name": "navigate"
+                        }
+                    },
+                    {
+                        "title": "Navigate app ZDF Mediathek",
+                        "action": {
+                            "params": {
+                                "externalUrl": "ZDFMediathek",
+                                "target": "app"
+                            },
+                            "name": "navigate"
+                        }
+                    },
+                    {
+                        "title": "Navigate app Sky",
+                        "action": {
+                            "params": {
+                                "externalUrl": "Sky",
+                                "target": "app"
+                            },
+                            "name": "navigate"
+                        }
+                    },
+                    {
+                        "title": "Navigate app detail ARD Mediathek",
+                        "action": {
+                            "params": {
+                                "externalUrl": "ARDMediathek",
+                                "target": "appdetail"
+                            },
+                            "name": "navigate"
+                        }
+                    },
+                    {
+                        "title": "Navigate catalogue 5 to 7",
+                        "action": {
+                            "params": {
+                                "externalUrl": "Testarticle_160321_List_5to7",
+                                "target": "catalogue"
+                            },
+                            "name": "navigate"
+                        }
+                    },
+                    {
+                        "title": "Navigate catalogue 16 to 9",
+                        "action": {
+                            "params": {
+                                "externalUrl": "Testarticle_160321_List_16to9",
+                                "target": "catalogue"
+                            },
+                            "name": "navigate"
+                        }
+                    }
+                ],
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/Dauerbelegungen/Allg_Testartikel/Testarticle_No2_160321_HTML/articles/_article_template/Testarticle_No2_160321_AP03.html"
+            }
+        ],
+        "id": "31856"
+    },
+    {
+        "backgroundImage": "http://x3dlart.t-online.de/tucathosting/FlexDocumentReleaseImageHostingVolume_m1/VCP_Test_Content/0000034071/0000034071_img_625562_636367493962512194.jpg",
+        "title": "im tv",
+        "pages": [
+            {
+                "menu": [
+                    {
+                        "title": "butotn",
+                        "action": {
+                            "params": {
+                                "externalUrl": "id=GN_asdfasdf",
+                                "target": "detail"
+                            },
+                            "name": "navigate"
+                        }
+                    }
+                ],
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/2017/07/Doku_MeineBruederUndSchwesternInNordkorea_170718/Doku_MeineBruederUndSchwesternInNordkorea_170718_AP01/html/Doku_MeineBruederUndSchwesternInNordkorea_170718_AP01.html",
+                "trailers": {
+                    "tiles": [
+                        {
+                            "style": "singleHuge",
+                            "action": {
+                                "params": {
+                                    "target": "detail"
+                                },
+                                "name": "navigate"
+                            }
+                        }
+                    ],
+                    "title": "Die Dokumentation auf Abruf"
+                }
+            }
+        ],
+        "id": "34071"
+    },
+    {
+        "backgroundImage": "http://x3dlart.t-online.de/tucathosting/FlexDocumentReleaseImageHostingVolume_m1/LiveTvDiscovery/0000034084/0000034084_img_625773_636368459413038110.jpg",
+        "title": "im tv",
+        "pages": [
+            {
+                "menu": [
+                    {
+                        "title": "„Terminator 2“ aufnehmen",
+                        "action": {
+                            "params": {
+                                "externalUrl": "asdfa",
+                                "target": "detail"
+                            },
+                            "name": "navigate"
+                        }
+                    }
+                ],
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/2017/07/TV_WochenendtippsKW30_170726/TV_WochenendtippsKW30_170726_AP01/html/TV_WochenendtippsKW30_170726_AP01.html"
+            },
+            {
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/2017/07/TV_WochenendtippsKW30_170726/TV_WochenendtippsKW30_170726_AP02/html/TV_WochenendtippsKW30_170726_AP02.html"
+            },
+            {
+                "menu": [
+                    {
+                        "title": "„Terminator 2“ aufnehmen",
+                        "action": {
+                            "params": {
+                                "externalUrl": "dasdf",
+                                "target": "detail"
+                            },
+                            "name": "navigate"
+                        }
+                    }
+                ],
+                "url": "https://dlart.t-online.de/hosting_imagion-creative/2017/07/TV_WochenendtippsKW30_170726/TV_WochenendtippsKW30_170726_AP03/html/TV_WochenendtippsKW30_170726_AP03.html"
+            }
+        ],
+        "id": "34084"
+    }
+]

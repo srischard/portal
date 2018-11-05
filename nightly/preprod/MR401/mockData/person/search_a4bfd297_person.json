@@ -1,0 +1,43 @@
+{
+    "totalItems": 1,
+    "totalGroups": 1,
+    "offset": 0,
+    "sort": "id_asc",
+    "navigators": [
+        {
+            "id": "type",
+            "name": "Inhaltstyp",
+            "entries": [
+                {
+                    "id": "person",
+                    "name": "Personen",
+                    "size": 1
+                }
+            ]
+        }
+    ],
+    "results": [
+        {
+            "id": "gnp_799010",
+            "type": "person",
+            "title": "Kai Pflaume",
+            "roles": [
+                "actor",
+                "host"
+            ],
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote_persons/799010_v9_ba.jpg",
+            "filmography": [
+                {
+                    "title": "The Incredibles",
+                    "year": 2004
+                },
+                {
+                    "title": "Klein gegen Groß: Das unglaubliche Duell"
+                },
+                {
+                    "title": "Das ist SPITZE!"
+                }
+            ]
+        }
+    ]
+}

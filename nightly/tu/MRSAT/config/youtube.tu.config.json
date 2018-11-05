@@ -1,0 +1,13 @@
+{
+    //search api url for youtube
+    "searchApiUrl": "https://www.googleapis.com/youtube/v3/",
+    
+    //api key to access youtube interface
+    "apiKey": "AIzaSyCwedouWLGjRu272VoF9sodQ5NBGRu9svk",
+    
+    // youtube url is used in search to start app
+    "youtubeTvUrl": "https://www.youtube.com/tv",
+    
+    // app id of youtube app to use in search to check pcon settings
+    "youtubeSearchAppId": "YouTubeZ"
+}

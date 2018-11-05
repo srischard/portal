@@ -1,0 +1,1173 @@
+{
+    "totalItems": 32236,
+    "totalGroups": 1319,
+    "offset": 0,
+    "sort": "relevance",
+    "navigators": [
+        {
+            "id": "referenceLogicalChannelIds",
+            "name": "Sender",
+            "entries": [
+                {
+                    "id": "das-erste_1",
+                    "name": "Das Erste",
+                    "size": 278
+                },
+                {
+                    "id": "epgdupl-01_no-comment_das-erste",
+                    "name": "Metadata_EPG 01_No comment_Das Erste",
+                    "size": 1982
+                },
+                {
+                    "id": "epgdupl-02_null_das-erste",
+                    "name": "Metadata_EPG 02_NULL_Das Erste",
+                    "size": 1982
+                },
+                {
+                    "id": "epgdupl-03_sechs_das-erste",
+                    "name": "Metadata_EPG 03_Sechs_Das Erste",
+                    "size": 1982
+                },
+                {
+                    "id": "epgdupl-04_zwoelf_das-erste",
+                    "name": "Metadata_EPG 04_Zwölf_Das Erste",
+                    "size": 1982
+                },
+                {
+                    "id": "epgdupl-05_sechzehn_das-erste",
+                    "name": "Metadata_EPG 05_Sechzehn_Das Erste",
+                    "size": 1982
+                },
+                {
+                    "id": "epgdupl-06_achtzehn_das-erste",
+                    "name": "Metadata_EPG 06_Achtzehn_Das Erste",
+                    "size": 1982
+                },
+                {
+                    "id": "sidupl-01_siepg-a_das-erste",
+                    "name": "Metadata_SI 01_SI+EPG A_Das Erste",
+                    "size": 1982
+                },
+                {
+                    "id": "sidupl-02_siepg-c_das-erste",
+                    "name": "Metadata_SIDupl 02_SI+EPG C_Das Erste",
+                    "size": 1982
+                },
+                {
+                    "id": "n24_1",
+                    "name": "N24",
+                    "size": 631
+                },
+                {
+                    "id": "prodrightsdupl-01_tnt-film",
+                    "name": "ProdRightsDupl 01_TNT Film",
+                    "size": 177
+                },
+                {
+                    "id": "prodrightsdupl-02_arte",
+                    "name": "ProdRightsDupl 02_ARTE",
+                    "size": 393
+                },
+                {
+                    "id": "prodrightsdupl-03_spiegel-wissen",
+                    "name": "ProdRightsDupl 03_Spiegel Wissen",
+                    "size": 368
+                },
+                {
+                    "id": "prodrightsdupl-04_phoenix",
+                    "name": "ProdRightsDupl 04_PHOENIX",
+                    "size": 357
+                },
+                {
+                    "id": "prodrightsdupl_low-01_tnt-film",
+                    "name": "ProdRightsDupl_low 01_TNT Film",
+                    "size": 177
+                },
+                {
+                    "id": "prodrightsdupl_low-02_arte",
+                    "name": "ProdRightsDupl_low 02_ARTE",
+                    "size": 393
+                },
+                {
+                    "id": "prodrightsdupl_low-03_spiegel-wissen",
+                    "name": "ProdRightsDupl_low 03_Spiegel Wissen",
+                    "size": 368
+                },
+                {
+                    "id": "prodrightsdupl_low-04_phoenix",
+                    "name": "ProdRightsDupl_low 04_PHOENIX",
+                    "size": 357
+                },
+                {
+                    "id": "prodstreams-01_211_tnt-film",
+                    "name": "ProdStreams 01_211_TNT Film",
+                    "size": 177
+                },
+                {
+                    "id": "prodstreams-02_055_arte",
+                    "name": "ProdStreams 02_055_ARTE",
+                    "size": 393
+                },
+                {
+                    "id": "prodstreams-03_256_spiegel-wissen",
+                    "name": "ProdStreams 03_256_Spiegel Wissen",
+                    "size": 368
+                },
+                {
+                    "id": "prodstreams-04_015_phoenix",
+                    "name": "ProdStreams 04_015_PHOENIX",
+                    "size": 357
+                },
+                {
+                    "id": "prodstreams-05_013_n24",
+                    "name": "ProdStreams 05_013_N24",
+                    "size": 631
+                },
+                {
+                    "id": "prodstreams-06_203_disney-cinemagic",
+                    "name": "ProdStreams 06_203_Disney Cinemagic",
+                    "size": 313
+                },
+                {
+                    "id": "prodstreams-07_209_rtl-crime",
+                    "name": "ProdStreams 07_209_RTL Crime",
+                    "size": 433
+                },
+                {
+                    "id": "prodstreams-08_700_skyatlantic",
+                    "name": "ProdStreams 08_700_SkyAtlantic",
+                    "size": 389
+                },
+                {
+                    "id": "prodstreams-09_260_auto-motor-und-sport",
+                    "name": "ProdStreams 09_260_auto motor und sport",
+                    "size": 939
+                },
+                {
+                    "id": "specialbitrates04-vdsl50.1-fcc-4ktest2",
+                    "name": "Project_FargoUHD_50.1_Insight_Plus",
+                    "size": 335
+                },
+                {
+                    "id": "specialbitrates03-vdsl50.1-fcc-4ktest1",
+                    "name": "Project_FargoUHD_50.1_SkySportBundesliga_Plus",
+                    "size": 55
+                },
+                {
+                    "id": "uhdhd-4ktest2",
+                    "name": "Project_FargoUHD_Dupl_Insight_Plus",
+                    "size": 335
+                },
+                {
+                    "id": "uhdsd-4ktest1",
+                    "name": "Project_FargoUHD_Dupl_SkySportBundesliga_Plus",
+                    "size": 55
+                },
+                {
+                    "id": "project_fargouhd_prod_insight",
+                    "name": "Project_FargoUHD_Prod_Insight",
+                    "size": 335
+                },
+                {
+                    "id": "4k-testkanal1",
+                    "name": "Project_FargoUHD_Prod_SkySportBundesliga",
+                    "size": 55
+                },
+                {
+                    "id": "projekt_geronimo_hd_audiotesting",
+                    "name": "Projekt_Geronimo_HD_AudioTesting",
+                    "size": 286
+                },
+                {
+                    "id": "rtl-2",
+                    "name": "RTL 2",
+                    "size": 283
+                },
+                {
+                    "id": "specialrightsdupl-01_tnt-film",
+                    "name": "SpecialRightsDupl 01_TNT Film",
+                    "size": 177
+                },
+                {
+                    "id": "specialrightsdupl-02_arte",
+                    "name": "SpecialRightsDupl 02_ARTE",
+                    "size": 393
+                },
+                {
+                    "id": "specialrightsdupl-03_spiegel-wissen",
+                    "name": "SpecialRightsDupl 03_Spiegel Wissen",
+                    "size": 368
+                },
+                {
+                    "id": "specialrightsdupl-04_phoenix",
+                    "name": "SpecialRightsDupl 04_PHOENIX",
+                    "size": 357
+                },
+                {
+                    "id": "specialrightsdupl_srvprm-01_tnt-film",
+                    "name": "SpecialRightsDupl_SrvPrm 01_TNT Film",
+                    "size": 177
+                },
+                {
+                    "id": "specialrightsdupl_srvprm-02_arte",
+                    "name": "SpecialRightsDupl_SrvPrm 02_ARTE",
+                    "size": 393
+                },
+                {
+                    "id": "specialrightsdupl_srvprm-03_spiegel-wissen",
+                    "name": "SpecialRightsDupl_SrvPrm 03_Spiegel Wissen",
+                    "size": 368
+                },
+                {
+                    "id": "specialrightsdupl_srvprm-04_phoenix",
+                    "name": "SpecialRightsDupl_SrvPrm 04_PHOENIX",
+                    "size": 357
+                },
+                {
+                    "id": "specialbitrates01-11mbps-das-erste",
+                    "name": "SpecialStreams_Bitrates01 11Mbps Das Erste",
+                    "size": 278
+                },
+                {
+                    "id": "specialbitrates02-15mbps-zdf",
+                    "name": "SpecialStreams_Bitrates02 15Mbps ZDF",
+                    "size": 177
+                },
+                {
+                    "id": "specialstreams_multilangsubt-01_rtlnitro",
+                    "name": "SpecialStreams_multiLangSubt 01_RTLNITRO",
+                    "size": 464
+                },
+                {
+                    "id": "specialstreams_multilangsubt-02_rtl-hessen",
+                    "name": "SpecialStreams_multiLangSubt 02_RTL Hessen",
+                    "size": 379
+                },
+                {
+                    "id": "specialstreams_permanentsubt-03_tv5",
+                    "name": "SpecialStreams_permanentSubt 03_TV5",
+                    "size": 278
+                },
+                {
+                    "id": "top8_das-erste",
+                    "name": "Top8_Das Erste",
+                    "size": 465
+                },
+                {
+                    "id": "top8_kabel-eins",
+                    "name": "Top8_kabel eins",
+                    "size": 311
+                },
+                {
+                    "id": "top8_prosieben",
+                    "name": "Top8_ProSieben",
+                    "size": 532
+                },
+                {
+                    "id": "top8_rtl",
+                    "name": "Top8_RTL",
+                    "size": 389
+                },
+                {
+                    "id": "top8_rtl-ii",
+                    "name": "Top8_RTL II",
+                    "size": 226
+                },
+                {
+                    "id": "top8_sat.1",
+                    "name": "Top8_Sat.1",
+                    "size": 303
+                },
+                {
+                    "id": "top8_vox",
+                    "name": "Top8_VOX",
+                    "size": 347
+                },
+                {
+                    "id": "top8_zdf",
+                    "name": "Top8_ZDF",
+                    "size": 403
+                }
+            ]
+        },
+        {
+            "id": "ageRating",
+            "name": "Alterskennzeichnung",
+            "entries": [
+                {
+                    "id": "unknown",
+                    "name": "Keine Altersangabe",
+                    "size": 20474
+                },
+                {
+                    "id": "6",
+                    "name": "Ab 6 Jahren",
+                    "size": 2349
+                },
+                {
+                    "id": "12",
+                    "name": "Ab 12 Jahren",
+                    "size": 2819
+                },
+                {
+                    "id": "16",
+                    "name": "Ab 16 Jahren",
+                    "size": 3718
+                },
+                {
+                    "id": "18",
+                    "name": "Ab 18 Jahren",
+                    "size": 2876
+                }
+            ]
+        },
+        {
+            "id": "dateClusterNav",
+            "name": "Woche (redaktionell)",
+            "entries": [
+                {
+                    "id": "now",
+                    "name": "Jetzt",
+                    "size": 50
+                },
+                {
+                    "id": "today",
+                    "name": "Heute",
+                    "size": 1366
+                },
+                {
+                    "id": "tomorrow",
+                    "name": "Morgen",
+                    "size": 2453
+                },
+                {
+                    "id": "the_day_after_tomorrow",
+                    "name": "Übermorgen",
+                    "size": 2358
+                },
+                {
+                    "id": "3_days_later",
+                    "name": "3 Tage später",
+                    "size": 2357
+                },
+                {
+                    "id": "4_days_later",
+                    "name": "4 Tage später",
+                    "size": 2261
+                },
+                {
+                    "id": "5_days_later",
+                    "name": "5 Tage später",
+                    "size": 2395
+                },
+                {
+                    "id": "6_days_later",
+                    "name": "6 Tage später",
+                    "size": 2511
+                },
+                {
+                    "id": "thisweek",
+                    "name": "Diese Woche",
+                    "size": 10795
+                },
+                {
+                    "id": "nextweek",
+                    "name": "Nächste Woche",
+                    "size": 16358
+                }
+            ]
+        },
+        {
+            "id": "genreIdsNav",
+            "name": "Genre",
+            "entries": [
+                {
+                    "id": "ug_1",
+                    "name": "Abenteuer",
+                    "size": 735
+                },
+                {
+                    "id": "ug_2",
+                    "name": "Action",
+                    "size": 1029
+                },
+                {
+                    "id": "ug_3",
+                    "name": "Animation",
+                    "size": 280
+                },
+                {
+                    "id": "ug_5",
+                    "name": "Auto",
+                    "size": 560
+                },
+                {
+                    "id": "ug_47",
+                    "name": "Basketball",
+                    "size": 1
+                },
+                {
+                    "id": "ug_42",
+                    "name": "Biografie",
+                    "size": 72
+                },
+                {
+                    "id": "ug_7",
+                    "name": "Comedy",
+                    "size": 489
+                },
+                {
+                    "id": "ug_8",
+                    "name": "Dokumentation",
+                    "size": 5386
+                },
+                {
+                    "id": "ug_49",
+                    "name": "Dokusoap",
+                    "size": 558
+                },
+                {
+                    "id": "ug_9",
+                    "name": "Drama",
+                    "size": 1996
+                },
+                {
+                    "id": "ug_10",
+                    "name": "Erotischer Film",
+                    "size": 10
+                },
+                {
+                    "id": "ug_12",
+                    "name": "Fantasy",
+                    "size": 712
+                },
+                {
+                    "id": "ug_48",
+                    "name": "Fußball",
+                    "size": 87
+                },
+                {
+                    "id": "ug_13",
+                    "name": "Geschichte",
+                    "size": 668
+                },
+                {
+                    "id": "ug_14",
+                    "name": "Gesellschaft",
+                    "size": 104
+                },
+                {
+                    "id": "ug_43",
+                    "name": "Heimwerker",
+                    "size": 18
+                },
+                {
+                    "id": "ug_15",
+                    "name": "Horror",
+                    "size": 105
+                },
+                {
+                    "id": "ug_16",
+                    "name": "Kinder",
+                    "size": 408
+                },
+                {
+                    "id": "ug_50",
+                    "name": "Kochen",
+                    "size": 146
+                },
+                {
+                    "id": "ug_17",
+                    "name": "Komödie",
+                    "size": 151
+                },
+                {
+                    "id": "ug_19",
+                    "name": "Krimi",
+                    "size": 1805
+                },
+                {
+                    "id": "ug_20",
+                    "name": "Kultur",
+                    "size": 1418
+                },
+                {
+                    "id": "ug_22",
+                    "name": "Lifestyle",
+                    "size": 72
+                },
+                {
+                    "id": "ug_23",
+                    "name": "Magazin",
+                    "size": 336
+                },
+                {
+                    "id": "ug_24",
+                    "name": "Musik",
+                    "size": 134
+                },
+                {
+                    "id": "ug_25",
+                    "name": "Nachrichten",
+                    "size": 4489
+                },
+                {
+                    "id": "ug_26",
+                    "name": "Natur und Tiere",
+                    "size": 697
+                },
+                {
+                    "id": "ug_27",
+                    "name": "Politik",
+                    "size": 1367
+                },
+                {
+                    "id": "ug_29",
+                    "name": "Ratgeber",
+                    "size": 195
+                },
+                {
+                    "id": "ug_44",
+                    "name": "Reality",
+                    "size": 831
+                },
+                {
+                    "id": "ug_30",
+                    "name": "Reisen",
+                    "size": 542
+                },
+                {
+                    "id": "ug_31",
+                    "name": "Reportage",
+                    "size": 6
+                },
+                {
+                    "id": "ug_32",
+                    "name": "Romantik",
+                    "size": 114
+                },
+                {
+                    "id": "ug_33",
+                    "name": "ScienceFiction",
+                    "size": 195
+                },
+                {
+                    "id": "ug_34",
+                    "name": "Show",
+                    "size": 1244
+                },
+                {
+                    "id": "ug_45",
+                    "name": "Sitcom",
+                    "size": 578
+                },
+                {
+                    "id": "ug_35",
+                    "name": "Soap",
+                    "size": 829
+                },
+                {
+                    "id": "ug_36",
+                    "name": "Sport",
+                    "size": 934
+                },
+                {
+                    "id": "ug_46",
+                    "name": "Talkshow",
+                    "size": 110
+                },
+                {
+                    "id": "ug_37",
+                    "name": "Thriller",
+                    "size": 489
+                },
+                {
+                    "id": "ug_38",
+                    "name": "Unterhaltung",
+                    "size": 270
+                },
+                {
+                    "id": "ug_39",
+                    "name": "Verschiedenes",
+                    "size": 9
+                },
+                {
+                    "id": "ug_40",
+                    "name": "Western",
+                    "size": 57
+                },
+                {
+                    "id": "ug_41",
+                    "name": "Wissen",
+                    "size": 1461
+                }
+            ]
+        },
+        {
+            "id": "tipType",
+            "name": "Tipps",
+            "entries": [
+                {
+                    "id": "tip",
+                    "name": "Tipp",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "id": "channelGenreNamesByTvPackage",
+            "name": "TV-Pakete",
+            "entries": [
+                {
+                    "id": "bigtv",
+                    "name": "BigTV",
+                    "size": 3092
+                },
+                {
+                    "id": "doku",
+                    "name": "Doku",
+                    "size": 835
+                },
+                {
+                    "id": "entertain-italiano",
+                    "name": "Entertain Italiano",
+                    "size": 1982
+                },
+                {
+                    "id": "entertain-po-russki",
+                    "name": "Entertain Po-Russki",
+                    "size": 1982
+                },
+                {
+                    "id": "entertain-polski",
+                    "name": "Entertain Polski",
+                    "size": 1982
+                },
+                {
+                    "id": "entertain-turk",
+                    "name": "Entertain Turk",
+                    "size": 1982
+                },
+                {
+                    "id": "film",
+                    "name": "Film",
+                    "size": 389
+                },
+                {
+                    "id": "hd",
+                    "name": "HD",
+                    "size": 368
+                },
+                {
+                    "id": "hd-start",
+                    "name": "HD Start",
+                    "size": 357
+                },
+                {
+                    "id": "kinder",
+                    "name": "Kinder",
+                    "size": 509
+                },
+                {
+                    "id": "lifestyle",
+                    "name": "Lifestyle",
+                    "size": 879
+                },
+                {
+                    "id": "lounge",
+                    "name": "Lounge",
+                    "size": 311
+                },
+                {
+                    "id": "sport",
+                    "name": "Sport",
+                    "size": 1262
+                },
+                {
+                    "id": "CHANNEL_GENRE_3",
+                    "name": "Telekom Fußball",
+                    "size": 1982
+                }
+            ]
+        },
+        {
+            "id": "channelGenreNamesBySkyPackage",
+            "name": "Pakete von Sky",
+            "entries": [
+                {
+                    "id": "sky-premium-hd",
+                    "name": "Premium-HD-Sender",
+                    "size": 313
+                },
+                {
+                    "id": "CHANNEL_GENRE_5",
+                    "name": "Sky Cinema Paket",
+                    "size": 1198
+                },
+                {
+                    "id": "CHANNEL_GENRE_4",
+                    "name": "Sky Entertainment Paket",
+                    "size": 1135
+                },
+                {
+                    "id": "sky-sport",
+                    "name": "Sky Sport Paket",
+                    "size": 1982
+                },
+                {
+                    "id": "sky-starter",
+                    "name": "Sky Starter Paket",
+                    "size": 433
+                }
+            ]
+        }
+    ],
+    "results": [
+        {
+            "id": "groupType16Adult__e710bf7ad83a4820539327365468b193",
+            "type": "group",
+            "title": "Vorfahrt Audi Q8",
+            "size": 4,
+            "items": [
+                {
+                    "id": "0065508f",
+                    "type": "tvBroadcast",
+                    "title": "Vorfahrt Audi Q8",
+                    "logicalChannelId": "prodstreams-09_260_auto-motor-und-sport",
+                    "start": "2018-08-08T10:38:55+0200",
+                    "end": "2018-08-08T10:49:51+0200",
+                    "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/07dcc3c20c2cc9b9c6f02ebd8ecb269f0711118d.png",
+                    "logicalChannelName": "ProdStreams 09_260_auto motor und sport",
+                    "mainGenre": "Sport",
+                    "category": "Sport",
+                    "countries": [
+                        "Deutschland"
+                    ],
+                    "year": 2018,
+                    "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11076210_i_h10_aa.jpg",
+                    "seriesTitle": "Vorfahrt",
+                    "ageRatingName": "Keine Altersangabe",
+                    "ageRatingId": "Unbekannt",
+                    "instantRestart": false,
+                    "cluster": "tv"
+                }
+            ]
+        },
+        {
+            "id": "groupType16Adult__7e8a1b937a57bd6392c117ad26cde25a",
+            "type": "group",
+            "title": "Autokino",
+            "size": 38,
+            "items": [
+                {
+                    "id": "00655091",
+                    "type": "tvBroadcast",
+                    "title": "Autokino",
+                    "logicalChannelId": "prodstreams-09_260_auto-motor-und-sport",
+                    "subtitle": "Mit dem WRX nach Flensburg",
+                    "start": "2018-08-08T11:05:20+0200",
+                    "end": "2018-08-08T11:31:20+0200",
+                    "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/07dcc3c20c2cc9b9c6f02ebd8ecb269f0711118d.png",
+                    "logicalChannelName": "ProdStreams 09_260_auto motor und sport",
+                    "mainGenre": "Auto",
+                    "category": "Information",
+                    "countries": [
+                        "Deutschland"
+                    ],
+                    "year": 2016,
+                    "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11088625_i_h10_aa.jpg",
+                    "seriesTitle": "Autokino",
+                    "ageRatingName": "Keine Altersangabe",
+                    "ageRatingId": "Unbekannt",
+                    "instantRestart": false,
+                    "cluster": "tv"
+                }
+            ]
+        },
+        {
+            "id": "groupType16Adult__1ef8707509263c70ecca3af579254923",
+            "type": "group",
+            "title": "Das Werk - So werden Autos gebaut",
+            "size": 28,
+            "items": [
+                {
+                    "id": "006550bf",
+                    "type": "tvBroadcast",
+                    "title": "Das Werk - So werden Autos gebaut",
+                    "logicalChannelId": "prodstreams-09_260_auto-motor-und-sport",
+                    "subtitle": "Ford Fiesta in Köln",
+                    "start": "2018-08-09T01:52:27+0200",
+                    "end": "2018-08-09T02:17:45+0200",
+                    "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/07dcc3c20c2cc9b9c6f02ebd8ecb269f0711118d.png",
+                    "logicalChannelName": "ProdStreams 09_260_auto motor und sport",
+                    "mainGenre": "Auto",
+                    "category": "Information",
+                    "countries": [
+                        "Deutschland"
+                    ],
+                    "year": 2016,
+                    "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11138525_i_h10_aa.jpg",
+                    "seriesTitle": "Das Werk - So werden Autos gebaut",
+                    "ageRatingName": "Keine Altersangabe",
+                    "ageRatingId": "Unbekannt",
+                    "instantRestart": false,
+                    "cluster": "tv"
+                }
+            ]
+        },
+        {
+            "id": "groupType16Adult__d0c3aa60835bcaf3a0dbda5d1578a859",
+            "type": "group",
+            "title": "Ausfahrt",
+            "size": 6,
+            "items": [
+                {
+                    "id": "00656833",
+                    "type": "tvBroadcast",
+                    "title": "Ausfahrt",
+                    "logicalChannelId": "prodstreams-09_260_auto-motor-und-sport",
+                    "subtitle": "Von Malaga nach Estepona im BMW M6 Cabrio",
+                    "start": "2018-08-10T03:58:15+0200",
+                    "end": "2018-08-10T04:58:15+0200",
+                    "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/07dcc3c20c2cc9b9c6f02ebd8ecb269f0711118d.png",
+                    "logicalChannelName": "ProdStreams 09_260_auto motor und sport",
+                    "mainGenre": "Auto",
+                    "category": "Information",
+                    "countries": [
+                        "Deutschland"
+                    ],
+                    "year": 2017,
+                    "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11076961_i_h10_aa.jpg",
+                    "seriesTitle": "Ausfahrt",
+                    "ageRatingName": "Keine Altersangabe",
+                    "ageRatingId": "Unbekannt",
+                    "instantRestart": false,
+                    "cluster": "tv"
+                }
+            ]
+        },
+        {
+            "id": "groupType16Adult__e9d8819fff62a3d2b1c3bbf254ebf6b0",
+            "type": "group",
+            "title": "Vorfahrt Abarth",
+            "size": 13,
+            "items": [
+                {
+                    "id": "00657f53",
+                    "type": "tvBroadcast",
+                    "title": "Vorfahrt Abarth",
+                    "logicalChannelId": "prodstreams-09_260_auto-motor-und-sport",
+                    "start": "2018-08-10T21:05:00+0200",
+                    "end": "2018-08-10T21:15:00+0200",
+                    "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/07dcc3c20c2cc9b9c6f02ebd8ecb269f0711118d.png",
+                    "logicalChannelName": "ProdStreams 09_260_auto motor und sport",
+                    "mainGenre": "Sport",
+                    "category": "Sport",
+                    "countries": [
+                        "Deutschland"
+                    ],
+                    "year": 2018,
+                    "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11076210_i_h10_aa.jpg",
+                    "seriesTitle": "Vorfahrt",
+                    "ageRatingName": "Keine Altersangabe",
+                    "ageRatingId": "Unbekannt",
+                    "instantRestart": false,
+                    "cluster": "tv"
+                }
+            ]
+        },
+        {
+            "id": "groupType16Adult__cd2120e7df6ce5f5224fa3cd84f7d182",
+            "type": "group",
+            "title": "Börse vor acht",
+            "size": 50,
+            "items": [
+                {
+                    "id": "0065a721",
+                    "type": "tvBroadcast",
+                    "title": "Börse vor acht",
+                    "logicalChannelId": "das-erste_1",
+                    "start": "2018-08-08T19:55:00+0200",
+                    "end": "2018-08-08T20:00:00+0200",
+                    "logicalChannelName": "Das Erste",
+                    "mainGenre": "Nachrichten",
+                    "category": "Information",
+                    "countries": [],
+                    "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/e1bc1bc2b06488c68aedc874d8d81852d40c07fe.png",
+                    "ageRatingName": "Keine Altersangabe",
+                    "ageRatingId": "Unbekannt",
+                    "instantRestart": true,
+                    "cluster": "tv"
+                }
+            ]
+        },
+        {
+            "id": "groupType16Adult__d965d86e24f90aaa4ff02bd414159585",
+            "type": "group",
+            "title": "phoenix vor ort: u.a. Aktuelle Wetterlage",
+            "size": 5,
+            "items": [
+                {
+                    "id": "0065a80c",
+                    "type": "tvBroadcast",
+                    "title": "phoenix vor ort: u.a. Aktuelle Wetterlage",
+                    "logicalChannelId": "prodrightsdupl-04_phoenix",
+                    "start": "2018-08-08T11:45:00+0200",
+                    "end": "2018-08-08T12:00:00+0200",
+                    "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/721d65f03ed410a0a9e7e34cfc67e004eb5dfe02.png",
+                    "logicalChannelName": "ProdRightsDupl 04_PHOENIX",
+                    "mainGenre": "Nachrichten",
+                    "category": "Information",
+                    "countries": [
+                        "Deutschland"
+                    ],
+                    "year": 2014,
+                    "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p10969221_b_h12_ab.jpg",
+                    "seriesTitle": "Vor Ort",
+                    "ageRatingName": "Keine Altersangabe",
+                    "ageRatingId": "Unbekannt",
+                    "instantRestart": true,
+                    "cluster": "tv"
+                }
+            ]
+        },
+        {
+            "id": "groupType16Adult__3b75f3ad0872b5699183771cb5279166",
+            "type": "group",
+            "title": "ARTE Journal",
+            "size": 185,
+            "items": [
+                {
+                    "id": "0065a8fb",
+                    "type": "tvBroadcast",
+                    "title": "ARTE Journal",
+                    "logicalChannelId": "prodrightsdupl-02_arte",
+                    "subtitle": "vom 08.08.2018, 12:50 Uhr",
+                    "start": "2018-08-08T12:50:00+0200",
+                    "end": "2018-08-08T13:00:00+0200",
+                    "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/e3ccada3386672f3d6b206feb71cd120425fcd34.png",
+                    "logicalChannelName": "ProdRightsDupl 02_ARTE",
+                    "mainGenre": "Nachrichten",
+                    "category": "Information",
+                    "countries": [
+                        "Frankreich"
+                    ],
+                    "year": 2018,
+                    "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p10839434_i_h10_aa.jpg",
+                    "seriesTitle": "Arte Journal",
+                    "ageRatingName": "Keine Altersangabe",
+                    "ageRatingId": "Unbekannt",
+                    "instantRestart": true,
+                    "cluster": "tv"
+                }
+            ]
+        },
+        {
+            "id": "groupType16Adult__847f105c3fcab7aee44c21e08f72df1c",
+            "type": "group",
+            "title": "Chanson d'amour",
+            "size": 15,
+            "items": [
+                {
+                    "id": "0065a912",
+                    "type": "tvBroadcast",
+                    "title": "Chanson d'amour",
+                    "logicalChannelId": "prodrightsdupl-02_arte",
+                    "start": "2018-08-08T22:45:00+0200",
+                    "end": "2018-08-09T00:35:00+0200",
+                    "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/e3ccada3386672f3d6b206feb71cd120425fcd34.png",
+                    "logicalChannelName": "ProdRightsDupl 02_ARTE",
+                    "mainGenre": "Drama",
+                    "category": "Spielfilm",
+                    "countries": [
+                        "Frankreich"
+                    ],
+                    "year": 2006,
+                    "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p169401_i_h10_aa.jpg",
+                    "ageRatingName": "Keine Altersangabe",
+                    "ageRatingId": "Unbekannt",
+                    "instantRestart": true,
+                    "communityRating": 4,
+                    "communityRatingStars": 4,
+                    "cluster": "tv"
+                }
+            ]
+        },
+        {
+            "id": "groupType16Adult__663288fa2d391136faf6a83895cc21cd",
+            "type": "group",
+            "title": "Vietnam auf zwei Rädern",
+            "size": 5,
+            "items": [
+                {
+                    "id": "0065be85",
+                    "type": "tvBroadcast",
+                    "title": "Vietnam auf zwei Rädern",
+                    "logicalChannelId": "prodrightsdupl-04_phoenix",
+                    "subtitle": "Vietnam auf zwei Rädern - Mit dem Moped von Nord nach Süd",
+                    "start": "2018-08-09T04:15:00+0200",
+                    "end": "2018-08-09T05:00:00+0200",
+                    "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/721d65f03ed410a0a9e7e34cfc67e004eb5dfe02.png",
+                    "logicalChannelName": "ProdRightsDupl 04_PHOENIX",
+                    "mainGenre": "Kultur",
+                    "category": "Information",
+                    "countries": [
+                        "Deutschland"
+                    ],
+                    "year": 2017,
+                    "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11092457_i_h10_ab.jpg",
+                    "seriesTitle": "Mein Ausland",
+                    "ageRatingName": "Keine Altersangabe",
+                    "ageRatingId": "Unbekannt",
+                    "instantRestart": true,
+                    "cluster": "tv"
+                }
+            ]
+        },
+        {
+            "id": "groupType16Adult__8c08636e7934d7e85d881796fc0f8c6b",
+            "type": "group",
+            "title": "mein ausland: Die Meisterin des Tattoos",
+            "size": 5,
+            "items": [
+                {
+                    "id": "0065be86",
+                    "type": "tvBroadcast",
+                    "title": "mein ausland: Die Meisterin des Tattoos",
+                    "logicalChannelId": "prodrightsdupl-04_phoenix",
+                    "start": "2018-08-09T05:00:00+0200",
+                    "end": "2018-08-09T05:45:00+0200",
+                    "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/721d65f03ed410a0a9e7e34cfc67e004eb5dfe02.png",
+                    "logicalChannelName": "ProdRightsDupl 04_PHOENIX",
+                    "mainGenre": "Kultur",
+                    "category": "Information",
+                    "countries": [
+                        "Deutschland"
+                    ],
+                    "year": 2017,
+                    "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11092457_i_h10_ab.jpg",
+                    "seriesTitle": "Mein Ausland",
+                    "ageRatingName": "Keine Altersangabe",
+                    "ageRatingId": "Unbekannt",
+                    "instantRestart": true,
+                    "cluster": "tv"
+                }
+            ]
+        },
+        {
+            "id": "groupType16Adult__15aa3c28c8b7cb75bcbd91684ae9af1b",
+            "type": "group",
+            "title": "Bedrohtes Paradies am Rande der Welt",
+            "size": 5,
+            "items": [
+                {
+                    "id": "0065be87",
+                    "type": "tvBroadcast",
+                    "title": "Bedrohtes Paradies am Rande der Welt",
+                    "logicalChannelId": "prodrightsdupl-04_phoenix",
+                    "start": "2018-08-09T05:45:00+0200",
+                    "end": "2018-08-09T06:30:00+0200",
+                    "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/721d65f03ed410a0a9e7e34cfc67e004eb5dfe02.png",
+                    "logicalChannelName": "ProdRightsDupl 04_PHOENIX",
+                    "mainGenre": "Kultur",
+                    "category": "Information",
+                    "countries": [],
+                    "year": 2014,
+                    "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p10837491_i_h10_aa.jpg",
+                    "ageRatingName": "Keine Altersangabe",
+                    "ageRatingId": "Unbekannt",
+                    "instantRestart": true,
+                    "cluster": "tv"
+                }
+            ]
+        },
+        {
+            "id": "groupType16Adult__ed6a5a8aa4ace39d1b3d037fd19251d9",
+            "type": "group",
+            "title": "Immer wie am ersten Tag",
+            "size": 15,
+            "items": [
+                {
+                    "id": "0065be89",
+                    "type": "tvBroadcast",
+                    "title": "Immer wie am ersten Tag",
+                    "logicalChannelId": "prodrightsdupl-04_phoenix",
+                    "start": "2018-08-09T07:15:00+0200",
+                    "end": "2018-08-09T07:30:00+0200",
+                    "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/721d65f03ed410a0a9e7e34cfc67e004eb5dfe02.png",
+                    "logicalChannelName": "ProdRightsDupl 04_PHOENIX",
+                    "mainGenre": "Kultur",
+                    "category": "Information",
+                    "countries": [
+                        "Deutschland"
+                    ],
+                    "year": 2017,
+                    "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p14125182_i_h10_aa.jpg",
+                    "ageRatingName": "Keine Altersangabe",
+                    "ageRatingId": "Unbekannt",
+                    "instantRestart": true,
+                    "cluster": "tv"
+                }
+            ]
+        },
+        {
+            "id": "groupType16Adult__a183aa6317a0b5655bf32d99b843e02d",
+            "type": "group",
+            "title": "mein ausland: Luxus auf Schienen",
+            "size": 5,
+            "items": [
+                {
+                    "id": "0065be8a",
+                    "type": "tvBroadcast",
+                    "title": "mein ausland: Luxus auf Schienen",
+                    "logicalChannelId": "prodrightsdupl-04_phoenix",
+                    "start": "2018-08-09T07:30:00+0200",
+                    "end": "2018-08-09T08:15:00+0200",
+                    "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/721d65f03ed410a0a9e7e34cfc67e004eb5dfe02.png",
+                    "logicalChannelName": "ProdRightsDupl 04_PHOENIX",
+                    "mainGenre": "Kultur",
+                    "category": "Information",
+                    "countries": [
+                        "Deutschland"
+                    ],
+                    "year": 2015,
+                    "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11850946_e_h11_ab.jpg",
+                    "seriesTitle": "Mein Ausland",
+                    "ageRatingName": "Keine Altersangabe",
+                    "ageRatingId": "Unbekannt",
+                    "instantRestart": true,
+                    "cluster": "tv"
+                }
+            ]
+        },
+        {
+            "id": "groupType16Adult__8ff60db701667f294b8e628e0e02b385",
+            "type": "group",
+            "title": "Klagt mich an!",
+            "size": 5,
+            "items": [
+                {
+                    "id": "0065c006",
+                    "type": "tvBroadcast",
+                    "title": "Klagt mich an!",
+                    "logicalChannelId": "prodrightsdupl-02_arte",
+                    "start": "2018-08-09T01:25:00+0200",
+                    "end": "2018-08-09T03:15:00+0200",
+                    "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/e3ccada3386672f3d6b206feb71cd120425fcd34.png",
+                    "logicalChannelName": "ProdRightsDupl 02_ARTE",
+                    "mainGenre": "Drama",
+                    "category": "Spielfilm",
+                    "countries": [
+                        "Frankreich"
+                    ],
+                    "year": 1950,
+                    "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p27774_i_h10_aa.jpg",
+                    "ageRatingName": "Keine Altersangabe",
+                    "ageRatingId": "Unbekannt",
+                    "instantRestart": true,
+                    "cluster": "tv"
+                }
+            ]
+        }
+    ]
+}

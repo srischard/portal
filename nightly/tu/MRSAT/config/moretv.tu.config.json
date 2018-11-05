@@ -1,0 +1,5 @@
+﻿{
+  "serviceUrl": "https://ng-moretv.atu0.sda.t-online.de:8477/Server/api"
+  //"serviceUrl" : "http://mpf-dev.atu0.sda.t-online.de/MPF/NGMoreTV/Server/api"
+  //"serviceUrl" : "http://localhost/MPF/NGMoreTv/Server/api"
+}

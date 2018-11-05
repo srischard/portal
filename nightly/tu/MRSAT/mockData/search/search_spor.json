@@ -1,0 +1,359 @@
+{
+  "totalItems" : 1851,
+  "totalGroups" : 266,
+  "offset" : 0,
+  "sort" : "relevance",
+  "navigators" : [ {
+    "id" : "partnerIds",
+    "name" : "Partnerangebote",
+    "entries" : [ {
+      "id" : "7tv",
+      "name" : "7TV",
+      "size" : 7
+    }, {
+      "id" : "ard",
+      "name" : "ARD",
+      "size" : 61
+    }, {
+      "id" : "erotic-lounge",
+      "name" : "Erotic Lounge",
+      "size" : 5
+    }, {
+      "id" : "nrwision",
+      "name" : "NRWision",
+      "size" : 2
+    }, {
+      "id" : "sky",
+      "name" : "Sky",
+      "size" : 7
+    }, {
+      "id" : "videoload",
+      "name" : "Videoload",
+      "size" : 12
+    }, {
+      "id" : "zdf",
+      "name" : "ZDF",
+      "size" : 22
+    }, {
+      "id" : "maxdome",
+      "name" : "maxdome",
+      "size" : 38
+    }, {
+      "id" : "tvPackages",
+      "name" : "TV-Pakete",
+      "size" : 10
+    } ]
+  }, {
+    "id" : "availability",
+    "name" : "Verfügbarkeit",
+    "entries" : [ {
+      "id" : "freeVod",
+      "name" : "Kostenlos",
+      "size" : 102
+    }, {
+      "id" : "chargeVod",
+      "name" : "Kostenpflichtig",
+      "size" : 59
+    } ]
+  }, {
+    "id" : "type",
+    "name" : "Quelle",
+    "entries" : [ {
+      "id" : "logicalChannel",
+      "name" : "Sender",
+      "size" : 22
+    }, {
+      "id" : "broadcast",
+      "name" : "TV",
+      "size" : 1675
+    }, {
+      "id" : "vod",
+      "name" : "Video",
+      "size" : 154
+    } ]
+  }, {
+    "id" : "ageRating",
+    "name" : "Alterskennzeichnung",
+    "entries" : [ {
+      "id" : "unknown",
+      "name" : "Keine Alterskennzeichnung",
+      "size" : 1776
+    }, {
+      "id" : "0",
+      "name" : "Ab 0 Jahren",
+      "size" : 18
+    }, {
+      "id" : "6",
+      "name" : "Ab 6 Jahren",
+      "size" : 6
+    }, {
+      "id" : "12",
+      "name" : "Ab 12 Jahren",
+      "size" : 13
+    }, {
+      "id" : "16",
+      "name" : "Ab 16 Jahren",
+      "size" : 12
+    }, {
+      "id" : "18",
+      "name" : "Ab 18 Jahren",
+      "size" : 2
+    }, {
+      "id" : "oaf",
+      "name" : "Erwachsenenangebote",
+      "size" : 2
+    } ]
+  } ],
+  "results" : [ {
+    "id" : "groupTypeAdult__fc381153f6aee95b2c08ea1bf21256b7",
+    "type" : "group",
+    "title" : "Spor",
+    "size" : 64,
+    "adult" : false,
+    "pcon" : false,
+    "items" : [ {
+      "id" : "0038365c",
+      "type" : "tvBroadcast",
+      "title" : "Spor",
+      "logicalChannelId" : "ntv-avrupa",
+      "start" : "2016-02-25T10:40:00+0100",
+      "end" : "2016-02-25T11:00:00+0100",
+      "channelLogo" : "http://programm-manager.telekom.de/media/49e16081dec61ccbc955563c28fa7a706a47fa3a.png",
+      "logicalChannelName" : "NTV Avrupa",
+      "mainGenre" : "Sport",
+      "category" : "Sport",
+      "countries" : [ "Türkei" ],
+      "poster" : "http://programm-manager.telekom.de/media/2808594ba14ec491a3a91e38f2ca8818076a8cee.jpg",
+      "seriesTitle" : "Spor",
+      "ageRatingName" : "Keine Alterskennzeichnung",
+      "ageRatingId" : "Unbekannt",
+      "instantRestart" : false,
+      "cluster" : "tv"
+    } ]
+  }, {
+    "id" : "groupTypeAdult__efc84a8c583a94b79203d5eadf20c8e7",
+    "type" : "group",
+    "title" : "Spor Sayfası",
+    "size" : 12,
+    "adult" : false,
+    "pcon" : false,
+    "items" : [ {
+      "id" : "0037c836",
+      "type" : "tvBroadcast",
+      "title" : "Spor Sayfası",
+      "logicalChannelId" : "show-turk",
+      "start" : "2016-02-27T18:40:00+0100",
+      "end" : "2016-02-27T18:45:00+0100",
+      "channelLogo" : "http://programm-manager.telekom.de/media/922ff3d59904e7ceebe76237d876bc7bb3a6116a.png",
+      "logicalChannelName" : "Show Turk",
+      "mainGenre" : "Sport",
+      "category" : "Sport",
+      "countries" : [ "Türkei" ],
+      "year" : 2014,
+      "poster" : "http://programm-manager.telekom.de/media/e818d085e5ad1f12c84d403b131b86d6ad6aa02f.jpg",
+      "seriesTitle" : "Spor Sayfası",
+      "ageRatingName" : "Keine Alterskennzeichnung",
+      "ageRatingId" : "Unbekannt",
+      "instantRestart" : false,
+      "cluster" : "tv"
+    } ]
+  }, {
+    "id" : "groupTypeAdult__e5486311dcba3e0b2d901691e9963add",
+    "type" : "group",
+    "title" : "Spor Akşamı",
+    "size" : 2,
+    "adult" : false,
+    "pcon" : false,
+    "items" : [ {
+      "id" : "003a12f8",
+      "type" : "tvBroadcast",
+      "title" : "Spor Akşamı",
+      "logicalChannelId" : "ntv-avrupa",
+      "start" : "2016-02-25T19:10:00+0100",
+      "end" : "2016-02-25T19:55:00+0100",
+      "channelLogo" : "http://programm-manager.telekom.de/media/49e16081dec61ccbc955563c28fa7a706a47fa3a.png",
+      "logicalChannelName" : "NTV Avrupa",
+      "mainGenre" : "Verschiedenes",
+      "category" : "Information",
+      "countries" : [ ],
+      "poster" : "http://programm-manager.telekom.de/media/bf530611addf697de02b8bbbb730892711f6164c.jpg",
+      "ageRatingName" : "Keine Alterskennzeichnung",
+      "ageRatingId" : "Unbekannt",
+      "instantRestart" : false,
+      "cluster" : "tv"
+    } ]
+  }, {
+    "id" : "groupTypeAdult__0fbc6336a0d02792a7344a5401062c9e",
+    "type" : "group",
+    "title" : "TV8 Int saat eglence, komedi, müsik ve spor sunuyor",
+    "size" : 56,
+    "adult" : false,
+    "pcon" : false,
+    "items" : [ {
+      "id" : "00356125",
+      "type" : "tvBroadcast",
+      "title" : "TV8 Int saat eglence, komedi, müsik ve spor sunuyor",
+      "logicalChannelId" : "tv-8-int",
+      "start" : "2016-02-25T06:00:00+0100",
+      "end" : "2016-02-25T12:00:00+0100",
+      "channelLogo" : "http://programm-manager.telekom.de/media/94887be6047d7f89e747ba7a2336e3ea5b2aceb3.png",
+      "logicalChannelName" : "TV8 Int",
+      "countries" : [ ],
+      "poster" : "http://programm-manager.telekom.de/media/0139f8ef71b18d4875986f66a00bcc8347dfeb73.png",
+      "ageRatingName" : "Keine Alterskennzeichnung",
+      "ageRatingId" : "Unbekannt",
+      "instantRestart" : false,
+      "cluster" : "tv"
+    } ]
+  }, {
+    "id" : "groupTypeAdult__c0e46aefb408607dc7ac0e3057e77d1a",
+    "type" : "group",
+    "title" : "Sport",
+    "size" : 55,
+    "adult" : false,
+    "pcon" : false,
+    "items" : [ {
+      "id" : "00373a09",
+      "type" : "tvBroadcast",
+      "title" : "Sport",
+      "logicalChannelId" : "itvn",
+      "start" : "2016-02-25T19:35:00+0100",
+      "end" : "2016-02-25T19:45:00+0100",
+      "channelLogo" : "http://programm-manager.telekom.de/media/04ff546a173ccadcefa0964ef84b4a639a2cfd07.png",
+      "logicalChannelName" : "iTVN",
+      "mainGenre" : "Sport",
+      "category" : "Sport",
+      "countries" : [ ],
+      "poster" : "http://programm-manager.telekom.de/media/ccd0fef62df016837ebda2733340a4c19816225c.jpg",
+      "seriesTitle" : "Sport",
+      "ageRatingName" : "Keine Alterskennzeichnung",
+      "ageRatingId" : "Unbekannt",
+      "instantRestart" : false,
+      "cluster" : "tv"
+    } ]
+  }, {
+    "id" : "GN_EP020296150023",
+    "type" : "vod",
+    "title" : "Sport",
+    "vodType" : "episode",
+    "mainGenre" : "Ratgeber",
+    "countries" : [ "Deutschland" ],
+    "year" : 2011,
+    "scenes" : [ ],
+    "ageRatingName" : "Keine Alterskennzeichnung",
+    "ageRatingId" : "Unbekannt",
+    "seriesTitle" : "Es geht um mein Leben!",
+    "seasonNumber" : 2,
+    "episodeNumber" : 4,
+    "partners" : [ {
+      "name" : "maxdome",
+      "logo" : "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+    } ],
+    "cluster" : "vodSeries",
+    "sourceType" : "tvArchive",
+    "airtime" : "2011-02-01T12:00:00+0100",
+    "category" : "series"
+  }, {
+    "id" : "GN_EP021034220029",
+    "type" : "vod",
+    "title" : "Sport",
+    "vodType" : "episode",
+    "mainGenre" : "Kinder",
+    "countries" : [ ],
+    "year" : 2010,
+    "scenes" : [ ],
+    "ageRatingName" : "Ab 0 Jahren (FSF)",
+    "ageRatingId" : "FSF 0",
+    "seriesTitle" : "Claude",
+    "partners" : [ {
+      "name" : "maxdome",
+      "logo" : "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+    } ],
+    "cluster" : "vodSeries",
+    "sourceType" : "vodPremium",
+    "airtime" : "2010-05-13T12:00:00+0200",
+    "category" : "series"
+  }, {
+    "id" : "groupTypeAdult__56eba8a44ca84c22a62260b8d59809ae",
+    "type" : "group",
+    "title" : "SPORT1 News",
+    "size" : 250,
+    "adult" : false,
+    "pcon" : false,
+    "items" : [ {
+      "id" : "003a7665",
+      "type" : "tvBroadcast",
+      "title" : "SPORT1 News",
+      "logicalChannelId" : "sport1plus",
+      "start" : "2016-02-25T10:00:00+0100",
+      "end" : "2016-02-25T10:05:00+0100",
+      "channelLogo" : "http://programm-manager.telekom.de/media/074034f464715db15c5859b60b36558cac35a5e3.png",
+      "logicalChannelName" : "SPORT1+",
+      "mainGenre" : "Sport",
+      "category" : "Sport",
+      "countries" : [ "Deutschland" ],
+      "poster" : "http://programm-manager.telekom.de/media/ccd0fef62df016837ebda2733340a4c19816225c.jpg",
+      "seriesTitle" : "Sport1 News",
+      "ageRatingName" : "Keine Alterskennzeichnung",
+      "ageRatingId" : "Unbekannt",
+      "instantRestart" : false,
+      "cluster" : "tv"
+    } ]
+  }, {
+    "id" : "groupTypeAdult__dfe409436d4913e199abba7661ee2907",
+    "type" : "group",
+    "title" : "Sportschau live",
+    "size" : 11,
+    "adult" : false,
+    "pcon" : false,
+    "items" : [ {
+      "id" : "0038d7c3",
+      "type" : "tvBroadcast",
+      "title" : "Sportschau live",
+      "logicalChannelId" : "das-erste",
+      "subtitle" : "Mixed Staffel",
+      "start" : "2016-03-03T15:10:00+0100",
+      "end" : "2016-03-03T17:00:00+0100",
+      "channelLogo" : "http://programm-manager.telekom.de/media/3711d16d0e3570276ebba175620385b5f4ff18f4.png",
+      "logicalChannelName" : "Das Erste",
+      "mainGenre" : "Sport",
+      "category" : "Sport",
+      "countries" : [ "Deutschland" ],
+      "year" : 2016,
+      "poster" : "http://programm-manager.telekom.de/media/8bf03425f51eb86436864168789a9e14bef7590b.jpg",
+      "seriesTitle" : "Sportschau live",
+      "ageRatingName" : "Keine Alterskennzeichnung",
+      "ageRatingId" : "Unbekannt",
+      "instantRestart" : true,
+      "tvTip" : true,
+      "cluster" : "tv"
+    } ]
+  }, {
+    "id" : "groupTypeAdult__02e96437ed07838719b75f2444d4d8ae",
+    "type" : "group",
+    "title" : "Sport-Quiz",
+    "size" : 2,
+    "adult" : false,
+    "pcon" : false,
+    "items" : [ {
+      "id" : "003907be",
+      "type" : "tvBroadcast",
+      "title" : "Sport-Quiz",
+      "logicalChannelId" : "sport1",
+      "start" : "2016-03-05T11:00:00+0100",
+      "end" : "2016-03-05T12:45:00+0100",
+      "channelLogo" : "http://programm-manager.telekom.de/media/55428ca65d529b1cf67623cb017c53af5de49d89.png",
+      "logicalChannelName" : "SPORT1",
+      "mainGenre" : "Show",
+      "category" : "Show",
+      "countries" : [ "Deutschland" ],
+      "year" : 2016,
+      "poster" : "http://programm-manager.telekom.de/media/825850ced3803b4485685ea31c8e72c82bd79959.jpg",
+      "seriesTitle" : "Sport-Quiz",
+      "ageRatingName" : "Keine Alterskennzeichnung",
+      "ageRatingId" : "Unbekannt",
+      "instantRestart" : true,
+      "cluster" : "tv"
+    } ]
+  } ]
+}

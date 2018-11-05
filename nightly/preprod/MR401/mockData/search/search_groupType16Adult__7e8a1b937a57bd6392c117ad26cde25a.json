@@ -1,0 +1,822 @@
+{
+    "totalItems": 37,
+    "totalGroups": 37,
+    "offset": 0,
+    "sort": "relevance",
+    "navigators": [
+        {
+            "id": "referenceLogicalChannelIds",
+            "name": "Sender",
+            "entries": [
+                {
+                    "id": "prodstreams-09_260_auto-motor-und-sport",
+                    "name": "ProdStreams 09_260_auto motor und sport",
+                    "size": 37
+                }
+            ]
+        },
+        {
+            "id": "ageRating",
+            "name": "Alterskennzeichnung",
+            "entries": [
+                {
+                    "id": "unknown",
+                    "name": "Keine Altersangabe",
+                    "size": 37
+                }
+            ]
+        },
+        {
+            "id": "dateClusterNav",
+            "name": "Woche (redaktionell)",
+            "entries": [
+                {
+                    "id": "today",
+                    "name": "Heute",
+                    "size": 2
+                },
+                {
+                    "id": "tomorrow",
+                    "name": "Morgen",
+                    "size": 3
+                },
+                {
+                    "id": "the_day_after_tomorrow",
+                    "name": "Übermorgen",
+                    "size": 3
+                },
+                {
+                    "id": "3_days_later",
+                    "name": "3 Tage später",
+                    "size": 2
+                },
+                {
+                    "id": "4_days_later",
+                    "name": "4 Tage später",
+                    "size": 3
+                },
+                {
+                    "id": "5_days_later",
+                    "name": "5 Tage später",
+                    "size": 2
+                },
+                {
+                    "id": "6_days_later",
+                    "name": "6 Tage später",
+                    "size": 2
+                },
+                {
+                    "id": "thisweek",
+                    "name": "Diese Woche",
+                    "size": 13
+                },
+                {
+                    "id": "nextweek",
+                    "name": "Nächste Woche",
+                    "size": 19
+                }
+            ]
+        },
+        {
+            "id": "genreIdsNav",
+            "name": "Genre",
+            "entries": [
+                {
+                    "id": "ug_5",
+                    "name": "Auto",
+                    "size": 37
+                },
+                {
+                    "id": "ug_36",
+                    "name": "Sport",
+                    "size": 37
+                }
+            ]
+        },
+        {
+            "id": "channelGenreNamesByTvPackage",
+            "name": "TV-Pakete",
+            "entries": [
+                {
+                    "id": "bigtv",
+                    "name": "BigTV",
+                    "size": 37
+                }
+            ]
+        }
+    ],
+    "sortCriteria": [
+        {
+            "id": "relevance",
+            "name": "Beste"
+        },
+        {
+            "id": "epgStart_asc",
+            "name": "Ausstrahlung (neuste)"
+        },
+        {
+            "id": "epgStart_desc",
+            "name": "Ausstrahlung (späteste)"
+        },
+        {
+            "id": "title_asc",
+            "name": "A-Z"
+        },
+        {
+            "id": "title_desc",
+            "name": "Z-A"
+        }
+    ],
+    "results": [
+        {
+            "id": "006550a7",
+            "type": "tvBroadcast",
+            "title": "Autokino",
+            "logicalChannelId": "prodstreams-09_260_auto-motor-und-sport",
+            "subtitle": "Mit dem WRX nach Flensburg",
+            "start": "2018-08-08T18:25:04+0200",
+            "end": "2018-08-08T18:50:14+0200",
+            "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/07dcc3c20c2cc9b9c6f02ebd8ecb269f0711118d.png",
+            "logicalChannelName": "ProdStreams 09_260_auto motor und sport",
+            "mainGenre": "Auto",
+            "category": "Information",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2016,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11088625_i_h10_aa.jpg",
+            "seriesTitle": "Autokino",
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "instantRestart": false,
+            "cluster": "tv"
+        },
+        {
+            "id": "006550ae",
+            "type": "tvBroadcast",
+            "title": "Autokino",
+            "logicalChannelId": "prodstreams-09_260_auto-motor-und-sport",
+            "subtitle": "Bentley Mulsanne, Mercedes S65 AMG",
+            "start": "2018-08-08T20:14:18+0200",
+            "end": "2018-08-08T20:40:50+0200",
+            "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/07dcc3c20c2cc9b9c6f02ebd8ecb269f0711118d.png",
+            "logicalChannelName": "ProdStreams 09_260_auto motor und sport",
+            "mainGenre": "Auto",
+            "category": "Information",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2016,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11088625_i_h10_aa.jpg",
+            "seriesTitle": "Autokino",
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "instantRestart": false,
+            "cluster": "tv"
+        },
+        {
+            "id": "006550c5",
+            "type": "tvBroadcast",
+            "title": "Autokino",
+            "logicalChannelId": "prodstreams-09_260_auto-motor-und-sport",
+            "subtitle": "Bentley Mulsanne, Mercedes S65 AMG",
+            "start": "2018-08-09T03:59:50+0200",
+            "end": "2018-08-09T04:25:10+0200",
+            "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/07dcc3c20c2cc9b9c6f02ebd8ecb269f0711118d.png",
+            "logicalChannelName": "ProdStreams 09_260_auto motor und sport",
+            "mainGenre": "Auto",
+            "category": "Information",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2016,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11088625_i_h10_aa.jpg",
+            "seriesTitle": "Autokino",
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "instantRestart": false,
+            "cluster": "tv"
+        },
+        {
+            "id": "006567f8",
+            "type": "tvBroadcast",
+            "title": "Autokino",
+            "logicalChannelId": "prodstreams-09_260_auto-motor-und-sport",
+            "subtitle": "Bentley Mulsanne, Mercedes S65 AMG",
+            "start": "2018-08-09T07:14:42+0200",
+            "end": "2018-08-09T07:40:02+0200",
+            "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/07dcc3c20c2cc9b9c6f02ebd8ecb269f0711118d.png",
+            "logicalChannelName": "ProdStreams 09_260_auto motor und sport",
+            "mainGenre": "Auto",
+            "category": "Information",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2016,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11088625_i_h10_aa.jpg",
+            "seriesTitle": "Autokino",
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "instantRestart": false,
+            "cluster": "tv"
+        },
+        {
+            "id": "00656812",
+            "type": "tvBroadcast",
+            "title": "Autokino",
+            "logicalChannelId": "prodstreams-09_260_auto-motor-und-sport",
+            "subtitle": "Mit dem WRX nach Flensburg",
+            "start": "2018-08-09T16:13:29+0200",
+            "end": "2018-08-09T16:40:15+0200",
+            "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/07dcc3c20c2cc9b9c6f02ebd8ecb269f0711118d.png",
+            "logicalChannelName": "ProdStreams 09_260_auto motor und sport",
+            "mainGenre": "Auto",
+            "category": "Information",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2016,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11088625_i_h10_aa.jpg",
+            "seriesTitle": "Autokino",
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "instantRestart": false,
+            "cluster": "tv"
+        },
+        {
+            "id": "0065682e",
+            "type": "tvBroadcast",
+            "title": "Autokino",
+            "logicalChannelId": "prodstreams-09_260_auto-motor-und-sport",
+            "subtitle": "Bentley Mulsanne, Mercedes S65 AMG",
+            "start": "2018-08-10T01:24:54+0200",
+            "end": "2018-08-10T01:50:14+0200",
+            "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/07dcc3c20c2cc9b9c6f02ebd8ecb269f0711118d.png",
+            "logicalChannelName": "ProdStreams 09_260_auto motor und sport",
+            "mainGenre": "Auto",
+            "category": "Information",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2016,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11088625_i_h10_aa.jpg",
+            "seriesTitle": "Autokino",
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "instantRestart": false,
+            "cluster": "tv"
+        },
+        {
+            "id": "00657f3b",
+            "type": "tvBroadcast",
+            "title": "Autokino",
+            "logicalChannelId": "prodstreams-09_260_auto-motor-und-sport",
+            "subtitle": "Bentley Mulsanne, Mercedes S65 AMG",
+            "start": "2018-08-10T12:25:00+0200",
+            "end": "2018-08-10T12:50:00+0200",
+            "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/07dcc3c20c2cc9b9c6f02ebd8ecb269f0711118d.png",
+            "logicalChannelName": "ProdStreams 09_260_auto motor und sport",
+            "mainGenre": "Auto",
+            "category": "Information",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2016,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11088625_i_h10_aa.jpg",
+            "seriesTitle": "Autokino",
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "instantRestart": false,
+            "cluster": "tv"
+        },
+        {
+            "id": "00657f55",
+            "type": "tvBroadcast",
+            "title": "Autokino",
+            "logicalChannelId": "prodstreams-09_260_auto-motor-und-sport",
+            "subtitle": "Mit dem WRX nach Flensburg",
+            "start": "2018-08-10T21:30:00+0200",
+            "end": "2018-08-10T21:55:00+0200",
+            "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/07dcc3c20c2cc9b9c6f02ebd8ecb269f0711118d.png",
+            "logicalChannelName": "ProdStreams 09_260_auto motor und sport",
+            "mainGenre": "Auto",
+            "category": "Information",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2016,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11088625_i_h10_aa.jpg",
+            "seriesTitle": "Autokino",
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "instantRestart": false,
+            "cluster": "tv"
+        },
+        {
+            "id": "00659760",
+            "type": "tvBroadcast",
+            "title": "Autokino",
+            "logicalChannelId": "prodstreams-09_260_auto-motor-und-sport",
+            "subtitle": "Bentley Mulsanne, Mercedes S65 AMG",
+            "start": "2018-08-11T08:35:00+0200",
+            "end": "2018-08-11T09:00:00+0200",
+            "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/07dcc3c20c2cc9b9c6f02ebd8ecb269f0711118d.png",
+            "logicalChannelName": "ProdStreams 09_260_auto motor und sport",
+            "mainGenre": "Auto",
+            "category": "Information",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2016,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11088625_i_h10_aa.jpg",
+            "seriesTitle": "Autokino",
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "instantRestart": false,
+            "cluster": "tv"
+        },
+        {
+            "id": "00659776",
+            "type": "tvBroadcast",
+            "title": "Autokino",
+            "logicalChannelId": "prodstreams-09_260_auto-motor-und-sport",
+            "subtitle": "Mit dem WRX nach Flensburg",
+            "start": "2018-08-11T17:30:00+0200",
+            "end": "2018-08-11T17:55:00+0200",
+            "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/07dcc3c20c2cc9b9c6f02ebd8ecb269f0711118d.png",
+            "logicalChannelName": "ProdStreams 09_260_auto motor und sport",
+            "mainGenre": "Auto",
+            "category": "Information",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2016,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11088625_i_h10_aa.jpg",
+            "seriesTitle": "Autokino",
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "instantRestart": false,
+            "cluster": "tv"
+        },
+        {
+            "id": "00659790",
+            "type": "tvBroadcast",
+            "title": "Autokino",
+            "logicalChannelId": "prodstreams-09_260_auto-motor-und-sport",
+            "subtitle": "Bentley Mulsanne, Mercedes S65 AMG",
+            "start": "2018-08-12T02:40:00+0200",
+            "end": "2018-08-12T03:05:00+0200",
+            "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/07dcc3c20c2cc9b9c6f02ebd8ecb269f0711118d.png",
+            "logicalChannelName": "ProdStreams 09_260_auto motor und sport",
+            "mainGenre": "Auto",
+            "category": "Information",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2016,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11088625_i_h10_aa.jpg",
+            "seriesTitle": "Autokino",
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "instantRestart": false,
+            "cluster": "tv"
+        },
+        {
+            "id": "0065aed7",
+            "type": "tvBroadcast",
+            "title": "Autokino",
+            "logicalChannelId": "prodstreams-09_260_auto-motor-und-sport",
+            "subtitle": "Mit dem WRX nach Flensburg",
+            "start": "2018-08-12T13:45:00+0200",
+            "end": "2018-08-12T14:10:00+0200",
+            "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/07dcc3c20c2cc9b9c6f02ebd8ecb269f0711118d.png",
+            "logicalChannelName": "ProdStreams 09_260_auto motor und sport",
+            "mainGenre": "Auto",
+            "category": "Information",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2016,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11088625_i_h10_aa.jpg",
+            "seriesTitle": "Autokino",
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "instantRestart": false,
+            "cluster": "tv"
+        },
+        {
+            "id": "0065aef0",
+            "type": "tvBroadcast",
+            "title": "Autokino",
+            "logicalChannelId": "prodstreams-09_260_auto-motor-und-sport",
+            "subtitle": "Bentley Mulsanne, Mercedes S65 AMG",
+            "start": "2018-08-12T23:10:00+0200",
+            "end": "2018-08-12T23:35:00+0200",
+            "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/07dcc3c20c2cc9b9c6f02ebd8ecb269f0711118d.png",
+            "logicalChannelName": "ProdStreams 09_260_auto motor und sport",
+            "mainGenre": "Auto",
+            "category": "Information",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2016,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11088625_i_h10_aa.jpg",
+            "seriesTitle": "Autokino",
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "instantRestart": false,
+            "cluster": "tv"
+        },
+        {
+            "id": "0065c5b8",
+            "type": "tvBroadcast",
+            "title": "Autokino",
+            "logicalChannelId": "prodstreams-09_260_auto-motor-und-sport",
+            "subtitle": "Mit dem WRX nach Flensburg",
+            "start": "2018-08-13T09:50:00+0200",
+            "end": "2018-08-13T10:15:00+0200",
+            "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/07dcc3c20c2cc9b9c6f02ebd8ecb269f0711118d.png",
+            "logicalChannelName": "ProdStreams 09_260_auto motor und sport",
+            "mainGenre": "Auto",
+            "category": "Information",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2016,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11088625_i_h10_aa.jpg",
+            "seriesTitle": "Autokino",
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "instantRestart": false,
+            "cluster": "tv"
+        },
+        {
+            "id": "0065c5d2",
+            "type": "tvBroadcast",
+            "title": "Autokino",
+            "logicalChannelId": "prodstreams-09_260_auto-motor-und-sport",
+            "subtitle": "Bentley Mulsanne, Mercedes S65 AMG",
+            "start": "2018-08-13T18:55:00+0200",
+            "end": "2018-08-13T19:20:00+0200",
+            "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/07dcc3c20c2cc9b9c6f02ebd8ecb269f0711118d.png",
+            "logicalChannelName": "ProdStreams 09_260_auto motor und sport",
+            "mainGenre": "Auto",
+            "category": "Information",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2016,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11088625_i_h10_aa.jpg",
+            "seriesTitle": "Autokino",
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "instantRestart": false,
+            "cluster": "tv"
+        },
+        {
+            "id": "0065e102",
+            "type": "tvBroadcast",
+            "title": "Autokino",
+            "logicalChannelId": "prodstreams-09_260_auto-motor-und-sport",
+            "subtitle": "Bentley Mulsanne, Mercedes S65 AMG",
+            "start": "2018-08-14T05:55:00+0200",
+            "end": "2018-08-14T06:20:00+0200",
+            "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/07dcc3c20c2cc9b9c6f02ebd8ecb269f0711118d.png",
+            "logicalChannelName": "ProdStreams 09_260_auto motor und sport",
+            "mainGenre": "Auto",
+            "category": "Information",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2016,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11088625_i_h10_aa.jpg",
+            "seriesTitle": "Autokino",
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "instantRestart": false,
+            "cluster": "tv"
+        },
+        {
+            "id": "0065e11d",
+            "type": "tvBroadcast",
+            "title": "Autokino",
+            "logicalChannelId": "prodstreams-09_260_auto-motor-und-sport",
+            "subtitle": "Bentley Mulsanne, Mercedes S65 AMG",
+            "start": "2018-08-14T15:00:00+0200",
+            "end": "2018-08-14T15:25:00+0200",
+            "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/07dcc3c20c2cc9b9c6f02ebd8ecb269f0711118d.png",
+            "logicalChannelName": "ProdStreams 09_260_auto motor und sport",
+            "mainGenre": "Auto",
+            "category": "Information",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2016,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11088625_i_h10_aa.jpg",
+            "seriesTitle": "Autokino",
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "instantRestart": false,
+            "cluster": "tv"
+        },
+        {
+            "id": "0065e13a",
+            "type": "tvBroadcast",
+            "title": "Autokino",
+            "logicalChannelId": "prodstreams-09_260_auto-motor-und-sport",
+            "subtitle": "Mit dem WRX nach Flensburg",
+            "start": "2018-08-15T00:05:00+0200",
+            "end": "2018-08-15T00:30:00+0200",
+            "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/07dcc3c20c2cc9b9c6f02ebd8ecb269f0711118d.png",
+            "logicalChannelName": "ProdStreams 09_260_auto motor und sport",
+            "mainGenre": "Auto",
+            "category": "Information",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2016,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11088625_i_h10_aa.jpg",
+            "seriesTitle": "Autokino",
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "instantRestart": false,
+            "cluster": "tv"
+        },
+        {
+            "id": "0065fb8b",
+            "type": "tvBroadcast",
+            "title": "Autokino",
+            "logicalChannelId": "prodstreams-09_260_auto-motor-und-sport",
+            "subtitle": "Bentley Mulsanne, Mercedes S65 AMG",
+            "start": "2018-08-15T11:05:00+0200",
+            "end": "2018-08-15T11:30:00+0200",
+            "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/07dcc3c20c2cc9b9c6f02ebd8ecb269f0711118d.png",
+            "logicalChannelName": "ProdStreams 09_260_auto motor und sport",
+            "mainGenre": "Auto",
+            "category": "Information",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2016,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11088625_i_h10_aa.jpg",
+            "seriesTitle": "Autokino",
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "instantRestart": false,
+            "cluster": "tv"
+        },
+        {
+            "id": "0065fba1",
+            "type": "tvBroadcast",
+            "title": "Autokino",
+            "logicalChannelId": "prodstreams-09_260_auto-motor-und-sport",
+            "subtitle": "Bentley Mulsanne, Mercedes S65 AMG",
+            "start": "2018-08-15T18:25:00+0200",
+            "end": "2018-08-15T18:50:00+0200",
+            "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/07dcc3c20c2cc9b9c6f02ebd8ecb269f0711118d.png",
+            "logicalChannelName": "ProdStreams 09_260_auto motor und sport",
+            "mainGenre": "Auto",
+            "category": "Information",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2016,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11088625_i_h10_aa.jpg",
+            "seriesTitle": "Autokino",
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "instantRestart": false,
+            "cluster": "tv"
+        },
+        {
+            "id": "0065fba8",
+            "type": "tvBroadcast",
+            "title": "Autokino",
+            "logicalChannelId": "prodstreams-09_260_auto-motor-und-sport",
+            "subtitle": "Lexus LFA und Lamborghini Aventador",
+            "start": "2018-08-15T20:15:00+0200",
+            "end": "2018-08-15T20:40:00+0200",
+            "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/07dcc3c20c2cc9b9c6f02ebd8ecb269f0711118d.png",
+            "logicalChannelName": "ProdStreams 09_260_auto motor und sport",
+            "mainGenre": "Auto",
+            "category": "Information",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2016,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11088625_i_h10_aa.jpg",
+            "seriesTitle": "Autokino",
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "instantRestart": false,
+            "cluster": "tv"
+        },
+        {
+            "id": "0065fbbf",
+            "type": "tvBroadcast",
+            "title": "Autokino",
+            "logicalChannelId": "prodstreams-09_260_auto-motor-und-sport",
+            "subtitle": "Lexus LFA und Lamborghini Aventador",
+            "start": "2018-08-16T04:00:00+0200",
+            "end": "2018-08-16T04:25:00+0200",
+            "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/07dcc3c20c2cc9b9c6f02ebd8ecb269f0711118d.png",
+            "logicalChannelName": "ProdStreams 09_260_auto motor und sport",
+            "mainGenre": "Auto",
+            "category": "Information",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2016,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11088625_i_h10_aa.jpg",
+            "seriesTitle": "Autokino",
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "instantRestart": false,
+            "cluster": "tv"
+        },
+        {
+            "id": "0066124e",
+            "type": "tvBroadcast",
+            "title": "Autokino",
+            "logicalChannelId": "prodstreams-09_260_auto-motor-und-sport",
+            "subtitle": "Lexus LFA und Lamborghini Aventador",
+            "start": "2018-08-16T07:15:00+0200",
+            "end": "2018-08-16T07:40:00+0200",
+            "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/07dcc3c20c2cc9b9c6f02ebd8ecb269f0711118d.png",
+            "logicalChannelName": "ProdStreams 09_260_auto motor und sport",
+            "mainGenre": "Auto",
+            "category": "Information",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2016,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11088625_i_h10_aa.jpg",
+            "seriesTitle": "Autokino",
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "instantRestart": false,
+            "cluster": "tv"
+        },
+        {
+            "id": "00661268",
+            "type": "tvBroadcast",
+            "title": "Autokino",
+            "logicalChannelId": "prodstreams-09_260_auto-motor-und-sport",
+            "subtitle": "Bentley Mulsanne, Mercedes S65 AMG",
+            "start": "2018-08-16T16:15:00+0200",
+            "end": "2018-08-16T16:40:00+0200",
+            "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/07dcc3c20c2cc9b9c6f02ebd8ecb269f0711118d.png",
+            "logicalChannelName": "ProdStreams 09_260_auto motor und sport",
+            "mainGenre": "Auto",
+            "category": "Information",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2016,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11088625_i_h10_aa.jpg",
+            "seriesTitle": "Autokino",
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "instantRestart": false,
+            "cluster": "tv"
+        },
+        {
+            "id": "00661284",
+            "type": "tvBroadcast",
+            "title": "Autokino",
+            "logicalChannelId": "prodstreams-09_260_auto-motor-und-sport",
+            "subtitle": "Lexus LFA und Lamborghini Aventador",
+            "start": "2018-08-17T01:25:00+0200",
+            "end": "2018-08-17T01:50:00+0200",
+            "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/07dcc3c20c2cc9b9c6f02ebd8ecb269f0711118d.png",
+            "logicalChannelName": "ProdStreams 09_260_auto motor und sport",
+            "mainGenre": "Auto",
+            "category": "Information",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2016,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11088625_i_h10_aa.jpg",
+            "seriesTitle": "Autokino",
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "instantRestart": false,
+            "cluster": "tv"
+        },
+        {
+            "id": "00662985",
+            "type": "tvBroadcast",
+            "title": "Autokino",
+            "logicalChannelId": "prodstreams-09_260_auto-motor-und-sport",
+            "subtitle": "Lexus LFA und Lamborghini Aventador",
+            "start": "2018-08-17T12:25:00+0200",
+            "end": "2018-08-17T12:50:00+0200",
+            "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/07dcc3c20c2cc9b9c6f02ebd8ecb269f0711118d.png",
+            "logicalChannelName": "ProdStreams 09_260_auto motor und sport",
+            "mainGenre": "Auto",
+            "category": "Information",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2016,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11088625_i_h10_aa.jpg",
+            "seriesTitle": "Autokino",
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "instantRestart": false,
+            "cluster": "tv"
+        },
+        {
+            "id": "0066299f",
+            "type": "tvBroadcast",
+            "title": "Autokino",
+            "logicalChannelId": "prodstreams-09_260_auto-motor-und-sport",
+            "subtitle": "Bentley Mulsanne, Mercedes S65 AMG",
+            "start": "2018-08-17T21:30:00+0200",
+            "end": "2018-08-17T21:55:00+0200",
+            "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/07dcc3c20c2cc9b9c6f02ebd8ecb269f0711118d.png",
+            "logicalChannelName": "ProdStreams 09_260_auto motor und sport",
+            "mainGenre": "Auto",
+            "category": "Information",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2016,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11088625_i_h10_aa.jpg",
+            "seriesTitle": "Autokino",
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "instantRestart": false,
+            "cluster": "tv"
+        },
+        {
+            "id": "00663dd4",
+            "type": "tvBroadcast",
+            "title": "Autokino",
+            "logicalChannelId": "prodstreams-09_260_auto-motor-und-sport",
+            "subtitle": "Lexus LFA und Lamborghini Aventador",
+            "start": "2018-08-18T08:35:00+0200",
+            "end": "2018-08-18T09:00:00+0200",
+            "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/07dcc3c20c2cc9b9c6f02ebd8ecb269f0711118d.png",
+            "logicalChannelName": "ProdStreams 09_260_auto motor und sport",
+            "mainGenre": "Auto",
+            "category": "Information",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2016,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11088625_i_h10_aa.jpg",
+            "seriesTitle": "Autokino",
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "instantRestart": false,
+            "cluster": "tv"
+        },
+        {
+            "id": "00663dea",
+            "type": "tvBroadcast",
+            "title": "Autokino",
+            "logicalChannelId": "prodstreams-09_260_auto-motor-und-sport",
+            "subtitle": "Bentley Mulsanne, Mercedes S65 AMG",
+            "start": "2018-08-18T17:30:00+0200",
+            "end": "2018-08-18T17:55:00+0200",
+            "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/07dcc3c20c2cc9b9c6f02ebd8ecb269f0711118d.png",
+            "logicalChannelName": "ProdStreams 09_260_auto motor und sport",
+            "mainGenre": "Auto",
+            "category": "Information",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2016,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11088625_i_h10_aa.jpg",
+            "seriesTitle": "Autokino",
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "instantRestart": false,
+            "cluster": "tv"
+        },
+        {
+            "id": "00663e04",
+            "type": "tvBroadcast",
+            "title": "Autokino",
+            "logicalChannelId": "prodstreams-09_260_auto-motor-und-sport",
+            "subtitle": "Lexus LFA und Lamborghini Aventador",
+            "start": "2018-08-19T02:40:00+0200",
+            "end": "2018-08-19T03:05:00+0200",
+            "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/07dcc3c20c2cc9b9c6f02ebd8ecb269f0711118d.png",
+            "logicalChannelName": "ProdStreams 09_260_auto motor und sport",
+            "mainGenre": "Auto",
+            "category": "Information",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2016,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11088625_i_h10_aa.jpg",
+            "seriesTitle": "Autokino",
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "instantRestart": false,
+            "cluster": "tv"
+        }
+    ]
+}

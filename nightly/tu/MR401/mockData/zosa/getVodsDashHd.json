@@ -1,0 +1,63 @@
+[
+  {
+    "duration": null,
+    "zosaType": "VodItem",
+    "isBlocked": false,
+    "zosaId": "zosa:FFxKQxpWEQ4eQwdWOBUfHBo0IyApJzEjIz4PAQsFBBMDHxoOAw",
+    "streams": null,
+    "icon": null,
+    "title": "DT Vod",
+    "genres": null,
+    "secondaryName": null,
+    "productionYear": null,
+    "participants": null,
+    "subtitleLanguages": null,
+    "description": null,
+    "minViewingAge": null,
+    "vodType": 0,
+    "isFavorited": null,
+    "numChildren": null,
+    "productionCompany": null,
+    "clipStreams": null,
+    "childIndex": null,
+    "parents": null,
+    "availabilityStartTime": null,
+    "availabilityEndTime": null,
+    "subscriptionEndTime": null,
+    "isSubscribed": null,
+    "audioLanguages": null,
+    "images": null,
+    "parentalRating": null,
+    "isLocked": null,
+    "parentalRatingLabel": null,
+    "parentalRatingAgency": null,
+    "isAdult": null,
+    "categoryIds": null,
+    "customProps": [
+      {
+        "key": "playUrl",
+        "value": "http://xsvc27-stu.main.xcdn.sda.t-online.de/dash01/dashstream/streaming/ReferenceContents/177403/635963278924193109/DTAG-test-chart_deu_20_2200k-HEVC-HD.mpd"
+      },
+      {
+        "key": "playDrmLAUrl",
+        "value": "https://x3wcss.t-online.de/cmrs/IPTV2015-First/media/v1/dashstreaming/177403"
+      },
+      {
+        "key": "playDrmKeyId",
+        "value": ""
+      },
+      {
+        "key": "playDrmLAPB",
+        "value": ""
+      },
+      {
+        "key": "bandwidthType",
+        "value": "VOD HD"
+      },
+      {
+        "key": "mfwPlaySessionToken",
+        "value": "2147483651"
+      }
+    ]
+  }
+]

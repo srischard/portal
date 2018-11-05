@@ -1,0 +1,107 @@
+{
+    "totalItems": 23,
+    "totalGroups": 4,
+    "offset": 0,
+    "sort": "airtime_default",
+    "navigators": [
+        {
+            "id": "cluster",
+            "name": "Cluster",
+            "entries": [
+                {
+                    "id": "tv",
+                    "name": "TV Sendung",
+                    "size": 23
+                }
+            ]
+        }
+    ],
+    "results": [
+        {
+            "id": "groupCluster0Adult__93b102365b0b90f1f04b3052c8b48a98",
+            "type": "group",
+            "title": "Wer weiß denn sowas?",
+            "size": 18,
+            "items": [
+                {
+                    "id": "0030c2a6",
+                    "type": "tvBroadcast",
+                    "title": "Wer weiß denn sowas?",
+                    "logicalChannelId": "specialstreams_permanentsubt-03_tv5",
+                    "subtitle": "Jürgen von der Lippe und Judith Rakers",
+                    "start": "2016-12-05T11:15:00+0100",
+                    "end": "2016-12-05T12:00:00+0100",
+                    "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/4a09035cba49f1164b80f8fe322278fd7788db9f.png",
+                    "logicalChannelName": "SpecialStreams_permanentSubt 03_TV5",
+                    "mainGenre": "Show",
+                    "category": "Show",
+                    "countries": [
+                        "Deutschland"
+                    ],
+                    "year": 2016,
+                    "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11873328_b_h10_aa.jpg",
+                    "seriesTitle": "Wer weiß denn sowas?",
+                    "seasonNumber": 2,
+                    "episodeNumber": 74,
+                    "ageRatingName": "Keine Altersangabe",
+                    "ageRatingId": "Unbekannt",
+                    "instantRestart": true,
+                    "cluster": "tv"
+                }
+            ]
+        },
+        {
+            "id": "groupCluster0Adult__pcon",
+            "type": "group",
+            "title": "Gesperrte Angebote",
+            "size": 3,
+            "pcon": true
+        },
+        {
+            "id": "0030e1a0",
+            "type": "tvBroadcast",
+            "title": "Klein gegen Groß - Das unglaubliche Duell",
+            "logicalChannelId": "top8_das-erste",
+            "subtitle": "Folge 21",
+            "start": "2016-12-17T20:15:00+0100",
+            "end": "2016-12-17T23:35:00+0100",
+            "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/6df391936c4abc70f2c7a7dd2f05915bab824296.png",
+            "logicalChannelName": "Top8_Das Erste",
+            "mainGenre": "Wissen",
+            "category": "Information",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2016,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p10415894_i_h10_aa.jpg",
+            "seriesTitle": "Klein gegen Groß: Das unglaubliche Duell",
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "instantRestart": true,
+            "cluster": "tv"
+        },
+        {
+            "id": "0031a85b",
+            "type": "tvBroadcast",
+            "title": "Klein gegen Groß: Das unglaubliche Duell",
+            "logicalChannelId": "specialstreams_permanentsubt-03_tv5",
+            "subtitle": "Folge 21",
+            "start": "2016-12-17T20:15:00+0100",
+            "end": "2016-12-17T23:35:00+0100",
+            "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/4a09035cba49f1164b80f8fe322278fd7788db9f.png",
+            "logicalChannelName": "SpecialStreams_permanentSubt 03_TV5",
+            "mainGenre": "Show",
+            "category": "Show",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2016,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p10415894_i_h10_aa.jpg",
+            "seriesTitle": "Klein gegen Groß: Das unglaubliche Duell",
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "instantRestart": true,
+            "cluster": "tv"
+        }
+    ]
+}

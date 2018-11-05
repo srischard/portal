@@ -1,0 +1,10 @@
+{
+  //"urlService": "http://localhost:8021/radiorest/rest/",
+  //"urlImage": "http://localhost:8021/radiows/",
+ 
+  "urlService": "https://itvmusica-bl-sl0.ver.sda.t-online.de/radiorest/rest/",
+  "urlImage": "https://itvmusica-bl-sl0.ver.sda.t-online.de/radiows/",
+
+  "showUnselectableSortoptions": true,
+  "useIssForBackground": false
+}

@@ -1,0 +1,328 @@
+{
+    "totalItems": 65,
+    "totalGroups": 65,
+    "offset": 0,
+    "sort": "airtime_default",
+    "navigators": [
+        {
+            "id": "cluster",
+            "name": "Cluster",
+            "entries": [
+                {
+                    "id": "vodSeries",
+                    "name": "Serie",
+                    "size": 65
+                }
+            ]
+        }
+    ],
+    "results": [
+        {
+            "id": "GN_EP019874780024",
+            "type": "vod",
+            "title": "Folge 33",
+            "vodType": "episode",
+            "duration": 45,
+            "mainGenre": "Show",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2016,
+            "scenes": [
+                "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11030317_i_h10_aa.jpg"
+            ],
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "seriesTitle": "Kaum zu glauben!",
+            "seasonNumber": 3,
+            "episodeNumber": 10,
+            "partners": [
+                {
+                    "name": "ARD",
+                    "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/06f1d97ae47009991387f8c1067eba584cfa6a46.png"
+                }
+            ],
+            "cluster": "vodSeries",
+            "sourceType": "tvArchive",
+            "airtime": "2016-09-25T22:05:00+0200",
+            "category": "series",
+            "qualities": []
+        },
+        {
+            "id": "GN_EP022087220078",
+            "type": "vod",
+            "title": "Ruth Moschner und Lutz van der Horst",
+            "vodType": "episode",
+            "duration": 50,
+            "mainGenre": "Show",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2016,
+            "scenes": [
+                "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11873328_b_h10_aa.jpg"
+            ],
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "seriesTitle": "Wer weiß denn sowas?",
+            "seasonNumber": 2,
+            "episodeNumber": 70,
+            "partners": [
+                {
+                    "name": "ARD",
+                    "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/06f1d97ae47009991387f8c1067eba584cfa6a46.png"
+                }
+            ],
+            "cluster": "vodSeries",
+            "sourceType": "tvArchive",
+            "airtime": "2016-11-28T11:15:00+0100",
+            "category": "series",
+            "qualities": []
+        },
+        {
+            "id": "GN_EP022087220079",
+            "type": "vod",
+            "title": "Horst Lichter und Guido Cantz",
+            "vodType": "episode",
+            "duration": 50,
+            "mainGenre": "Show",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2016,
+            "scenes": [
+                "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11873328_b_h10_aa.jpg"
+            ],
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "seriesTitle": "Wer weiß denn sowas?",
+            "seasonNumber": 2,
+            "episodeNumber": 71,
+            "partners": [
+                {
+                    "name": "ARD",
+                    "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/06f1d97ae47009991387f8c1067eba584cfa6a46.png"
+                }
+            ],
+            "cluster": "vodSeries",
+            "sourceType": "tvArchive",
+            "airtime": "2016-11-29T11:15:00+0100",
+            "category": "series",
+            "qualities": []
+        },
+        {
+            "id": "GN_EP022087220080",
+            "type": "vod",
+            "title": "Natalia Wörner und Cordula Stratmann",
+            "vodType": "episode",
+            "duration": 50,
+            "mainGenre": "Show",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2016,
+            "scenes": [
+                "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11873328_b_h10_aa.jpg"
+            ],
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "seriesTitle": "Wer weiß denn sowas?",
+            "seasonNumber": 2,
+            "episodeNumber": 72,
+            "partners": [
+                {
+                    "name": "ARD",
+                    "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/06f1d97ae47009991387f8c1067eba584cfa6a46.png"
+                }
+            ],
+            "cluster": "vodSeries",
+            "sourceType": "tvArchive",
+            "airtime": "2016-11-30T11:15:00+0100",
+            "category": "series",
+            "qualities": []
+        },
+        {
+            "id": "GN_EP022087220081",
+            "type": "vod",
+            "title": "Magdalena Neuner und Laura Dahlmeier",
+            "vodType": "episode",
+            "duration": 50,
+            "mainGenre": "Show",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2016,
+            "scenes": [
+                "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11873328_b_h10_aa.jpg"
+            ],
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "seriesTitle": "Wer weiß denn sowas?",
+            "seasonNumber": 2,
+            "episodeNumber": 73,
+            "partners": [
+                {
+                    "name": "ARD",
+                    "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/06f1d97ae47009991387f8c1067eba584cfa6a46.png"
+                }
+            ],
+            "cluster": "vodSeries",
+            "sourceType": "tvArchive",
+            "airtime": "2016-07-15T18:00:00+0200",
+            "category": "series",
+            "qualities": []
+        },
+        {
+            "id": "GN_SEASON_12661826_DE",
+            "type": "vod",
+            "title": "Staffel 2",
+            "vodType": "season",
+            "mainGenre": "Show",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2016,
+            "posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11873328_b_h10_aa.jpg",
+            "scenes": [],
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "seriesTitle": "Wer weiß denn sowas?",
+            "seasonNumber": 2,
+            "episodeCount": 120,
+            "partners": [
+                {
+                    "name": "ARD",
+                    "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/06f1d97ae47009991387f8c1067eba584cfa6a46.png"
+                }
+            ],
+            "cluster": "vodSeries",
+            "sourceType": "tvArchive",
+            "airtime": "2016-07-15T18:00:00+0200",
+            "category": "series",
+            "qualities": []
+        },
+        {
+            "id": "GN_SEASON_13019244_DE",
+            "type": "vod",
+            "title": "Staffel 3",
+            "vodType": "season",
+            "mainGenre": "Show",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2016,
+            "posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11030317_i_h10_aa.jpg",
+            "posterWideNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11030317_i_h10_aa.jpg",
+            "scenes": [],
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "seriesTitle": "Kaum zu glauben!",
+            "seasonNumber": 3,
+            "episodeCount": 9,
+            "partners": [
+                {
+                    "name": "ARD",
+                    "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/06f1d97ae47009991387f8c1067eba584cfa6a46.png"
+                }
+            ],
+            "cluster": "vodSeries",
+            "sourceType": "tvArchive",
+            "airtime": "2016-09-25T22:05:00+0200",
+            "category": "series",
+            "qualities": []
+        },
+        {
+            "id": "GN_EP022181070002",
+            "type": "vod",
+            "title": "Folge 2",
+            "vodType": "episode",
+            "duration": 30,
+            "mainGenre": "Comedy",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2014,
+            "scenes": [],
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "seriesTitle": "Die Comedy-Falle",
+            "seasonNumber": 1,
+            "episodeNumber": 2,
+            "episodeCount": 7,
+            "partners": [
+                {
+                    "name": "Maxdome",
+                    "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/34dc487dada6dcfd0556e38de4a1857aa0fdb51e.png"
+                }
+            ],
+            "cluster": "vodSeries",
+            "sourceType": "vodPremium",
+            "category": "series",
+            "qualities": [
+                "SD"
+            ]
+        },
+        {
+            "id": "GN_EP022181070003",
+            "type": "vod",
+            "title": "Folge 3",
+            "vodType": "episode",
+            "duration": 30,
+            "mainGenre": "Comedy",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2014,
+            "scenes": [],
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "seriesTitle": "Die Comedy-Falle",
+            "seasonNumber": 1,
+            "episodeNumber": 3,
+            "episodeCount": 7,
+            "partners": [
+                {
+                    "name": "Maxdome",
+                    "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/34dc487dada6dcfd0556e38de4a1857aa0fdb51e.png"
+                }
+            ],
+            "cluster": "vodSeries",
+            "sourceType": "vodPremium",
+            "category": "series",
+            "qualities": [
+                "SD"
+            ]
+        },
+        {
+            "id": "GN_EP022181070004",
+            "type": "vod",
+            "title": "Folge 4",
+            "vodType": "episode",
+            "duration": 30,
+            "mainGenre": "Comedy",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2014,
+            "scenes": [],
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "seriesTitle": "Die Comedy-Falle",
+            "seasonNumber": 1,
+            "episodeNumber": 4,
+            "episodeCount": 7,
+            "partners": [
+                {
+                    "name": "Maxdome",
+                    "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/34dc487dada6dcfd0556e38de4a1857aa0fdb51e.png"
+                }
+            ],
+            "cluster": "vodSeries",
+            "sourceType": "vodPremium",
+            "category": "series",
+            "qualities": [
+                "SD"
+            ]
+        }
+    ]
+}

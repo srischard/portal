@@ -1,0 +1,21 @@
+{
+  "enabled": true, /* service is working at all */
+  "reportErrors": true, /* SQM codes will reported partial elements (classID & errorID) will be logged into ATIs f[i]-fields  (default:true)   */
+  "reportKeys": false, /* all keys will be reported.  Keys from [0-9] will be grouped as syntetic 'NUMBER_KEY' to prevent PIN tracking  !!Keylogger!!  (default:false)    */
+  "reportClicks": true, /* HK_OK will be reported as xtClick=N with the last known elementID  (default:true)*/
+  "reportBoot" : false, /*send a system:boot pixel*/
+  /**
+    * which elements are used from the navigation engine path
+    * none: navigation changes are not reported
+    * element: every focus change will be reported. The elementID will be reported
+    * container(default): focus changes within the current navigation container are not tracked. Only the containerID will be reported.
+    * page: the toplevel navigation container will be reported ; also known as 'page impression'  not yet implemented
+    */
+  "reportNavigationType": "container",
+  "trackingUrl": "https://logs1204.xiti.com", //test  'https://logs1204...' or 'http://logc206....'; 
+  "trackingSiteId": "588883", /*NGTV Test Zenterio*/
+  "queueMaximumBufferSize": 15,
+  "pollPrivacyFlagMin": 1,
+
+  "transformation": "import({ return './config/usagetracker.config.json'; })"
+}

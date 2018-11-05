@@ -1,0 +1,87 @@
+{
+	"totalItems": 27,
+	"totalGroups": 2,
+	"offset": 0,
+	"sort": "airtime_default",
+	"navigators": [
+		{
+			"id": "cluster",
+			"name": "Cluster",
+			"entries": [
+				{
+					"id": "tv",
+					"name": "TV Sendung",
+					"size": 27
+				}
+			]
+		}
+	],
+	"results": [
+		{
+			"id": "groupCluster12Adult__316fd19ae0eb68b4ae9d0047faa39c7e",
+			"type": "group",
+			"title": "Navy CIS: L.A.",
+			"size": 10,
+			"items": [
+				{
+					"id": "005f6631",
+					"type": "tvBroadcast",
+					"title": "Navy CIS: L.A.",
+					"logicalChannelId": "top8_kabel-eins",
+					"subtitle": "Team Red",
+					"start": "2018-06-05T09:30:25+0200",
+					"end": "2018-06-05T10:21:00+0200",
+					"channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/89e2610e39d1907664d7d27c1a94049dff52dbe2.png",
+					"logicalChannelName": "Top8_kabel eins",
+					"mainGenre": "Krimi",
+					"category": "Serie",
+					"countries": [
+						"USA"
+					],
+					"year": 2013,
+					"poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p9806429_e_h8_ab.jpg",
+					"seriesTitle": "Navy CIS: L.A",
+					"seasonNumber": 4,
+					"episodeNumber": 19,
+					"ageRatingName": "Keine Altersangabe",
+					"ageRatingId": "Unbekannt",
+					"instantRestart": true,
+					"cluster": "tv"
+				}
+			]
+		},
+		{
+			"id": "groupCluster12Adult__0d420bd26ff8839d1f4e6349e91f2160",
+			"type": "group",
+			"title": "Navy CIS: L.A",
+			"size": 17,
+			"items": [
+				{
+					"id": "00600395",
+					"type": "tvBroadcast",
+					"title": "Navy CIS: L.A",
+					"logicalChannelId": "top8_kabel-eins",
+					"subtitle": "Vertrauenssache",
+					"start": "2018-06-11T15:00:00+0200",
+					"end": "2018-06-11T15:50:00+0200",
+					"channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/89e2610e39d1907664d7d27c1a94049dff52dbe2.png",
+					"logicalChannelName": "Top8_kabel eins",
+					"mainGenre": "Krimi",
+					"category": "Serie",
+					"countries": [
+						"USA"
+					],
+					"year": 2013,
+					"poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p9826373_e_h8_ab.jpg",
+					"seriesTitle": "Navy CIS: L.A",
+					"seasonNumber": 4,
+					"episodeNumber": 24,
+					"ageRatingName": "Keine Altersangabe",
+					"ageRatingId": "Unbekannt",
+					"instantRestart": true,
+					"cluster": "tv"
+				}
+			]
+		}
+	]
+}

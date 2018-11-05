@@ -1,0 +1,1256 @@
+{
+    "totalItems": 89072,
+    "totalGroups": 80232,
+    "offset": 0,
+    "sort": "relevance",
+    "navigators": [
+        {
+            "id": "partnerIdsNav",
+            "name": "Anbieter",
+            "entries": [
+                {
+                    "id": "7tv",
+                    "name": "7TV",
+                    "size": 17312
+                },
+                {
+                    "id": "amazon",
+                    "name": "Amazon",
+                    "size": 4271
+                },
+                {
+                    "id": "ard",
+                    "name": "ARD",
+                    "size": 24290
+                },
+                {
+                    "id": "arte7",
+                    "name": "Arte +7",
+                    "size": 588
+                },
+                {
+                    "id": "entertainTvSerien",
+                    "name": "EntertainTV Serien",
+                    "size": 76
+                },
+                {
+                    "id": "eroticLounge",
+                    "name": "Erotic Lounge",
+                    "size": 12
+                },
+                {
+                    "id": "fox",
+                    "name": "FOX",
+                    "size": 3
+                },
+                {
+                    "id": "magentamusic",
+                    "name": "Magenta Musik",
+                    "size": 51
+                },
+                {
+                    "id": "maxdome",
+                    "name": "Maxdome",
+                    "size": 39715
+                },
+                {
+                    "id": "servus-tv",
+                    "name": "Servus TV",
+                    "size": 6
+                },
+                {
+                    "id": "sky",
+                    "name": "Sky On Demand",
+                    "size": 11114
+                },
+                {
+                    "id": "telekom-sport",
+                    "name": "Telekom Sport",
+                    "size": 1222
+                },
+                {
+                    "id": "x_ngtv_vl",
+                    "name": "Testprovider",
+                    "size": 1
+                },
+                {
+                    "id": "rtl",
+                    "name": "TV Now",
+                    "size": 1080
+                },
+                {
+                    "id": "tvPackages",
+                    "name": "TV-Pakete",
+                    "size": 57
+                },
+                {
+                    "id": "videoload",
+                    "name": "Videoload",
+                    "size": 1757
+                },
+                {
+                    "id": "zdf",
+                    "name": "ZDF",
+                    "size": 8020
+                }
+            ]
+        },
+        {
+            "id": "availabilityNav",
+            "name": "Preis",
+            "entries": [
+                {
+                    "id": "freeVod",
+                    "name": "Kostenlos",
+                    "size": 51928
+                },
+                {
+                    "id": "chargeVod",
+                    "name": "Kostenpflichtig",
+                    "size": 51671
+                }
+            ]
+        },
+        {
+            "id": "genreIdsNav",
+            "name": "Genre",
+            "entries": [
+                {
+                    "id": "ug_1",
+                    "name": "Abenteuer",
+                    "size": 5208
+                },
+                {
+                    "id": "ug_2",
+                    "name": "Action",
+                    "size": 2466
+                },
+                {
+                    "id": "ug_1001",
+                    "name": "Action",
+                    "size": 1
+                },
+                {
+                    "id": "ug_3",
+                    "name": "Animation",
+                    "size": 4534
+                },
+                {
+                    "id": "ug_5",
+                    "name": "Auto",
+                    "size": 446
+                },
+                {
+                    "id": "ug_47",
+                    "name": "Basketball",
+                    "size": 399
+                },
+                {
+                    "id": "ug_42",
+                    "name": "Biografie",
+                    "size": 661
+                },
+                {
+                    "id": "ug_1012",
+                    "name": "Blockbuster",
+                    "size": 2
+                },
+                {
+                    "id": "ug_6",
+                    "name": "Bollywood",
+                    "size": 2
+                },
+                {
+                    "id": "ug_7",
+                    "name": "Comedy",
+                    "size": 5458
+                },
+                {
+                    "id": "ug_1019",
+                    "name": "Crime",
+                    "size": 1
+                },
+                {
+                    "id": "ug_8",
+                    "name": "Dokumentation",
+                    "size": 14895
+                },
+                {
+                    "id": "ug_49",
+                    "name": "Dokusoap",
+                    "size": 3634
+                },
+                {
+                    "id": "ug_9",
+                    "name": "Drama",
+                    "size": 6401
+                },
+                {
+                    "id": "ug_1024",
+                    "name": "Erotic Fantasies",
+                    "size": 10
+                },
+                {
+                    "id": "ug_10",
+                    "name": "Erotischer Film",
+                    "size": 11
+                },
+                {
+                    "id": "ug_11",
+                    "name": "Familie",
+                    "size": 53
+                },
+                {
+                    "id": "ug_12",
+                    "name": "Fantasy",
+                    "size": 4610
+                },
+                {
+                    "id": "ug_1028",
+                    "name": "For Lovers",
+                    "size": 1
+                },
+                {
+                    "id": "ug_48",
+                    "name": "Fußball",
+                    "size": 446
+                },
+                {
+                    "id": "ug_13",
+                    "name": "Geschichte",
+                    "size": 1442
+                },
+                {
+                    "id": "ug_14",
+                    "name": "Gesellschaft",
+                    "size": 1974
+                },
+                {
+                    "id": "ug_43",
+                    "name": "Heimwerker",
+                    "size": 304
+                },
+                {
+                    "id": "ug_15",
+                    "name": "Horror",
+                    "size": 718
+                },
+                {
+                    "id": "ug_16",
+                    "name": "Kinder",
+                    "size": 6595
+                },
+                {
+                    "id": "ug_18",
+                    "name": "Klassiker",
+                    "size": 2
+                },
+                {
+                    "id": "ug_50",
+                    "name": "Kochen",
+                    "size": 1667
+                },
+                {
+                    "id": "ug_17",
+                    "name": "Komödie",
+                    "size": 1712
+                },
+                {
+                    "id": "ug_19",
+                    "name": "Krimi",
+                    "size": 13214
+                },
+                {
+                    "id": "ug_20",
+                    "name": "Kultur",
+                    "size": 982
+                },
+                {
+                    "id": "ug_21",
+                    "name": "Kurzfilm",
+                    "size": 3
+                },
+                {
+                    "id": "ug_22",
+                    "name": "Lifestyle",
+                    "size": 567
+                },
+                {
+                    "id": "ug_23",
+                    "name": "Magazin",
+                    "size": 5626
+                },
+                {
+                    "id": "ug_24",
+                    "name": "Musik",
+                    "size": 773
+                },
+                {
+                    "id": "ug_25",
+                    "name": "Nachrichten",
+                    "size": 11435
+                },
+                {
+                    "id": "ug_26",
+                    "name": "Natur und Tiere",
+                    "size": 4201
+                },
+                {
+                    "id": "ug_27",
+                    "name": "Politik",
+                    "size": 5397
+                },
+                {
+                    "id": "ug_28",
+                    "name": "Queer",
+                    "size": 22
+                },
+                {
+                    "id": "ug_29",
+                    "name": "Ratgeber",
+                    "size": 3066
+                },
+                {
+                    "id": "ug_44",
+                    "name": "Reality",
+                    "size": 11889
+                },
+                {
+                    "id": "ug_30",
+                    "name": "Reisen",
+                    "size": 1393
+                },
+                {
+                    "id": "ug_31",
+                    "name": "Reportage",
+                    "size": 69
+                },
+                {
+                    "id": "ug_32",
+                    "name": "Romantik",
+                    "size": 2899
+                },
+                {
+                    "id": "ug_51",
+                    "name": "Satire",
+                    "size": 48
+                },
+                {
+                    "id": "ug_33",
+                    "name": "ScienceFiction",
+                    "size": 860
+                },
+                {
+                    "id": "ug_34",
+                    "name": "Show",
+                    "size": 15227
+                },
+                {
+                    "id": "ug_45",
+                    "name": "Sitcom",
+                    "size": 1971
+                },
+                {
+                    "id": "ug_35",
+                    "name": "Soap",
+                    "size": 4826
+                },
+                {
+                    "id": "ug_36",
+                    "name": "Sport",
+                    "size": 1228
+                },
+                {
+                    "id": "ug_1048",
+                    "name": "Stars",
+                    "size": 2
+                },
+                {
+                    "id": "ug_46",
+                    "name": "Talkshow",
+                    "size": 2954
+                },
+                {
+                    "id": "ug_37",
+                    "name": "Thriller",
+                    "size": 1858
+                },
+                {
+                    "id": "ug_39",
+                    "name": "Verschiedenes",
+                    "size": 18
+                },
+                {
+                    "id": "ug_40",
+                    "name": "Western",
+                    "size": 141
+                },
+                {
+                    "id": "ug_41",
+                    "name": "Wissen",
+                    "size": 9831
+                }
+            ]
+        },
+        {
+            "id": "ageRatingNav",
+            "name": "Alterskennzeichnung",
+            "entries": [
+                {
+                    "id": "unknown",
+                    "name": "Keine Altersangabe",
+                    "size": 48239
+                },
+                {
+                    "id": "0",
+                    "name": "0",
+                    "size": 6523
+                },
+                {
+                    "id": "6",
+                    "name": "6",
+                    "size": 10035
+                },
+                {
+                    "id": "12",
+                    "name": "12",
+                    "size": 15433
+                },
+                {
+                    "id": "16",
+                    "name": "16",
+                    "size": 7883
+                },
+                {
+                    "id": "18",
+                    "name": "18",
+                    "size": 919
+                }
+            ]
+        },
+        {
+            "id": "audioLanguageIdsNav",
+            "name": "Sprache",
+            "entries": [
+                {
+                    "id": "ara",
+                    "name": "Arabisch",
+                    "size": 9
+                },
+                {
+                    "id": "deu",
+                    "name": "Deutsch",
+                    "size": 1812
+                },
+                {
+                    "id": "eng",
+                    "name": "Englisch",
+                    "size": 1233
+                },
+                {
+                    "id": "est",
+                    "name": "Estnisch",
+                    "size": 1
+                },
+                {
+                    "id": "fin",
+                    "name": "Finnisch",
+                    "size": 5
+                },
+                {
+                    "id": "fra",
+                    "name": "Französisch",
+                    "size": 334
+                },
+                {
+                    "id": "ell",
+                    "name": "Griechisch",
+                    "size": 3
+                },
+                {
+                    "id": "ita",
+                    "name": "Italienisch",
+                    "size": 3
+                },
+                {
+                    "id": "jpn",
+                    "name": "Japanisch",
+                    "size": 1
+                },
+                {
+                    "id": "nld",
+                    "name": "Niederländisch",
+                    "size": 2
+                },
+                {
+                    "id": "nor",
+                    "name": "Norwegisch",
+                    "size": 3
+                },
+                {
+                    "id": "pol",
+                    "name": "Polnisch",
+                    "size": 1
+                },
+                {
+                    "id": "rus",
+                    "name": "Russisch",
+                    "size": 2
+                },
+                {
+                    "id": "swe",
+                    "name": "Schwedisch",
+                    "size": 1
+                },
+                {
+                    "id": "slk",
+                    "name": "Slovakisch",
+                    "size": 2
+                },
+                {
+                    "id": "spa",
+                    "name": "Spanisch",
+                    "size": 74
+                },
+                {
+                    "id": "tur",
+                    "name": "Türkisch",
+                    "size": 3
+                },
+                {
+                    "id": "hun",
+                    "name": "Ungarisch",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "id": "videoQualitiesNav",
+            "name": "Qualität",
+            "entries": [
+                {
+                    "id": "SD",
+                    "name": "SD",
+                    "size": 45519
+                },
+                {
+                    "id": "HD",
+                    "name": "HD",
+                    "size": 27780
+                },
+                {
+                    "id": "3D",
+                    "name": "3D",
+                    "size": 71
+                },
+                {
+                    "id": "UHD",
+                    "name": "UHD",
+                    "size": 200
+                }
+            ]
+        },
+        {
+            "id": "yearClustersNav",
+            "name": "Erscheinungsjahr",
+            "entries": [
+                {
+                    "id": "2030",
+                    "name": "2030",
+                    "size": 2
+                },
+                {
+                    "id": "2029",
+                    "name": "2029",
+                    "size": 2
+                },
+                {
+                    "id": "2028",
+                    "name": "2028",
+                    "size": 2
+                },
+                {
+                    "id": "2027",
+                    "name": "2027",
+                    "size": 2
+                },
+                {
+                    "id": "2026",
+                    "name": "2026",
+                    "size": 2
+                },
+                {
+                    "id": "2025",
+                    "name": "2025",
+                    "size": 3
+                },
+                {
+                    "id": "2024",
+                    "name": "2024",
+                    "size": 3
+                },
+                {
+                    "id": "2023",
+                    "name": "2023",
+                    "size": 3
+                },
+                {
+                    "id": "2022",
+                    "name": "2022",
+                    "size": 4
+                },
+                {
+                    "id": "2021",
+                    "name": "2021",
+                    "size": 3
+                },
+                {
+                    "id": "2020",
+                    "name": "2020",
+                    "size": 8
+                },
+                {
+                    "id": "2019",
+                    "name": "2019",
+                    "size": 7
+                },
+                {
+                    "id": "2018",
+                    "name": "2018",
+                    "size": 13725
+                },
+                {
+                    "id": "2017",
+                    "name": "2017",
+                    "size": 13434
+                },
+                {
+                    "id": "2016",
+                    "name": "2016",
+                    "size": 8724
+                },
+                {
+                    "id": "2015",
+                    "name": "2015",
+                    "size": 7563
+                },
+                {
+                    "id": "2014",
+                    "name": "2014",
+                    "size": 9759
+                },
+                {
+                    "id": "2013",
+                    "name": "2013",
+                    "size": 5354
+                },
+                {
+                    "id": "2012",
+                    "name": "2012",
+                    "size": 4619
+                },
+                {
+                    "id": "2011",
+                    "name": "2011",
+                    "size": 3894
+                },
+                {
+                    "id": "2010",
+                    "name": "2010",
+                    "size": 3272
+                },
+                {
+                    "id": "2010er",
+                    "name": "2010er",
+                    "size": 70257
+                },
+                {
+                    "id": "2000er",
+                    "name": "2000er",
+                    "size": 12347
+                },
+                {
+                    "id": "90er",
+                    "name": "90er",
+                    "size": 1856
+                },
+                {
+                    "id": "80er",
+                    "name": "80er",
+                    "size": 692
+                },
+                {
+                    "id": "70er",
+                    "name": "70er",
+                    "size": 497
+                },
+                {
+                    "id": "60er",
+                    "name": "60er",
+                    "size": 278
+                },
+                {
+                    "id": "50er",
+                    "name": "50er",
+                    "size": 105
+                },
+                {
+                    "id": "40er",
+                    "name": "40er",
+                    "size": 29
+                },
+                {
+                    "id": "vor 1940",
+                    "name": "vor 1940",
+                    "size": 26
+                }
+            ]
+        },
+        {
+            "id": "availabilityOnDeviceNav",
+            "name": "Verfügbar auf",
+            "entries": [
+                {
+                    "id": "stb",
+                    "name": "EntertainTV",
+                    "size": 89072
+                },
+                {
+                    "id": "ott",
+                    "name": "EntertainTV mobil",
+                    "size": 79133
+                }
+            ]
+        }
+    ],
+    "results": [
+        {
+            "id": "GN_MV010644200000",
+            "type": "vod",
+            "title": "Coco - Lebendiger als das Leben!",
+            "vodType": "movie",
+            "duration": 109,
+            "mainGenre": "Kinder",
+            "countries": [
+                "USA"
+            ],
+            "year": 2017,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p13930352_v_v8_ad.jpg",
+            "posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p13930352_v_h10_ab.jpg",
+            "posterNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p13930352_k_v8_aa.jpg",
+            "posterWideNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p13930352_k_h8_aa.jpg",
+            "scenes": [
+                "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p13930352_i_h8_aa.jpg"
+            ],
+            "ageRatingName": "Ab 0 Jahren (FSK)",
+            "ageRatingId": "FSK 0",
+            "partners": [
+                {
+                    "name": "Sky On Demand",
+                    "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/3b535513543b56f3e783906c57b51982214dd7d5.png"
+                }
+            ],
+            "cluster": "vodMain",
+            "sourceType": "vodPremium",
+            "category": "main",
+            "qualities": [
+                "HD"
+            ],
+            "availableSince": "2018-07-29T02:00:00+0200",
+            "tags": []
+        },
+        {
+            "id": "GN_EP020757620041",
+            "type": "vod",
+            "title": "Der Fluss aus Blut",
+            "vodType": "episode",
+            "duration": 63,
+            "mainGenre": "Drama",
+            "countries": [
+                "Irland",
+                "Kanada"
+            ],
+            "year": 2016,
+            "posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p12677459_e_h10_ab.jpg",
+            "posterNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p12677459_e_v8_ab.jpg",
+            "posterWideNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p12677459_e_h10_ab.jpg",
+            "scenes": [
+                "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p12677459_e_h10_ab.jpg"
+            ],
+            "ageRatingName": "Ab 12 Jahren (FSK)",
+            "ageRatingId": "FSK 12",
+            "seriesTitle": "Vikings",
+            "seasonNumber": 4,
+            "episodeNumber": 7,
+            "episodeCount": 20,
+            "partners": [
+                {
+                    "name": "Amazon",
+                    "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/910155be5b81e2d28c0a543d6c42af4571c17650.png"
+                },
+                {
+                    "name": "Sky On Demand",
+                    "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/3b535513543b56f3e783906c57b51982214dd7d5.png"
+                }
+            ],
+            "cluster": "vodSeries",
+            "sourceType": "vodPremium",
+            "category": "series",
+            "qualities": [
+                "SD",
+                "HD"
+            ],
+            "availableSince": "2018-05-31T02:00:00+0200",
+            "tags": []
+        },
+        {
+            "id": "groupType16Adult__pcon",
+            "type": "group",
+            "title": "Gesperrte Angebote",
+            "size": 8802,
+            "pcon": true
+        },
+        {
+            "id": "GN_EP020757620043",
+            "type": "vod",
+            "title": "Mit Axt und Schwert",
+            "vodType": "episode",
+            "duration": 63,
+            "mainGenre": "Drama",
+            "countries": [
+                "Irland",
+                "Kanada"
+            ],
+            "year": 2016,
+            "posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p12677622_e_h8_ac.jpg",
+            "posterNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p12677622_e_v8_ac.jpg",
+            "posterWideNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p12677622_e_h8_ac.jpg",
+            "scenes": [
+                "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p12677622_e_h8_ac.jpg"
+            ],
+            "ageRatingName": "Ab 12 Jahren (FSK)",
+            "ageRatingId": "FSK 12",
+            "seriesTitle": "Vikings",
+            "seasonNumber": 4,
+            "episodeNumber": 9,
+            "episodeCount": 20,
+            "partners": [
+                {
+                    "name": "Amazon",
+                    "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/910155be5b81e2d28c0a543d6c42af4571c17650.png"
+                },
+                {
+                    "name": "Sky On Demand",
+                    "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/3b535513543b56f3e783906c57b51982214dd7d5.png"
+                }
+            ],
+            "cluster": "vodSeries",
+            "sourceType": "vodPremium",
+            "category": "series",
+            "qualities": [
+                "SD",
+                "HD"
+            ],
+            "availableSince": "2018-05-31T02:00:00+0200",
+            "tags": []
+        },
+        {
+            "id": "GN_MV008276390000",
+            "type": "vod",
+            "title": "Die Tote aus der Schlucht",
+            "vodType": "movie",
+            "duration": 90,
+            "mainGenre": "Thriller",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2015,
+            "posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p12355036_i_h10_aa.jpg",
+            "posterNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p12355036_i_v8_aa.jpg",
+            "posterWideNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p12355036_i_h10_aa.jpg",
+            "scenes": [
+                "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p12355036_i_h10_aa.jpg"
+            ],
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "partners": [
+                {
+                    "name": "ZDF",
+                    "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/8fc05914bd0c13cd0aaa050b4c237d8627283c9c.png"
+                }
+            ],
+            "cluster": "vodOther",
+            "sourceType": "tvArchive",
+            "airtime": "2016-04-24T23:20:00+0200",
+            "category": "other",
+            "qualities": [],
+            "availableSince": "2018-07-30T10:00:00+0200",
+            "tags": []
+        },
+        {
+            "id": "GN_MV010221520000",
+            "type": "vod",
+            "title": "Einmal bitte alles",
+            "vodType": "movie",
+            "duration": 85,
+            "mainGenre": "Comedy",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2017,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p14372358_v_v8_aa.jpg",
+            "posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p14372358_v_h8_af.jpg",
+            "posterNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p14372358_i_v8_aa.jpg",
+            "posterWideNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p14372358_i_h10_aa.jpg",
+            "scenes": [
+                "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p14372358_i_h10_aa.jpg"
+            ],
+            "ageRatingName": "Ab 12 Jahren (FSK)",
+            "ageRatingId": "FSK 12",
+            "partners": [
+                {
+                    "name": "ARD",
+                    "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/06f1d97ae47009991387f8c1067eba584cfa6a46.png"
+                }
+            ],
+            "cluster": "vodMain",
+            "sourceType": "vodPremium",
+            "airtime": "2018-06-09T23:40:00+0200",
+            "category": "main",
+            "qualities": [],
+            "availableSince": "2018-06-09T23:40:00+0200",
+            "tags": []
+        },
+        {
+            "id": "GN_MV006272920000",
+            "type": "vod",
+            "title": "Love Is All You Need",
+            "vodType": "movie",
+            "duration": 116,
+            "mainGenre": "Komödie",
+            "countries": [
+                "Dänemark",
+                "Schweden",
+                "Italien",
+                "Frankreich",
+                "Deutschland"
+            ],
+            "year": 2012,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p9619930_v_v8_ak.jpg",
+            "posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p9619930_v_h10_ak.jpg",
+            "posterNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p9619930_i_v8_aa.jpg",
+            "posterWideNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p9619930_i_h10_aa.jpg",
+            "scenes": [
+                "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p9619930_i_h10_aa.jpg"
+            ],
+            "ageRatingName": "Ab 0 Jahren (FSK)",
+            "ageRatingId": "FSK 0",
+            "partners": [
+                {
+                    "name": "Amazon",
+                    "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/910155be5b81e2d28c0a543d6c42af4571c17650.png"
+                },
+                {
+                    "name": "Maxdome",
+                    "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/34dc487dada6dcfd0556e38de4a1857aa0fdb51e.png"
+                },
+                {
+                    "name": "Sky On Demand",
+                    "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/3b535513543b56f3e783906c57b51982214dd7d5.png"
+                }
+            ],
+            "cluster": "vodMain",
+            "sourceType": "vodPremium",
+            "category": "main",
+            "qualities": [
+                "SD",
+                "HD"
+            ],
+            "availableSince": "2013-07-28T00:00:00+0200",
+            "tags": []
+        },
+        {
+            "id": "GN_EP020757620076",
+            "type": "vod",
+            "title": "Der Außenseiter",
+            "vodType": "episode",
+            "duration": 60,
+            "mainGenre": "Drama",
+            "countries": [
+                "Irland",
+                "Kanada"
+            ],
+            "year": 2016,
+            "posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p13291137_e_h8_aa.jpg",
+            "posterNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p13291137_e_v8_aa.jpg",
+            "posterWideNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p13291137_e_h8_aa.jpg",
+            "scenes": [
+                "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p13291137_e_h8_aa.jpg"
+            ],
+            "ageRatingName": "Ab 12 Jahren (FSK)",
+            "ageRatingId": "FSK 12",
+            "seriesTitle": "Vikings",
+            "seasonNumber": 4,
+            "episodeNumber": 11,
+            "episodeCount": 20,
+            "partners": [
+                {
+                    "name": "Amazon",
+                    "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/910155be5b81e2d28c0a543d6c42af4571c17650.png"
+                },
+                {
+                    "name": "Sky On Demand",
+                    "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/3b535513543b56f3e783906c57b51982214dd7d5.png"
+                }
+            ],
+            "cluster": "vodSeries",
+            "sourceType": "vodPremium",
+            "category": "series",
+            "qualities": [
+                "SD",
+                "HD"
+            ],
+            "availableSince": "2018-05-31T02:00:00+0200",
+            "tags": []
+        },
+        {
+            "id": "GN_EP017395590016",
+            "type": "vod",
+            "title": "Eine teure Affäre",
+            "vodType": "episode",
+            "duration": 90,
+            "mainGenre": "Drama",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2013,
+            "posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p9977040_i_h11_aa.jpg",
+            "posterWideNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p9977040_i_h11_aa.jpg",
+            "scenes": [
+                "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p9977040_i_h11_aa.jpg"
+            ],
+            "ageRatingName": "Ab 6 Jahren (FSF)",
+            "ageRatingId": "FSF 6",
+            "seriesTitle": "Katie Fforde",
+            "partners": [
+                {
+                    "name": "ZDF",
+                    "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/8fc05914bd0c13cd0aaa050b4c237d8627283c9c.png"
+                }
+            ],
+            "cluster": "vodSeries",
+            "sourceType": "vodPremium",
+            "airtime": "2018-07-15T20:20:00+0200",
+            "category": "series",
+            "qualities": [],
+            "availableSince": "2018-07-14T10:00:00+0200",
+            "tags": []
+        },
+        {
+            "id": "GN_MV009673820000",
+            "type": "vod",
+            "title": "Kalt ist die Angst",
+            "vodType": "movie",
+            "duration": 90,
+            "mainGenre": "Thriller",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2017,
+            "posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p13630351_i_h8_ab.jpg",
+            "posterNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p13630351_i_v8_ab.jpg",
+            "posterWideNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p13630351_i_h8_ab.jpg",
+            "scenes": [
+                "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p13630351_i_h8_ab.jpg"
+            ],
+            "ageRatingName": "Ab 12 Jahren (FSK)",
+            "ageRatingId": "FSK 12",
+            "partners": [
+                {
+                    "name": "ARD",
+                    "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/06f1d97ae47009991387f8c1067eba584cfa6a46.png"
+                }
+            ],
+            "cluster": "vodOther",
+            "sourceType": "tvArchive",
+            "airtime": "2018-07-28T20:15:00+0200",
+            "category": "other",
+            "qualities": [],
+            "availableSince": "2018-07-29T10:01:45+0200",
+            "tags": []
+        },
+        {
+            "id": "GN_MV009953050000",
+            "type": "vod",
+            "title": "Verliebt in Amsterdam",
+            "vodType": "movie",
+            "duration": 90,
+            "mainGenre": "Romantik",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2017,
+            "posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p13998693_i_h8_ab.jpg",
+            "posterNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p13998693_i_v8_ab.jpg",
+            "posterWideNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p13998693_i_h8_ab.jpg",
+            "scenes": [
+                "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p13998693_i_h8_ab.jpg"
+            ],
+            "ageRatingName": "Ab 6 Jahren (FSK)",
+            "ageRatingId": "FSK 6",
+            "partners": [
+                {
+                    "name": "ARD",
+                    "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/06f1d97ae47009991387f8c1067eba584cfa6a46.png"
+                }
+            ],
+            "cluster": "vodOther",
+            "sourceType": "tvArchive",
+            "airtime": "2018-08-07T14:20:00+0200",
+            "category": "other",
+            "qualities": [],
+            "availableSince": "2018-08-07T14:20:00+0200",
+            "tags": []
+        },
+        {
+            "id": "GN_MV005948910000",
+            "type": "vod",
+            "title": "Türkisch für Anfänger",
+            "vodType": "movie",
+            "duration": 105,
+            "mainGenre": "Comedy",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2012,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p10866464_v_v8_as.jpg",
+            "posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p10866464_v_h10_aq.jpg",
+            "posterNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p10866464_i_v8_aa.jpg",
+            "posterWideNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p10866464_k_h10_aa.jpg",
+            "scenes": [
+                "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p10866464_i_h10_ab.jpg"
+            ],
+            "ageRatingName": "Ab 12 Jahren (FSK)",
+            "ageRatingId": "FSK 12",
+            "partners": [
+                {
+                    "name": "Arte +7",
+                    "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/89ce3a9f1f25279e3817dd930019c32a17715951.png"
+                }
+            ],
+            "cluster": "vodMain",
+            "sourceType": "vodPremium",
+            "airtime": "2018-08-05T22:23:41+0200",
+            "category": "main",
+            "qualities": [],
+            "availableSince": "2018-08-03T00:00:00+0200",
+            "tags": []
+        },
+        {
+            "id": "GN_MV005753950000",
+            "type": "vod",
+            "title": "Ein Reihenhaus steht selten alleine",
+            "vodType": "movie",
+            "duration": 90,
+            "mainGenre": "Comedy",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2013,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p10783760_v_v8_aa.jpg",
+            "posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p10783760_i_h12_aa.jpg",
+            "posterNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p10783760_i_v7_aa.jpg",
+            "posterWideNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p10783760_i_h12_aa.jpg",
+            "scenes": [],
+            "ageRatingName": "Keine Altersangabe",
+            "ageRatingId": "Unbekannt",
+            "partners": [
+                {
+                    "name": "ZDF",
+                    "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/8fc05914bd0c13cd0aaa050b4c237d8627283c9c.png"
+                }
+            ],
+            "cluster": "vodOther",
+            "sourceType": "tvArchive",
+            "airtime": "2018-05-13T21:45:00+0200",
+            "category": "other",
+            "qualities": [],
+            "availableSince": "2018-05-13T10:00:00+0200",
+            "tags": []
+        },
+        {
+            "id": "GN_EP016390660237",
+            "type": "vod",
+            "title": "Die Kinder der Agathe S.",
+            "vodType": "episode",
+            "duration": 55,
+            "mainGenre": "Krimi",
+            "countries": [
+                "Deutschland"
+            ],
+            "year": 2015,
+            "posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11552247_e_h12_aa.jpg",
+            "posterNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11552247_e_v7_aa.jpg",
+            "posterWideNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11552247_e_h12_aa.jpg",
+            "scenes": [
+                "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p490381_i_h10_ac.jpg"
+            ],
+            "ageRatingName": "Ab 12 Jahren (FSF)",
+            "ageRatingId": "FSF 12",
+            "seriesTitle": "SOKO 5113",
+            "seasonNumber": 40,
+            "episodeNumber": 22,
+            "episodeCount": 23,
+            "partners": [
+                {
+                    "name": "ZDF",
+                    "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/8fc05914bd0c13cd0aaa050b4c237d8627283c9c.png"
+                }
+            ],
+            "cluster": "vodSeries",
+            "sourceType": "vodPremium",
+            "airtime": "2018-08-06T18:00:00+0200",
+            "category": "series",
+            "qualities": [],
+            "availableSince": "2018-08-05T10:00:00+0200",
+            "tags": []
+        },
+        {
+            "id": "GN_EP017028330181",
+            "type": "vod",
+            "title": "Alte Wunden",
+            "vodType": "episode",
+            "duration": 90,
+            "mainGenre": "Drama",
+            "countries": [
+                "Deutschland",
+                "Österreich"
+            ],
+            "year": 2015,
+            "posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p15604426_e_h8_aa.jpg",
+            "posterNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p15604426_e_v8_aa.jpg",
+            "posterWideNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p15604426_e_h8_aa.jpg",
+            "scenes": [
+                "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p15604426_e_h8_aa.jpg"
+            ],
+            "ageRatingName": "Ab 12 Jahren (FSF)",
+            "ageRatingId": "FSF 12",
+            "seriesTitle": "Der Bergdoktor",
+            "seasonNumber": 8,
+            "episodeNumber": 2,
+            "partners": [
+                {
+                    "name": "ZDF",
+                    "logo": "http://epgpm-sl0.ver.sda.t-online.de/media/8fc05914bd0c13cd0aaa050b4c237d8627283c9c.png"
+                }
+            ],
+            "cluster": "vodSeries",
+            "sourceType": "vodPremium",
+            "airtime": "2016-07-17T20:15:00+0200",
+            "category": "series",
+            "qualities": [],
+            "availableSince": "2018-06-27T10:00:00+0200",
+            "tags": []
+        }
+    ]
+}

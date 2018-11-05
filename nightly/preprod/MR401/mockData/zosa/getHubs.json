@@ -1,0 +1,1836 @@
+[
+    {
+        "groups": [
+            {
+                "paneType": "tv",
+                "tiles": [
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000056165/0000056165_img_5577758_636190547710336747.jpg",
+                            "subtitle": "Themenreicher Polit-Krimi an, in und auf <br />der See &ndash; mit exklusivem EntertainTV-Interview",
+                            "claim": "Themenreicher Polit-Krimi an, in und auf <br />der See &ndash; mit exklusivem EntertainTV-Interview",
+                            "label": "Exklusiv",
+                            "title": "Mörderische Stille"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "targetId": "56074",
+                                "target": "editorial"
+                            },
+                            "name": "navigate"
+                        },
+                        "style": "folderLarge"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000056072/0000056072_img_5570592_636186909717211817.jpg",
+                            "subtitle": "Neue Folgen im Free-TV: Das passiert in Staffel <span style=\"letter-spacing:-.03em;\">1<\/span>0",
+                            "claim": "Neue Folgen im Free-TV: Das passiert in Staffel <span style=\"letter-spacing:-.03em;\">1<\/span>0",
+                            "title": "The Big Bang Theory"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "targetId": "56074",
+                                "target": "editorial"
+                            },
+                            "name": "navigate"
+                        },
+                        "style": "specialWide"
+                    },
+                    {
+                        "formattedContent": {
+                            "subtitle": "Die Pilotfolgen vieler Serien im Angebot",
+                            "claim": "Die Pilotfolgen vieler Serien im Angebot",
+                            "title": "Serien-special<br>bei Videoload"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "targetId": "56180",
+                                "target": "editorial"
+                            },
+                            "name": "navigate"
+                        },
+                        "style": "folderSmall"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000056150/0000056150_img_5577788_636190550807600455.jpg",
+                            "subtitle": "Orlando Bloom feiert runden Geburtstag",
+                            "claim": "Orlando Bloom feiert runden Geburtstag",
+                            "title": "Der schöne Abenteurer"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "targetId": "56169",
+                                "target": "editorial"
+                            },
+                            "name": "navigate"
+                        },
+                        "style": "folderVertical"
+                    }
+                ],
+                "title": "Aktuell"
+            },
+            {
+                "paneType": "tv",
+                "tiles": [
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000056250/0000056250_img_5623432_636193047828576236.jpg",
+                            "subtitle": "Kann die Deutsche <br />ihren Titel verteidigen?",
+                            "claim": "Kann die Deutsche <br />ihren Titel verteidigen?",
+                            "title": "Australian Open: Kerber will Sieg"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "targetId": "56252",
+                                "target": "editorial"
+                            },
+                            "name": "navigate"
+                        },
+                        "style": "folderVertical"
+                    },
+                    {
+                        "formattedContent": {
+                            "subtitle": "Detailseiten:<br>Wissen, was Sie erwartet",
+                            "claim": "Detailseiten:<br>Wissen, was Sie erwartet",
+                            "iconUrl": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000056091/0000056091_img_3704040_636186985103626890.png",
+                            "title": "&nbsp;Wussten Sie schon?"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "targetId": "50076",
+                                "target": "editorial"
+                            },
+                            "name": "navigate"
+                        },
+                        "style": "infoSmall"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000056213/0000056213_img_5608847_636192168915874844.jpg",
+                            "subtitle": "&bdquo;Ich bin ein Star &ndash; Holt mich hier raus!&ldquo;: Deutschland hat wieder Dschungelfieber",
+                            "claim": "&bdquo;Ich bin ein Star &ndash; Holt mich hier raus!&ldquo;: Deutschland hat wieder Dschungelfieber",
+                            "title": "Kakerlaken für Klamme Kandidaten"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "targetId": "56215",
+                                "target": "editorial"
+                            },
+                            "name": "navigate"
+                        },
+                        "style": "folderLarge"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000056344/0000056344_img_5662735_636198175937358741.jpg",
+                            "subtitle": "Jederzeit die Abenteuer von Benjamin Blümchen sehen",
+                            "claim": "Jederzeit die Abenteuer von Benjamin Blümchen sehen",
+                            "title": "Törööö! Der liebe Elefant ist da"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "targetId": "56346",
+                                "target": "editorial"
+                            },
+                            "name": "navigate"
+                        },
+                        "style": "specialWide"
+                    }
+                ],
+                "title": "Nachlese"
+            },
+            {
+                "paneType": "tv",
+                "tiles": [
+                    {
+                        "showPartnerLogo": false,
+                        "style": "folderLarge",
+                        "action": {
+                            "params": {
+                                "targetId": "33869",
+                                "target": "editorial"
+                            },
+                            "name": "navigate"
+                        },
+                        "formattedContent": {
+                            "backgroundUrl": "http://x3dlart.t-online.de/tucathosting/FlexDocumentReleaseImageHostingVolume_m1/LiveTvDiscovery/0000031451/0000031451_img_561321_635944240505980023.jpg",
+                            "subtitle": "Subheadline in W-Tile with Test Article No. 1",
+                            "claim": "Subheadline in W-Tile with Test Article No. 1",
+                            "title": "Headline Test Article No. 1"
+                        }
+                    },
+                    {
+                        "showPartnerLogo": false,
+                        "style": "specialWide",
+                        "action": {
+                            "params": {
+                                "targetId": "31856",
+                                "target": "editorial"
+                            },
+                            "name": "navigate"
+                        },
+                        "formattedContent": {
+                            "backgroundUrl": "http://x3dlart.t-online.de/tucathosting/FlexDocumentReleaseImageHostingVolume_m1/imagion-creative/0000031445/0000031445_img_599498_636117925021671677.jpg"
+                        }
+                    },
+                    {
+                        "showPartnerLogo": false,
+                        "style": "folderSmall",
+                        "action": {
+                            "params": {
+                                "targetId": "31857",
+                                "target": "editorial"
+                            },
+                            "name": "navigate"
+                        },
+                        "formattedContent": {
+                            "subtitle": "Subheadline in W-Tile with Test Article No. 3",
+                            "claim": "Subheadline in W-Tile with Test Article No. 3",
+                            "iconUrl": "http://x3dlart.t-online.de/tucathosting/FlexDocumentReleaseImageHostingVolume_m1/LiveTvDiscovery/0000031447/0000031447_img_582002_636028113043547581.png",
+                            "title": "Headline Test Article No. 3"
+                        }
+                    },
+                    {
+                        "showPartnerLogo": false,
+                        "style": "infoSmall",
+                        "action": {
+                            "params": {
+                                "targetId": "34071",
+                                "target": "editorial"
+                            },
+                            "name": "navigate"
+                        },
+                        "formattedContent": {
+                            "backgroundUrl": "http://x3dlart.t-online.de/tucathosting/FlexDocumentReleaseImageHostingVolume_m1/LiveTvDiscovery/0000033584/0000033584_img_614833_636264597334371045.jpg",
+                            "title": "Final-Check <\\/br>S-Tile"
+                        }
+                    },
+                    {
+                        "showPartnerLogo": false,
+                        "startTime": "2017-08-06T23:25:00.000Z",
+                        "endTime": "2017-08-07T01:25:00.000Z",
+                        "contentId": "0042ee60",
+                        "style": "infoSmall",
+                        "channelId": "prodstreams-02_055_arte",
+                        "action": {
+                            "params": {
+                                "targetId": "34084",
+                                "target": "editorial"
+                            },
+                            "name": "navigate"
+                        },
+                        "formattedContent": {
+                            "backgroundUrl": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p29120_v_h11_aa.jpg",
+                            "title": "24 Hour Party People"
+                        }
+                    }
+                ],
+                "title": "Test Group"
+            }
+        ],
+        "hubType": "HomeHubPresenter",
+        "id": "56327"
+    },
+    {
+        "groups": [
+            {
+                "paneType": "tv",
+                "tiles": [
+                    {
+                        "startTime": "2017-01-16T11:00:00.000Z",
+                        "endTime": "2017-01-16T13:00:00.000Z",
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/ea5c93cfae66dae318cbf4eda9201ad02e0a4c63.jpg",
+                            "genre": "Nachrichten",
+                            "title": "Punkt 12 - Das RTL-Mittagsjournal",
+                            "label": "NEU"
+                        },
+                        "showPartnerLogo": false,
+                        "audienceRatio": 16,
+                        "action": {
+                            "params": {
+                                "target": "detail"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "006c19ca",
+                        "channelId": "rtl",
+                        "style": "singleLarge"
+                    },
+                    {
+                        "startTime": "2017-01-16T11:00:00.000Z",
+                        "endTime": "2017-01-16T11:15:00.000Z",
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/gracenote/p10414016_b_h10_aa.jpg",
+                            "genre": "Nachrichten",
+                            "title": "Tagesschau"
+                        },
+                        "showPartnerLogo": false,
+                        "audienceRatio": 13,
+                        "action": {
+                            "params": {
+                                "target": "detail"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "006b1cf9",
+                        "channelId": "das-erste",
+                        "style": "singleWide"
+                    },
+                    {
+                        "startTime": "2017-01-16T11:10:00.000Z",
+                        "endTime": "2017-01-16T12:00:00.000Z",
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/gracenote/p9562824_b_h10_ab.jpg",
+                            "genre": "Magazin",
+                            "title": "drehscheibe"
+                        },
+                        "showPartnerLogo": false,
+                        "audienceRatio": 9,
+                        "action": {
+                            "params": {
+                                "target": "detail"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "006c3224",
+                        "channelId": "zdf",
+                        "style": "singleVertical"
+                    },
+                    {
+                        "startTime": "2017-01-16T10:00:00.000Z",
+                        "endTime": "2017-01-16T18:20:00.000Z",
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/gracenote/p10414016_b_h10_aa.jpg",
+                            "claim": "Aktuelle Sendungen im TV.",
+                            "label": "Im Überblick",
+                            "title": "Jetzt Live"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "targetId": "44432",
+                                "target": "catalogue"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "006b1b22",
+                        "channelId": "tagesschau24",
+                        "style": "folderSmall"
+                    }
+                ],
+                "title": "Jetzt im TV"
+            },
+            {
+                "paneType": "tv",
+                "tiles": [
+                    {
+                        "startTime": "2017-01-16T13:15:00.000Z",
+                        "endTime": "2017-01-16T14:00:00.000Z",
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/gracenote/p9562465_i_h10_ab.jpg",
+                            "genre": "Show",
+                            "title": "Die Küchenschlacht"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "target": "detail"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "006c3227",
+                        "channelId": "zdf",
+                        "style": "singleLarge"
+                    },
+                    {
+                        "startTime": "2017-01-16T15:10:00.000Z",
+                        "endTime": "2017-01-16T16:00:00.000Z",
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/gracenote/p11392594_e_h10_aa.jpg",
+                            "genre": "Krimi",
+                            "title": "SOKO Kitzbühel"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "target": "detail"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "006c322b",
+                        "channelId": "zdf",
+                        "style": "singleWide"
+                    },
+                    {
+                        "startTime": "2017-01-16T19:15:00.000Z",
+                        "endTime": "2017-01-16T20:50:00.000Z",
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/gracenote/p13555756_i_h10_aa.jpg",
+                            "claim": "Die besten Sendungen die heute Abend laufen.",
+                            "title": "HEUTE AB 20:15"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "targetId": "44431",
+                                "target": "catalogue"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "006c3233",
+                        "channelId": "zdf",
+                        "style": "folderVertical"
+                    },
+                    {
+                        "formattedContent": {
+                            "claim": "Aktuelles aus unseren Mediatheken.",
+                            "title": "SENDUNG VERPASST?"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "externalUrl": "TV_VOD_DG_SG_Sendung_Verpasst",
+                                "target": "vodCatalogue"
+                            },
+                            "name": "navigate"
+                        },
+                        "style": "folderSmall"
+                    }
+                ],
+                "title": "Tipps der Redaktion"
+            },
+            {
+                "paneType": "categories",
+                "tiles": [
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000044291/0000044291_img_4244228_635923612906139033.jpg",
+                            "title": "SPIELFILME"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "targetId": "44453",
+                                "target": "catalogue"
+                            },
+                            "name": "navigate"
+                        },
+                        "style": "categoryWide"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000044294/0000044294_img_4244229_635923613472578664.jpg",
+                            "title": "INFO & DOKU"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "targetId": "45399",
+                                "target": "catalogue"
+                            },
+                            "name": "navigate"
+                        },
+                        "style": "categoryWide"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000044292/0000044292_img_4244231_635923614131058885.jpg",
+                            "title": "SPORT"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "targetId": "45379",
+                                "target": "catalogue"
+                            },
+                            "name": "navigate"
+                        },
+                        "style": "categoryWide"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000044293/0000044293_img_4244232_635923614724174687.jpg",
+                            "title": "SERIEN"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "targetId": "45387",
+                                "target": "catalogue"
+                            },
+                            "name": "navigate"
+                        },
+                        "style": "categoryWide"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000044298/0000044298_img_4244240_635923615278446240.jpg",
+                            "title": "SHOWS"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "targetId": "45525",
+                                "target": "catalogue"
+                            },
+                            "name": "navigate"
+                        },
+                        "style": "categoryWide"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000044295/0000044295_img_4244242_635923615866726011.jpg",
+                            "title": "MUSIK"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "targetId": "45402",
+                                "target": "catalogue"
+                            },
+                            "name": "navigate"
+                        },
+                        "style": "categoryWide"
+                    }
+                ],
+                "title": "GENRES"
+            },
+            {
+                "paneType": "tv",
+                "tiles": [
+                    {
+                        "startTime": "2017-01-16T11:00:00.000Z",
+                        "endTime": "2017-01-16T11:10:00.000Z",
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/gracenote/p13007133_e_h10_aa.jpg",
+                            "genre": "Abenteuer",
+                            "title": "Die Dschungelhelden"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "target": "detail"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "006c53f3",
+                        "channelId": "boomerang",
+                        "style": "singleVertical"
+                    },
+                    {
+                        "formattedContent": {
+                            "subtitle": "Restart: Einfach zurück zum Anfang springen",
+                            "claim": "Restart: Einfach zurück zum Anfang springen",
+                            "iconUrl": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000049324/0000049324_img_3704040_635924152290998399.png",
+                            "title": "&nbsp;Wussten Sie schon?"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "targetId": "49321",
+                                "target": "editorial"
+                            },
+                            "name": "navigate"
+                        },
+                        "style": "infoSmall"
+                    },
+                    {
+                        "startTime": "2017-01-16T11:42:22.000Z",
+                        "endTime": "2017-01-16T13:41:56.000Z",
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/gracenote/p2474_i_h12_aa.jpg",
+                            "subtitle": "Ihre Film-Highlights mit Big TV",
+                            "claim": "Ihre Film-Highlights mit Big TV",
+                            "title": "Big TV"
+                        },
+                        "showPartnerLogo": true,
+                        "action": {
+                            "params": {
+                                "targetId": "47644",
+                                "target": "catalogue"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "006cb328",
+                        "channelId": "kabel-1-classics",
+                        "style": "folderLarge"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000044224/0000044224_img_4244267_635923619946308162.jpg",
+                            "price": "6,95 &euro;",
+                            "claim": "Jetzt 25 Sender in HD sichern.",
+                            "title": "HD Start"
+                        },
+                        "showPartnerLogo": true,
+                        "action": {
+                            "params": {
+                                "externalUrl": "MehrTV?scenario=detail&package=45782&from=discoveryhub",
+                                "target": "app"
+                            },
+                            "name": "navigate"
+                        },
+                        "style": "folderWide"
+                    }
+                ],
+                "title": "MEHR"
+            }
+        ],
+        "hubType": "TvHubPresenter",
+        "id": "44456"
+    },
+    {
+        "groups": [
+            {
+                "paneType": "covers",
+                "tiles": [
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/gracenote/p12541171_v_v8_aa.jpg",
+                            "partners": [
+                                {
+                                    "name": "Videoload",
+                                    "logo": "http://programm-manager.telekom.de/media/ce817f4317b030a9a67a31f7482b4a93b9b3e111.png"
+                                }
+                            ],
+                            "label": "label"
+                        },
+                        "showPartnerLogo": true,
+                        "action": {
+                            "params": {
+                                "target": "voddetail"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "GN_MV009347720000",
+                        "style": "singleLarge"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/gracenote/p12625622_i_v8_aa.jpg",
+                            "partners": [
+                                {
+                                    "name": "ARD Mediathek",
+                                    "logo": "http://programm-manager.telekom.de/media/06f1d97ae47009991387f8c1067eba584cfa6a46.png"
+                                }
+                            ],
+                            "genre": "Comedy",
+                            "runtime": 90,
+                            "label": "Fernsehfilm",
+                            "title": "Frau Pfarrer & Herr Priester"
+                        },
+                        "showPartnerLogo": true,
+                        "action": {
+                            "params": {
+                                "target": "voddetail"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "GN_MV008597520000",
+                        "style": "coverWide"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000052700/0000052700_img_5672368_636201579375951572.jpg",
+                            "subtitle": "Jetzt Staffel 1-5 reduziert!",
+                            "claim": "Jetzt Staffel 1-5 reduziert!",
+                            "label": "SPECIAL",
+                            "title": "Homeland Staffel 6"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "externalUrl": "TV_VOD_DG_Homeland_Flashsale",
+                                "target": "vodCatalogue"
+                            },
+                            "name": "navigate"
+                        },
+                        "style": "folderWide"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/gracenote/p12587950_v_v8_ak.jpg",
+                            "partners": [
+                                {
+                                    "name": "Videoload",
+                                    "logo": "http://programm-manager.telekom.de/media/ce817f4317b030a9a67a31f7482b4a93b9b3e111.png"
+                                }
+                            ],
+                            "genre": "Action",
+                            "runtime": 99,
+                            "title": "Mechanic: Resurrection"
+                        },
+                        "showPartnerLogo": true,
+                        "action": {
+                            "params": {
+                                "target": "voddetail"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "GN_MV009254890000",
+                        "style": "coverSmall"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/gracenote/p10975296_v_v8_ad.jpg",
+                            "partners": [
+                                {
+                                    "name": "Sky On Demand",
+                                    "logo": "http://programm-manager.telekom.de/media/3b535513543b56f3e783906c57b51982214dd7d5.png"
+                                },
+                                {
+                                    "name": "Videoload",
+                                    "logo": "http://programm-manager.telekom.de/media/ce817f4317b030a9a67a31f7482b4a93b9b3e111.png"
+                                }
+                            ]
+                        },
+                        "showPartnerLogo": true,
+                        "action": {
+                            "params": {
+                                "target": "voddetail"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "GN_MV008536580000",
+                        "style": "coverSmall"
+                    }
+                ],
+                "title": "Film-Tipps"
+            },
+            {
+                "paneType": "covers",
+                "tiles": [
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/gracenote/p13572773_b_v8_aa.jpg",
+                            "partners": [
+                                {
+                                    "name": "Videoload",
+                                    "logo": "http://programm-manager.telekom.de/media/ce817f4317b030a9a67a31f7482b4a93b9b3e111.png"
+                                }
+                            ]
+                        },
+                        "showPartnerLogo": true,
+                        "action": {
+                            "params": {
+                                "target": "voddetail"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "GN_SEASON_13572773_EN",
+                        "style": "singleLarge"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000056352/0000056352_img_5665957_636198976606808639.jpg",
+                            "subtitle": "mit Michael Weatherly",
+                            "claim": "mit Michael Weatherly",
+                            "label": "Tipp",
+                            "title": "Neue Serie \"BULL\"",
+                            "contentType": "series"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "target": "voddetail"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "GN_SERIES_12909993",
+                        "style": "folderWide"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/gracenote/p10871073_i_v8_aa.jpg",
+                            "partners": [
+                                {
+                                    "name": "ARD Mediathek",
+                                    "logo": "http://programm-manager.telekom.de/media/06f1d97ae47009991387f8c1067eba584cfa6a46.png"
+                                }
+                            ],
+                            "genre": "Krimi",
+                            "label": "Fernsehserie",
+                            "title": "Kripo live"
+                        },
+                        "showPartnerLogo": true,
+                        "action": {
+                            "params": {
+                                "target": "voddetail"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "GN_SERIES_10871073",
+                        "style": "coverWide"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/gracenote/p12912842_b_v8_aa.jpg",
+                            "partners": [
+                                {
+                                    "name": "Videoload",
+                                    "logo": "http://programm-manager.telekom.de/media/ce817f4317b030a9a67a31f7482b4a93b9b3e111.png"
+                                }
+                            ],
+                            "genre": "Sitcom",
+                            "season": 10,
+                            "title": "The Big Bang Theory"
+                        },
+                        "showPartnerLogo": true,
+                        "action": {
+                            "params": {
+                                "target": "voddetail"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "GN_SEASON_12912842_DE",
+                        "style": "coverSmall"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/gracenote/p11858069_b_v8_aa.jpg",
+                            "partners": [
+                                {
+                                    "name": "Sky On Demand",
+                                    "logo": "http://programm-manager.telekom.de/media/3b535513543b56f3e783906c57b51982214dd7d5.png"
+                                }
+                            ]
+                        },
+                        "showPartnerLogo": true,
+                        "action": {
+                            "params": {
+                                "target": "voddetail"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "GN_SEASON_11858069_DE",
+                        "style": "coverSmall"
+                    }
+                ],
+                "title": "Serien-Tipps"
+            },
+            {
+                "paneType": "tv",
+                "tiles": [
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/gracenote/p10910944_i_h10_aa.jpg",
+                            "partners": [
+                                {
+                                    "name": "ARD Mediathek",
+                                    "logo": "http://programm-manager.telekom.de/media/06f1d97ae47009991387f8c1067eba584cfa6a46.png"
+                                }
+                            ],
+                            "genre": "Show",
+                            "title": "Bingo! - Die Umweltlotterie"
+                        },
+                        "showPartnerLogo": true,
+                        "action": {
+                            "params": {
+                                "target": "voddetail"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "GN_SERIES_10910944",
+                        "style": "singleLarge"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/gracenote/p11647628_i_h12_aa.jpg",
+                            "drama": "Drama Platzhalter",
+                            "partners": [
+                                {
+                                    "name": "ARD Mediathek",
+                                    "logo": "http://programm-manager.telekom.de/media/06f1d97ae47009991387f8c1067eba584cfa6a46.png"
+                                }
+                            ],
+                            "genre": "Dokumentation",
+                            "runtime": 75,
+                            "title": "Ausgerechnet Bananen"
+                        },
+                        "showPartnerLogo": true,
+                        "action": {
+                            "params": {
+                                "target": "voddetail"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "GN_MV007418220000",
+                        "style": "singleWide"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/gracenote/p8869120_i_h10_aa.jpg",
+                            "drama": "Drama Platzhalter",
+                            "partners": [
+                                {
+                                    "name": "7TV",
+                                    "logo": "http://programm-manager.telekom.de/media/4c165a6936c8e37a2a3723bb25093b07b1773318.png"
+                                }
+                            ],
+                            "genre": "Reality",
+                            "title": "Ink Master: Tattoo Champion USA"
+                        },
+                        "showPartnerLogo": true,
+                        "action": {
+                            "params": {
+                                "target": "voddetail"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "GN_SERIES_8869120",
+                        "style": "singleVertical"
+                    },
+                    {
+                        "formattedContent": {
+                            "claim": "Ausgewählte Serien und Sendungen",
+                            "label": "Kostenlos",
+                            "title": "Entertain Selection"
+                        },
+                        "showPartnerLogo": true,
+                        "action": {
+                            "params": {
+                                "externalUrl": "DG_TV_VoD_App_EntertainSelection",
+                                "target": "vodCatalogue"
+                            },
+                            "name": "navigate"
+                        },
+                        "style": "folderSmall"
+                    }
+                ],
+                "title": "Sendungs-Tipps"
+            },
+            {
+                "paneType": "tv",
+                "tiles": [
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000051540/0000051540_img_5538665_636177388841960197.png",
+                            "claim": "Romantisch und verwunschen. Lassen Sie sich verzaubern.",
+                            "title": "Kostenlose",
+                            "genre": "Genre"
+                        },
+                        "showPartnerLogo": true,
+                        "action": {
+                            "params": {
+                                "externalUrl": "APP00210-ARDMediathek_Mrchen",
+                                "target": "app"
+                            },
+                            "name": "navigate"
+                        },
+                        "style": "folderHuge"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000051730/0000051730_img_5666658_636199116716029272.jpg",
+                            "claim": "Die besten Filme, Serien und Dokus der Pay-TV Sender",
+                            "title": "TV Paket     auf Abruf"
+                        },
+                        "showPartnerLogo": true,
+                        "action": {
+                            "params": {
+                                "externalUrl": "DG_TV_VOD_TEC_SG_TV-Paket_Big-TV",
+                                "target": "vodCatalogue"
+                            },
+                            "name": "navigate"
+                        },
+                        "style": "folderHuge"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000051408/0000051408_img_5543062_636178199767734385.jpg",
+                            "claim": "Mord mit Aussicht: Staffel 3 und viele weitere Filme jetzt kostenlos.",
+                            "title": "ENTERTAIN SELECTION"
+                        },
+                        "showPartnerLogo": true,
+                        "action": {
+                            "params": {
+                                "externalUrl": "EntertainSelection",
+                                "target": "app"
+                            },
+                            "name": "navigate"
+                        },
+                        "style": "folderHuge"
+                    }
+                ],
+                "title": "Aktionen"
+            }
+        ],
+        "hubType": "VideoHubPresenter",
+        "id": "44426"
+    },
+    {
+        "hubType": "MyContentHubPresenter",
+        "id": "44440"
+    },
+    {
+        "groups": [
+            {
+                "paneType": "tvpromo",
+                "tiles": [
+                    {
+                        "formattedContent": {
+                            "title": "American<br>Hustle",
+                            "claim": "Claim",
+                            "label": "Label",
+                            "genre": "Genre",
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/gracenote/p22102_v_v8_an.jpg",
+                            "partners": [
+                                {
+                                    "name": "Sky On Demand",
+                                    "logo": "http://programm-manager.telekom.de/media/3b535513543b56f3e783906c57b51982214dd7d5.png"
+                                }
+                            ],
+                            "contentType": "movie"
+                        },
+                        "showPartnerLogo": true,
+                        "action": {
+                            "params": {
+                                "target": "voddetail"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "GN_MV006895780000",
+                        "style": "singleHuge"
+                    },
+                    {
+                        "formattedContent": {
+                            "claim": "Unterhaltung für die ganz Kleinen.",
+                            "label": "ON DEMAND",
+                            "title": "AB 0 Jahren"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "externalUrl": "TV_VOD_DG_SG_Kids_Ab_0",
+                                "target": "vodCatalogue"
+                            },
+                            "name": "navigate"
+                        },
+                        "style": "folderSmall"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/gracenote/p10869475_i_h11_aa.jpg",
+                            "genre": "Kinder",
+                            "label": "MEISTGESEHEN",
+                            "title": "Unser Sandmännchen"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "target": "voddetail"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "GN_SERIES_10869475",
+                        "style": "singleVertical"
+                    },
+                    {
+                        "formattedContent": {
+                            "claim": "Filme mit Prädikat",
+                            "label": "Tipp",
+                            "title": "Besonders Wertvoll"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "externalUrl": "TV_VOD_DG_Special_FBW_besonders_wertvoll_Ab_0_Jahre",
+                                "target": "vodCatalogue"
+                            },
+                            "name": "navigate"
+                        },
+                        "style": "folderSmall"
+                    },
+                    {
+                        "startTime": "2017-01-16T10:50:00.000Z",
+                        "endTime": "2017-01-16T11:10:00.000Z",
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/16_9_87bca6210d973769150282a2e002f7f6f215a238.jpg",
+                            "genre": "Abenteuer",
+                            "label": "TV",
+                            "title": "5 Freunde - Für alle Fälle"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "target": "detail"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "006c19c5",
+                        "channelId": "super-rtl",
+                        "style": "singleVertical"
+                    }
+                ],
+                "title": "AB 0 JAHREN"
+            },
+            {
+                "paneType": "tv",
+                "tiles": [
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/gracenote/p10025854_i_h10_aa.jpg",
+                            "partners": [
+                                {
+                                    "name": "Videoload",
+                                    "logo": "http://programm-manager.telekom.de/media/ce817f4317b030a9a67a31f7482b4a93b9b3e111.png"
+                                }
+                            ],
+                            "genre": "Kinder",
+                            "runtime": 81,
+                            "title": "Super Buddies",
+                            "contentType": "movie"
+                        },
+                        "showPartnerLogo": true,
+                        "action": {
+                            "params": {
+                                "target": "voddetail"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "GN_MV006103710000",
+                        "style": "singleLarge"
+                    },
+                    {
+                        "startTime": "2017-01-16T12:40:00.000Z",
+                        "endTime": "2017-01-16T13:10:00.000Z",
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/gracenote/p11163628_e_h10_aa.jpg",
+                            "genre": "Krimi",
+                            "startTime": "2017-01-16T13:40:00+0100",
+                            "label": "TV",
+                            "title": "Die Pfefferkörner"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "target": "detail"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "006c31cf",
+                        "channelId": "kika",
+                        "style": "singleWide"
+                    },
+                    {
+                        "formattedContent": {
+                            "claim": "Unterhaltung für die Kleinen.",
+                            "label": "On Demand",
+                            "title": "AB 6 Jahren"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "externalUrl": "TV_VOD_DG_SG_Kids_Ab_6",
+                                "target": "vodCatalogue"
+                            },
+                            "name": "navigate"
+                        },
+                        "style": "folderSmall"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/gracenote/p11096416_i_h10_aa.jpg",
+                            "genre": "Kinder",
+                            "label": "MEISTGESEHEN",
+                            "title": "CheXperiment"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "target": "voddetail"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "GN_SERIES_11096416",
+                        "style": "singleVertical"
+                    }
+                ],
+                "title": "AB 6 JAHREN"
+            },
+            {
+                "paneType": "tv",
+                "tiles": [
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/gracenote/p9906530_i_h10_aa.jpg",
+                            "claim": "Ausgewählte Serien und Sendungen für Kinder",
+                            "label": "Kostenlos",
+                            "title": "Entertain Selection"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "externalUrl": "TV_VOD_DG_UG_WL_Kinder",
+                                "target": "vodCatalogue"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "GN_SERIES_9906530",
+                        "style": "folderVertical"
+                    },
+                    {
+                        "formattedContent": {
+                            "claim": "Altersbeschränkung richtig einstellen.",
+                            "label": "Information",
+                            "title": "Schutz für Kinder"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "targetId": "50517",
+                                "target": "homeCatalogue"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "GN_MV009156230000",
+                        "style": "folderSmall"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/gracenote/p9524260_e_h11_ac.jpg",
+                            "partners": [
+                                {
+                                    "name": "Disney Channel",
+                                    "logo": "http://programm-manager.telekom.de/media/7f1d0c009e42049b5fb119ff389f888cbb0718c2.png"
+                                }
+                            ],
+                            "genre": "Kinder",
+                            "runtime": 24,
+                            "label": "TV-Mediatheken",
+                            "title": "Ein neues Schuljahr"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "target": "voddetail"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "GN_EP019684240002",
+                        "style": "singleLarge"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://dlart.t-online.de/WUCATHosting01/FlexDocumentReleaseImageHostingVolume_m1/NGTV_Discovery_Hub/0000044227/0000044227_img_3702211_635780767347080717.png",
+                            "price": "6,95 &euro;",
+                            "claim": "Lustige und spannende Zusatzkanäle für Kinder.",
+                            "title": "TV-PAKET KINDER"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "externalUrl": "MehrTV?scenario=detail&package=45784&from=discoveryhub",
+                                "target": "app"
+                            },
+                            "name": "navigate"
+                        },
+                        "style": "folderWide"
+                    }
+                ],
+                "title": "MEHR"
+            }
+        ],
+        "hubType": "ChildrenHubPresenter",
+        "id": "44439"
+    },
+    {
+        "groups": [
+            {
+                "paneType": "apps",
+                "tiles": [
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/597a8aa9908891846e646a4f9bc4ffb2b5716174.png"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "externalUrl": "7TV",
+                                "target": "app"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "7TV",
+                        "style": "appSmall"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/d07e3bfab0e8b6110d89d956cb7663ba70765552.png"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "externalUrl": "APP00168-Ampya",
+                                "target": "app"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "APP00168-Ampya",
+                        "style": "appSmall"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/b4320840435f3820448ce6acaeafda0f05422f76.png"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "externalUrl": "ARDMediathek",
+                                "target": "app"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "ARDMediathek",
+                        "style": "appSmall"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/cfdcbe1197f833e397dfd346fb33952558943d1c.png"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "externalUrl": "APP00173-ARTE7",
+                                "target": "app"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "APP00173-ARTE7",
+                        "style": "appSmall"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/eb65c9cb1bcf93645a3fc19acbf8e8cf6300fa9f.png"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "externalUrl": "APP00170-Couchplay",
+                                "target": "app"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "APP00170-Couchplay",
+                        "style": "appSmall"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/ba070c4ec87e426096ed42a42f98f6becbf0e24e.png"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "targetId": "45599",
+                                "target": "editorial"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "iBuLi",
+                        "style": "appSmall"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/ff632c8a2737de85c89eda3a38b3c58b1d0abca0.png"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "externalUrl": "APP00161-MagentaCLOUD",
+                                "target": "app"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "APP00161-MagentaCLOUD",
+                        "style": "appSmall"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/67743b66aec50291d41b36d3703f98c361842be3.png"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "externalUrl": "maxdome",
+                                "target": "app"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "maxdome",
+                        "style": "appSmall"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/7364a00b64d8d5d509a85ecfba8e10ea8c9de05b.jpeg"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "externalUrl": "APP00169-Netzkino",
+                                "target": "app"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "APP00169-Netzkino",
+                        "style": "appSmall"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/7d0dad096ec403376397db3d44bef3fc11888fdc.png"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "externalUrl": "Webradio",
+                                "target": "app"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "Webradio",
+                        "style": "appSmall"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/7900f819a67f02fc1465a8e6542db4afd4c96c10.png"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "externalUrl": "Sky",
+                                "target": "app"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "Sky",
+                        "style": "appSmall"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/813211e534f990eda849a8f0e103970a1a53ec13.png"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "externalUrl": "APP00195-TelekomEishockey",
+                                "target": "app"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "APP00195-TelekomEishockey",
+                        "style": "appSmall"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/559a8f42dbd954f0e6b1f00e67487fabd4d7045e.png"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "externalUrl": "APP00175-TVNOW",
+                                "target": "app"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "APP00175-TVNOW",
+                        "style": "appSmall"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/343bc027c9cfaed28681037508dc2348825b9036.png"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "externalUrl": "Videoload",
+                                "target": "app"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "Videoload",
+                        "style": "appSmall"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/0ac06ebe9a01b9acc4d81cdeec4d4d45837ef6d1.png"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "externalUrl": "APP00171-Wettercom",
+                                "target": "app"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "APP00171-Wettercom",
+                        "style": "appSmall"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/f875b3a4749896a34f7924be5706ba2c861ad730.png"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "externalUrl": "Youtube",
+                                "target": "app"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "Youtube",
+                        "style": "appSmall"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/d2597e84398a2c22ba235cc8e84da09177b58602.png"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "externalUrl": "ZDFMediathek",
+                                "target": "app"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "ZDFMediathek",
+                        "style": "appSmall"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/0ac06ebe9a01b9acc4d81cdeec4d4d45837ef6d1.png"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "externalUrl": "APP00171-Wettercom",
+                                "target": "app"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "APP00171-Wettercom",
+                        "style": "appSmall"
+                    }
+                ],
+                "title": "A BIS Z"
+            },
+            {
+                "paneType": "apps",
+                "tiles": [
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/f875b3a4749896a34f7924be5706ba2c861ad730.png"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "externalUrl": "Youtube",
+                                "target": "app"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "Youtube",
+                        "style": "appSmall"
+                    },
+                    {
+                        "formattedContent": {
+                            "backgroundUrl": "http://programm-manager.telekom.de/media/d2597e84398a2c22ba235cc8e84da09177b58602.png"
+                        },
+                        "showPartnerLogo": false,
+                        "action": {
+                            "params": {
+                                "externalUrl": "ZDFMediathek",
+                                "target": "app"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "ZDFMediathek",
+                        "style": "appSmall"
+                    }
+                ],
+                "title": "A BIS Z"
+            }
+        ],
+        "hubType": "AppsHubPresenter",
+        "id": "44442"
+    },
+    {
+        "groups": [
+            {
+                "tiles": [
+                    {
+                        "action": {
+                            "name": "navigate",
+                            "params": {
+                                "target": "voddetail"
+                            }
+                        },
+                        "formattedContent": {
+                            "backgroundUrl": "http://x3dlart.t-online.de/tucathosting/FlexDocumentReleaseImageHostingVolume_m1/LiveTvDiscovery/0000033905/0000033905_img_629449_636391012334900296.jpg",
+                            "serialNumber": "9",
+                            "contentId": "008a5fd4",
+                            "daytimeEnd": "17:55",
+                            "textline1": "Winter is coming...",
+                            //"textline1": "Ich bin ein <br> toller Typ !!",
+                            "textline2": "7. Staffel von Game Of thrones jetzt ansehen!",
+                            "daytimeStart": "09:00",
+                            "displayDuration": "25",
+                            "displayCount": "100",
+                            "disableChannel": "pro7;pro7-fun;pro7-maxx;sat.1;sat.1-bayern;sat.1-emotions;sat.1-gold;sat.1-hh-sh;sat.1-nds-bremen;sat.1-nrw;sat.1-rhlpf-hessen;kabel-1;kabel-1-classics;KID00773-kabeleinsDoku;sixx;n24;KID00772-N24Doku",
+                            "startTime": "2017-09-01T18:00:00+02:00",
+                            "endTime": "2017-12-20T16:00:00+02:00",
+                            "campaignName": "Magenta Serien"
+                        },
+                        "showPartnerLogo": false,
+                        "contentId": "GN_MV006309970000",
+                        "style": "singleLarge"
+                    }
+                ],
+                "paneType": "tv",
+                "title": "Interstitial Entertain TV"
+            }
+        ],
+        "id": "33903"
+    },
+
+    {
+        "hubType": "TvHubPresenter",
+        "groups": [
+            {
+                "paneType": "tv",
+                "tiles": [
+                    {
+                        "action": {
+                            "params": {
+                                "target": "detail"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "00490955",
+                        "style": "singleLarge",
+                        "channelId": "prodstreams-09_260_auto-motor-und-sport",
+                        "startTime": "2017-10-19T16:55:02.000Z",
+                        "endTime": "2017-10-19T17:20:43.000Z",
+                        "showPartnerLogo": true,
+                        "formattedContent": {
+                            "backgroundUrl": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote_genres/g53_h10_aa.jpg",
+                            "genre": "Sport",
+                            "ageRatingId": "Unbekannt",
+                            "title": "NASCAR Whelen Euro Series 2017",
+                            "contentType": "tvBroadcast"
+                        }
+                    },
+                    {
+                        "action": {
+                            "params": {
+                                "target": "detail"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "0049095a",
+                        "style": "singleWide",
+                        "channelId": "prodstreams-09_260_auto-motor-und-sport",
+                        "startTime": "2017-10-19T18:44:43.000Z",
+                        "endTime": "2017-10-19T19:13:26.000Z",
+                        "showPartnerLogo": true,
+                        "formattedContent": {
+                            "backgroundUrl": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote_genres/g150_h10_aa.jpg",
+                            "genre": "Sport",
+                            "ageRatingId": "Unbekannt",
+                            "title": "Meilensteine",
+                            "contentType": "tvBroadcast"
+                        }
+                    },
+                    {
+                        "action": {
+                            "params": {
+                                "target": "detail"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "00493fc5",
+                        "style": "singleVertical",
+                        "channelId": "prodstreams-09_260_auto-motor-und-sport",
+                        "startTime": "2017-10-19T19:24:27.000Z",
+                        "endTime": "2017-10-19T19:29:50.000Z",
+                        "showPartnerLogo": false,
+                        "formattedContent": {
+                            "backgroundUrl": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote_genres/g150_h10_aa.jpg",
+                            "genre": "Sport",
+                            "ageRatingId": "Unbekannt",
+                            "title": "Vorfahrt Kia Stonic",
+                            "contentType": "tvBroadcast"
+                        }
+                    },
+                    {
+                        "action": {
+                            "params": {
+                                "targetId": "34054",
+                                "target": "catalogue"
+                            },
+                            "name": "navigate"
+                        },
+                        "style": "folderSmall",
+                        "showPartnerLogo": true,
+                        "formattedContent": {
+                            "claim": "Alle Sendungen auf einen Blick",
+                            "title": "Sport im TV"
+                        }
+                    }
+                ],
+                "title": "Highlights"
+            },
+            {
+                "paneType": "tv",
+                "tiles": [
+                    {
+                        "action": {
+                            "params": {
+                                "target": "detail"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "0049096e",
+                        "style": "singleLarge",
+                        "channelId": "prodstreams-09_260_auto-motor-und-sport",
+                        "startTime": "2017-10-20T00:40:34.000Z",
+                        "endTime": "2017-10-20T01:10:25.000Z",
+                        "showPartnerLogo": true,
+                        "formattedContent": {
+                            "backgroundUrl": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p11110495_i_h10_aa.jpg",
+                            "genre": "Sport",
+                            "ageRatingId": "Unbekannt",
+                            "title": "Race",
+                            "contentType": "tvBroadcast"
+                        }
+                    },
+                    {
+                        "action": {
+                            "params": {
+                                "target": "detail"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "0049a851",
+                        "style": "singleWide",
+                        "channelId": "top8_zdf",
+                        "startTime": "2017-10-20T13:45:00.000Z",
+                        "endTime": "2017-10-20T14:45:00.000Z",
+                        "showPartnerLogo": false,
+                        "formattedContent": {
+                            "backgroundUrl": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p10086954_b_h10_aq.jpg",
+                            "genre": "Sport",
+                            "ageRatingId": "Unbekannt",
+                            "title": "ZDF SPORTextra",
+                            "contentType": "tvBroadcast"
+                        }
+                    },
+                    {
+                        "action": {
+                            "params": {
+                                "targetId": "33702",
+                                "target": "homeCatalogue"
+                            },
+                            "name": "navigate"
+                        },
+                        "style": "folderSmall",
+                        "showPartnerLogo": false,
+                        "formattedContent": {
+                            "claim": "Alle Sendungen und Live Events auf einen Blick",
+                            "title": "Alle Sportinhalte"
+                        }
+                    },
+                    {
+                        "action": {
+                            "params": {
+                                "target": "detail"
+                            },
+                            "name": "navigate"
+                        },
+                        "contentId": "00497da1",
+                        "style": "singleVertical",
+                        "channelId": "top8_das-erste",
+                        "startTime": "2017-10-20T17:45:00.000Z",
+                        "endTime": "2017-10-20T17:50:00.000Z",
+                        "showPartnerLogo": false,
+                        "formattedContent": {
+                            "backgroundUrl": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p10467695_i_h10_aa.jpg",
+                            "genre": "Sport",
+                            "ageRatingId": "Unbekannt",
+                            "title": "Sportschau vor acht",
+                            "contentType": "tvBroadcast"
+                        }
+                    }
+                ],
+                "title": "Tipps der Redaktion"
+            },
+            {
+                "paneType": "tv",
+                "tiles": [
+                    {
+                        "action": {
+                            "params": {
+                                "targetId": "32087",
+                                "target": "editorial"
+                            },
+                            "name": "navigate"
+                        },
+                        "style": "folderHuge",
+                        "showPartnerLogo": false,
+                        "formattedContent": {
+                            "backgroundUrl": "http://x3dlart.t-online.de/tucathosting/FlexDocumentReleaseImageHostingVolume_m1/LiveTvDiscovery/0000032086/0000032086_img_575480_636046120630935434.jpg",
+                            "claim": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam",
+                            "label": "Article",
+                            "title": "Article Page"
+                        }
+                    },
+                    {
+                        "action": {
+                            "params": {
+                                "externalUrl": "MehrTV?scenario=detail&package=7905&from=discoveryhub",
+                                "target": "app"
+                            },
+                            "name": "navigate"
+                        },
+                        "style": "folderHuge",
+                        "showPartnerLogo": true,
+                        "formattedContent": {
+                            "backgroundUrl": "http://x3dlart.t-online.de/tucathosting/FlexDocumentReleaseImageHostingVolume_m1/LiveTvDiscovery/0000031860/0000031860_img_575481_636011395310321804.jpg",
+                            "claim": "Lustige und spannende Zusatzkanäle für kindgerechtes Entertainment - jetzt inklusive HD!",
+                            "label": "Mediathek",
+                            "title": "TV-Paket Kinder"
+                        }
+                    },
+                    {
+                        "action": {
+                            "params": {
+                                "externalUrl": "MehrTV?scenario=detail&package=6957&from=discoveryhub",
+                                "target": "app"
+                            },
+                            "name": "navigate"
+                        },
+                        "style": "folderHuge",
+                        "showPartnerLogo": false,
+                        "formattedContent": {
+                            "backgroundUrl": "http://x3dlart.t-online.de/tucathosting/FlexDocumentReleaseImageHostingVolume_m1/LiveTvDiscovery/0000031861/0000031861_img_575482_636011398178891986.jpg",
+                            "claim": "Special-Interest Kanäle zu jedem Interessengebiet: Ob Kochen, Reisen oder Promis - inklusive HD!",
+                            "label": "Mediathek",
+                            "title": "TV-Paket Lifestyle"
+                        }
+                    }
+                ],
+                "title": "Pakete"
+            }
+        ],
+        "id": "33792"
+    }
+]

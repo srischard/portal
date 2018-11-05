@@ -1,0 +1,27 @@
+{
+    "zosa": {
+        // "auto" | "prod" | "mock", default: "auto"
+        "mode": "auto",
+        "timeout": 20000,
+        // "auto" | "local" | "remote", default: "auto"
+        "endpointMode": "auto",
+        "endpoints": {
+            "local": {
+                "url": "ws://zosa:8001",
+                "username": "",
+                "password": ""
+            },
+            "remote": {
+                "url": "ws://stb:8001",
+                "username": "",
+                "password": ""
+            }
+        }
+    },
+    "zac": {
+        // "auto" | "prod" | "mock", default: "auto"
+        "mode": "auto"
+    },
+    "programsUpdatedObserverPollingPeriodSeconds": 1800,
+    "programsUpdatedObserverRecreationPeriodSeconds": 3600
+}

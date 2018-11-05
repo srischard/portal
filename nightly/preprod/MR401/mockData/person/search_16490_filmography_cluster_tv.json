@@ -1,0 +1,118 @@
+{
+	"totalItems": 9,
+	"totalGroups": 3,
+	"offset": 0,
+	"sort": "airtime_default",
+	"navigators": [
+		{
+			"id": "cluster",
+			"name": "Cluster",
+			"entries": [
+				{
+					"id": "tv",
+					"name": "TV Sendung",
+					"size": 9
+				}
+			]
+		}
+	],
+	"results": [
+		{
+			"id": "groupClusterAdult__447af4b30c37df62d956a7a4d5d6835d",
+			"type": "group",
+			"title": "Der Manchurian Kandidat",
+			"size": 5,
+			"items": [
+				{
+					"id": "005f36f3",
+					"type": "tvBroadcast",
+					"title": "Der Manchurian Kandidat",
+					"logicalChannelId": "prodstreams-01_211_tnt-film",
+					"start": "2018-06-05T12:00:00+0200",
+					"end": "2018-06-05T14:05:00+0200",
+					"channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/2d47205abb22d9d760be0649ee383d87aafa424c.png",
+					"logicalChannelName": "ProdStreams 01_211_TNT Film",
+					"mainGenre": "Drama",
+					"category": "Spielfilm",
+					"countries": [
+						"USA"
+					],
+					"year": 2004,
+					"poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p34666_i_h10_ab.jpg",
+					"ageRatingName": "Ab 16 Jahren",
+					"ageRatingId": "Andere 16",
+					"instantRestart": false,
+					"communityRating": 4,
+					"communityRatingStars": 4,
+					"cluster": "tv"
+				}
+			]
+		},
+		{
+			"id": "groupClusterAdult__91463b6c2a0bdfc5e7da1d0bfd2dc6d6",
+			"type": "group",
+			"title": "Grey's Anatomy",
+			"size": 2,
+			"items": [
+				{
+					"id": "005f997e",
+					"type": "tvBroadcast",
+					"title": "Grey's Anatomy",
+					"logicalChannelId": "prodstreams-08_700_skyatlantic",
+					"subtitle": "Der Klang der Stille",
+					"start": "2018-06-07T14:42:10+0200",
+					"end": "2018-06-07T15:27:51+0200",
+					"channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/2213910dcb2e67f55035bb0e319b36b6a9fc039d.png",
+					"logicalChannelName": "ProdStreams 08_700_SkyAtlantic",
+					"mainGenre": "Drama",
+					"category": "Spielfilm",
+					"countries": [
+						"USA"
+					],
+					"year": 2016,
+					"poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p12548118_e_h8_ab.jpg",
+					"seriesTitle": "Grey's Anatomy",
+					"seasonNumber": 12,
+					"episodeNumber": 9,
+					"ageRatingName": "Ab 16 Jahren",
+					"ageRatingId": "Andere 16",
+					"instantRestart": false,
+					"communityRating": 4,
+					"communityRatingStars": 4.5,
+					"cluster": "tv"
+				}
+			]
+		},
+		{
+			"id": "groupClusterAdult__9e53363d48a46e6c7c4b6d0ced846c59",
+			"type": "group",
+			"title": "Die Akte",
+			"size": 2,
+			"items": [
+				{
+					"id": "0060862e",
+					"type": "tvBroadcast",
+					"title": "Die Akte",
+					"logicalChannelId": "top8_sat.1",
+					"start": "2018-06-17T00:20:00+0200",
+					"end": "2018-06-17T03:00:00+0200",
+					"channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/39fea8063f0b72ef91528855435c08b67c5305ed.png",
+					"logicalChannelName": "Top8_Sat.1",
+					"mainGenre": "Thriller",
+					"category": "Spielfilm",
+					"countries": [
+						"USA"
+					],
+					"year": 1993,
+					"poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p15247_i_h10_aa.jpg",
+					"ageRatingName": "Keine Altersangabe",
+					"ageRatingId": "Unbekannt",
+					"instantRestart": true,
+					"communityRating": 4,
+					"communityRatingStars": 4,
+					"cluster": "tv"
+				}
+			]
+		}
+	]
+}

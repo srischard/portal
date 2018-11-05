@@ -1,0 +1,400 @@
+{
+        "defaultLevel2Id": 0, //"UNASSIGNED"
+        "mappings": [
+                // ruleset processed from top to down, only first match will be resolved => place generic after specific rule
+                // layer e.g. "root" are already stripped from the focus path
+                // UI20 
+                {
+                        "regex": "^mainmenu_(\\d*)::grid::lane_(\\d*)", // UI10 ^discoveryHubContainer",
+                        "replace": "Catalog_X::Grid_X::Lane_$2", // strip menucounter
+                        "lvl2id": 9 // hubs
+                },
+                {
+                        "regex": "^mainmenu_(\\d*)::stage",
+                        "replace": "Catalog_X::Stage_X", // selected menu index missing
+                        "lvl2id": 9 // hubs
+                },
+                {
+                        "regex": "^mainmenu_(\\d*)::menuitems",
+                        "replace": "Catalog_X::Menu", // strip menucounter
+                        "lvl2id": 9 // hubs
+                },
+                {
+                        "regex": "^vodUnstructuredGrid_(\\d*)",
+                        "replace": "Unstructured Grid::flexId_$1",
+                        "lvl2id": 9 // hubs
+                },
+                {
+                        // "regex": "^voddetailpagekeycontainer::doc#(\\d*)", // <id>#<timestamp for unique page id>#<flexid>
+                        "regex": "^vod_detailpage_#(\\d*)", //UI20 // <id>#<timestamp for unique page id>#<flexid>
+                        "replace": "Detail::flexId_$1",
+                        "lvl2id": 3 // vod
+                },
+                {
+                        "regex": "vodpurchasepage_(.*)::(.*)", //"^vodpurchasepagecontainer#(\\d*)", // <id>#<timestamp for unique page id>#<flexid>
+                        "replace": "Purchase::$1::$2",
+                        "lvl2id": 3 // vod
+                },
+                {
+                        "regex": "^recording(-)?(\\w*)", // root::recording UI10 pages have been migrated  e.g. recordinglist::listContainer_recording::itemContainer0
+                        "replace": "$2",
+                        "lvl2id": 14 // recordings
+                },
+                {
+                        "regex": "^addmanualrecording",
+                        "replace": "Add manual recording",
+                        "lvl2id": 14 // recordings
+                },
+                {
+                        "regex": "^manualrecording-setting-dialog",
+                        "replace": "manual recording dialog",
+                        "lvl2id": 14 // recordings
+                },
+                {
+                        "regex": "^locationquality-dialog",
+                        "replace": "Locationn & Quality Dialog",
+                        "lvl2id": 14 // recordings
+                },
+                {
+                        "regex": "^channelselector-dialog",
+                        "replace": "Channelselector Dialog",
+                        "lvl2id": 14 // recordings
+                },
+                {
+                        "regex": "^singleseries-dialog",
+                        "replace": "Singleseries Dialog",
+                        "lvl2id": 14 // recordings
+                },
+                {
+                        "regex": "^dateselector-dialog",
+                        "replace": "Date Selector Dialog",
+                        "lvl2id": 14 // recordings
+                },
+                {
+                        "regex": "^tvLiveTV", //UI10:"^coreLiveTV",
+                        "replace": "LiveTV",
+                        "lvl2id": 2 // 2/TV_PROGRAM or 18 ???
+                },
+                {
+                        "regex": "^coreplayer(-)?",
+                        "replace": "LiveTV::", // input e.g. coreplayer-shortmenudialog
+                        "lvl2id": 2 // 2/TV_PROGRAM
+                },
+                {
+                        "regex": "^programdetail_(\\w*)_(.*)::", // UI20 strip new information
+                        "replace": "Program detail::$1::", // input e.g.: programdetail_rec_rec:a9abad90::primaryaction_container detail::tv_04df599e:5cfb94dc:47547cc255b::primaryaction_container
+                        "lvl2id": 2 // 2/TV_PROGRAM or 13? 
+                },
+                {
+                        "regex": "^programdetail_(\\w*)_(.*)", // fallback for parent see above
+                        "replace": "Program detail::$1",
+                        "lvl2id": 2
+                },
+                {
+                        "regex": "^browsebar", // UI10 "^browseBar"
+                        "replace": "BrowseBar",
+                        "lvl2id": 2 // 2/TV_PROGRAM or 18 ???
+                },
+                {
+                        "regex": "^optionPanel(_/)?(.*)",
+                        "replace": "Option Panel::$2",
+                        "lvl2id": 2 // 2/TV_PROGRAM or 18 ???
+                },
+                {
+                        "regex": "^epg", // root epg and also optionPanel
+                        "replace": "EPG", // feedback after EPG starts raising pixels
+                        "lvl2id": 12
+                },
+                {
+                        "regex": "^nc_search-page", // UI10 "^searchcontainer(::keyboard1)?(::)?(tvlist2_)?", // root::searchcontainer::keyboard1::tvlist2_searchList root::searchcontainer::keyboard1::inputfield root::searchcontainer::keyboard1 root::searchcontainer
+                        "replace": "Page", // input e.g. nc_search-page::nc_search-component::content::BlockInputNavContainer::nav_characters
+                        "lvl2id": 10
+                },
+                {
+                        "regex": "^mainmenu_(\\d*)::search::nc_search-component::content",
+                        "replace": "Catalog::", // input e.g. mainmenu_1::search::nc_search-component::content::BlockInputNavContainer::nav_characters
+                        "lvl2id": 10
+                },
+                {
+                        "regex": "^searchgridpage_(\\w*?)(_\\w*)::resultcontainer", // non greedy group to get search term
+                        "replace": "Grid::$1", // input e.g. searchgridpage_Akten_groupTypeAdult__ac029cc2888eae76697249788e299236
+                        "lvl2id": 10
+                },
+                { // fallback
+                        "regex": "^searchgridpage_(\\w*?)(_\\w*)",
+                        "replace": "Grid::$1",
+                        "lvl2id": 10
+                },
+                { 
+                        "regex": "^channeloverlay",
+                        "replace": "Channel Overlay",
+                        "lvl2id": 10
+                },
+                {
+                        "regex": "^uar", // dialogLayer1::uarPin::  dialogLayer1::uarPassword::uarpasswordinput::inputfield
+                        "replace": "Authenticate::",
+                        "lvl2id": 11 // pin entry
+                },
+                {
+                        "regex": "^pin-confirmation-dialog-component",
+                        "replace": "Pin confirmation dialog",
+                        "lvl2id": 11 // pin entry
+                },
+                {
+                        "regex": "^menu-(.*?)-component::(.*)(-component|-items)", // e.g. menu-screensound-component::menu-items  menu-screensound-component::audio-component
+                        "replace": "$1::$2",
+                        "lvl2id": 8 // Settings
+                },
+                {
+                        "regex": "^menu-(.*?)-component", // fallback
+                        "replace": "$1", // e.g. input menu-system-devices-component::settingdeviceScreenformat
+                        "lvl2id": 8 // Settings
+                },
+                {
+                        "regex": "^netflixReset", //UI10 still in UI20
+                        "replace": "Netflix::Reset",
+                        "lvl2id": 8
+                },
+                {
+                        "regex": "^amazonReset",
+                        "replace": "Amazon::Reset",
+                        "lvl2id": 8
+                },
+                {
+                        "regex": "^ftu(\\w*)?_(\\d*)::(.*)(-component|-items)", // e.g. ftupage_1::dttv-powermanagement-component
+                        "replace": "FTU::$2_$3",
+                        "lvl2id": 8 // Settings
+                },
+                {
+                        "regex": "^ftu(\\w*)?_(\\d*)", // e.g. ftuseparationpage_0
+                        "replace": "FTU::$2",
+                        "lvl2id": 8 // Settings
+                },
+                {
+                        "regex": "^uac(\\w*)(::buttonContainer)?(::pinEntryContainer)?", // remove unneeded paths
+                        "replace": "User Account Control::$1", // $1: ChangePIN, ChangeAvsPIN, AvsManagement, ConfirmPage
+                        "lvl2id": 8 // settings
+                },
+                {
+                        //"regex": "settingchannelmanagement(::)(tvlist_::.*_)(\\d*)", // $2 zosaId $3 column root::channelmanagement::tvlist_::79b06fdf:f235e115554_2 ,  root::settingchannelmanagement::confirm 
+                        "regex": "^channelmanagement-list-component", // UI10 "^settingchannelmanagement(::tvlist_)?", //strip tvlist from path
+                        "replace": "Channel Management",
+                        "lvl2id": 8
+                },
+                {
+                        "regex": "^reset-channellist-dialog-component",
+                        "replace": "Channel Management::Reset Channellist Dialog",
+                        "lvl2id": 8
+                },
+                {
+                        "regex": "^format-disc-dialog-component",
+                        "replace": "HDD Management::Format Disc Dialog",
+                        "lvl2id": 8
+                },
+                {
+                        "regex": "^screenformat-confirmation-dialog-component", // UI10 "^screenformatconfirmationdialog",
+                        "replace": "Screen Resolution Confirmation Dialog",
+                        "lvl2id": 8 // settings =>  a lvl2id 'system' would be better
+                },
+                {
+                        "regex": "^system-info-dialog",
+                        "replace": "System Info Dialog",
+                        "lvl2id": 8 // settings
+                },
+                {
+                        "regex": "^channellocking-list-component",
+                        "replace": "Channel locking list",
+                        "lvl2id": 8 // settings
+                },
+                {
+                        "regex": "^settingIndex",
+                        "replace": "Index",
+                        "lvl2id": 8 // settings
+                },
+                {
+                        "regex": "^audioFormatDialog",
+                        "replace": "Audio Format Dialog",
+                        "lvl2id": 8 // settings
+                },
+                {
+                        "regex": "^mtvtvpackagespage(::tvlist_subassets)?::(\\d*)", // dialogLayer1_2::mtvtvpackagespage::tvlist_subassets::3
+                        "replace": "Related Packages::item$2",
+                        "lvl2id": 25 // MehrTV
+                },
+                {
+                        "regex": "^mtv(\\w*)#(\\w*)#(\\w*)", // extended for detailpage
+                        "replace": "$1::$2_$3", // $1:Catalog, Purchase, Detailpage; $2:DT,SKY, $3 packageId
+                        "lvl2id": 25 // MehrTV
+                },
+                {
+                        "regex": "^mtv(\\w*)#(\\w*)", // UI10 also hits catalogs
+                        "replace": "$1::$2", // $1:Catalog, Purchase, Detailpage; $2:DT,SKY, 'PackagesInGroup'(show all), PackageId
+                        "lvl2id": 25 // MehrTV
+                },
+                { // !!! MoreTV Fallback !!!
+                        "regex": "^mtv(\\w*)", // root::mtv_channels::0+0
+                        "replace": "$1", // Contrats, TermsOfUse, Channelpage, Detailpage
+                        "lvl2id": 25 // MehrTV
+                },
+                {
+                        "regex": "^personDetails_", // UI20 strip new information
+                        "replace": "Person::", // input e.g.: personDetails_gnp_503818
+                        "lvl2id": 13 // DETAIL_PAGE
+                },
+                {
+                        "regex": "^person_relatedMovies", // UI20 strip new information
+                        "replace": "Person related Movies", // input e.g.: personDetails_gnp_503818
+                        "lvl2id": 13 // DETAIL_PAGE
+                },
+                {
+                        "regex": "^vodplayer",
+                        "replace": "Player",
+                        "lvl2id": 18 // vod
+                },
+                {
+                        "regex": "^vodplayeractiondialog",
+                        "replace": "Action Dialog",
+                        "lvl2id": 18 // vod
+                },
+                {
+                        "regex": "^timeshiftactiondialog",
+                        "replace": "Time Shift Dialog",
+                        "lvl2id": 2 // 2/TV_PROGRAM or 18 ???
+                },
+                {
+                        "regex": "^instantrecording-component",
+                        "replace": "Instant Recording",
+                        "lvl2id": 2 // 2/TV_PROGRAM or 18 ???
+                },
+                {
+                        "regex": "^playeractiondialog", // root::browseBar::dummy                
+                        "replace": "Player Action Dialog",
+                        "lvl2id": 2 // 2/TV_PROGRAM or 18 ???
+                },
+                {
+                        "regex": "^sw-upgrade-component",
+                        "replace": "Software Upgrade Dialog",
+                        "lvl2id": 17 // boot_update
+                },
+                {
+                        "regex": "^diagnostic-result-details-dialog",
+                        "replace": "Diagnostic::Results",
+                        "lvl2id": 8 // settings: good?
+                },
+                {
+                        "regex": "^radio-",
+                        "replace": "",
+                        "lvl2id": 21 // webradio
+                },
+                {
+                        "regex": "^exitdialog",
+                        "replace": "Exit Dialog",
+                        "lvl2id": 1 // navigation
+                },
+                {
+                        "regex": "^infodialog",
+                        "replace": "Info Dialog",
+                        "lvl2id": 20 // Message
+                },
+                {
+                        "regex": "^genericdialog",
+                        "replace": "Generic Dialog",
+                        "lvl2id": 20 // Message
+                },
+                {
+                        "regex": "^genericMsgDialog",
+                        "replace": "Generic Message Dialog",
+                        "lvl2id": 20 // Message
+                },
+                {
+                        "regex": "^cancel-confirmation-dialog-component                ",
+                        "replace": "Cancel Confirmation Dialog",
+                        "lvl2id": 20 // Message
+                },
+                {
+                        "regex": "^satWizard-(\\w*)",
+                        "replace": "SAT Wizard::$1",
+                        "lvl2id": 8 // settings
+                },
+                {
+                        "regex": "^satellite-check-setup-component",
+                        "replace": "SAT Check Setup",
+                        "lvl2id": 8 // settings
+                },
+                {
+                        "regex": "^satfrequency-dialog",
+                        "replace": "SAT Frequencey Dialog",
+                        "lvl2id": 8 // settings
+                },
+                {
+                        "regex": "page-busy-dialog-component", // not used only in SAT-Wizard
+                        "replace": "Page Busy Dialog",
+                        "lvl2id": 8 // settings
+                },
+                {
+                        "regex": "^powerManagementDialog",
+                        "replace": "Power Management Dialog",
+                        "lvl2id": 8 // settings =>  a lvl2id 'system' would be better
+                },
+                {
+                        "regex": "^selfdiagnostic-component",
+                        "replace": "Self Diagnostic",
+                        "lvl2id": 8 // settings =>  a lvl2id 'system' would be better
+                },
+                {
+                        "regex": "^articlePage",
+                        "replace": "Article Page",
+                        "lvl2id": 13 // DETAIL_PAGE
+                },
+                {
+                        "regex": "^appLauncherHost",
+                        "replace": "App Launcher",
+                        "lvl2id": 1 // navigation
+                },
+                {
+                        "regex": "^(screensaver|screen-saver-component)",
+                        "replace": "Screen Saver",
+                        "lvl2id": 1 // navigation
+                },
+                {
+                        "regex": "^conflictDialog",
+                        "replace": "Conflict Dialog",
+                        "lvl2id": 2 // TV
+                },
+                {
+                        "regex": "^conflictSolveConflictDialog",
+                        "replace": "Conflict Solve Dialog",
+                        "lvl2id": 2 // TV
+                },
+                {
+                        "regex": "^conflictTuneChannelDialog",
+                        "replace": "Conflict TuneChannel Dialog",
+                        "lvl2id": 2 // TV
+                },
+                {
+                        "regex": "^title-input-dialog-component",
+                        "replace": "Conflict Dialog",
+                        "lvl2id": 20 // message
+                },
+                {
+                        "regex": "^switchoffdialog",
+                        "replace": "Switch-Off Dialog",
+                        "lvl2id": 20 // Message
+                },
+                {
+                        "regex": "^softwareUpgradeDialog",
+                        "replace": "Software Upgrade Dialog",
+                        "lvl2id": 20 // Message
+                },
+                {
+                        "regex": "^licenseview",
+                        "replace": "License View",
+                        "lvl2id": 20 // Message
+                },
+                {
+                        "regex": "^timeselector-dialog",
+                        "replace": "Time selector dialog",
+                        "lvl2id": 2 // TV
+                }
+        ]
+}

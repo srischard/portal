@@ -1,0 +1,2343 @@
+﻿{
+  "totalItems": 772,
+  "totalGroups": 446,
+  "offset": 0,
+  "sort": "relevance",
+  "navigators": [
+    {
+      "id": "partnerIds",
+      "name": "Partnerangebote",
+      "entries": [
+        {
+          "id": "7tv",
+          "name": "7TV",
+          "size": 34
+        },
+        {
+          "id": "ard",
+          "name": "ARD",
+          "size": 29
+        },
+        {
+          "id": "erotic-lounge",
+          "name": "Erotic Lounge",
+          "size": 6
+        },
+        {
+          "id": "sky",
+          "name": "Sky",
+          "size": 64
+        },
+        {
+          "id": "videoload",
+          "name": "Videoload",
+          "size": 158
+        },
+        {
+          "id": "watchever",
+          "name": "WATCHEVER",
+          "size": 14
+        },
+        {
+          "id": "zdf",
+          "name": "ZDF",
+          "size": 8
+        },
+        {
+          "id": "maxdome",
+          "name": "maxdome",
+          "size": 210
+        },
+        {
+          "id": "entertainSelection",
+          "name": "Entertain Selection",
+          "size": 1
+        },
+        {
+          "id": "tvPackages",
+          "name": "TV-Pakete",
+          "size": 1
+        }
+      ]
+    },
+    {
+      "id": "availability",
+      "name": "Verfügbarkeit",
+      "entries": [
+        {
+          "id": "freeVod",
+          "name": "Kostenlos",
+          "size": 73
+        },
+        {
+          "id": "chargeVod",
+          "name": "Kostenpflichtig",
+          "size": 335
+        }
+      ]
+    },
+    {
+      "id": "type",
+      "name": "Quelle",
+      "entries": [
+        {
+          "id": "logicalChannel",
+          "name": "Sender",
+          "size": 12
+        },
+        {
+          "id": "broadcast",
+          "name": "TV",
+          "size": 368
+        },
+        {
+          "id": "person",
+          "name": "Personen",
+          "size": 14
+        },
+        {
+          "id": "vod",
+          "name": "Video",
+          "size": 378
+        }
+      ]
+    },
+    {
+      "id": "ageRating",
+      "name": "Alterskennzeichnung",
+      "entries": [
+        {
+          "id": "unknown",
+          "name": "Keine Alterskennzeichnung",
+          "size": 322
+        },
+        {
+          "id": "0",
+          "name": "Ab 0 Jahren",
+          "size": 50
+        },
+        {
+          "id": "6",
+          "name": "Ab 6 Jahren",
+          "size": 38
+        },
+        {
+          "id": "12",
+          "name": "Ab 12 Jahren",
+          "size": 173
+        },
+        {
+          "id": "16",
+          "name": "Ab 16 Jahren",
+          "size": 155
+        },
+        {
+          "id": "18",
+          "name": "Ab 18 Jahren",
+          "size": 17
+        },
+        {
+          "id": "oaf",
+          "name": "Erwachsenenangebote",
+          "size": 5
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "GN_MV008670770000",
+      "type": "vod",
+      "title": "Test",
+      "vodType": "movie",
+      "duration": 89,
+      "mainGenre": "Drama",
+      "countries": [ "USA" ],
+      "year": 2013,
+      "poster": "http://programm-manager.telekom.de/media/gracenote/p10192679_p_v8_aa.jpg",
+      "posterNoTitle": "http://programm-manager.telekom.de/media/gracenote/p10192679_i_v8_aa.jpg",
+      "posterWideNoTitle": "http://programm-manager.telekom.de/media/gracenote/p10192679_i_h10_aa.jpg",
+      "scenes": [ "http://programm-manager.telekom.de/media/gracenote/p10192679_i_h10_aa.jpg" ],
+      "ageRatingName": "Ab 12 Jahren (FSK)",
+      "ageRatingId": "FSK 12",
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodMain",
+      "sourceType": "vodPremium",
+      "category": "main"
+    },
+    {
+      "id": "GN_EP019576320025",
+      "type": "vod",
+      "title": "Der Test",
+      "vodType": "episode",
+      "mainGenre": "Drama",
+      "countries": [ "USA" ],
+      "year": 2007,
+      "scenes": [ ],
+      "ageRatingName": "Ab 12 Jahren (FSK)",
+      "ageRatingId": "FSK 12",
+      "seriesTitle": "Grey's Anatomy",
+      "seasonNumber": 3,
+      "episodeNumber": 24,
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        },
+        {
+          "name": "Sky",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_sky_icon_monochrome.png"
+        },
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "airtime": "2007-05-10T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP020963520021",
+      "type": "vod",
+      "title": "Der Test",
+      "vodType": "episode",
+      "mainGenre": "Soap",
+      "countries": [ "Deutschland" ],
+      "year": 2006,
+      "scenes": [ ],
+      "ageRatingName": "Ab 0 Jahren (FSF)",
+      "ageRatingId": "FSF 0",
+      "seriesTitle": "Lotta in Love",
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "airtime": "2006-07-06T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP020963520097",
+      "type": "vod",
+      "title": "Der Test",
+      "vodType": "episode",
+      "mainGenre": "Soap",
+      "countries": [ "Deutschland" ],
+      "year": 2006,
+      "scenes": [ ],
+      "ageRatingName": "Ab 0 Jahren (FSF)",
+      "ageRatingId": "FSF 0",
+      "seriesTitle": "Lotta in Love",
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "airtime": "2006-04-19T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019379320056",
+      "type": "vod",
+      "title": "Tessin",
+      "vodType": "episode",
+      "mainGenre": "Ratgeber",
+      "countries": [ "Deutschland" ],
+      "year": 2006,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Zu Tisch in...",
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2006-06-04T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019656800044",
+      "type": "vod",
+      "title": "Tessin",
+      "vodType": "episode",
+      "mainGenre": "Reisen",
+      "countries": [ "Deutschland" ],
+      "year": 2015,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "service: reisen",
+      "partners": [
+        {
+          "name": "ARD",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_ard_icon_farbig-monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2015-10-06T18:50:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "groupTypeAdult__4e274ad49bb0f1843df5c1713d3a7912",
+      "type": "group",
+      "title": "Die Tester",
+      "size": 177,
+      "adult": false,
+      "pcon": false,
+      "items": [
+        {
+          "id": "0038c33a",
+          "type": "tvBroadcast",
+          "title": "Die Tester",
+          "logicalChannelId": "auto-motor-sport",
+          "subtitle": "Opel GTC vs. Hyundai Veloster",
+          "start": "2016-03-11T10:20:02+0100",
+          "end": "2016-03-11T10:35:14+0100",
+          "channelLogo": "http://programm-manager.telekom.de/media/8ffbb0a95849b6c7af04aeaea5c2e1680c6cb0ad.png",
+          "logicalChannelName": "auto motor und sport",
+          "mainGenre": "Ratgeber",
+          "category": "Information",
+          "countries": [ "Deutschland" ],
+          "year": 2009,
+          "poster": "http://programm-manager.telekom.de/media/c3071e5b991bf62e3a2a8bb895314889d25fd367.jpg",
+          "seriesTitle": "Die Tester",
+          "ageRatingName": "Keine Alterskennzeichnung",
+          "ageRatingId": "Unbekannt",
+          "instantRestart": false,
+          "cluster": "tv"
+        }
+      ]
+    },
+    {
+      "id": "GN_SH020013680000",
+      "type": "vod",
+      "title": "Die Tester",
+      "vodType": "series",
+      "mainGenre": "Auto",
+      "countries": [ "Deutschland" ],
+      "yearFrom": 2014,
+      "posterNoTitle": "http://programm-manager.telekom.de/media/gracenote/p11076742_i_v8_aa.jpg",
+      "posterWideNoTitle": "http://programm-manager.telekom.de/media/gracenote/p11076742_i_h10_aa.jpg",
+      "scenes": [ "http://programm-manager.telekom.de/media/gracenote/p11076742_i_h10_aa.jpg" ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Die Tester",
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2011-05-20T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP015443670017",
+      "type": "vod",
+      "title": "Tarik Tesfu",
+      "vodType": "episode",
+      "mainGenre": "Show",
+      "countries": [ "Deutschland" ],
+      "year": 2015,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "EinsWeiter gefragt",
+      "partners": [
+        {
+          "name": "ARD",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_ard_icon_farbig-monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2015-11-13T20:01:00+0100",
+      "category": "series"
+    },
+    {
+      "id": "groupTypeAdult__fa88a78d1fc73e4adee6106f5aa84743",
+      "type": "group",
+      "title": "Crash Test Bunny",
+      "size": 2,
+      "adult": false,
+      "pcon": false,
+      "items": [
+        {
+          "id": "003a910b",
+          "type": "tvBroadcast",
+          "title": "Crash Test Bunny",
+          "logicalChannelId": "beateu-sky",
+          "start": "2016-03-15T23:56:58+0100",
+          "end": "2016-03-16T01:20:33+0100",
+          "channelLogo": "http://programm-manager.telekom.de/media/18ee434cd609886596f0730830a5b7771a0cca96.png",
+          "logicalChannelName": "BeateUhse (Sky)",
+          "mainGenre": "Erotischer Film",
+          "category": "Spielfilm",
+          "countries": [ "USA" ],
+          "year": 2012,
+          "poster": "http://programm-manager.telekom.de/media/bf530611addf697de02b8bbbb730892711f6164c.jpg",
+          "ageRatingName": "Ab 18 Jahren",
+          "ageRatingId": "Andere 18",
+          "instantRestart": false,
+          "cluster": "tv"
+        }
+      ]
+    },
+    {
+      "id": "groupTypeAdult__3c8414960456f232cbce16231ae1fdc8",
+      "type": "group",
+      "title": "Ratgeber - Test",
+      "size": 3,
+      "adult": false,
+      "pcon": false,
+      "items": [
+        {
+          "id": "003a002e",
+          "type": "tvBroadcast",
+          "title": "Ratgeber - Test",
+          "logicalChannelId": "n-tv",
+          "start": "2016-03-14T15:20:00+0100",
+          "end": "2016-03-14T15:40:00+0100",
+          "channelLogo": "http://programm-manager.telekom.de/media/10000181af03838de8256f8ba1782676c058995d.png",
+          "logicalChannelName": "n-tv",
+          "mainGenre": "Wissen",
+          "category": "Information",
+          "countries": [ "Deutschland" ],
+          "year": 2016,
+          "poster": "http://programm-manager.telekom.de/media/b067351d76cecfd1345a0203a02973f74965b9de.jpg",
+          "seriesTitle": "Ratgeber - Test",
+          "ageRatingName": "Keine Alterskennzeichnung",
+          "ageRatingId": "Unbekannt",
+          "instantRestart": true,
+          "cluster": "tv"
+        }
+      ]
+    },
+    {
+      "id": "gnp_546764",
+      "type": "person",
+      "title": "Azie Tesfai",
+      "roles": [ "actor" ],
+      "poster": "http://programm-manager.telekom.de/media/gracenote_persons/546764_v9_ba.jpg",
+      "filmography": [
+        {
+          "title": "A Kind of Magic",
+          "year": 2015
+        },
+        {
+          "title": "Acts of Violence",
+          "year": 2010
+        },
+        {
+          "title": "Rosencrantz and Guildenstern Are Undead",
+          "year": 2009
+        }
+      ]
+    },
+    {
+      "id": "gnp_592619",
+      "type": "person",
+      "title": "Fred Testot",
+      "roles": [ "actor" ],
+      "poster": "http://programm-manager.telekom.de/media/gracenote_persons/592619_v9_ba.jpg",
+      "filmography": [
+        {
+          "title": "Pattaya",
+          "year": 2016
+        },
+        {
+          "title": "L'emprise",
+          "year": 2015
+        },
+        {
+          "title": "Bon rétablissement!",
+          "year": 2014
+        }
+      ]
+    },
+    {
+      "id": "gnp_251553",
+      "type": "person",
+      "title": "Mary Testa",
+      "roles": [ "actor" ],
+      "poster": "http://programm-manager.telekom.de/media/gracenote_persons/251553_v9_ba.jpg",
+      "filmography": [
+        {
+          "title": "Big Stone Gap",
+          "year": 2014
+        },
+        {
+          "title": "Four Single Fathers",
+          "year": 2009
+        },
+        {
+          "title": "4 padri single",
+          "year": 2008
+        }
+      ]
+    },
+    {
+      "id": "gnp_74601",
+      "type": "person",
+      "title": "Tess Harper",
+      "roles": [ "actor" ],
+      "poster": "http://programm-manager.telekom.de/media/gracenote_persons/74601_v9_ba.jpg",
+      "filmography": [
+        {
+          "title": "The Perfect Guy",
+          "year": 2015
+        },
+        {
+          "title": "Surprise",
+          "year": 2014
+        },
+        {
+          "title": "Hello, My Name Is Frank",
+          "year": 2014
+        }
+      ]
+    },
+    {
+      "id": "gnp_596115",
+      "type": "person",
+      "title": "Tess Kartel",
+      "roles": [ "actor" ],
+      "poster": "http://programm-manager.telekom.de/media/gracenote_persons/596115_v9_ba.jpg",
+      "filmography": [
+        {
+          "title": "House",
+          "year": 0
+        }
+      ]
+    },
+    {
+      "id": "gnp_876900",
+      "type": "person",
+      "title": "Tess Morris",
+      "roles": [ ],
+      "poster": "http://programm-manager.telekom.de/media/gracenote_persons/876900_v9_ba.jpg",
+      "filmography": [
+        {
+          "title": "Man Up",
+          "year": 2015
+        }
+      ]
+    },
+    {
+      "id": "gnp_577061",
+      "type": "person",
+      "title": "Tess Paras",
+      "roles": [ "actor" ],
+      "poster": "http://programm-manager.telekom.de/media/gracenote_persons/577061_v9_ba.jpg",
+      "filmography": [
+        {
+          "title": "Crazy Ex-Girlfriend",
+          "year": 0
+        },
+        {
+          "title": "The Good Wife",
+          "year": 0
+        },
+        {
+          "title": "Grimm",
+          "year": 0
+        }
+      ]
+    },
+    {
+      "id": "gnp_223649",
+      "type": "person",
+      "title": "Tessa Ross",
+      "roles": [ "producer" ],
+      "filmography": [
+        {
+          "title": "Ex Machina",
+          "year": 2015
+        },
+        {
+          "title": "Suffragette",
+          "year": 2015
+        },
+        {
+          "title": "Life",
+          "year": 2015
+        }
+      ]
+    },
+    {
+      "id": "GN_EP020029010004",
+      "type": "vod",
+      "title": "Das Testament",
+      "vodType": "episode",
+      "mainGenre": "Drama",
+      "countries": [ "USA" ],
+      "year": 2011,
+      "scenes": [ ],
+      "ageRatingName": "Ab 12 Jahren (FSK)",
+      "ageRatingId": "FSK 12",
+      "seriesTitle": "Fairly Legal",
+      "seasonNumber": 1,
+      "episodeNumber": 2,
+      "partners": [
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "category": "series"
+    },
+    {
+      "id": "GN_SH022780870000",
+      "type": "vod",
+      "title": "Focus TV Test",
+      "vodType": "series",
+      "mainGenre": "Dokumentation",
+      "countries": [ "Deutschland" ],
+      "yearFrom": 2015,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Focus TV Test",
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        },
+        {
+          "name": "7TV",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_7tv_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2015-09-02T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_SH022780870000_1",
+      "type": "vod",
+      "title": "Focus TV Test",
+      "vodType": "season",
+      "mainGenre": "Dokumentation",
+      "countries": [ "Deutschland" ],
+      "year": 2015,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Focus TV Test",
+      "seasonNumber": 1,
+      "episodeCount": 3,
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        },
+        {
+          "name": "7TV",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_7tv_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2015-09-02T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "003ca863",
+      "type": "tvBroadcast",
+      "title": "A 380 - ein Riese im Test",
+      "logicalChannelId": "welt-der-wunder",
+      "start": "2016-03-11T14:45:50+0100",
+      "end": "2016-03-11T14:57:38+0100",
+      "channelLogo": "http://programm-manager.telekom.de/media/629f72770f72b4f816843f063e0281d9b3d355d9.png",
+      "logicalChannelName": "Welt der Wunder",
+      "countries": [ ],
+      "poster": "http://programm-manager.telekom.de/media/ca09dff7fc0ef00a46725ce24a67982e6c04c7d2.png",
+      "seriesTitle": "A 380 - ein Riese im Test",
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "instantRestart": true,
+      "cluster": "tv"
+    },
+    {
+      "id": "GN_EP016982900126",
+      "type": "vod",
+      "title": "And the Taste Test",
+      "vodType": "episode",
+      "mainGenre": "Sitcom",
+      "countries": [ "USA" ],
+      "year": 2015,
+      "posterNoTitle": "http://programm-manager.telekom.de/media/gracenote/p11573076_e_v8_aa.jpg",
+      "posterWideNoTitle": "http://programm-manager.telekom.de/media/gracenote/p11573076_e_h10_aa.jpg",
+      "scenes": [ "http://programm-manager.telekom.de/media/gracenote/p11573076_e_h10_aa.jpg" ],
+      "ageRatingName": "Ab 12 Jahren (FSK)",
+      "ageRatingId": "FSK 12",
+      "seriesTitle": "2 Broke Girls",
+      "seasonNumber": 4,
+      "episodeNumber": 18,
+      "partners": [
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP021960340006",
+      "type": "vod",
+      "title": "Das Testament",
+      "vodType": "episode",
+      "mainGenre": "Sitcom",
+      "countries": [ "USA" ],
+      "year": 2013,
+      "posterNoTitle": "http://programm-manager.telekom.de/media/gracenote/p9673866_e_v7_aa.jpg",
+      "posterWideNoTitle": "http://programm-manager.telekom.de/media/gracenote/p9673866_e_h10_aa.jpg",
+      "scenes": [ "http://programm-manager.telekom.de/media/gracenote/p9673866_e_h10_aa.jpg" ],
+      "ageRatingName": "Ab 12 Jahren",
+      "ageRatingId": "NEUTRAL 12",
+      "seriesTitle": "Guys With Kids",
+      "seasonNumber": 1,
+      "episodeNumber": 14,
+      "partners": [
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP007261330188",
+      "type": "vod",
+      "title": "Test the Store",
+      "vodType": "episode",
+      "mainGenre": "Sitcom",
+      "countries": [ "USA" ],
+      "year": 2012,
+      "posterNoTitle": "http://programm-manager.telekom.de/media/gracenote/p9081705_e_v8_ab.jpg",
+      "posterWideNoTitle": "http://programm-manager.telekom.de/media/gracenote/p9081705_e_h10_ab.jpg",
+      "scenes": [ "http://programm-manager.telekom.de/media/gracenote/p9081705_e_h10_ab.jpg" ],
+      "ageRatingName": "Ab 12 Jahren",
+      "ageRatingId": "NEUTRAL 12",
+      "seriesTitle": "The Office",
+      "seasonNumber": 8,
+      "episodeNumber": 17,
+      "partners": [
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019560670219",
+      "type": "vod",
+      "title": "Das neue Testament",
+      "vodType": "episode",
+      "mainGenre": "Krimi",
+      "countries": [ "Deutschland" ],
+      "year": 2014,
+      "scenes": [ ],
+      "ageRatingName": "Ab 12 Jahren (FSF)",
+      "ageRatingId": "FSF 12",
+      "seriesTitle": "Richter Alexander Hold",
+      "seasonNumber": 7,
+      "episodeNumber": 110,
+      "partners": [
+        {
+          "name": "7TV",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_7tv_icon_monochrome.png"
+        },
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "airtime": "2014-05-01T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP003332230110",
+      "type": "vod",
+      "title": "Das Testament",
+      "vodType": "episode",
+      "mainGenre": "Sitcom",
+      "countries": [ "USA" ],
+      "year": 1995,
+      "scenes": [ ],
+      "ageRatingName": "Ab 6 Jahren (FSF)",
+      "ageRatingId": "FSF 6",
+      "seriesTitle": "Die Nanny",
+      "seasonNumber": 2,
+      "episodeNumber": 17,
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "airtime": "1995-01-16T12:00:00+0100",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP014726440012",
+      "type": "vod",
+      "title": "Das Testament",
+      "vodType": "episode",
+      "mainGenre": "Krimi",
+      "countries": [ ],
+      "scenes": [ ],
+      "ageRatingName": "Ab 12 Jahren (FSK)",
+      "ageRatingId": "FSK 12",
+      "seriesTitle": "Kommissar Rex",
+      "seasonNumber": 5,
+      "episodeNumber": 10,
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP018448350524",
+      "type": "vod",
+      "title": "Das Testament",
+      "vodType": "episode",
+      "mainGenre": "Romantik",
+      "countries": [ "Deutschland" ],
+      "year": 2013,
+      "scenes": [ ],
+      "ageRatingName": "Ab 12 Jahren (FSF)",
+      "ageRatingId": "FSF 12",
+      "seriesTitle": "Verbotene Liebe",
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "airtime": "2013-05-21T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP021518290415",
+      "type": "vod",
+      "title": "Das Testament",
+      "vodType": "episode",
+      "mainGenre": "Talkshow",
+      "countries": [ "Deutschland" ],
+      "year": 2013,
+      "scenes": [ ],
+      "ageRatingName": "Ab 6 Jahren (FSF)",
+      "ageRatingId": "FSF 6",
+      "seriesTitle": "Zwei bei Kallwass",
+      "seasonNumber": 12,
+      "episodeNumber": 136,
+      "partners": [
+        {
+          "name": "7TV",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_7tv_icon_monochrome.png"
+        },
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2013-10-24T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP022063640017",
+      "type": "vod",
+      "title": "Das Testament",
+      "vodType": "episode",
+      "mainGenre": "Action",
+      "countries": [ "Deutschland" ],
+      "year": 2008,
+      "scenes": [ ],
+      "ageRatingName": "Ab 16 Jahren (FSK)",
+      "ageRatingId": "FSK 16",
+      "seriesTitle": "GSG 9",
+      "seasonNumber": 2,
+      "episodeNumber": 11,
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "airtime": "2008-05-22T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP023673990003",
+      "type": "vod",
+      "title": "Das Testament",
+      "vodType": "episode",
+      "mainGenre": "Fantasy",
+      "countries": [ "Deutschland" ],
+      "year": 1991,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Leonie Löwenherz",
+      "seasonNumber": 1,
+      "episodeNumber": 3,
+      "partners": [
+        {
+          "name": "Sky",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_sky_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "airtime": "1991-04-24T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP021030760069",
+      "type": "vod",
+      "title": "Der Testpilot",
+      "vodType": "episode",
+      "mainGenre": "Drama",
+      "countries": [ "USA" ],
+      "year": 1959,
+      "scenes": [ ],
+      "ageRatingName": "Ab 0 Jahren (FSF)",
+      "ageRatingId": "FSF 0",
+      "seriesTitle": "Lassie",
+      "seasonNumber": 6,
+      "episodeNumber": 7,
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "airtime": "1959-10-18T12:00:00+0100",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP021719810091",
+      "type": "vod",
+      "title": "Die Testfresser",
+      "vodType": "episode",
+      "mainGenre": "Show",
+      "countries": [ "Deutschland" ],
+      "year": 2014,
+      "scenes": [ ],
+      "ageRatingName": "Ab 0 Jahren (FSF)",
+      "ageRatingId": "FSF 0",
+      "seriesTitle": "Süddeutsche Zeitung TV",
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2014-05-01T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP018438720019",
+      "type": "vod",
+      "title": "Frauen im Test",
+      "vodType": "episode",
+      "mainGenre": "Gesellschaft",
+      "countries": [ "Deutschland" ],
+      "year": 2015,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Das Wort zum Sonntag",
+      "partners": [
+        {
+          "name": "ARD",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_ard_icon_farbig-monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2015-06-27T23:20:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019894570083",
+      "type": "vod",
+      "title": "Gangbang Test",
+      "vodType": "episode",
+      "mainGenre": "Comedy",
+      "countries": [ ],
+      "year": 2010,
+      "posterNoTitle": "http://programm-manager.telekom.de/media/gracenote/p8169317_e_v8_ab.jpg",
+      "posterWideNoTitle": "http://programm-manager.telekom.de/media/gracenote/p8169317_e_h10_ab.jpg",
+      "scenes": [ "http://programm-manager.telekom.de/media/gracenote/p8169317_e_h10_ab.jpg" ],
+      "ageRatingName": "Ab 12 Jahren (FSK)",
+      "ageRatingId": "FSK 12",
+      "seriesTitle": "Entourage",
+      "seasonNumber": 7,
+      "episodeNumber": 8,
+      "partners": [
+        {
+          "name": "Sky",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_sky_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "airtime": "2010-08-22T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP022681010015",
+      "type": "vod",
+      "title": "Tessies Mandeln",
+      "vodType": "episode",
+      "mainGenre": "Kinder",
+      "countries": [ "Kanada" ],
+      "year": 2003,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Hippo Hurra",
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2003-06-17T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019817570016",
+      "type": "vod",
+      "title": "Testudo et Lepus",
+      "vodType": "episode",
+      "mainGenre": "Drama",
+      "countries": [ ],
+      "year": 2007,
+      "scenes": [ ],
+      "ageRatingName": "Ab 16 Jahren (FSK)",
+      "ageRatingId": "FSK 16",
+      "seriesTitle": "Rom",
+      "seasonNumber": 2,
+      "episodeNumber": 4,
+      "partners": [
+        {
+          "name": "Sky",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_sky_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "airtime": "2007-02-04T12:00:00+0100",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP014726440021",
+      "type": "vod",
+      "title": "Todlicher Test",
+      "vodType": "episode",
+      "mainGenre": "Krimi",
+      "countries": [ ],
+      "year": 2001,
+      "scenes": [ ],
+      "ageRatingName": "Ab 12 Jahren (FSK)",
+      "ageRatingId": "FSK 12",
+      "seriesTitle": "Kommissar Rex",
+      "seasonNumber": 7,
+      "episodeNumber": 6,
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2001-05-02T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP021721890035",
+      "type": "vod",
+      "title": "Tyrann Tessa",
+      "vodType": "episode",
+      "mainGenre": "Show",
+      "countries": [ "Deutschland" ],
+      "year": 2011,
+      "scenes": [ ],
+      "ageRatingName": "Ab 12 Jahren (FSF)",
+      "ageRatingId": "FSF 12",
+      "seriesTitle": "Die Alm",
+      "seasonNumber": 2,
+      "episodeNumber": 14,
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2011-09-02T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "DuplicateZDF",
+      "type": "tvChannel",
+      "title": "Testkanal D01",
+      "languages": [ "deutsch" ],
+      "genres": [ "Weitere" ]
+    },
+    {
+      "id": "mok-offenbach",
+      "type": "tvChannel",
+      "title": "Testkanal H01",
+      "languages": [ ],
+      "genres": [ "Weitere" ]
+    },
+    {
+      "id": "zdf-ngtv-isims-a",
+      "type": "tvChannel",
+      "title": "Testkanal I01",
+      "languages": [ "deutsch" ],
+      "genres": [ "Weitere" ]
+    },
+    {
+      "id": "zdf-ngtv-isims-b",
+      "type": "tvChannel",
+      "title": "Testkanal I02",
+      "languages": [ "deutsch" ],
+      "genres": [ "Weitere" ]
+    },
+    {
+      "id": "zdf-ngtv-isims-serie",
+      "type": "tvChannel",
+      "title": "Testkanal I03",
+      "languages": [ "deutsch" ],
+      "genres": [ "Weitere" ]
+    },
+    {
+      "id": "test_mc_01",
+      "type": "tvChannel",
+      "title": "Testkanal L01",
+      "languages": [ "deutsch" ],
+      "genres": [ "Weitere" ]
+    },
+    {
+      "id": "test_mc_02",
+      "type": "tvChannel",
+      "title": "Testkanal L02",
+      "languages": [ "deutsch" ],
+      "genres": [ "Weitere" ]
+    },
+    {
+      "id": "test_uc_03",
+      "type": "tvChannel",
+      "title": "Testkanal L03",
+      "languages": [ "deutsch" ],
+      "genres": [ "Weitere" ]
+    },
+    {
+      "id": "test_uc_04",
+      "type": "tvChannel",
+      "title": "Testkanal L04",
+      "languages": [ "deutsch" ],
+      "genres": [ "Weitere" ]
+    },
+    {
+      "id": "validation-921hd",
+      "type": "tvChannel",
+      "title": "Testkanal L05",
+      "languages": [ "deutsch" ],
+      "genres": [ "Weitere" ]
+    },
+    {
+      "id": "tafel-generator",
+      "type": "tvChannel",
+      "title": "Testkanal L06",
+      "languages": [ "deutsch" ],
+      "genres": [ "Weitere" ]
+    },
+    {
+      "id": "Validation-922",
+      "type": "tvChannel",
+      "title": "Testkanal L07",
+      "languages": [ "deutsch" ],
+      "genres": [ "Weitere" ]
+    },
+    {
+      "id": "GN_MV007418600000",
+      "type": "vod",
+      "title": "Last Will and Testament",
+      "vodType": "movie",
+      "duration": 82,
+      "mainGenre": "Horror",
+      "countries": [ "Kanada" ],
+      "year": 2012,
+      "scenes": [ ],
+      "ageRatingName": "Ab 16 Jahren (FSK)",
+      "ageRatingId": "FSK 16",
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodMain",
+      "sourceType": "vodPremium",
+      "category": "main"
+    },
+    {
+      "id": "GN_EP019579470027",
+      "type": "vod",
+      "title": "Blumenerde im Test: Billig gegen teuer",
+      "vodType": "episode",
+      "mainGenre": "Ratgeber",
+      "countries": [ "Deutschland" ],
+      "year": 2015,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Markt",
+      "partners": [
+        {
+          "name": "ARD",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_ard_icon_farbig-monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2015-05-04T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019680760064",
+      "type": "vod",
+      "title": "Tessa: Gefährlicher Besuch",
+      "vodType": "episode",
+      "mainGenre": "Wissen",
+      "countries": [ "Deutschland" ],
+      "year": 2014,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "In Gefahr - Ein verhängnisvoller Moment",
+      "partners": [
+        {
+          "name": "7TV",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_7tv_icon_monochrome.png"
+        },
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2014-09-08T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019378230085",
+      "type": "vod",
+      "title": "Sergeant Tess Dorado",
+      "vodType": "episode",
+      "mainGenre": "Sitcom",
+      "countries": [ "USA" ],
+      "year": 2014,
+      "posterNoTitle": "http://programm-manager.telekom.de/media/gracenote/p11166065_e_v8_aa.jpg",
+      "posterWideNoTitle": "http://programm-manager.telekom.de/media/gracenote/p11166065_e_h10_aa.jpg",
+      "scenes": [ "http://programm-manager.telekom.de/media/gracenote/p11166065_e_h10_aa.jpg" ],
+      "ageRatingName": "Ab 12 Jahren (FSK)",
+      "ageRatingId": "FSK 12",
+      "seriesTitle": "New Girl",
+      "seasonNumber": 4,
+      "episodeNumber": 6,
+      "partners": [
+        {
+          "name": "7TV",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_7tv_icon_monochrome.png"
+        },
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "airtime": "2014-11-04T12:00:00+0100",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP015402710067",
+      "type": "vod",
+      "title": "Testsieger zum Fest",
+      "vodType": "episode",
+      "mainGenre": "Ratgeber",
+      "countries": [ "Deutschland" ],
+      "year": 2015,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "service: trends",
+      "partners": [
+        {
+          "name": "ARD",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_ard_icon_farbig-monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2015-12-16T12:00:00+0100",
+      "category": "series"
+    },
+    {
+      "id": "gnp_300690",
+      "type": "person",
+      "title": "Karoline Teska",
+      "roles": [ "actor" ],
+      "poster": "http://programm-manager.telekom.de/media/gracenote_persons/300690_v9_ba.jpg",
+      "filmography": [
+        {
+          "title": "Eine wie diese",
+          "year": 2015
+        },
+        {
+          "title": "Heute bin ich blond",
+          "year": 2013
+        },
+        {
+          "title": "Für kein Geld der Welt",
+          "year": 2011
+        }
+      ]
+    },
+    {
+      "id": "gnp_55588",
+      "type": "person",
+      "title": "Robert Tessier",
+      "roles": [ "actor" ],
+      "poster": "http://programm-manager.telekom.de/media/gracenote_persons/55588_v9_ba.jpg",
+      "filmography": [
+        {
+          "title": "Police spéciale",
+          "year": 1989
+        },
+        {
+          "title": "Future Force",
+          "year": 1989
+        },
+        {
+          "title": "No Safe Haven",
+          "year": 1989
+        }
+      ]
+    },
+    {
+      "id": "gnp_160480",
+      "type": "person",
+      "title": "Sylvie Testud",
+      "roles": [ "actor", "director" ],
+      "poster": "http://programm-manager.telekom.de/media/gracenote_persons/160480_v9_ba.jpg",
+      "filmography": [
+        {
+          "title": "Le talent de mes amis",
+          "year": 2015
+        },
+        {
+          "title": "Au plus près du soleil",
+          "year": 2015
+        },
+        {
+          "title": "Sous les jupes des filles",
+          "year": 2014
+        }
+      ]
+    },
+    {
+      "id": "gnp_679992",
+      "type": "person",
+      "title": "Tessa Ferrer",
+      "roles": [ "actor" ],
+      "poster": "http://programm-manager.telekom.de/media/gracenote_persons/679992_v9_ba.jpg",
+      "filmography": [
+        {
+          "title": "Abducted",
+          "year": 2013
+        },
+        {
+          "title": "After the Triumph of Your Birth",
+          "year": 2012
+        },
+        {
+          "title": "Extant",
+          "year": 0
+        }
+      ]
+    },
+    {
+      "id": "gnp_779831",
+      "type": "person",
+      "title": "Tessa Mittelstadt",
+      "roles": [ "actor" ],
+      "poster": "http://programm-manager.telekom.de/media/gracenote_persons/779831_v9_ba.jpg",
+      "filmography": [
+        {
+          "title": "Tatort",
+          "year": 0
+        },
+        {
+          "title": "Heiter bis tödlich - Morden im Norden",
+          "year": 0
+        }
+      ]
+    },
+    {
+      "id": "gnp_318030",
+      "type": "person",
+      "title": "Tessa Thompson",
+      "roles": [ "actor" ],
+      "poster": "http://programm-manager.telekom.de/media/gracenote_persons/318030_v9_ba.jpg",
+      "filmography": [
+        {
+          "title": "Creed",
+          "year": 2015
+        },
+        {
+          "title": "Dear White People",
+          "year": 2014
+        },
+        {
+          "title": "Selma",
+          "year": 2014
+        }
+      ]
+    },
+    {
+      "id": "GN_EP019561720214",
+      "type": "vod",
+      "title": "Test-Fall: Kann ich Dir noch vertrauen?",
+      "vodType": "episode",
+      "mainGenre": "Talkshow",
+      "countries": [ "Deutschland" ],
+      "year": 2011,
+      "scenes": [ ],
+      "ageRatingName": "Ab 6 Jahren (FSF)",
+      "ageRatingId": "FSF 6",
+      "seriesTitle": "Britt",
+      "partners": [
+        {
+          "name": "7TV",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_7tv_icon_monochrome.png"
+        },
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2011-02-11T12:00:00+0100",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019561531017",
+      "type": "vod",
+      "title": "Das mysteriöse Testament",
+      "vodType": "episode",
+      "mainGenre": "Reality",
+      "countries": [ "Deutschland" ],
+      "year": 2014,
+      "scenes": [ ],
+      "ageRatingName": "Ab 16 Jahren (FSF)",
+      "ageRatingId": "FSF 16",
+      "seriesTitle": "Lenßen & Partner",
+      "seasonNumber": 3,
+      "episodeNumber": 137,
+      "partners": [
+        {
+          "name": "7TV",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_7tv_icon_monochrome.png"
+        },
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2014-05-01T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP015403480008",
+      "type": "vod",
+      "title": "Ernährungstipps im Test",
+      "vodType": "episode",
+      "mainGenre": "Wissen",
+      "countries": [ "Deutschland" ],
+      "year": 2014,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "W wie Wissen",
+      "partners": [
+        {
+          "name": "ARD",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_ard_icon_farbig-monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2014-10-25T16:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019650350017",
+      "type": "vod",
+      "title": "Gebrauchtwagenhändler im Test",
+      "vodType": "episode",
+      "mainGenre": "Wissen",
+      "countries": [ "Deutschland" ],
+      "year": 2015,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "AKTE",
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2015-11-10T12:00:00+0100",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP020904420396",
+      "type": "vod",
+      "title": "Tessi und das leichte Mädchen",
+      "vodType": "episode",
+      "mainGenre": "Krimi",
+      "countries": [ "Deutschland" ],
+      "year": 2008,
+      "scenes": [ ],
+      "ageRatingName": "Ab 16 Jahren (FSF)",
+      "ageRatingId": "FSF 16",
+      "seriesTitle": "Niedrig und Kuhnt - Kommissare ermitteln",
+      "seasonNumber": 6,
+      "episodeNumber": 32,
+      "partners": [
+        {
+          "name": "7TV",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_7tv_icon_monochrome.png"
+        },
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2008-03-04T12:00:00+0100",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP021719810045",
+      "type": "vod",
+      "title": "Testpiloten - Einsatz am Limit",
+      "vodType": "episode",
+      "mainGenre": "Show",
+      "countries": [ "Deutschland" ],
+      "year": 2009,
+      "scenes": [ ],
+      "ageRatingName": "Ab 0 Jahren (FSF)",
+      "ageRatingId": "FSF 0",
+      "seriesTitle": "Süddeutsche Zeitung TV",
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2009-05-15T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019650350018",
+      "type": "vod",
+      "title": "Versicherungsvertreter im Test",
+      "vodType": "episode",
+      "mainGenre": "Wissen",
+      "countries": [ "Deutschland" ],
+      "year": 2015,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "AKTE",
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2015-10-06T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "groupTypeAdult__8637468055fcc782301c4337b3d74b0c",
+      "type": "group",
+      "title": "Brain Games - Teste Dein Gehirn (6)",
+      "size": 2,
+      "adult": false,
+      "pcon": false,
+      "items": [
+        {
+          "id": "003a820f",
+          "type": "tvBroadcast",
+          "title": "Brain Games - Teste Dein Gehirn (6)",
+          "logicalChannelId": "n-tv",
+          "subtitle": "Kampf der Geschlechter / Illusion Konfussion",
+          "start": "2016-03-17T01:40:00+0100",
+          "end": "2016-03-17T02:25:00+0100",
+          "channelLogo": "http://programm-manager.telekom.de/media/10000181af03838de8256f8ba1782676c058995d.png",
+          "logicalChannelName": "n-tv",
+          "mainGenre": "Wissen",
+          "category": "Information",
+          "countries": [ "USA" ],
+          "year": 2013,
+          "poster": "http://programm-manager.telekom.de/media/bcafffd8627f5d2699a3c4b26f93432e0fdff2b2.jpg",
+          "seriesTitle": "Brain Games",
+          "seasonNumber": 1,
+          "episodeNumber": 6,
+          "ageRatingName": "Keine Alterskennzeichnung",
+          "ageRatingId": "Unbekannt",
+          "instantRestart": true,
+          "cluster": "tv"
+        }
+      ]
+    },
+    {
+      "id": "groupTypeAdult__de357e147e46eff367aefb6dd5b8e193",
+      "type": "group",
+      "title": "Labirint. Podvigi Teseya",
+      "size": 2,
+      "adult": false,
+      "pcon": false,
+      "items": [
+        {
+          "id": "003c501e",
+          "type": "tvBroadcast",
+          "title": "Labirint. Podvigi Teseya",
+          "logicalChannelId": "rtvi",
+          "start": "2016-03-13T06:00:00+0100",
+          "end": "2016-03-13T07:20:00+0100",
+          "channelLogo": "http://programm-manager.telekom.de/media/534329d0a7c483b00adb94cc862d4b60cf82b1bf.png",
+          "logicalChannelName": "RTVI",
+          "mainGenre": "Animation",
+          "category": "Serie",
+          "countries": [ ],
+          "poster": "http://programm-manager.telekom.de/media/bf530611addf697de02b8bbbb730892711f6164c.jpg",
+          "ageRatingName": "Keine Alterskennzeichnung",
+          "ageRatingId": "Unbekannt",
+          "instantRestart": false,
+          "cluster": "tv"
+        }
+      ]
+    },
+    {
+      "id": "003bad02",
+      "type": "tvBroadcast",
+      "title": "XXI Secolo - Testimoni e Protagonisti",
+      "logicalChannelId": "rai-uno",
+      "start": "2016-03-23T03:05:00+0100",
+      "end": "2016-03-23T04:20:00+0100",
+      "channelLogo": "http://programm-manager.telekom.de/media/26ed2e93a504d4b8b04bd990462d1a7975bc186a.png",
+      "logicalChannelName": "Rai Uno",
+      "mainGenre": "Geschichte",
+      "category": "Information",
+      "countries": [ ],
+      "poster": "http://programm-manager.telekom.de/media/d6de157fc001bb5a0f904f2484eb3c6b69e3840b.jpg",
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "instantRestart": false,
+      "cluster": "tv"
+    },
+    {
+      "id": "GN_EP018441730046",
+      "type": "vod",
+      "title": "Der Fastfood Test: Siham isst nur Burger & Co.",
+      "vodType": "episode",
+      "mainGenre": "Kinder",
+      "countries": [ "Deutschland" ],
+      "year": 2013,
+      "scenes": [ ],
+      "ageRatingName": "Ab 6 Jahren (FSF)",
+      "ageRatingId": "FSF 6",
+      "seriesTitle": "neuneinhalb",
+      "partners": [
+        {
+          "name": "ARD",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_ard_icon_farbig-monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2015-09-26T08:25:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019579470035",
+      "type": "vod",
+      "title": "Grillkohle im Test: Womit grillt es sich am besten?",
+      "vodType": "episode",
+      "mainGenre": "Ratgeber",
+      "countries": [ "Deutschland" ],
+      "year": 2015,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Markt",
+      "partners": [
+        {
+          "name": "ARD",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_ard_icon_farbig-monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2015-06-22T20:15:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019923730229",
+      "type": "vod",
+      "title": "Jumbo Schreiner testet: Germanen vs. Römer",
+      "vodType": "episode",
+      "mainGenre": "Show",
+      "countries": [ "Deutschland" ],
+      "year": 2014,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Galileo Genial",
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2014-04-27T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019579470068",
+      "type": "vod",
+      "title": "Semmelknödel im Test: Welche schmecken am besten?",
+      "vodType": "episode",
+      "mainGenre": "Ratgeber",
+      "countries": [ "Deutschland" ],
+      "year": 2015,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Markt",
+      "partners": [
+        {
+          "name": "ARD",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_ard_icon_farbig-monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2015-11-30T20:15:00+0100",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP015402530006",
+      "type": "vod",
+      "title": "Spargel im Test: Wie teuer muss guter Spargel sein?",
+      "vodType": "episode",
+      "mainGenre": "Ratgeber",
+      "countries": [ "Deutschland" ],
+      "year": 2015,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Marktcheck",
+      "partners": [
+        {
+          "name": "ARD",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_ard_icon_farbig-monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2015-04-14T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_MV007418590000",
+      "type": "vod",
+      "title": "The Last Will and Testament of Rosalind Leigh",
+      "vodType": "movie",
+      "duration": 82,
+      "mainGenre": "Horror",
+      "countries": [ "Kanada" ],
+      "year": 2012,
+      "communityRating": 2,
+      "poster": "http://programm-manager.telekom.de/media/gracenote/p9920084_v_v8_aa.jpg",
+      "scenes": [ ],
+      "ageRatingName": "Ab 16 Jahren (FSK)",
+      "ageRatingId": "FSK 16",
+      "partners": [
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodMain",
+      "sourceType": "vodPremium",
+      "category": "main"
+    },
+    {
+      "id": "groupTypeAdult__oaf",
+      "type": "group",
+      "title": "Erwachsenenangebote",
+      "size": 5,
+      "adult": true,
+      "pcon": false
+    },
+    {
+      "id": "GN_SH022088080000",
+      "type": "vod",
+      "title": "Test Südwest - wo lebt sich's wie?",
+      "vodType": "series",
+      "mainGenre": "Verschiedenes",
+      "countries": [ "Deutschland" ],
+      "yearFrom": 2015,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Test Südwest - wo lebt sich's wie?",
+      "partners": [
+        {
+          "name": "ARD",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_ard_icon_farbig-monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2015-07-07T21:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019370400014",
+      "type": "vod",
+      "title": "Der Veranda-Test",
+      "vodType": "episode",
+      "mainGenre": "Sitcom",
+      "countries": [ "USA" ],
+      "year": 2009,
+      "posterNoTitle": "http://programm-manager.telekom.de/media/gracenote/p3152470_e_v7_ab.jpg",
+      "posterWideNoTitle": "http://programm-manager.telekom.de/media/gracenote/p3152470_e_h11_ab.jpg",
+      "scenes": [ "http://programm-manager.telekom.de/media/gracenote/p3152470_e_h11_ab.jpg" ],
+      "ageRatingName": "Ab 12 Jahren (FSK)",
+      "ageRatingId": "FSK 12",
+      "seriesTitle": "How I Met Your Mother",
+      "seasonNumber": 4,
+      "episodeNumber": 17,
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        },
+        {
+          "name": "Sky",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_sky_icon_monochrome.png"
+        },
+        {
+          "name": "Videoload",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_videoload_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "airtime": "2009-03-16T12:00:00+0100",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP012699690015",
+      "type": "vod",
+      "title": "Allrad-Test",
+      "vodType": "episode",
+      "mainGenre": "Auto",
+      "countries": [ "Deutschland" ],
+      "year": 2011,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "auto motor und sport TV",
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2011-05-28T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019680760116",
+      "type": "vod",
+      "title": "Constantin: Der Testpatient",
+      "vodType": "episode",
+      "mainGenre": "Wissen",
+      "countries": [ "Deutschland" ],
+      "year": 2015,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "In Gefahr - Ein verhängnisvoller Moment",
+      "partners": [
+        {
+          "name": "7TV",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_7tv_icon_monochrome.png"
+        },
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "vodPremium",
+      "airtime": "2015-05-11T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019749900057",
+      "type": "vod",
+      "title": "Ein gewisses Maß: Testo in Lenzkirch",
+      "vodType": "episode",
+      "mainGenre": "Dokumentation",
+      "countries": [ "Deutschland" ],
+      "year": 2015,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "made in Südwest",
+      "partners": [
+        {
+          "name": "ARD",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_ard_icon_farbig-monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2015-11-18T18:15:00+0100",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019579470041",
+      "type": "vod",
+      "title": "Fleck weg: Teppichreiniger im Test",
+      "vodType": "episode",
+      "mainGenre": "Ratgeber",
+      "countries": [ "Deutschland" ],
+      "year": 2015,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Markt",
+      "partners": [
+        {
+          "name": "ARD",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_ard_icon_farbig-monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2015-08-03T20:15:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019579470032",
+      "type": "vod",
+      "title": "Scharf und beliebt: Pfeffer im Test",
+      "vodType": "episode",
+      "mainGenre": "Ratgeber",
+      "countries": [ "Deutschland" ],
+      "year": 2015,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Markt",
+      "partners": [
+        {
+          "name": "ARD",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_ard_icon_farbig-monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2015-06-08T20:15:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019650350022",
+      "type": "vod",
+      "title": "Spezial: Die besten Tests",
+      "vodType": "episode",
+      "mainGenre": "Wissen",
+      "countries": [ "Deutschland" ],
+      "year": 2016,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "AKTE",
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2016-01-26T12:00:00+0100",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019560060012",
+      "type": "vod",
+      "title": "Thema u. a.: Küchengadgets im Test",
+      "vodType": "episode",
+      "mainGenre": "Wissen",
+      "countries": [ "Deutschland" ],
+      "year": 2014,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Abenteuer Leben - täglich neu entdecken",
+      "partners": [
+        {
+          "name": "7TV",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_7tv_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2014-09-05T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019651180081",
+      "type": "vod",
+      "title": "Thema u.a.: Bratpfannen im Test",
+      "vodType": "episode",
+      "mainGenre": "Wissen",
+      "countries": [ "Deutschland" ],
+      "year": 2013,
+      "scenes": [ ],
+      "ageRatingName": "Ab 6 Jahren (FSF)",
+      "ageRatingId": "FSF 6",
+      "seriesTitle": "Gesund & lecker",
+      "seasonNumber": 1,
+      "episodeNumber": 77,
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2013-05-13T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP019651180090",
+      "type": "vod",
+      "title": "Thema u.a.: Kaffeevollautomaten im Test",
+      "vodType": "episode",
+      "mainGenre": "Wissen",
+      "countries": [ "Deutschland" ],
+      "year": 2013,
+      "scenes": [ ],
+      "ageRatingName": "Ab 6 Jahren (FSF)",
+      "ageRatingId": "FSF 6",
+      "seriesTitle": "Gesund & lecker",
+      "seasonNumber": 1,
+      "episodeNumber": 88,
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        },
+        {
+          "name": "7TV",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_7tv_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2013-06-03T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP015402530008",
+      "type": "vod",
+      "title": "Deosprays im Test: Gut geschützt vor Schweißgeruch?",
+      "vodType": "episode",
+      "mainGenre": "Ratgeber",
+      "countries": [ "Deutschland" ],
+      "year": 2015,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Marktcheck",
+      "partners": [
+        {
+          "name": "ARD",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_ard_icon_farbig-monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2015-07-14T20:15:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_EP015631620015",
+      "type": "vod",
+      "title": "Traditionsgemüse Spargel im Test: Woran erkennt man gute Qualität?",
+      "vodType": "episode",
+      "mainGenre": "Dokumentation",
+      "countries": [ "Deutschland" ],
+      "year": 2015,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Der Vorkoster",
+      "seasonNumber": 8,
+      "episodeNumber": 56,
+      "partners": [
+        {
+          "name": "ARD",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_ard_icon_farbig-monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2015-05-22T21:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_MV007887130000",
+      "type": "vod",
+      "title": "Die Treue-Testerin: Spezialauftrag Liebe",
+      "vodType": "movie",
+      "duration": 90,
+      "mainGenre": "Comedy",
+      "countries": [ "Deutschland" ],
+      "year": 2008,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodOther",
+      "sourceType": "tvArchive",
+      "category": "other"
+    },
+    {
+      "id": "GN_SH023729820000",
+      "type": "vod",
+      "title": "Die Wahl bei uns: Wir testen - Sie wählen!",
+      "vodType": "movie",
+      "mainGenre": "Verschiedenes",
+      "countries": [ "Deutschland" ],
+      "year": 2016,
+      "posterWide": "http://programm-manager.telekom.de/media/gracenote/p12632445_b_h10_aa.jpg",
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "partners": [
+        {
+          "name": "ARD",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_ard_icon_farbig-monochrome.png"
+        }
+      ],
+      "cluster": "vodOther",
+      "sourceType": "tvArchive",
+      "airtime": "2016-02-24T18:15:00+0100",
+      "category": "other"
+    },
+    {
+      "id": "GN_SH020579240000",
+      "type": "vod",
+      "title": "Teuer oder Billig - wir testen die Besten! Weihnachtsspecial",
+      "vodType": "movie",
+      "mainGenre": "Verschiedenes",
+      "countries": [ "Deutschland" ],
+      "year": 2014,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "partners": [
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodOther",
+      "sourceType": "tvArchive",
+      "airtime": "2014-12-09T12:00:00+0100",
+      "category": "other"
+    },
+    {
+      "id": "GN_SH019692540000",
+      "type": "vod",
+      "title": "Teuer oder Billig - wir testen die Besten!",
+      "vodType": "series",
+      "mainGenre": "Wissen",
+      "countries": [ "Deutschland" ],
+      "yearFrom": 2013,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Teuer oder Billig - wir testen die Besten!",
+      "partners": [
+        {
+          "name": "7TV",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_7tv_icon_monochrome.png"
+        },
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2013-08-20T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "GN_SH019692540000_1",
+      "type": "vod",
+      "title": "Teuer oder Billig - wir testen die Besten!",
+      "vodType": "season",
+      "mainGenre": "Wissen",
+      "countries": [ "Deutschland" ],
+      "year": 2013,
+      "scenes": [ ],
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "seriesTitle": "Teuer oder Billig - wir testen die Besten!",
+      "seasonNumber": 1,
+      "episodeCount": 7,
+      "partners": [
+        {
+          "name": "7TV",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_7tv_icon_monochrome.png"
+        },
+        {
+          "name": "maxdome",
+          "logo": "http://programm-manager.telekom.de/media/partners/48x48_maxdome_icon_monochrome.png"
+        }
+      ],
+      "cluster": "vodSeries",
+      "sourceType": "tvArchive",
+      "airtime": "2013-08-20T12:00:00+0200",
+      "category": "series"
+    },
+    {
+      "id": "003a8d71",
+      "type": "tvBroadcast",
+      "title": "Service-Team Deutschland - Wir testen für Sie!",
+      "logicalChannelId": "sat.1-gold",
+      "start": "2016-03-16T21:05:45+0100",
+      "end": "2016-03-16T21:56:51+0100",
+      "channelLogo": "http://programm-manager.telekom.de/media/cb3143ff25a9c655482603589e527db47e13daf1.png",
+      "logicalChannelName": "Sat.1 Gold",
+      "mainGenre": "Ratgeber",
+      "category": "Information",
+      "countries": [ "Deutschland" ],
+      "year": 2016,
+      "poster": "http://programm-manager.telekom.de/media/7c8a54725af9fcc51c81d015bf17ac4c02ec696a.jpg",
+      "seriesTitle": "Service-Team Deutschland - Wir testen für Sie!",
+      "seasonNumber": 1,
+      "episodeNumber": 0,
+      "ageRatingName": "Keine Alterskennzeichnung",
+      "ageRatingId": "Unbekannt",
+      "instantRestart": true,
+      "cluster": "tv"
+    }
+  ]
+}

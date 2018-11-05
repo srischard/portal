@@ -1,0 +1,153 @@
+{
+    "totalItems": 12,
+    "totalGroups": 12,
+    "offset": 0,
+    "sort": "relevance",
+    "navigators": [],
+    "results": [
+        {
+            "id": "epgdupl-06_achtzehn_das-erste",
+            "type": "tvChannel",
+            "title": "Metadata_EPG 06_Achtzehn_Das Erste",
+            "languages": [
+                "Deutsch"
+            ],
+            "genres": [
+                "Weitere"
+            ],
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/87a3d62162285a94f7f5313c508098179eb1e9c5.png"
+        },
+        {
+            "id": "prodrightsdupl-02_arte",
+            "type": "tvChannel",
+            "title": "ProdRightsDupl 02_ARTE",
+            "languages": [
+                "Deutsch",
+                "Französisch"
+            ],
+            "genres": [
+                "News | Doku | Kultur"
+            ],
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/e3ccada3386672f3d6b206feb71cd120425fcd34.png"
+        },
+        {
+            "id": "prodrightsdupl_low-02_arte",
+            "type": "tvChannel",
+            "title": "ProdRightsDupl_low 02_ARTE",
+            "languages": [
+                "Deutsch",
+                "Französisch"
+            ],
+            "genres": [
+                "News | Doku | Kultur"
+            ],
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/e3ccada3386672f3d6b206feb71cd120425fcd34.png"
+        },
+        {
+            "id": "prodstreams-02_055_arte",
+            "type": "tvChannel",
+            "title": "ProdStreams 02_055_ARTE",
+            "languages": [
+                "Deutsch",
+                "Französisch"
+            ],
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/e3ccada3386672f3d6b206feb71cd120425fcd34.png"
+        },
+        {
+            "id": "prodstreams-08_700_skyatlantic",
+            "type": "tvChannel",
+            "title": "ProdStreams 08_700_SkyAtlantic",
+            "languages": [
+                "Deutsch",
+                "Englisch"
+            ],
+            "genres": [
+                "Spielfilme | Serien"
+            ],
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/2213910dcb2e67f55035bb0e319b36b6a9fc039d.png"
+        },
+        {
+            "id": "prodstreams-09_260_auto-motor-und-sport",
+            "type": "tvChannel",
+            "title": "ProdStreams 09_260_auto motor und sport",
+            "languages": [
+                "Deutsch"
+            ],
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/07dcc3c20c2cc9b9c6f02ebd8ecb269f0711118d.png"
+        },
+        {
+            "id": "projekt_geronimo_hd_audiotesting",
+            "type": "tvChannel",
+            "title": "Projekt_Geronimo_HD_AudioTesting",
+            "languages": [
+                "Deutsch"
+            ],
+            "genres": [
+                "Weitere"
+            ],
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/107ba0bd9fda5186974110ceaf9a7dcf53f180a8.png"
+        },
+        {
+            "id": "sidupl-01_siepg-a_das-erste",
+            "type": "tvChannel",
+            "title": "Metadata_SI 01_SI+EPG A_Das Erste",
+            "languages": [
+                "Deutsch"
+            ],
+            "genres": [
+                "Weitere"
+            ],
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/11f0ce7e5e8dc755b65c126bde39c13d9d5f6a87.png"
+        },
+        {
+            "id": "specialrightsdupl-02_arte",
+            "type": "tvChannel",
+            "title": "SpecialRightsDupl 02_ARTE",
+            "languages": [
+                "Deutsch",
+                "Französisch"
+            ],
+            "genres": [
+                "News | Doku | Kultur"
+            ],
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/e3ccada3386672f3d6b206feb71cd120425fcd34.png"
+        },
+        {
+            "id": "specialrightsdupl_srvprm-02_arte",
+            "type": "tvChannel",
+            "title": "SpecialRightsDupl_SrvPrm 02_ARTE",
+            "languages": [
+                "Deutsch",
+                "Französisch"
+            ],
+            "genres": [
+                "News | Doku | Kultur"
+            ],
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/e3ccada3386672f3d6b206feb71cd120425fcd34.png"
+        },
+        {
+            "id": "specialstreams_isims-a_zdf",
+            "type": "tvChannel",
+            "title": "Metadata_ISIMS A_ZDF",
+            "languages": [
+                "Deutsch"
+            ],
+            "genres": [
+                "Weitere"
+            ],
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/42b8f6d083f9dfbf0d37958c68b506171f31f7f0.png"
+        },
+        {
+            "id": "specialstreams_isims-serie_zdf",
+            "type": "tvChannel",
+            "title": "Metadata_ISIMS Serie A_ZDF",
+            "languages": [
+                "Deutsch"
+            ],
+            "genres": [
+                "Weitere"
+            ],
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/f8376cfaa9cea588ddd44517ebf709f548a89d3d.png"
+        }
+    ]
+}

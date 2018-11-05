@@ -1,0 +1,36 @@
+{
+	"totalItems": 1,
+	"totalGroups": 1,
+	"offset": 0,
+	"sort": "id_asc",
+	"navigators": [{
+			"id": "type",
+			"name": "Inhaltstyp",
+			"entries": [{
+					"id": "person",
+					"name": "Personen",
+					"size": 1
+				}
+			]
+		}
+	],
+	"results": [{
+			"id": "gnp_16490",
+			"type": "person",
+			"title": "J.K. Simmons",
+			"roles": ["actor", "host", "voice"],
+			"poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote_persons/72076_v9_ba.jpg",
+			"filmography": [{
+					"title": "Justice League",
+					"year": 2017
+				}, {
+					"title": "Renegades",
+					"year": 2017
+				}, {
+					"title": "Father Figures",
+					"year": 2017
+				}
+			]
+		}
+	]
+}

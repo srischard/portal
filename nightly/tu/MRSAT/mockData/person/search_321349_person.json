@@ -1,0 +1,44 @@
+{
+    "totalItems": 1,
+    "totalGroups": 1,
+    "offset": 0,
+    "sort": "id_asc",
+    "navigators": [
+        {
+            "id": "type",
+            "name": "Inhaltstyp",
+            "entries": [
+                {
+                    "id": "person",
+                    "name": "Personen",
+                    "size": 1
+                }
+            ]
+        }
+    ],
+    "results": [
+        {
+            "id": "gnp_321349",
+            "type": "person",
+            "title": "Riki Lindhome",
+            "roles": [
+                "actor"
+            ],
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote_persons/321349_v9_ba.jpg",
+            "filmography": [
+                {
+                    "title": "Nerdland",
+                    "year": 2016
+                },
+                {
+                    "title": "The Dramatics: A Comedy",
+                    "year": 2015
+                },
+                {
+                    "title": "Hell Baby",
+                    "year": 2013
+                }
+            ]
+        }
+    ]
+}

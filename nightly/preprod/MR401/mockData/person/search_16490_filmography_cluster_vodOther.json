@@ -1,0 +1,52 @@
+{
+	"totalItems": 1,
+	"totalGroups": 1,
+	"offset": 0,
+	"sort": "airtime_default",
+	"navigators": [
+		{
+			"id": "cluster",
+			"name": "Cluster",
+			"entries": [
+				{
+					"id": "vodOther",
+					"name": "unkategorisiertes Video",
+					"size": 1
+				}
+			]
+		}
+	],
+	"results": [
+		{
+			"id": "GN_MV009042290000",
+			"type": "vod",
+			"title": "Hard Lessons - In der Hitze der Gewalt",
+			"vodType": "movie",
+			"duration": 94,
+			"mainGenre": "Drama",
+			"countries": [
+				"USA"
+			],
+			"year": 1986,
+			"poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p47839_v_v8_aa.jpg",
+			"posterWide": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p47839_i_h12_aa.jpg",
+			"posterNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p47839_i_v7_aa.jpg",
+			"posterWideNoTitle": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p47839_i_h12_aa.jpg",
+			"scenes": [],
+			"ageRatingName": "Ab 12 Jahren (FSK)",
+			"ageRatingId": "FSK 12",
+			"partners": [
+				{
+					"name": "Maxdome",
+					"logo": "http://epgpm-sl0.ver.sda.t-online.de/media/34dc487dada6dcfd0556e38de4a1857aa0fdb51e.png"
+				}
+			],
+			"cluster": "vodOther",
+			"sourceType": "tvArchive",
+			"category": "other",
+			"qualities": [
+				"SD"
+			]
+		}
+	]
+}

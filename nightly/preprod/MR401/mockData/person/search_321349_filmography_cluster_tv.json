@@ -1,0 +1,108 @@
+{
+    "totalItems": 5,
+    "totalGroups": 3,
+    "offset": 0,
+    "sort": "airtime_default",
+    "navigators": [
+        {
+            "id": "cluster",
+            "name": "Cluster",
+            "entries": [
+                {
+                    "id": "tv",
+                    "name": "TV Sendung",
+                    "size": 5
+                }
+            ]
+        }
+    ],
+    "results": [
+        {
+            "id": "groupCluster16Adult__b6dba10eec533c14f6314b892a15ea79",
+            "type": "group",
+            "title": "The Big Bang Theory",
+            "size": 2,
+            "items": [
+                {
+                    "id": "0030c24f",
+                    "type": "tvBroadcast",
+                    "title": "The Big Bang Theory",
+                    "logicalChannelId": "top8_prosieben",
+                    "subtitle": "Das Cooper-Nowitzki Theorem",
+                    "start": "2016-12-05T15:38:09+0100",
+                    "end": "2016-12-05T16:04:33+0100",
+                    "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/8e831f2ff9fea1c5ba162e7628ebe9d59b23f4c8.png",
+                    "logicalChannelName": "Top8_ProSieben",
+                    "mainGenre": "Sitcom",
+                    "category": "Serie",
+                    "countries": [
+                        "USA"
+                    ],
+                    "year": 2008,
+                    "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p3358670_e_h10_aa.jpg",
+                    "seriesTitle": "The Big Bang Theory",
+                    "seasonNumber": 2,
+                    "episodeNumber": 6,
+                    "ageRatingName": "Keine Altersangabe",
+                    "ageRatingId": "Unbekannt",
+                    "instantRestart": true,
+                    "cluster": "tv"
+                }
+            ]
+        },
+        {
+            "id": "groupCluster16Adult__dce61cf387e14325df1518ba92756783",
+            "type": "group",
+            "title": "Powder Blue - Am Ende bleibt Liebe",
+            "size": 2,
+            "items": [
+                {
+                    "id": "003171fa",
+                    "type": "tvBroadcast",
+                    "title": "Powder Blue - Am Ende bleibt Liebe",
+                    "logicalChannelId": "specialstreams_permanentsubt-03_tv5",
+                    "start": "2016-12-15T01:55:00+0100",
+                    "end": "2016-12-15T03:33:00+0100",
+                    "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/4a09035cba49f1164b80f8fe322278fd7788db9f.png",
+                    "logicalChannelName": "SpecialStreams_permanentSubt 03_TV5",
+                    "mainGenre": "Drama",
+                    "category": "Spielfilm",
+                    "countries": [
+                        "USA"
+                    ],
+                    "year": 2009,
+                    "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p3495336_i_h10_aa.jpg",
+                    "ageRatingName": "Ab 12 Jahren",
+                    "ageRatingId": "Andere 12",
+                    "instantRestart": true,
+                    "cluster": "tv"
+                }
+            ]
+        },
+        {
+            "id": "0031a7d5",
+            "type": "tvBroadcast",
+            "title": "The Muppets",
+            "logicalChannelId": "top8_prosieben",
+            "subtitle": "Zickenterror",
+            "start": "2016-12-17T14:25:00+0100",
+            "end": "2016-12-17T14:55:00+0100",
+            "channelLogo": "http://epgpm-sl0.ver.sda.t-online.de/media/8e831f2ff9fea1c5ba162e7628ebe9d59b23f4c8.png",
+            "logicalChannelName": "Top8_ProSieben",
+            "mainGenre": "Comedy",
+            "category": "Serie",
+            "countries": [
+                "USA"
+            ],
+            "year": 2015,
+            "poster": "http://epgpm-sl0.ver.sda.t-online.de/media/gracenote/p12217612_e_h10_aa.jpg",
+            "seriesTitle": "The Muppets",
+            "seasonNumber": 1,
+            "episodeNumber": 5,
+            "ageRatingName": "Ab 6 Jahren",
+            "ageRatingId": "Andere 6",
+            "instantRestart": true,
+            "cluster": "tv"
+        }
+    ]
+}
