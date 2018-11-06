@@ -1,5 +1,41 @@
 [
 	{
+		"id": "9b4a43f9",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/01/170126_nachtschicht_engel_neo/6/170126_nachtschicht_engel_neo_1496k_p13v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 3
+	},
+	{
+		"id": "96628a65",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/01/170126_nachtschicht_engel_neo/6/170126_nachtschicht_engel_neo_476k_p9v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 2
+	},
+	{
+		"id": "d33a9c1d",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/01/170126_nachtschicht_engel_neo/6/170126_nachtschicht_engel_neo_229k_p7v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
+		"id": "c911227a",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/11/161122_querschlaeger_koh/5/161122_querschlaeger_koh_1496k_p13v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 3
+	},
+	{
+		"id": "4a21d8e6",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/11/161122_querschlaeger_koh/5/161122_querschlaeger_koh_476k_p9v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 2
+	},
+	{
+		"id": "c8809d7e",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/11/161122_querschlaeger_koh/5/161122_querschlaeger_koh_229k_p7v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
 		"id": "1c7b0d78",
 		"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/17/07/170718_2245_sendung_dks/5/170718_2245_sendung_dks_1496k_p13v13.mp4",
 		"video3dFormat": 0,
@@ -68,42 +104,6 @@
 	{
 		"id": "3da8ea59",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/05/170527_2015_sendung_dkm/6/170527_2015_sendung_dkm_229k_p7v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "f7026895",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181104_2015_sendung_sof/3/181104_2015_sendung_sof_1496k_p13v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 3
-	},
-	{
-		"id": "be3199d3",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181104_2015_sendung_sof/3/181104_2015_sendung_sof_776k_p11v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 2
-	},
-	{
-		"id": "22816dd3",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181104_2015_sendung_sof/3/181104_2015_sendung_sof_476k_p9v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "7a54c595",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181103_2015_sendung_wil/3/181103_2015_sendung_wil_1496k_p13v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 3
-	},
-	{
-		"id": "edfe85d3",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181103_2015_sendung_wil/3/181103_2015_sendung_wil_776k_p11v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 2
-	},
-	{
-		"id": "87f02ed3",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181103_2015_sendung_wil/3/181103_2015_sendung_wil_476k_p9v14.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
@@ -180,6 +180,18 @@
 		"videoDefinition": 1
 	},
 	{
+		"id": "d33a9c1d",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/01/170126_nachtschicht_engel_neo/6/170126_nachtschicht_engel_neo_229k_p7v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
+		"id": "c8809d7e",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/11/161122_querschlaeger_koh/5/161122_querschlaeger_koh_229k_p7v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
 		"id": "c19b28bc",
 		"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/17/07/170718_2245_sendung_dks/5/170718_2245_sendung_dks_229k_p7v13.mp4",
 		"video3dFormat": 0,
@@ -200,18 +212,6 @@
 	{
 		"id": "3da8ea59",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/05/170527_2015_sendung_dkm/6/170527_2015_sendung_dkm_229k_p7v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "22816dd3",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181104_2015_sendung_sof/3/181104_2015_sendung_sof_476k_p9v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "87f02ed3",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181103_2015_sendung_wil/3/181103_2015_sendung_wil_476k_p9v14.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
