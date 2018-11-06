@@ -10,7 +10,48 @@
     <script src="src/src-thirdparty/script/intl/dist/Intl.min.js"></script>
     <script src="src/src-thirdparty/script/intl/locale-data/jsonp/de.js"></script>
     <script src="src/src-thirdparty/script/intl/locale-data/jsonp/en.js"></script>
-    <script src="src/src-thirdparty/script/requirejs/require.js" data-main="config.js"></script>
+    <script src="src/src-thirdparty/script/requirejs/require.js"></script>
+
+    <script>
+
+        console.info(`loading application files and code ...`);
+
+        window.__portalStartTime = Date.now();
+
+        var requireLibsRoot = "src/src-thirdparty/script/";
+        var devEnv = location.host.indexOf("localhost") !== -1;
+
+        require.config({
+            paths: {
+                "bluebird": requireLibsRoot + "bluebird/bluebird.min",
+                "core-js": requireLibsRoot + "core-js/core-js-custom.min",
+                "jssha": requireLibsRoot + "jssha/sha",
+                "lokijs": requireLibsRoot + "lokijs/lokijs.min",
+                "moment": requireLibsRoot + (devEnv ? "moment/moment" : "moment/moment.min"),
+                "prop-types": requireLibsRoot + (devEnv ? "prop-types/prop-types" : "prop-types/prop-types.min"),
+                "react": requireLibsRoot + (devEnv ? "react/umd/react.development" : "react/umd/react.production.min"),
+                "react-dom": requireLibsRoot + (devEnv ? "react-dom/umd/react-dom.development" : "react-dom/umd/react-dom.production.min"),
+                "react-intl": requireLibsRoot + (devEnv ? "react-intl/dist/react-intl" : "react-intl/dist/react-intl.min"),
+                "react-intl/locale-data": requireLibsRoot + "react-intl/locale-data",
+                "react-redux": requireLibsRoot + (devEnv ? "react-redux/dist/react-redux" : "react-redux/dist/react-redux.min"),
+                "react-transition-group": requireLibsRoot + (devEnv ? "react-transition-group/dist/react-transition-group" : "react-transition-group/dist/react-transition-group.min"),
+                "redux": requireLibsRoot + (devEnv ? "redux/dist/redux" : "redux/dist/redux.min"),
+                "text": requireLibsRoot + "requirejs/text",
+                "underscore": requireLibsRoot + (devEnv ? "underscore/underscore" : "underscore/underscore-min"),
+                "URIjs": requireLibsRoot + "urijs",
+                "zosaJS": ["file:///usr/share/zosa/zosa", requireLibsRoot + "zenterio/zosa"]
+            },
+            shim: {
+                zosaJS: {
+                    exports: "Zosa"
+                }
+            },
+            waitSeconds: 30
+        });
+
+        require(["config"], function (config) { });
+
+    </script>
 
     <!-- This style is required by the player objects. Otherwise the events will not work! -->
     <style type="text/css">
@@ -28,7 +69,7 @@
     <object type="application/x-jszac" id="zacPluginObject" visibility="hidden" width="1" height="1" style="position: absolute; visibility: hidden;"></object>
 
     <div style="left: 0; top: 0">
-            <div class="react-root" id="react-root"></div>
+        <div class="react-root" id="react-root"></div>
     </div>
 
 </body>
