@@ -1,5 +1,77 @@
 [
 	{
+		"id": "2f9abd34",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/10/181030_181108_2015_sendung_alp/3/181030_181108_2015_sendung_alp_1496k_p13v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 3
+	},
+	{
+		"id": "bacb8072",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/10/181030_181108_2015_sendung_alp/3/181030_181108_2015_sendung_alp_776k_p11v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 2
+	},
+	{
+		"id": "451efd2",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/10/181030_181108_2015_sendung_alp/3/181030_181108_2015_sendung_alp_476k_p9v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
+		"id": "94d85500",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/02/160217_nackt_netz_wilsberg_neo/11/160217_nackt_netz_wilsberg_neo_1456k_p13v12.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 3
+	},
+	{
+		"id": "76b16254",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/02/160217_nackt_netz_wilsberg_neo/11/160217_nackt_netz_wilsberg_neo_436k_p9v12.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 2
+	},
+	{
+		"id": "39004d21",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/02/160217_nackt_netz_wilsberg_neo/11/160217_nackt_netz_wilsberg_neo_189k_p7v12.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
+		"id": "c64748b4",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181107_2015_sendung_fdw_neu/2/181107_2015_sendung_fdw_neu_1496k_p13v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 3
+	},
+	{
+		"id": "e70bd7f2",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181107_2015_sendung_fdw_neu/2/181107_2015_sendung_fdw_neu_776k_p11v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 2
+	},
+	{
+		"id": "42e92252",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181107_2015_sendung_fdw_neu/2/181107_2015_sendung_fdw_neu_476k_p9v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
+		"id": "7d9eaeb8",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/03/170315_gnadenlos_ete/5/170315_gnadenlos_ete_1496k_p13v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 3
+	},
+	{
+		"id": "f19d8624",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/03/170315_gnadenlos_ete/5/170315_gnadenlos_ete_476k_p9v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 2
+	},
+	{
+		"id": "13be307c",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/03/170315_gnadenlos_ete/5/170315_gnadenlos_ete_229k_p7v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
 		"id": "9b4a43f9",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/01/170126_nachtschicht_engel_neo/6/170126_nachtschicht_engel_neo_1496k_p13v13.mp4",
 		"video3dFormat": 0,
@@ -32,78 +104,6 @@
 	{
 		"id": "c8809d7e",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/11/161122_querschlaeger_koh/5/161122_querschlaeger_koh_229k_p7v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "1c7b0d78",
-		"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/17/07/170718_2245_sendung_dks/5/170718_2245_sendung_dks_1496k_p13v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 3
-	},
-	{
-		"id": "640b30e4",
-		"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/17/07/170718_2245_sendung_dks/5/170718_2245_sendung_dks_476k_p9v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 2
-	},
-	{
-		"id": "c19b28bc",
-		"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/17/07/170718_2245_sendung_dks/5/170718_2245_sendung_dks_229k_p7v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "33879eb4",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181105_2015_sendung_fdw_neu/2/181105_2015_sendung_fdw_neu_1496k_p13v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 3
-	},
-	{
-		"id": "9f525cf2",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181105_2015_sendung_fdw_neu/2/181105_2015_sendung_fdw_neu_776k_p11v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 2
-	},
-	{
-		"id": "6bdf3d52",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181105_2015_sendung_fdw_neu/2/181105_2015_sendung_fdw_neu_476k_p9v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "51c79a79",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/07/180702_2015_sendung_fdw/8/180702_2015_sendung_fdw_1496k_p13v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 3
-	},
-	{
-		"id": "a3e2f9bf",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/07/180702_2015_sendung_fdw/8/180702_2015_sendung_fdw_776k_p11v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 2
-	},
-	{
-		"id": "6eaf4c7f",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/07/180702_2015_sendung_fdw/8/180702_2015_sendung_fdw_476k_p9v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "3ab9f03d",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/05/170527_2015_sendung_dkm/6/170527_2015_sendung_dkm_1496k_p13v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 3
-	},
-	{
-		"id": "dfe5d0a1",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/05/170527_2015_sendung_dkm/6/170527_2015_sendung_dkm_476k_p9v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 2
-	},
-	{
-		"id": "3da8ea59",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/05/170527_2015_sendung_dkm/6/170527_2015_sendung_dkm_229k_p7v13.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
@@ -180,6 +180,30 @@
 		"videoDefinition": 1
 	},
 	{
+		"id": "451efd2",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/10/181030_181108_2015_sendung_alp/3/181030_181108_2015_sendung_alp_476k_p9v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
+		"id": "39004d21",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/02/160217_nackt_netz_wilsberg_neo/11/160217_nackt_netz_wilsberg_neo_189k_p7v12.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
+		"id": "42e92252",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181107_2015_sendung_fdw_neu/2/181107_2015_sendung_fdw_neu_476k_p9v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
+		"id": "13be307c",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/03/170315_gnadenlos_ete/5/170315_gnadenlos_ete_229k_p7v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
 		"id": "d33a9c1d",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/01/170126_nachtschicht_engel_neo/6/170126_nachtschicht_engel_neo_229k_p7v13.mp4",
 		"video3dFormat": 0,
@@ -188,30 +212,6 @@
 	{
 		"id": "c8809d7e",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/11/161122_querschlaeger_koh/5/161122_querschlaeger_koh_229k_p7v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "c19b28bc",
-		"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/17/07/170718_2245_sendung_dks/5/170718_2245_sendung_dks_229k_p7v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "6bdf3d52",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181105_2015_sendung_fdw_neu/2/181105_2015_sendung_fdw_neu_476k_p9v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "6eaf4c7f",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/07/180702_2015_sendung_fdw/8/180702_2015_sendung_fdw_476k_p9v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "3da8ea59",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/05/170527_2015_sendung_dkm/6/170527_2015_sendung_dkm_229k_p7v13.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},

@@ -5,19 +5,8 @@
                 // layer e.g. "root" are already stripped from the focus path
                 // UI20 
                 {
-                        "regex": "^mainmenu_(\\d*)::grid::lane_(\\d*)", // UI10 ^discoveryHubContainer",
-                        "replace": "Catalog_X::Grid_X::Lane_$2", // strip menucounter
-                        "lvl2id": 9 // hubs
-                },
-                {
-                        "regex": "^mainmenu_(\\d*)::stage",
-                        "replace": "Catalog_X::Stage_X", // selected menu index missing
-                        "lvl2id": 9 // hubs
-                },
-                {
-                        "regex": "^mainmenu_(\\d*)::menuitems",
-                        "replace": "Catalog_X::Menu", // strip menucounter
-                        "lvl2id": 9 // hubs
+                        "regex": "^mainmenu_(\\d*)", // catalog & structured grids
+                        "disabled": true // skip for focus engine because page has a manual tracking
                 },
                 {
                         "regex": "^vodUnstructuredGrid_(\\d*)",
@@ -125,7 +114,7 @@
                         "replace": "Grid::$1",
                         "lvl2id": 10
                 },
-                { 
+                {
                         "regex": "^channeloverlay",
                         "replace": "Channel Overlay",
                         "lvl2id": 10
