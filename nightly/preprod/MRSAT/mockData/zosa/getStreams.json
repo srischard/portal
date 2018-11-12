@@ -1,5 +1,95 @@
 [
 	{
+		"id": "dfdc5593",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181112_2015_sendung_neu_fdw/5/181112_2015_sendung_neu_fdw_1496k_p13v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 3
+	},
+	{
+		"id": "da202f55",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181112_2015_sendung_neu_fdw/5/181112_2015_sendung_neu_fdw_776k_p11v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 2
+	},
+	{
+		"id": "f0a62515",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181112_2015_sendung_neu_fdw/5/181112_2015_sendung_neu_fdw_476k_p9v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
+		"id": "caf7d5d3",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/04/180423_2015_sendung_fdw/6/180423_2015_sendung_fdw_1496k_p13v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 3
+	},
+	{
+		"id": "6b6b1d4f",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/04/180423_2015_sendung_fdw/6/180423_2015_sendung_fdw_476k_p9v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 2
+	},
+	{
+		"id": "c5fb3bf7",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/04/180423_2015_sendung_fdw/6/180423_2015_sendung_fdw_229k_p7v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
+		"id": "6d074232",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181111_2015_sendung_sof/4/181111_2015_sendung_sof_1496k_p13v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 3
+	},
+	{
+		"id": "2f2c97f4",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181111_2015_sendung_sof/4/181111_2015_sendung_sof_776k_p11v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 2
+	},
+	{
+		"id": "a00c7314",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181111_2015_sendung_sof/4/181111_2015_sendung_sof_476k_p9v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
+		"id": "f9d195d2",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/05/160514_das_schwarze_zimmer_ps_bel/5/160514_das_schwarze_zimmer_ps_bel_1456k_p13v12.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 3
+	},
+	{
+		"id": "76ad686",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/05/160514_das_schwarze_zimmer_ps_bel/5/160514_das_schwarze_zimmer_ps_bel_436k_p9v12.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 2
+	},
+	{
+		"id": "bd2c4793",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/05/160514_das_schwarze_zimmer_ps_bel/5/160514_das_schwarze_zimmer_ps_bel_189k_p7v12.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
+		"id": "23bc4632",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181110_2015_sendung_str/4/181110_2015_sendung_str_1496k_p13v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 3
+	},
+	{
+		"id": "78a2f0f4",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181110_2015_sendung_str/4/181110_2015_sendung_str_776k_p11v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 2
+	},
+	{
+		"id": "c3f45b14",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181110_2015_sendung_str/4/181110_2015_sendung_str_476k_p9v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
 		"id": "2f9abd34",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/10/181030_181108_2015_sendung_alp/3/181030_181108_2015_sendung_alp_1496k_p13v14.mp4",
 		"video3dFormat": 0,
@@ -14,96 +104,6 @@
 	{
 		"id": "451efd2",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/10/181030_181108_2015_sendung_alp/3/181030_181108_2015_sendung_alp_476k_p9v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "94d85500",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/02/160217_nackt_netz_wilsberg_neo/11/160217_nackt_netz_wilsberg_neo_1456k_p13v12.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 3
-	},
-	{
-		"id": "76b16254",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/02/160217_nackt_netz_wilsberg_neo/11/160217_nackt_netz_wilsberg_neo_436k_p9v12.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 2
-	},
-	{
-		"id": "39004d21",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/02/160217_nackt_netz_wilsberg_neo/11/160217_nackt_netz_wilsberg_neo_189k_p7v12.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "c64748b4",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181107_2015_sendung_fdw_neu/2/181107_2015_sendung_fdw_neu_1496k_p13v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 3
-	},
-	{
-		"id": "e70bd7f2",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181107_2015_sendung_fdw_neu/2/181107_2015_sendung_fdw_neu_776k_p11v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 2
-	},
-	{
-		"id": "42e92252",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181107_2015_sendung_fdw_neu/2/181107_2015_sendung_fdw_neu_476k_p9v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "7d9eaeb8",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/03/170315_gnadenlos_ete/5/170315_gnadenlos_ete_1496k_p13v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 3
-	},
-	{
-		"id": "f19d8624",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/03/170315_gnadenlos_ete/5/170315_gnadenlos_ete_476k_p9v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 2
-	},
-	{
-		"id": "13be307c",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/03/170315_gnadenlos_ete/5/170315_gnadenlos_ete_229k_p7v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "9b4a43f9",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/01/170126_nachtschicht_engel_neo/6/170126_nachtschicht_engel_neo_1496k_p13v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 3
-	},
-	{
-		"id": "96628a65",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/01/170126_nachtschicht_engel_neo/6/170126_nachtschicht_engel_neo_476k_p9v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 2
-	},
-	{
-		"id": "d33a9c1d",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/01/170126_nachtschicht_engel_neo/6/170126_nachtschicht_engel_neo_229k_p7v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "c911227a",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/11/161122_querschlaeger_koh/5/161122_querschlaeger_koh_1496k_p13v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 3
-	},
-	{
-		"id": "4a21d8e6",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/11/161122_querschlaeger_koh/5/161122_querschlaeger_koh_476k_p9v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 2
-	},
-	{
-		"id": "c8809d7e",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/11/161122_querschlaeger_koh/5/161122_querschlaeger_koh_229k_p7v13.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
@@ -180,38 +180,38 @@
 		"videoDefinition": 1
 	},
 	{
+		"id": "f0a62515",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181112_2015_sendung_neu_fdw/5/181112_2015_sendung_neu_fdw_476k_p9v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
+		"id": "c5fb3bf7",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/04/180423_2015_sendung_fdw/6/180423_2015_sendung_fdw_229k_p7v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
+		"id": "a00c7314",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181111_2015_sendung_sof/4/181111_2015_sendung_sof_476k_p9v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
+		"id": "bd2c4793",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/05/160514_das_schwarze_zimmer_ps_bel/5/160514_das_schwarze_zimmer_ps_bel_189k_p7v12.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
+		"id": "c3f45b14",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181110_2015_sendung_str/4/181110_2015_sendung_str_476k_p9v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
 		"id": "451efd2",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/10/181030_181108_2015_sendung_alp/3/181030_181108_2015_sendung_alp_476k_p9v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "39004d21",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/02/160217_nackt_netz_wilsberg_neo/11/160217_nackt_netz_wilsberg_neo_189k_p7v12.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "42e92252",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181107_2015_sendung_fdw_neu/2/181107_2015_sendung_fdw_neu_476k_p9v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "13be307c",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/03/170315_gnadenlos_ete/5/170315_gnadenlos_ete_229k_p7v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "d33a9c1d",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/01/170126_nachtschicht_engel_neo/6/170126_nachtschicht_engel_neo_229k_p7v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "c8809d7e",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/11/161122_querschlaeger_koh/5/161122_querschlaeger_koh_229k_p7v13.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
