@@ -10,8 +10,7 @@
                 },
                 {
                         "regex": "^vodUnstructuredGrid_(\\d*)",
-                        "replace": "Unstructured Grid::flexId_$1",
-                        "lvl2id": 9 // hubs
+                        "disabled": true // skip for focus engine because page has a manual tracking
                 },
                 {
                         // "regex": "^voddetailpagekeycontainer::doc#(\\d*)", // <id>#<timestamp for unique page id>#<flexid>

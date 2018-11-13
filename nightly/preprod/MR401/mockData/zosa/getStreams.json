@@ -1,5 +1,41 @@
 [
 	{
+		"id": "bcf1c29a",
+		"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/17/12/171219_0035_sendung_dks/3/171219_0035_sendung_dks_1496k_p13v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 3
+	},
+	{
+		"id": "da3b6806",
+		"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/17/12/171219_0035_sendung_dks/3/171219_0035_sendung_dks_476k_p9v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 2
+	},
+	{
+		"id": "33599fde",
+		"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/17/12/171219_0035_sendung_dks/3/171219_0035_sendung_dks_229k_p7v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
+		"id": "6e2873db",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/10/171003_0000_sendung_dks/4/171003_0000_sendung_dks_1496k_p13v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 3
+	},
+	{
+		"id": "6d1ffc47",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/10/171003_0000_sendung_dks/4/171003_0000_sendung_dks_476k_p9v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 2
+	},
+	{
+		"id": "1a1fc37f",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/10/171003_0000_sendung_dks/4/171003_0000_sendung_dks_229k_p7v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
 		"id": "dfdc5593",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181112_2015_sendung_neu_fdw/5/181112_2015_sendung_neu_fdw_1496k_p13v14.mp4",
 		"video3dFormat": 0,
@@ -68,42 +104,6 @@
 	{
 		"id": "bd2c4793",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/05/160514_das_schwarze_zimmer_ps_bel/5/160514_das_schwarze_zimmer_ps_bel_189k_p7v12.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "23bc4632",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181110_2015_sendung_str/4/181110_2015_sendung_str_1496k_p13v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 3
-	},
-	{
-		"id": "78a2f0f4",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181110_2015_sendung_str/4/181110_2015_sendung_str_776k_p11v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 2
-	},
-	{
-		"id": "c3f45b14",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181110_2015_sendung_str/4/181110_2015_sendung_str_476k_p9v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "2f9abd34",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/10/181030_181108_2015_sendung_alp/3/181030_181108_2015_sendung_alp_1496k_p13v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 3
-	},
-	{
-		"id": "bacb8072",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/10/181030_181108_2015_sendung_alp/3/181030_181108_2015_sendung_alp_776k_p11v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 2
-	},
-	{
-		"id": "451efd2",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/10/181030_181108_2015_sendung_alp/3/181030_181108_2015_sendung_alp_476k_p9v14.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
@@ -180,6 +180,18 @@
 		"videoDefinition": 1
 	},
 	{
+		"id": "33599fde",
+		"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/17/12/171219_0035_sendung_dks/3/171219_0035_sendung_dks_229k_p7v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
+		"id": "1a1fc37f",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/10/171003_0000_sendung_dks/4/171003_0000_sendung_dks_229k_p7v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
 		"id": "f0a62515",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181112_2015_sendung_neu_fdw/5/181112_2015_sendung_neu_fdw_476k_p9v14.mp4",
 		"video3dFormat": 0,
@@ -200,18 +212,6 @@
 	{
 		"id": "bd2c4793",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/05/160514_das_schwarze_zimmer_ps_bel/5/160514_das_schwarze_zimmer_ps_bel_189k_p7v12.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "c3f45b14",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181110_2015_sendung_str/4/181110_2015_sendung_str_476k_p9v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "451efd2",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/10/181030_181108_2015_sendung_alp/3/181030_181108_2015_sendung_alp_476k_p9v14.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
