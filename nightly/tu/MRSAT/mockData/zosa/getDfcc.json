@@ -1,0 +1,52 @@
+{
+	"DFCCID": "SATHYBRID_OTT_PREVIEW_DT_DGR4",
+	"updateTime": "20180730143623",
+	"DFCCAttributeList": [{
+		"attributeID": "mainmenu",
+		"attributeName": "mainmenu",
+		"attributeType": "string",
+		"value": "TVHS_DG_MainMenu"
+	},
+	{
+		"attributeID": "appname720",
+		"attributeName": "appname720",
+		"attributeType": "string",
+		"value": "-1"
+	},
+	{
+		"attributeID": "channelmap",
+		"attributeName": "channelmap",
+		"attributeType": "string",
+		"value": "SATHYBRID_PREVIEW_DT"
+	},
+	{
+		"attributeID": "comment",
+		"attributeName": "Comment",
+		"attributeType": "string",
+		"value": "-1"
+	},
+	{
+		"attributeID": "appnamegeneric",
+		"attributeName": "appnamegeneric",
+		"attributeType": "string",
+		"value": "UI20"
+	},
+	{
+		"attributeID": "partnermapid",
+		"attributeName": "partnermapid",
+		"attributeType": "string",
+		"value": "entertaintvZ"
+	},
+	{
+		"attributeID": "appname1080",
+		"attributeName": "appname720",
+		"attributeType": "string",
+		"value": "-1"
+	},
+	{
+		"attributeID": "appmapid",
+		"attributeName": "appmapid",
+		"attributeType": "string",
+		"value": "APPS_PREVIEW_Z"
+	}]
+}
