@@ -5,6 +5,11 @@
                 // layer e.g. "root" are already stripped from the focus path
                 // UI20 
                 {
+                        "regex": "^mainmenu_(\\d*)::search::nc_search-component::content",
+                        "replace": "Menu::", // input e.g. mainmenu_1::search::nc_search-component::content::BlockInputNavContainer::nav_characters
+                        "lvl2id": 10
+                },
+                {
                         "regex": "^mainmenu_(\\d*)", // catalog & structured grids
                         "disabled": true // skip for focus engine because page has a manual tracking
                 },
@@ -96,11 +101,6 @@
                 {
                         "regex": "^nc_search-page", // UI10 "^searchcontainer(::keyboard1)?(::)?(tvlist2_)?", // root::searchcontainer::keyboard1::tvlist2_searchList root::searchcontainer::keyboard1::inputfield root::searchcontainer::keyboard1 root::searchcontainer
                         "replace": "Page", // input e.g. nc_search-page::nc_search-component::content::BlockInputNavContainer::nav_characters
-                        "lvl2id": 10
-                },
-                {
-                        "regex": "^mainmenu_(\\d*)::search::nc_search-component::content",
-                        "replace": "Catalog::", // input e.g. mainmenu_1::search::nc_search-component::content::BlockInputNavContainer::nav_characters
                         "lvl2id": 10
                 },
                 {
