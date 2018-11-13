@@ -295,7 +295,7 @@
                         "lvl2id": 20 // Message
                 },
                 {
-                        "regex": "^cancel-confirmation-dialog-component                ",
+                        "regex": "^cancel-confirmation-dialog-component",
                         "replace": "Cancel Confirmation Dialog",
                         "lvl2id": 20 // Message
                 },
