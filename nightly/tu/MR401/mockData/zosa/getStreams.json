@@ -1,5 +1,23 @@
 [
 	{
+		"id": "b701493d",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/08/160802_unter_umstaenden_watt_neo/7/160802_unter_umstaenden_watt_neo_1456k_p13v12.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 3
+	},
+	{
+		"id": "7e2e5ee9",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/08/160802_unter_umstaenden_watt_neo/7/160802_unter_umstaenden_watt_neo_436k_p9v12.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 2
+	},
+	{
+		"id": "2f00d2dc",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/08/160802_unter_umstaenden_watt_neo/7/160802_unter_umstaenden_watt_neo_189k_p7v12.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
 		"id": "bcf1c29a",
 		"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/17/12/171219_0035_sendung_dks/3/171219_0035_sendung_dks_1496k_p13v13.mp4",
 		"video3dFormat": 0,
@@ -14,6 +32,42 @@
 	{
 		"id": "33599fde",
 		"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/17/12/171219_0035_sendung_dks/3/171219_0035_sendung_dks_229k_p7v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
+		"id": "8233338",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/02/170220_sendung_fdw/4/170220_sendung_fdw_1496k_p13v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 3
+	},
+	{
+		"id": "3ab76aa4",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/02/170220_sendung_fdw/4/170220_sendung_fdw_476k_p9v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 2
+	},
+	{
+		"id": "624042fc",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/02/170220_sendung_fdw/4/170220_sendung_fdw_229k_p7v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
+		"id": "adff74de",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/07/170715_2015_sendung_koh/7/170715_2015_sendung_koh_1496k_p13v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 3
+	},
+	{
+		"id": "a330fb42",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/07/170715_2015_sendung_koh/7/170715_2015_sendung_koh_476k_p9v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 2
+	},
+	{
+		"id": "81d97e9a",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/07/170715_2015_sendung_koh/7/170715_2015_sendung_koh_229k_p7v13.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
@@ -50,60 +104,6 @@
 	{
 		"id": "f0a62515",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181112_2015_sendung_neu_fdw/5/181112_2015_sendung_neu_fdw_476k_p9v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "caf7d5d3",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/04/180423_2015_sendung_fdw/6/180423_2015_sendung_fdw_1496k_p13v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 3
-	},
-	{
-		"id": "6b6b1d4f",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/04/180423_2015_sendung_fdw/6/180423_2015_sendung_fdw_476k_p9v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 2
-	},
-	{
-		"id": "c5fb3bf7",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/04/180423_2015_sendung_fdw/6/180423_2015_sendung_fdw_229k_p7v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "6d074232",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181111_2015_sendung_sof/4/181111_2015_sendung_sof_1496k_p13v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 3
-	},
-	{
-		"id": "2f2c97f4",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181111_2015_sendung_sof/4/181111_2015_sendung_sof_776k_p11v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 2
-	},
-	{
-		"id": "a00c7314",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181111_2015_sendung_sof/4/181111_2015_sendung_sof_476k_p9v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "f9d195d2",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/05/160514_das_schwarze_zimmer_ps_bel/5/160514_das_schwarze_zimmer_ps_bel_1456k_p13v12.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 3
-	},
-	{
-		"id": "76ad686",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/05/160514_das_schwarze_zimmer_ps_bel/5/160514_das_schwarze_zimmer_ps_bel_436k_p9v12.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 2
-	},
-	{
-		"id": "bd2c4793",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/05/160514_das_schwarze_zimmer_ps_bel/5/160514_das_schwarze_zimmer_ps_bel_189k_p7v12.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
@@ -180,8 +180,26 @@
 		"videoDefinition": 1
 	},
 	{
+		"id": "2f00d2dc",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/08/160802_unter_umstaenden_watt_neo/7/160802_unter_umstaenden_watt_neo_189k_p7v12.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
 		"id": "33599fde",
 		"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/17/12/171219_0035_sendung_dks/3/171219_0035_sendung_dks_229k_p7v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
+		"id": "624042fc",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/02/170220_sendung_fdw/4/170220_sendung_fdw_229k_p7v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
+		"id": "81d97e9a",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/07/170715_2015_sendung_koh/7/170715_2015_sendung_koh_229k_p7v13.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
@@ -194,24 +212,6 @@
 	{
 		"id": "f0a62515",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181112_2015_sendung_neu_fdw/5/181112_2015_sendung_neu_fdw_476k_p9v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "c5fb3bf7",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/04/180423_2015_sendung_fdw/6/180423_2015_sendung_fdw_229k_p7v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "a00c7314",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181111_2015_sendung_sof/4/181111_2015_sendung_sof_476k_p9v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "bd2c4793",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/05/160514_das_schwarze_zimmer_ps_bel/5/160514_das_schwarze_zimmer_ps_bel_189k_p7v12.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
