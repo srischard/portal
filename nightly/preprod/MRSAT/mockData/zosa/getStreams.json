@@ -1,5 +1,23 @@
 [
 	{
+		"id": "44502c3d",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/06/170614_2145_strom_wil/5/170614_2145_strom_wil_1496k_p13v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 3
+	},
+	{
+		"id": "20ec6ea1",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/06/170614_2145_strom_wil/5/170614_2145_strom_wil_476k_p9v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 2
+	},
+	{
+		"id": "dc46e9d9",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/06/170614_2145_strom_wil/5/170614_2145_strom_wil_229k_p7v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
 		"id": "b701493d",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/08/160802_unter_umstaenden_watt_neo/7/160802_unter_umstaenden_watt_neo_1456k_p13v12.mp4",
 		"video3dFormat": 0,
@@ -90,24 +108,6 @@
 		"videoDefinition": 1
 	},
 	{
-		"id": "dfdc5593",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181112_2015_sendung_neu_fdw/5/181112_2015_sendung_neu_fdw_1496k_p13v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 3
-	},
-	{
-		"id": "da202f55",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181112_2015_sendung_neu_fdw/5/181112_2015_sendung_neu_fdw_776k_p11v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 2
-	},
-	{
-		"id": "f0a62515",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181112_2015_sendung_neu_fdw/5/181112_2015_sendung_neu_fdw_476k_p9v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
 		"id": "81caf395",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181117_2015_sendung_bul/3/181117_2015_sendung_bul_1496k_p13v14.mp4",
 		"video3dFormat": 0,
@@ -180,6 +180,12 @@
 		"videoDefinition": 1
 	},
 	{
+		"id": "dc46e9d9",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/06/170614_2145_strom_wil/5/170614_2145_strom_wil_229k_p7v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
 		"id": "2f00d2dc",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/08/160802_unter_umstaenden_watt_neo/7/160802_unter_umstaenden_watt_neo_189k_p7v12.mp4",
 		"video3dFormat": 0,
@@ -206,12 +212,6 @@
 	{
 		"id": "1a1fc37f",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/10/171003_0000_sendung_dks/4/171003_0000_sendung_dks_229k_p7v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "f0a62515",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181112_2015_sendung_neu_fdw/5/181112_2015_sendung_neu_fdw_476k_p9v14.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
