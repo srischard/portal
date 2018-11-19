@@ -1,5 +1,41 @@
 [
 	{
+		"id": "583551fa",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/11/161109_2015_sendung_fdw/2/161109_2015_sendung_fdw_1496k_p13v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 3
+	},
+	{
+		"id": "b7ce0f3c",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/11/161109_2015_sendung_fdw/2/161109_2015_sendung_fdw_776k_p11v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 2
+	},
+	{
+		"id": "e196c15c",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/11/161109_2015_sendung_fdw/2/161109_2015_sendung_fdw_476k_p9v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
+		"id": "da3cd47a",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/11/161107_2015_sendung_fdw/2/161107_2015_sendung_fdw_1496k_p13v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 3
+	},
+	{
+		"id": "ecb0efbc",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/11/161107_2015_sendung_fdw/2/161107_2015_sendung_fdw_776k_p11v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 2
+	},
+	{
+		"id": "8bd190dc",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/11/161107_2015_sendung_fdw/2/161107_2015_sendung_fdw_476k_p9v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
 		"id": "f978985a",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/08/180820_2015_sendung_fdw/4/180820_2015_sendung_fdw_1496k_p13v14.mp4",
 		"video3dFormat": 0,
@@ -14,6 +50,24 @@
 	{
 		"id": "c6a72ffc",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/08/180820_2015_sendung_fdw/4/180820_2015_sendung_fdw_476k_p9v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
+		"id": "ca386273",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/06/160615_stich_herz_ps_bel/7/160615_stich_herz_ps_bel_1456k_p13v12.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 3
+	},
+	{
+		"id": "69fd0127",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/06/160615_stich_herz_ps_bel/7/160615_stich_herz_ps_bel_436k_p9v12.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 2
+	},
+	{
+		"id": "c99a6352",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/06/160615_stich_herz_ps_bel/7/160615_stich_herz_ps_bel_189k_p7v12.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
@@ -50,60 +104,6 @@
 	{
 		"id": "af36bdd3",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181117_2015_sendung_bul/3/181117_2015_sendung_bul_476k_p9v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "44502c3d",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/06/170614_2145_strom_wil/5/170614_2145_strom_wil_1496k_p13v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 3
-	},
-	{
-		"id": "20ec6ea1",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/06/170614_2145_strom_wil/5/170614_2145_strom_wil_476k_p9v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 2
-	},
-	{
-		"id": "dc46e9d9",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/06/170614_2145_strom_wil/5/170614_2145_strom_wil_229k_p7v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "145db29e",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/04/170403_feuersturm_gsi/4/170403_feuersturm_gsi_1496k_p13v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 3
-	},
-	{
-		"id": "21df1902",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/04/170403_feuersturm_gsi/4/170403_feuersturm_gsi_476k_p9v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 2
-	},
-	{
-		"id": "e4da7fda",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/04/170403_feuersturm_gsi/4/170403_feuersturm_gsi_229k_p7v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "b701493d",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/08/160802_unter_umstaenden_watt_neo/7/160802_unter_umstaenden_watt_neo_1456k_p13v12.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 3
-	},
-	{
-		"id": "7e2e5ee9",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/08/160802_unter_umstaenden_watt_neo/7/160802_unter_umstaenden_watt_neo_436k_p9v12.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 2
-	},
-	{
-		"id": "2f00d2dc",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/08/160802_unter_umstaenden_watt_neo/7/160802_unter_umstaenden_watt_neo_189k_p7v12.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
@@ -180,8 +180,26 @@
 		"videoDefinition": 1
 	},
 	{
+		"id": "e196c15c",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/11/161109_2015_sendung_fdw/2/161109_2015_sendung_fdw_476k_p9v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
+		"id": "8bd190dc",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/11/161107_2015_sendung_fdw/2/161107_2015_sendung_fdw_476k_p9v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
 		"id": "c6a72ffc",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/08/180820_2015_sendung_fdw/4/180820_2015_sendung_fdw_476k_p9v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
+		"id": "c99a6352",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/06/160615_stich_herz_ps_bel/7/160615_stich_herz_ps_bel_189k_p7v12.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
@@ -194,24 +212,6 @@
 	{
 		"id": "af36bdd3",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181117_2015_sendung_bul/3/181117_2015_sendung_bul_476k_p9v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "dc46e9d9",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/06/170614_2145_strom_wil/5/170614_2145_strom_wil_229k_p7v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "e4da7fda",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/04/170403_feuersturm_gsi/4/170403_feuersturm_gsi_229k_p7v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "2f00d2dc",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/08/160802_unter_umstaenden_watt_neo/7/160802_unter_umstaenden_watt_neo_189k_p7v12.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
