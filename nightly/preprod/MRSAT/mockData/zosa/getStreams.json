@@ -1,5 +1,23 @@
 [
 	{
+		"id": "508b5fd9",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/02/170212_spiel_neo/5/170212_spiel_neo_1496k_p13v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 3
+	},
+	{
+		"id": "e922b645",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/02/170212_spiel_neo/5/170212_spiel_neo_476k_p9v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 2
+	},
+	{
+		"id": "255eba3d",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/02/170212_spiel_neo/5/170212_spiel_neo_229k_p7v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
 		"id": "f66343b8",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/03/170313_sendung_fdw/5/170313_sendung_fdw_1496k_p13v13.mp4",
 		"video3dFormat": 0,
@@ -14,6 +32,24 @@
 	{
 		"id": "c48b327c",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/03/170313_sendung_fdw/5/170313_sendung_fdw_229k_p7v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
+		"id": "36ce172",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/06/180609_2015_sendung_koh/5/180609_2015_sendung_koh_1496k_p13v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 3
+	},
+	{
+		"id": "e45d68ee",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/06/180609_2015_sendung_koh/5/180609_2015_sendung_koh_476k_p9v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 2
+	},
+	{
+		"id": "35ca6f76",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/06/180609_2015_sendung_koh/5/180609_2015_sendung_koh_229k_p7v13.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
@@ -68,42 +104,6 @@
 	{
 		"id": "c6a72ffc",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/08/180820_2015_sendung_fdw/4/180820_2015_sendung_fdw_476k_p9v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "ca386273",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/06/160615_stich_herz_ps_bel/7/160615_stich_herz_ps_bel_1456k_p13v12.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 3
-	},
-	{
-		"id": "69fd0127",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/06/160615_stich_herz_ps_bel/7/160615_stich_herz_ps_bel_436k_p9v12.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 2
-	},
-	{
-		"id": "c99a6352",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/06/160615_stich_herz_ps_bel/7/160615_stich_herz_ps_bel_189k_p7v12.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "cba73bb2",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181118_2015_sendung_sof/4/181118_2015_sendung_sof_1496k_p13v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 3
-	},
-	{
-		"id": "e6a84674",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181118_2015_sendung_sof/4/181118_2015_sendung_sof_776k_p11v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 2
-	},
-	{
-		"id": "d6d95c94",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181118_2015_sendung_sof/4/181118_2015_sendung_sof_476k_p9v14.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
@@ -180,8 +180,20 @@
 		"videoDefinition": 1
 	},
 	{
+		"id": "255eba3d",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/02/170212_spiel_neo/5/170212_spiel_neo_229k_p7v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
 		"id": "c48b327c",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/03/170313_sendung_fdw/5/170313_sendung_fdw_229k_p7v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
+		"id": "35ca6f76",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/06/180609_2015_sendung_koh/5/180609_2015_sendung_koh_229k_p7v13.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
@@ -200,18 +212,6 @@
 	{
 		"id": "c6a72ffc",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/08/180820_2015_sendung_fdw/4/180820_2015_sendung_fdw_476k_p9v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "c99a6352",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/06/160615_stich_herz_ps_bel/7/160615_stich_herz_ps_bel_189k_p7v12.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "d6d95c94",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181118_2015_sendung_sof/4/181118_2015_sendung_sof_476k_p9v14.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
