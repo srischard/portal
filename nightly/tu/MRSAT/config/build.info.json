@@ -1,9 +1,9 @@
 {
   "buildAgent": "ip_192.168.123.176",
-  "buildDate": "2018-11-21T15:11:31.345Z",
-  "buildVersion": "6581",
+  "buildDate": "2018-11-22T09:56:58.938Z",
+  "buildVersion": "6582",
   "branch": "refs/heads/master",
-  "commit": "04adf0a63bfb67730cb9abac0886904344342abb",
+  "commit": "f400489db21f7d30194c497f49a60c77e8d96716",
   "majorVersion": "2.52",
   "packageDate": "1970-01-01T00:00:00.000Z"
 }
