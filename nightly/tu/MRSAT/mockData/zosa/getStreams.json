@@ -1,5 +1,41 @@
 [
 	{
+		"id": "5c731fdb",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/11/171120_2015_sendung_fdw/5/171120_2015_sendung_fdw_1496k_p13v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 3
+	},
+	{
+		"id": "bb920647",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/11/171120_2015_sendung_fdw/5/171120_2015_sendung_fdw_476k_p9v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 2
+	},
+	{
+		"id": "9f47997f",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/11/171120_2015_sendung_fdw/5/171120_2015_sendung_fdw_229k_p7v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
+		"id": "8d34577f",
+		"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/17/12/171212_0030_sendung_dks/6/171212_0030_sendung_dks_1496k_p13v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 3
+	},
+	{
+		"id": "d1bc62e3",
+		"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/17/12/171212_0030_sendung_dks/6/171212_0030_sendung_dks_476k_p9v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 2
+	},
+	{
+		"id": "ab76cadb",
+		"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/17/12/171212_0030_sendung_dks/6/171212_0030_sendung_dks_229k_p7v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
 		"id": "76a44c95",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181126_2015_sendung_fdw/3/181126_2015_sendung_fdw_1496k_p13v14.mp4",
 		"video3dFormat": 0,
@@ -68,42 +104,6 @@
 	{
 		"id": "7a0f3310",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/06/160620_fahrgast_maedchen_ps_bel/5/160620_fahrgast_maedchen_ps_bel_189k_p7v12.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "bde231dd",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/04/170403_stiller_krieg_gsi/7/170403_stiller_krieg_gsi_1496k_p13v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 3
-	},
-	{
-		"id": "2f5bc841",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/04/170403_stiller_krieg_gsi/7/170403_stiller_krieg_gsi_476k_p9v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 2
-	},
-	{
-		"id": "fe6ec5b9",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/04/170403_stiller_krieg_gsi/7/170403_stiller_krieg_gsi_229k_p7v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "508b5fd9",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/02/170212_spiel_neo/5/170212_spiel_neo_1496k_p13v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 3
-	},
-	{
-		"id": "e922b645",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/02/170212_spiel_neo/5/170212_spiel_neo_476k_p9v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 2
-	},
-	{
-		"id": "255eba3d",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/02/170212_spiel_neo/5/170212_spiel_neo_229k_p7v13.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
@@ -180,6 +180,18 @@
 		"videoDefinition": 1
 	},
 	{
+		"id": "9f47997f",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/11/171120_2015_sendung_fdw/5/171120_2015_sendung_fdw_229k_p7v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
+		"id": "ab76cadb",
+		"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/17/12/171212_0030_sendung_dks/6/171212_0030_sendung_dks_229k_p7v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
 		"id": "275b50d3",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181126_2015_sendung_fdw/3/181126_2015_sendung_fdw_476k_p9v14.mp4",
 		"video3dFormat": 0,
@@ -200,18 +212,6 @@
 	{
 		"id": "7a0f3310",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/06/160620_fahrgast_maedchen_ps_bel/5/160620_fahrgast_maedchen_ps_bel_189k_p7v12.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "fe6ec5b9",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/04/170403_stiller_krieg_gsi/7/170403_stiller_krieg_gsi_229k_p7v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "255eba3d",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/02/170212_spiel_neo/5/170212_spiel_neo_229k_p7v13.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
