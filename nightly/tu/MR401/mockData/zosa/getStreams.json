@@ -1,5 +1,41 @@
 [
 	{
+		"id": "9d9865fd",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/08/160816_unter_umstaenden_moerder_neo/7/160816_unter_umstaenden_moerder_neo_1456k_p13v12.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 3
+	},
+	{
+		"id": "d9257ca9",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/08/160816_unter_umstaenden_moerder_neo/7/160816_unter_umstaenden_moerder_neo_436k_p9v12.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 2
+	},
+	{
+		"id": "c901a69c",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/08/160816_unter_umstaenden_moerder_neo/7/160816_unter_umstaenden_moerder_neo_189k_p7v12.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
+		"id": "3bed67d3",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/10/181022_2015_sendung_fdw/4/181022_2015_sendung_fdw_1496k_p13v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 3
+	},
+	{
+		"id": "7a1d6c95",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/10/181022_2015_sendung_fdw/4/181022_2015_sendung_fdw_776k_p11v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 2
+	},
+	{
+		"id": "680d1bd5",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/10/181022_2015_sendung_fdw/4/181022_2015_sendung_fdw_476k_p9v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
 		"id": "5c731fdb",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/11/171120_2015_sendung_fdw/5/171120_2015_sendung_fdw_1496k_p13v13.mp4",
 		"video3dFormat": 0,
@@ -14,6 +50,24 @@
 	{
 		"id": "9f47997f",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/11/171120_2015_sendung_fdw/5/171120_2015_sendung_fdw_229k_p7v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
+		"id": "d29eee15",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/01/180120_2015_sendung_koh/5/180120_2015_sendung_koh_1496k_p13v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 3
+	},
+	{
+		"id": "b5939689",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/01/180120_2015_sendung_koh/5/180120_2015_sendung_koh_476k_p9v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 2
+	},
+	{
+		"id": "fa8c9371",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/01/180120_2015_sendung_koh/5/180120_2015_sendung_koh_229k_p7v13.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
@@ -50,60 +104,6 @@
 	{
 		"id": "275b50d3",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181126_2015_sendung_fdw/3/181126_2015_sendung_fdw_476k_p9v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "9ac7b6b5",
-		"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/18/05/180508_mord_hoellengrund_online/5/180508_mord_hoellengrund_online_1496k_p13v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 3
-	},
-	{
-		"id": "a46da129",
-		"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/18/05/180508_mord_hoellengrund_online/5/180508_mord_hoellengrund_online_476k_p9v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 2
-	},
-	{
-		"id": "cefd26d1",
-		"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/18/05/180508_mord_hoellengrund_online/5/180508_mord_hoellengrund_online_229k_p7v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "dcaec456",
-		"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/18/11/181125_2015_sendung_sof/4/181125_2015_sendung_sof_1496k_p13v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 3
-	},
-	{
-		"id": "66daae90",
-		"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/18/11/181125_2015_sendung_sof/4/181125_2015_sendung_sof_776k_p11v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 2
-	},
-	{
-		"id": "68fab470",
-		"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/18/11/181125_2015_sendung_sof/4/181125_2015_sendung_sof_476k_p9v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "3d79df1",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/06/160620_fahrgast_maedchen_ps_bel/5/160620_fahrgast_maedchen_ps_bel_1456k_p13v12.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 3
-	},
-	{
-		"id": "cfefa4a5",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/06/160620_fahrgast_maedchen_ps_bel/5/160620_fahrgast_maedchen_ps_bel_436k_p9v12.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 2
-	},
-	{
-		"id": "7a0f3310",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/06/160620_fahrgast_maedchen_ps_bel/5/160620_fahrgast_maedchen_ps_bel_189k_p7v12.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
@@ -180,8 +180,26 @@
 		"videoDefinition": 1
 	},
 	{
+		"id": "c901a69c",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/08/160816_unter_umstaenden_moerder_neo/7/160816_unter_umstaenden_moerder_neo_189k_p7v12.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
+		"id": "680d1bd5",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/10/181022_2015_sendung_fdw/4/181022_2015_sendung_fdw_476k_p9v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
 		"id": "9f47997f",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/11/171120_2015_sendung_fdw/5/171120_2015_sendung_fdw_229k_p7v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
+		"id": "fa8c9371",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/01/180120_2015_sendung_koh/5/180120_2015_sendung_koh_229k_p7v13.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
@@ -194,24 +212,6 @@
 	{
 		"id": "275b50d3",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181126_2015_sendung_fdw/3/181126_2015_sendung_fdw_476k_p9v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "cefd26d1",
-		"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/18/05/180508_mord_hoellengrund_online/5/180508_mord_hoellengrund_online_229k_p7v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "68fab470",
-		"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/18/11/181125_2015_sendung_sof/4/181125_2015_sendung_sof_476k_p9v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "7a0f3310",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/06/160620_fahrgast_maedchen_ps_bel/5/160620_fahrgast_maedchen_ps_bel_189k_p7v12.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
