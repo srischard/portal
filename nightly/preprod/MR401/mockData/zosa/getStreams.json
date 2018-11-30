@@ -1,5 +1,23 @@
 [
 	{
+		"id": "8201851d",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/04/170403_blutige_diamanten_gsi/7/170403_blutige_diamanten_gsi_1496k_p13v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 3
+	},
+	{
+		"id": "3295b81",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/04/170403_blutige_diamanten_gsi/7/170403_blutige_diamanten_gsi_476k_p9v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 2
+	},
+	{
+		"id": "180c86f9",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/04/170403_blutige_diamanten_gsi/7/170403_blutige_diamanten_gsi_229k_p7v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
 		"id": "9d9865fd",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/08/160816_unter_umstaenden_moerder_neo/7/160816_unter_umstaenden_moerder_neo_1456k_p13v12.mp4",
 		"video3dFormat": 0,
@@ -90,24 +108,6 @@
 		"videoDefinition": 1
 	},
 	{
-		"id": "76a44c95",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181126_2015_sendung_fdw/3/181126_2015_sendung_fdw_1496k_p13v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 3
-	},
-	{
-		"id": "605706d3",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181126_2015_sendung_fdw/3/181126_2015_sendung_fdw_776k_p11v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 2
-	},
-	{
-		"id": "275b50d3",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181126_2015_sendung_fdw/3/181126_2015_sendung_fdw_476k_p9v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
 		"id": "81caf395",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181117_2015_sendung_bul/3/181117_2015_sendung_bul_1496k_p13v14.mp4",
 		"video3dFormat": 0,
@@ -180,6 +180,12 @@
 		"videoDefinition": 1
 	},
 	{
+		"id": "180c86f9",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/04/170403_blutige_diamanten_gsi/7/170403_blutige_diamanten_gsi_229k_p7v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
 		"id": "c901a69c",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/08/160816_unter_umstaenden_moerder_neo/7/160816_unter_umstaenden_moerder_neo_189k_p7v12.mp4",
 		"video3dFormat": 0,
@@ -206,12 +212,6 @@
 	{
 		"id": "ab76cadb",
 		"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/17/12/171212_0030_sendung_dks/6/171212_0030_sendung_dks_229k_p7v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "275b50d3",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181126_2015_sendung_fdw/3/181126_2015_sendung_fdw_476k_p9v14.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
