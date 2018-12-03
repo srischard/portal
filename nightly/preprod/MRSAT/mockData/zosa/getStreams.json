@@ -1,5 +1,77 @@
 [
 	{
+		"id": "1829393",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/12/181203_2015_sendung_fdw/6/181203_2015_sendung_fdw_1496k_p13v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 3
+	},
+	{
+		"id": "da0e7155",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/12/181203_2015_sendung_fdw/6/181203_2015_sendung_fdw_776k_p11v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 2
+	},
+	{
+		"id": "660b2915",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/12/181203_2015_sendung_fdw/6/181203_2015_sendung_fdw_476k_p9v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
+		"id": "7ffc5f33",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/06/160627_hundskinder_ps_bel/7/160627_hundskinder_ps_bel_1456k_p13v12.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 3
+	},
+	{
+		"id": "e45100e7",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/06/160627_hundskinder_ps_bel/7/160627_hundskinder_ps_bel_436k_p9v12.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 2
+	},
+	{
+		"id": "fd21bb12",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/06/160627_hundskinder_ps_bel/7/160627_hundskinder_ps_bel_189k_p7v12.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
+		"id": "a3591197",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/12/181202_2015_sendung_sof/2/181202_2015_sendung_sof_1496k_p13v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 3
+	},
+	{
+		"id": "aadc1951",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/12/181202_2015_sendung_sof/2/181202_2015_sendung_sof_776k_p11v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 2
+	},
+	{
+		"id": "46ef1191",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/12/181202_2015_sendung_sof/2/181202_2015_sendung_sof_476k_p9v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
+		"id": "1627b1b6",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/12/181201_181201_2015_sendung_dor/3/181201_181201_2015_sendung_dor_1496k_p13v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 3
+	},
+	{
+		"id": "7d41f5f0",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/12/181201_181201_2015_sendung_dor/3/181201_181201_2015_sendung_dor_776k_p11v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 2
+	},
+	{
+		"id": "cb026710",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/12/181201_181201_2015_sendung_dor/3/181201_181201_2015_sendung_dor_476k_p9v14.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
 		"id": "8201851d",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/04/170403_blutige_diamanten_gsi/7/170403_blutige_diamanten_gsi_1496k_p13v13.mp4",
 		"video3dFormat": 0,
@@ -36,146 +108,98 @@
 		"videoDefinition": 1
 	},
 	{
-		"id": "3bed67d3",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/10/181022_2015_sendung_fdw/4/181022_2015_sendung_fdw_1496k_p13v14.mp4",
+		"id": "b97ad733",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/10/181003_181003_2015_sendung_mau/4/181003_181003_2015_sendung_mau_1496k_p13v14.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 3
 	},
 	{
-		"id": "7a1d6c95",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/10/181022_2015_sendung_fdw/4/181022_2015_sendung_fdw_776k_p11v14.mp4",
+		"id": "cc4e1bf5",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/10/181003_181003_2015_sendung_mau/4/181003_181003_2015_sendung_mau_776k_p11v14.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 2
 	},
 	{
-		"id": "680d1bd5",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/10/181022_2015_sendung_fdw/4/181022_2015_sendung_fdw_476k_p9v14.mp4",
+		"id": "5e1ddd75",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/10/181003_181003_2015_sendung_mau/4/181003_181003_2015_sendung_mau_476k_p9v14.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
 	{
-		"id": "5c731fdb",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/11/171120_2015_sendung_fdw/5/171120_2015_sendung_fdw_1496k_p13v13.mp4",
+		"id": "be71349c",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/09/180908_2015_sendung_wil/3/180908_2015_sendung_wil_1496k_p13v14.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 3
 	},
 	{
-		"id": "bb920647",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/11/171120_2015_sendung_fdw/5/171120_2015_sendung_fdw_476k_p9v13.mp4",
+		"id": "72da26da",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/09/180908_2015_sendung_wil/3/180908_2015_sendung_wil_776k_p11v14.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 2
 	},
 	{
-		"id": "9f47997f",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/11/171120_2015_sendung_fdw/5/171120_2015_sendung_fdw_229k_p7v13.mp4",
+		"id": "c8870d7a",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/09/180908_2015_sendung_wil/3/180908_2015_sendung_wil_476k_p9v14.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
 	{
-		"id": "d29eee15",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/01/180120_2015_sendung_koh/5/180120_2015_sendung_koh_1496k_p13v13.mp4",
+		"id": "40cc1076",
+		"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/18/09/180909_einlebenohneluege_dkm/2/180909_einlebenohneluege_dkm_1496k_p13v14.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 3
 	},
 	{
-		"id": "b5939689",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/01/180120_2015_sendung_koh/5/180120_2015_sendung_koh_476k_p9v13.mp4",
+		"id": "2b340cb0",
+		"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/18/09/180909_einlebenohneluege_dkm/2/180909_einlebenohneluege_dkm_776k_p11v14.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 2
 	},
 	{
-		"id": "fa8c9371",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/01/180120_2015_sendung_koh/5/180120_2015_sendung_koh_229k_p7v13.mp4",
+		"id": "2cd12a50",
+		"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/18/09/180909_einlebenohneluege_dkm/2/180909_einlebenohneluege_dkm_476k_p9v14.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
 	{
-		"id": "8d34577f",
-		"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/17/12/171212_0030_sendung_dks/6/171212_0030_sendung_dks_1496k_p13v13.mp4",
+		"id": "78f5a978",
+		"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/18/09/180910_2015_sendung_fdw/3/180910_2015_sendung_fdw_1496k_p13v14.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 3
 	},
 	{
-		"id": "d1bc62e3",
-		"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/17/12/171212_0030_sendung_dks/6/171212_0030_sendung_dks_476k_p9v13.mp4",
+		"id": "7a19b3e",
+		"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/18/09/180910_2015_sendung_fdw/3/180910_2015_sendung_fdw_776k_p11v14.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 2
 	},
 	{
-		"id": "ab76cadb",
-		"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/17/12/171212_0030_sendung_dks/6/171212_0030_sendung_dks_229k_p7v13.mp4",
+		"id": "d537c71e",
+		"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/18/09/180910_2015_sendung_fdw/3/180910_2015_sendung_fdw_476k_p9v14.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
 	{
-		"id": "81caf395",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181117_2015_sendung_bul/3/181117_2015_sendung_bul_1496k_p13v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 3
-	},
-	{
-		"id": "cbb2d1d3",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181117_2015_sendung_bul/3/181117_2015_sendung_bul_776k_p11v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 2
-	},
-	{
-		"id": "af36bdd3",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181117_2015_sendung_bul/3/181117_2015_sendung_bul_476k_p9v14.mp4",
+		"id": "660b2915",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/12/181203_2015_sendung_fdw/6/181203_2015_sendung_fdw_476k_p9v14.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
 	{
-		"id": "733c2f91",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/10/181027_2015_sendung_sus/6/181027_2015_sendung_sus_1496k_p13v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 3
-	},
-	{
-		"id": "1d52aed7",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/10/181027_2015_sendung_sus/6/181027_2015_sendung_sus_776k_p11v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 2
-	},
-	{
-		"id": "37012357",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/10/181027_2015_sendung_sus/6/181027_2015_sendung_sus_476k_p9v14.mp4",
+		"id": "fd21bb12",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/06/160627_hundskinder_ps_bel/7/160627_hundskinder_ps_bel_189k_p7v12.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
 	{
-		"id": "7a54c595",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181103_2015_sendung_wil/3/181103_2015_sendung_wil_1496k_p13v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 3
-	},
-	{
-		"id": "edfe85d3",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181103_2015_sendung_wil/3/181103_2015_sendung_wil_776k_p11v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 2
-	},
-	{
-		"id": "87f02ed3",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181103_2015_sendung_wil/3/181103_2015_sendung_wil_476k_p9v14.mp4",
+		"id": "46ef1191",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/12/181202_2015_sendung_sof/2/181202_2015_sendung_sof_476k_p9v14.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
 	{
-		"id": "6cc23432",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/10/181020_2015_sendung_ete/5/181020_2015_sendung_ete_1496k_p13v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 3
-	},
-	{
-		"id": "ccc192f4",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/10/181020_2015_sendung_ete/5/181020_2015_sendung_ete_776k_p11v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 2
-	},
-	{
-		"id": "39c32c14",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/10/181020_2015_sendung_ete/5/181020_2015_sendung_ete_476k_p9v14.mp4",
+		"id": "cb026710",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/12/181201_181201_2015_sendung_dor/3/181201_181201_2015_sendung_dor_476k_p9v14.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
@@ -192,50 +216,26 @@
 		"videoDefinition": 1
 	},
 	{
-		"id": "680d1bd5",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/10/181022_2015_sendung_fdw/4/181022_2015_sendung_fdw_476k_p9v14.mp4",
+		"id": "5e1ddd75",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/10/181003_181003_2015_sendung_mau/4/181003_181003_2015_sendung_mau_476k_p9v14.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
 	{
-		"id": "9f47997f",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/11/171120_2015_sendung_fdw/5/171120_2015_sendung_fdw_229k_p7v13.mp4",
+		"id": "c8870d7a",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/09/180908_2015_sendung_wil/3/180908_2015_sendung_wil_476k_p9v14.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
 	{
-		"id": "fa8c9371",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/01/180120_2015_sendung_koh/5/180120_2015_sendung_koh_229k_p7v13.mp4",
+		"id": "2cd12a50",
+		"url": "https://nrodlzdf-a.akamaihd.net/de/zdf/18/09/180909_einlebenohneluege_dkm/2/180909_einlebenohneluege_dkm_476k_p9v14.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
 	{
-		"id": "ab76cadb",
-		"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/17/12/171212_0030_sendung_dks/6/171212_0030_sendung_dks_229k_p7v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "af36bdd3",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181117_2015_sendung_bul/3/181117_2015_sendung_bul_476k_p9v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "37012357",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/10/181027_2015_sendung_sus/6/181027_2015_sendung_sus_476k_p9v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "87f02ed3",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/11/181103_2015_sendung_wil/3/181103_2015_sendung_wil_476k_p9v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "39c32c14",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/10/181020_2015_sendung_ete/5/181020_2015_sendung_ete_476k_p9v14.mp4",
+		"id": "d537c71e",
+		"url": "https://nrodlzdf-a.akamaihd.net/dach/zdf/18/09/180910_2015_sendung_fdw/3/180910_2015_sendung_fdw_476k_p9v14.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	}
