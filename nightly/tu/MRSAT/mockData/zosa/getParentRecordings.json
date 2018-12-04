@@ -5,34 +5,22 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 1,
-		"seriesId": "37418",
+		"seriesId": "2088",
 		"startMargin": 180000,
-		"title": "Science Busters - Wer nichts weiß muss alles glauben",
-		"zosaId": "rec:46e279d6",
+		"title": "Kulturzeit",
+		"zosaId": "rec:d03a4a1",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
-		"channelId": "79b06fdf:f235e115554",
+		"channelId": "21611588:5c44f4d8006",
 		"dtExtensions": null,
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "2106",
+		"seriesId": "8564",
 		"startMargin": 180000,
-		"title": "Arte Journal",
-		"zosaId": "rec:95948cce",
-		"zosaType": "ParentRecordingItem"
-	},
-	{
-		"channelId": "79b06fdf:f235e115554",
-		"dtExtensions": null,
-		"endMargin": 300000,
-		"parentType": 1,
-		"recordingType": 2,
-		"seriesId": "90686",
-		"startMargin": 180000,
-		"title": "Silex and the City",
-		"zosaId": "rec:223535c3",
+		"title": "Verrückt nach Meer",
+		"zosaId": "rec:f8868725",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -41,10 +29,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "75258",
+		"seriesId": "95307",
 		"startMargin": 180000,
-		"title": "Atlas",
-		"zosaId": "rec:82c2949a",
+		"title": "The Brain - Das menschliche Gehirn",
+		"zosaId": "rec:144485fc",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -53,10 +41,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 1,
-		"seriesId": "2454",
+		"seriesId": "2688",
 		"startMargin": 180000,
-		"title": "Tagesschau",
-		"zosaId": "rec:b7b9ddb",
+		"title": "Plusminus",
+		"zosaId": "rec:74ff192e",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -65,10 +53,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "14505",
+		"seriesId": "16562",
 		"startMargin": 180000,
-		"title": "Bares für Rares",
-		"zosaId": "rec:7ccc3aa7",
+		"title": "drehscheibe",
+		"zosaId": "rec:6cb6dd29",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -77,10 +65,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "2503",
+		"seriesId": "2499",
 		"startMargin": 180000,
-		"title": "RTL-Nachtjournal",
-		"zosaId": "rec:3327a06f",
+		"title": "Explosiv - Das Magazin",
+		"zosaId": "rec:bea7a53b",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -89,10 +77,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 3,
-		"seriesId": "75238",
+		"seriesId": "27006",
 		"startMargin": 180000,
-		"title": "Auf Streife",
-		"zosaId": "rec:5ee25c88",
+		"title": "Anwälte im Einsatz",
+		"zosaId": "rec:5b32dc0",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -101,10 +89,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "26058",
+		"seriesId": "300",
 		"startMargin": 180000,
-		"title": "Mom",
-		"zosaId": "rec:863e9559",
+		"title": "How I Met Your Mother",
+		"zosaId": "rec:73c45e47",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -113,10 +101,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 1,
-		"seriesId": "103745",
+		"seriesId": "2459",
 		"startMargin": 180000,
-		"title": "9-1-1",
-		"zosaId": "rec:e6c366d0",
+		"title": "Galileo",
+		"zosaId": "rec:70447704",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -125,10 +113,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "742",
+		"seriesId": "81996",
 		"startMargin": 180000,
-		"title": "CSI: New York",
-		"zosaId": "rec:98757f24",
+		"title": "Zwischen Tüll und Tränen",
+		"zosaId": "rec:f64e09de",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -137,10 +125,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "745",
+		"seriesId": "2880",
 		"startMargin": 180000,
-		"title": "The Mentalist",
-		"zosaId": "rec:90a545fe",
+		"title": "K1 Magazin",
+		"zosaId": "rec:b431a0f9",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -149,10 +137,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "75302",
+		"seriesId": "8536",
 		"startMargin": 180000,
-		"title": "Crime Town USA - Verbrechen im Hinterland",
-		"zosaId": "rec:d36c312f",
+		"title": "EXKLUSIV - DIE REPORTAGE",
+		"zosaId": "rec:d06ea323",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -161,34 +149,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "28166",
+		"seriesId": "93383",
 		"startMargin": 180000,
-		"title": "Leo Lausemaus",
-		"zosaId": "rec:5ced513c",
-		"zosaType": "ParentRecordingItem"
-	},
-	{
-		"channelId": "bd500fa4:c6caa3e0292",
-		"dtExtensions": null,
-		"endMargin": 300000,
-		"parentType": 1,
-		"recordingType": 1,
-		"seriesId": "1413",
-		"startMargin": 180000,
-		"title": "SimsalaGrimm",
-		"zosaId": "rec:9588af06",
-		"zosaType": "ParentRecordingItem"
-	},
-	{
-		"channelId": "bd500fa4:c6caa3e0292",
-		"dtExtensions": null,
-		"endMargin": 300000,
-		"parentType": 1,
-		"recordingType": 3,
-		"seriesId": "241",
-		"startMargin": 180000,
-		"title": "Sesamstraße",
-		"zosaId": "rec:9a1dc8a2",
+		"title": "Ranger Rob",
+		"zosaId": "rec:cfc499c2",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -197,10 +161,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "85618",
+		"seriesId": "1413",
 		"startMargin": 180000,
-		"title": "Tilda Apfelkern",
-		"zosaId": "rec:ce4f8a0c",
+		"title": "SimsalaGrimm",
+		"zosaId": "rec:97e5eb1",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -209,10 +173,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "99820",
+		"seriesId": "79130",
 		"startMargin": 180000,
-		"title": "Judo",
-		"zosaId": "rec:a7d8b991",
+		"title": "WATTS",
+		"zosaId": "rec:43d25605",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -221,10 +185,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 1,
-		"seriesId": "2112",
+		"seriesId": "23210",
 		"startMargin": 180000,
-		"title": "Die Tester",
-		"zosaId": "rec:d1bfe8fb",
+		"title": "Garagengold",
+		"zosaId": "rec:649f318f",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -233,10 +197,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "36343",
+		"seriesId": "23205",
 		"startMargin": 180000,
-		"title": "NEWS",
-		"zosaId": "rec:2b7c5cbc",
+		"title": "Beziehungskisten",
+		"zosaId": "rec:8babcd99",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -248,7 +212,7 @@
 		"seriesId": "78413",
 		"startMargin": 180000,
 		"title": "Sendepause",
-		"zosaId": "rec:c92c0799",
+		"zosaId": "rec:b9a86837",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -257,10 +221,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "2655",
+		"seriesId": "8505",
 		"startMargin": 180000,
-		"title": "ECO",
-		"zosaId": "rec:cff4962f",
+		"title": "Universum",
+		"zosaId": "rec:303830ee",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -269,10 +233,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 1,
-		"seriesId": "93936",
+		"seriesId": "75298",
 		"startMargin": 180000,
-		"title": "Class",
-		"zosaId": "rec:c6f2a7af",
+		"title": "Agatha Christies Poirot",
+		"zosaId": "rec:120ad4eb",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -284,7 +248,7 @@
 		"seriesId": "82721",
 		"startMargin": 180000,
 		"title": "Aufgedeckt - Rätsel der Geschichte",
-		"zosaId": "rec:cae8cb1b",
+		"zosaId": "rec:76b66d68",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -293,10 +257,22 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "2195",
+		"seriesId": "74841",
 		"startMargin": 180000,
-		"title": "Nachtmagazin",
-		"zosaId": "rec:440fb974",
+		"title": "Die Kanzlei",
+		"zosaId": "rec:6bb984c9",
+		"zosaType": "ParentRecordingItem"
+	},
+	{
+		"channelId": "dd17f790:723153a9368",
+		"dtExtensions": null,
+		"endMargin": 300000,
+		"parentType": 1,
+		"recordingType": 2,
+		"seriesId": "8890",
+		"startMargin": 180000,
+		"title": "Irene Huss, Kripo Göteborg",
+		"zosaId": "rec:3509d15b",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -305,10 +281,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "16562",
+		"seriesId": "36891",
 		"startMargin": 180000,
-		"title": "drehscheibe",
-		"zosaId": "rec:91d577e1",
+		"title": "heute Xpress",
+		"zosaId": "rec:a5e2dbd3",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -317,10 +293,22 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 1,
-		"seriesId": "34302",
+		"seriesId": "313",
 		"startMargin": 180000,
-		"title": "stern TV",
-		"zosaId": "rec:938a5972",
+		"title": "Unter uns",
+		"zosaId": "rec:f477b739",
+		"zosaType": "ParentRecordingItem"
+	},
+	{
+		"channelId": "f453c512:c59777efa47",
+		"dtExtensions": null,
+		"endMargin": 300000,
+		"parentType": 1,
+		"recordingType": 2,
+		"seriesId": "3",
+		"startMargin": 180000,
+		"title": "Criminal Minds",
+		"zosaId": "rec:348e24a3",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -329,10 +317,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 3,
-		"seriesId": "298",
+		"seriesId": "108773",
 		"startMargin": 180000,
-		"title": "The Big Bang Theory",
-		"zosaId": "rec:dd1cabbd",
+		"title": "Atlanta Medical",
+		"zosaId": "rec:7b030af8",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -341,22 +329,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "8485",
+		"seriesId": "102693",
 		"startMargin": 180000,
-		"title": "Verklag mich doch!",
-		"zosaId": "rec:a66b6e36",
-		"zosaType": "ParentRecordingItem"
-	},
-	{
-		"channelId": "eec1fb7c:bcc1a50695d",
-		"dtExtensions": null,
-		"endMargin": 300000,
-		"parentType": 1,
-		"recordingType": 2,
-		"seriesId": "556",
-		"startMargin": 180000,
-		"title": "Castle",
-		"zosaId": "rec:f590f87",
+		"title": "First Dates - Ein Tisch für zwei",
+		"zosaId": "rec:69b2d0c3",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -365,10 +341,22 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 1,
-		"seriesId": "8536",
+		"seriesId": "2214",
 		"startMargin": 180000,
-		"title": "EXKLUSIV - DIE REPORTAGE",
-		"zosaId": "rec:9161f27c",
+		"title": "Infomercial",
+		"zosaId": "rec:b85422ee",
+		"zosaType": "ParentRecordingItem"
+	},
+	{
+		"channelId": "cafa07ce:d8e68bedcde",
+		"dtExtensions": null,
+		"endMargin": 300000,
+		"parentType": 1,
+		"recordingType": 2,
+		"seriesId": "75367",
+		"startMargin": 180000,
+		"title": "Lenny der Laster",
+		"zosaId": "rec:2139e57b",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -380,19 +368,7 @@
 		"seriesId": "84257",
 		"startMargin": 180000,
 		"title": "Woozle Goozle und die Weltentdecker",
-		"zosaId": "rec:f202d6ec",
-		"zosaType": "ParentRecordingItem"
-	},
-	{
-		"channelId": "cafa07ce:d8e68bedcde",
-		"dtExtensions": null,
-		"endMargin": 300000,
-		"parentType": 1,
-		"recordingType": 2,
-		"seriesId": "108733",
-		"startMargin": 180000,
-		"title": "Voll zu spät!",
-		"zosaId": "rec:cfc5c3d0",
+		"zosaId": "rec:85afded",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -401,10 +377,22 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "13803",
+		"seriesId": "31583",
 		"startMargin": 180000,
-		"title": "Der Kater mit Hut",
-		"zosaId": "rec:a7717a69",
+		"title": "Doki",
+		"zosaId": "rec:bcda66e6",
+		"zosaType": "ParentRecordingItem"
+	},
+	{
+		"channelId": "bd500fa4:bf97d869d49",
+		"dtExtensions": null,
+		"endMargin": 300000,
+		"parentType": 1,
+		"recordingType": 2,
+		"seriesId": "241",
+		"startMargin": 180000,
+		"title": "Sesamstraße",
+		"zosaId": "rec:a0118909",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -413,22 +401,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "73595",
+		"seriesId": "97090",
 		"startMargin": 180000,
-		"title": "Storage Wars - Geschäfte in Miami",
-		"zosaId": "rec:a47ae0b4",
-		"zosaType": "ParentRecordingItem"
-	},
-	{
-		"channelId": "257f1f94:e5eb908d362",
-		"dtExtensions": null,
-		"endMargin": 300000,
-		"parentType": 1,
-		"recordingType": 2,
-		"seriesId": "23205",
-		"startMargin": 180000,
-		"title": "Beziehungskisten",
-		"zosaId": "rec:beb07d89",
+		"title": "Sky Sport News HD - Die 2. Bundesliga",
+		"zosaId": "rec:cb1f5f18",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -440,7 +416,7 @@
 		"seriesId": "30462",
 		"startMargin": 180000,
 		"title": "Fast Lap",
-		"zosaId": "rec:cfc4d093",
+		"zosaId": "rec:74990f0b",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -449,10 +425,34 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "23290",
+		"seriesId": "35591",
 		"startMargin": 180000,
-		"title": "Autokino",
-		"zosaId": "rec:d3ca693c",
+		"title": "Meilensteine",
+		"zosaId": "rec:2f99ea1f",
+		"zosaType": "ParentRecordingItem"
+	},
+	{
+		"channelId": "257f1f94:e5eb908d362",
+		"dtExtensions": null,
+		"endMargin": 300000,
+		"parentType": 1,
+		"recordingType": 2,
+		"seriesId": "36343",
+		"startMargin": 180000,
+		"title": "NEWS",
+		"zosaId": "rec:8d9714a6",
+		"zosaType": "ParentRecordingItem"
+	},
+	{
+		"channelId": "79b06fdf:1dbcd479c7d",
+		"dtExtensions": null,
+		"endMargin": 300000,
+		"parentType": 1,
+		"recordingType": 2,
+		"seriesId": "109991",
+		"startMargin": 180000,
+		"title": "Die Steinkohle",
+		"zosaId": "rec:b464be64",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -461,10 +461,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "49",
+		"seriesId": "31400",
 		"startMargin": 180000,
-		"title": "Sturm der Liebe",
-		"zosaId": "rec:2902fa7f",
+		"title": "In aller Freundschaft - Die jungen Ärzte",
+		"zosaId": "rec:5107e17a",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -473,10 +473,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 3,
-		"seriesId": "74418",
+		"seriesId": "105922",
 		"startMargin": 180000,
-		"title": "Die Pierre M. Krause Show",
-		"zosaId": "rec:23a3738e",
+		"title": "Private Eyes",
+		"zosaId": "rec:d3a8b6b0",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -485,10 +485,22 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "12716",
+		"seriesId": "97349",
 		"startMargin": 180000,
-		"title": "Servus Wetter",
-		"zosaId": "rec:92887678",
+		"title": "Aufgedeckt - Rätsel der Geschichte",
+		"zosaId": "rec:83828cbf",
+		"zosaType": "ParentRecordingItem"
+	},
+	{
+		"channelId": "dd17f790:f5438131442",
+		"dtExtensions": null,
+		"endMargin": 300000,
+		"parentType": 1,
+		"recordingType": 1,
+		"seriesId": "2454",
+		"startMargin": 180000,
+		"title": "Tagesschau",
+		"zosaId": "rec:6a54b7ae",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -497,10 +509,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "83111",
+		"seriesId": "2092",
 		"startMargin": 180000,
-		"title": "Mann, Sieber!",
-		"zosaId": "rec:37d9f06c",
+		"title": "heute",
+		"zosaId": "rec:55efc011",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -509,10 +521,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "106880",
+		"seriesId": "518",
 		"startMargin": 180000,
-		"title": "Freundinnen - Jetzt erst recht",
-		"zosaId": "rec:7cf01295",
+		"title": "Bones - Die Knochenjägerin",
+		"zosaId": "rec:9311ecca",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -521,10 +533,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "1",
+		"seriesId": "95557",
 		"startMargin": 180000,
-		"title": "Navy CIS",
-		"zosaId": "rec:2f97b8d3",
+		"title": "Dinner Party - Der Late-Night-Talk",
+		"zosaId": "rec:bf179139",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -533,22 +545,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "301",
+		"seriesId": "298",
 		"startMargin": 180000,
-		"title": "Die Simpsons",
-		"zosaId": "rec:c74f48ca",
-		"zosaType": "ParentRecordingItem"
-	},
-	{
-		"channelId": "66567893:5696f2cacda",
-		"dtExtensions": null,
-		"endMargin": 300000,
-		"parentType": 1,
-		"recordingType": 1,
-		"seriesId": "300",
-		"startMargin": 180000,
-		"title": "How I Met Your Mother",
-		"zosaId": "rec:de64a0c2",
+		"title": "The Big Bang Theory",
+		"zosaId": "rec:6d317ed6",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -557,10 +557,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 3,
-		"seriesId": "81996",
+		"seriesId": "8482",
 		"startMargin": 180000,
-		"title": "Zwischen Tüll und Tränen",
-		"zosaId": "rec:5234be07",
+		"title": "Medical Detectives - Geheimnisse der Gerichtsmedizin",
+		"zosaId": "rec:87e4f75",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -569,10 +569,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "18716",
+		"seriesId": "2",
 		"startMargin": 180000,
-		"title": "kabel eins late news",
-		"zosaId": "rec:24c8ff66",
+		"title": "Numb3rs - Die Logik des Verbrechens",
+		"zosaId": "rec:a553c234",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -581,10 +581,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "9296",
+		"seriesId": "75152",
 		"startMargin": 180000,
-		"title": "Köln 50667",
-		"zosaId": "rec:459c5223",
+		"title": "RTL II News",
+		"zosaId": "rec:521da93a",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -593,10 +593,22 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "383",
+		"seriesId": "113",
 		"startMargin": 180000,
-		"title": "Sally Bollywood",
-		"zosaId": "rec:f47ae6d9",
+		"title": "Angelo!",
+		"zosaId": "rec:cf6fec2b",
+		"zosaType": "ParentRecordingItem"
+	},
+	{
+		"channelId": "bd500fa4:0138839986b",
+		"dtExtensions": null,
+		"endMargin": 300000,
+		"parentType": 1,
+		"recordingType": 1,
+		"seriesId": "109401",
+		"startMargin": 180000,
+		"title": "Die Piraten von nebenan",
+		"zosaId": "rec:83705a0c",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -605,10 +617,22 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "93813",
+		"seriesId": "13803",
 		"startMargin": 180000,
-		"title": "Drache Digby",
-		"zosaId": "rec:106afd1b",
+		"title": "Der Kater mit Hut",
+		"zosaId": "rec:b4c1e9b8",
+		"zosaType": "ParentRecordingItem"
+	},
+	{
+		"channelId": "61127775:65ff7451732",
+		"dtExtensions": null,
+		"endMargin": 300000,
+		"parentType": 1,
+		"recordingType": 2,
+		"seriesId": "107109",
+		"startMargin": 180000,
+		"title": "Die PS Profis Schule",
+		"zosaId": "rec:28ba83d0",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -617,10 +641,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 3,
-		"seriesId": "79130",
+		"seriesId": "79132",
 		"startMargin": 180000,
-		"title": "WATTS",
-		"zosaId": "rec:5e6b460b",
+		"title": "Eurosport News",
+		"zosaId": "rec:545cd2a0",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -629,22 +653,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 1,
-		"seriesId": "35591",
+		"seriesId": "2111",
 		"startMargin": 180000,
-		"title": "Meilensteine",
-		"zosaId": "rec:624bdc47",
-		"zosaType": "ParentRecordingItem"
-	},
-	{
-		"channelId": "257f1f94:3aa0f685d88",
-		"dtExtensions": null,
-		"endMargin": 300000,
-		"parentType": 1,
-		"recordingType": 2,
-		"seriesId": "23210",
-		"startMargin": 180000,
-		"title": "Garagengold",
-		"zosaId": "rec:68b478c9",
+		"title": "Reportage",
+		"zosaId": "rec:b24ed211",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -653,10 +665,34 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "81340",
+		"seriesId": "37418",
 		"startMargin": 180000,
-		"title": "Ägypten",
-		"zosaId": "rec:9a9037ed",
+		"title": "Science Busters - Wer nichts weiß muss alles glauben",
+		"zosaId": "rec:abfba7d7",
+		"zosaType": "ParentRecordingItem"
+	},
+	{
+		"channelId": "5cfb94dc:cfcee36f7f0",
+		"dtExtensions": null,
+		"endMargin": 300000,
+		"parentType": 1,
+		"recordingType": 2,
+		"seriesId": "98911",
+		"startMargin": 180000,
+		"title": "ZIB",
+		"zosaId": "rec:5df854b1",
+		"zosaType": "ParentRecordingItem"
+	},
+	{
+		"channelId": "79b06fdf:a9354294d1a",
+		"dtExtensions": null,
+		"endMargin": 300000,
+		"parentType": 1,
+		"recordingType": 2,
+		"seriesId": "93369",
+		"startMargin": 180000,
+		"title": "Re:",
+		"zosaId": "rec:88541914",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -665,10 +701,22 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 1,
-		"seriesId": "8564",
+		"seriesId": "85215",
 		"startMargin": 180000,
-		"title": "Verrückt nach Meer",
-		"zosaId": "rec:3f0616f",
+		"title": "Bezaubernde Jeannie",
+		"zosaId": "rec:1a9cf17a",
+		"zosaType": "ParentRecordingItem"
+	},
+	{
+		"channelId": "e6789308:272f2f4a347",
+		"dtExtensions": null,
+		"endMargin": 300000,
+		"parentType": 1,
+		"recordingType": 2,
+		"seriesId": "75256",
+		"startMargin": 180000,
+		"title": "Terra Mater",
+		"zosaId": "rec:b03ac2bf",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -677,10 +725,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 3,
-		"seriesId": "97710",
+		"seriesId": "2189",
 		"startMargin": 180000,
-		"title": "Meister des Alltags",
-		"zosaId": "rec:33768aa8",
+		"title": "Brisant",
+		"zosaId": "rec:5d7bd055",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -689,10 +737,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "2193",
+		"seriesId": "540",
 		"startMargin": 180000,
-		"title": "Wetter",
-		"zosaId": "rec:18bdd397",
+		"title": "Notruf Hafenkante",
+		"zosaId": "rec:68b65bc6",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -701,10 +749,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 1,
-		"seriesId": "313",
+		"seriesId": "517",
 		"startMargin": 180000,
-		"title": "Unter uns",
-		"zosaId": "rec:c7f5d529",
+		"title": "Alarm für Cobra 11 - Die Autobahnpolizei",
+		"zosaId": "rec:23eb0fad",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -713,22 +761,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "82799",
+		"seriesId": "75240",
 		"startMargin": 180000,
-		"title": "Klinik am Südring",
-		"zosaId": "rec:df3d2b78",
-		"zosaType": "ParentRecordingItem"
-	},
-	{
-		"channelId": "66567893:6a40e86b356",
-		"dtExtensions": null,
-		"endMargin": 300000,
-		"parentType": 1,
-		"recordingType": 2,
-		"seriesId": "2456",
-		"startMargin": 180000,
-		"title": "Prosieben Spätnachrichten",
-		"zosaId": "rec:a94ff567",
+		"title": "Auf Streife - Die Spezialisten",
+		"zosaId": "rec:259ec2f8",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -737,10 +773,22 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "2596",
+		"seriesId": "742",
 		"startMargin": 180000,
-		"title": "Prominent!",
-		"zosaId": "rec:b6c21bfb",
+		"title": "CSI: New York",
+		"zosaId": "rec:8903303",
+		"zosaType": "ParentRecordingItem"
+	},
+	{
+		"channelId": "eec1fb7c:b8ad11c9837",
+		"dtExtensions": null,
+		"endMargin": 300000,
+		"parentType": 1,
+		"recordingType": 2,
+		"seriesId": "1",
+		"startMargin": 180000,
+		"title": "Navy CIS",
+		"zosaId": "rec:10143407",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -749,10 +797,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 1,
-		"seriesId": "324",
+		"seriesId": "9296",
 		"startMargin": 180000,
-		"title": "Berlin - Tag & Nacht",
-		"zosaId": "rec:74200994",
+		"title": "Köln 50667",
+		"zosaId": "rec:275fa755",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -761,22 +809,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "16892",
+		"seriesId": "75366",
 		"startMargin": 180000,
-		"title": "Paw Patrol - Helfer auf vier Pfoten",
-		"zosaId": "rec:8502e6e8",
-		"zosaType": "ParentRecordingItem"
-	},
-	{
-		"channelId": "cafa07ce:1f6b9ee4cf6",
-		"dtExtensions": null,
-		"endMargin": 300000,
-		"parentType": 1,
-		"recordingType": 2,
-		"seriesId": "677",
-		"startMargin": 180000,
-		"title": "30 Rock",
-		"zosaId": "rec:4014058f",
+		"title": "Thomas & seine Freunde",
+		"zosaId": "rec:918c59e3",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -785,10 +821,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "220",
+		"seriesId": "2342",
 		"startMargin": 180000,
-		"title": "Schloss Einstein",
-		"zosaId": "rec:45b31387",
+		"title": "KiKANiNCHEN",
+		"zosaId": "rec:b861bded",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -797,10 +833,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "246",
+		"seriesId": "1901",
 		"startMargin": 180000,
-		"title": "ENE MENE BU - und dran bist du",
-		"zosaId": "rec:fb22899d",
+		"title": "Mia and Me: Abenteuer in Centopia",
+		"zosaId": "rec:931b1d73",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -809,10 +845,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 1,
-		"seriesId": "109528",
+		"seriesId": "96106",
 		"startMargin": 180000,
-		"title": "Poker Caribbean Adventure",
-		"zosaId": "rec:dcf0178c",
+		"title": "Die PS Profis im Einsatz",
+		"zosaId": "rec:e2bd2456",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -824,7 +860,7 @@
 		"seriesId": "14379",
 		"startMargin": 180000,
 		"title": "SPORT CLIPS",
-		"zosaId": "rec:6722edae",
+		"zosaId": "rec:469b0664",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -833,10 +869,22 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 3,
-		"seriesId": "23209",
+		"seriesId": "90930",
 		"startMargin": 180000,
-		"title": "Der Einzeltest",
-		"zosaId": "rec:e32f3012",
+		"title": "Autoquartett",
+		"zosaId": "rec:6aa95b54",
+		"zosaType": "ParentRecordingItem"
+	},
+	{
+		"channelId": "257f1f94:6d870725eb7",
+		"dtExtensions": null,
+		"endMargin": 300000,
+		"parentType": 1,
+		"recordingType": 2,
+		"seriesId": "2112",
+		"startMargin": 180000,
+		"title": "Die Tester",
+		"zosaId": "rec:f66de890",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -845,10 +893,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 1,
-		"seriesId": "99220",
+		"seriesId": "2082",
 		"startMargin": 180000,
-		"title": "Unsere Zukunft",
-		"zosaId": "rec:b8c64cc3",
+		"title": "10vor10",
+		"zosaId": "rec:41eb7b7e",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -857,10 +905,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "24590",
+		"seriesId": "19975",
 		"startMargin": 180000,
-		"title": "Die Alpen - Unsere Berge von oben",
-		"zosaId": "rec:629b01b0",
+		"title": "Arte Journal Junior",
+		"zosaId": "rec:eabd13f",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -869,10 +917,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "109714",
+		"seriesId": "12457",
 		"startMargin": 180000,
-		"title": "Der Amsterdam-Krimi",
-		"zosaId": "rec:f2aefe0b",
+		"title": "Doctor Who",
+		"zosaId": "rec:6b37d765",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -881,10 +929,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "90437",
+		"seriesId": "95828",
 		"startMargin": 180000,
-		"title": "Der Hund - Des Menschen bester Freund",
-		"zosaId": "rec:52e93bc6",
+		"title": "Auf Entdeckungsreise um die Welt",
+		"zosaId": "rec:5145e4ea",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -893,10 +941,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "12578",
+		"seriesId": "109301",
 		"startMargin": 180000,
-		"title": "Talk im Hangar-7",
-		"zosaId": "rec:3e0cd98e",
+		"title": "Meiberger - Im Kopf des Täters",
+		"zosaId": "rec:a5043e3a",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -905,10 +953,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 1,
-		"seriesId": "110024",
+		"seriesId": "27976",
 		"startMargin": 180000,
-		"title": "Aenne Burda - Die Wirtschaftswunderfrau",
-		"zosaId": "rec:a3bda436",
+		"title": "Nuhr im Ersten",
+		"zosaId": "rec:394a6950",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -917,10 +965,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 3,
-		"seriesId": "539",
+		"seriesId": "98763",
 		"startMargin": 180000,
-		"title": "SOKO Stuttgart",
-		"zosaId": "rec:e01e152c",
+		"title": "plan b",
+		"zosaId": "rec:85709d84",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -929,10 +977,22 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "312",
+		"seriesId": "108491",
 		"startMargin": 180000,
-		"title": "Alles was zählt",
-		"zosaId": "rec:96724502",
+		"title": "Der Nächste, bitte!",
+		"zosaId": "rec:cb77bb0d",
+		"zosaType": "ParentRecordingItem"
+	},
+	{
+		"channelId": "66567893:a6cb0785f59",
+		"dtExtensions": null,
+		"endMargin": 300000,
+		"parentType": 1,
+		"recordingType": 2,
+		"seriesId": "75141",
+		"startMargin": 180000,
+		"title": "Spartacus: Vengeance",
+		"zosaId": "rec:72eace1a",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -941,10 +1001,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 1,
-		"seriesId": "226",
+		"seriesId": "26058",
 		"startMargin": 180000,
-		"title": "Two and a Half Men",
-		"zosaId": "rec:b8d837fc",
+		"title": "Mom",
+		"zosaId": "rec:aee368d0",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -953,58 +1013,34 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "8482",
+		"seriesId": "33977",
 		"startMargin": 180000,
-		"title": "Medical Detectives - Geheimnisse der Gerichtsmedizin",
-		"zosaId": "rec:8c790a8",
+		"title": "Mein Kind, dein Kind - Wie erziehst du denn?",
+		"zosaId": "rec:9c047c36",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
-		"channelId": "eec1fb7c:0eb511eeddb",
+		"channelId": "cafa07ce:eb9bedbbaf3",
 		"dtExtensions": null,
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "522",
+		"seriesId": "83905",
 		"startMargin": 180000,
-		"title": "Navy CIS: L.A",
-		"zosaId": "rec:27d39ada",
+		"title": "Noddy, der kleine Detektiv",
+		"zosaId": "rec:632fb760",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
-		"channelId": "09402ab2:6ecf4c19e3a",
+		"channelId": "cafa07ce:eb9bedbbaf3",
 		"dtExtensions": null,
 		"endMargin": 300000,
 		"parentType": 1,
-		"recordingType": 2,
-		"seriesId": "93335",
+		"recordingType": 3,
+		"seriesId": "319",
 		"startMargin": 180000,
-		"title": "Fear the Walking Dead",
-		"zosaId": "rec:9a900549",
-		"zosaType": "ParentRecordingItem"
-	},
-	{
-		"channelId": "bd500fa4:bdada61787e",
-		"dtExtensions": null,
-		"endMargin": 300000,
-		"parentType": 1,
-		"recordingType": 1,
-		"seriesId": "222",
-		"startMargin": 180000,
-		"title": "Wissen macht Ah!",
-		"zosaId": "rec:ee81a30d",
-		"zosaType": "ParentRecordingItem"
-	},
-	{
-		"channelId": "bd500fa4:bdada61787e",
-		"dtExtensions": null,
-		"endMargin": 300000,
-		"parentType": 1,
-		"recordingType": 2,
-		"seriesId": "255",
-		"startMargin": 180000,
-		"title": "Garfield",
-		"zosaId": "rec:cf8d512c",
+		"title": "CSI: Miami",
+		"zosaId": "rec:48f21d54",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -1013,22 +1049,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "28683",
+		"seriesId": "73602",
 		"startMargin": 180000,
-		"title": "Cajun Pawn Stars",
-		"zosaId": "rec:427fefcc",
-		"zosaType": "ParentRecordingItem"
-	},
-	{
-		"channelId": "cc30c2e3:e3cc68fec35",
-		"dtExtensions": null,
-		"endMargin": 300000,
-		"parentType": 1,
-		"recordingType": 2,
-		"seriesId": "79212",
-		"startMargin": 180000,
-		"title": "Handball",
-		"zosaId": "rec:51eb67b4",
+		"title": "Storage Wars - Die Geschäftemacher",
+		"zosaId": "rec:d650699a",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -1036,11 +1060,11 @@
 		"dtExtensions": null,
 		"endMargin": 300000,
 		"parentType": 1,
-		"recordingType": 3,
-		"seriesId": "74903",
+		"recordingType": 2,
+		"seriesId": "8552",
 		"startMargin": 180000,
-		"title": "ZDF-History",
-		"zosaId": "rec:fa1c1544",
+		"title": "makro",
+		"zosaId": "rec:1963c79",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -1049,10 +1073,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 1,
-		"seriesId": "34738",
+		"seriesId": "49",
 		"startMargin": 180000,
-		"title": "Miss Fishers mysteriöse Mordfälle",
-		"zosaId": "rec:d258c5d0",
+		"title": "Sturm der Liebe",
+		"zosaId": "rec:1db1490",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -1061,34 +1085,34 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "8517",
+		"seriesId": "75262",
 		"startMargin": 180000,
-		"title": "Morgan Freeman: Mysterien des Weltalls",
-		"zosaId": "rec:acc00c67",
+		"title": "Heimatleuchten",
+		"zosaId": "rec:16aab30f",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
-		"channelId": "dd17f790:fc8bda792f6",
+		"channelId": "1a97058f:d42e2690896",
 		"dtExtensions": null,
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "36958",
+		"seriesId": "2628",
 		"startMargin": 180000,
-		"title": "Wer weiß denn sowas?",
-		"zosaId": "rec:5fc9f72c",
+		"title": "Leute heute",
+		"zosaId": "rec:38cfa458",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
-		"channelId": "fdcac892:52f9ae31c20",
+		"channelId": "1a97058f:d42e2690896",
 		"dtExtensions": null,
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "3364",
+		"seriesId": "31415",
 		"startMargin": 180000,
-		"title": "Exclusiv - Weekend",
-		"zosaId": "rec:da24369",
+		"title": "NEO Magazin Royale mit Jan Böhmermann",
+		"zosaId": "rec:54bd744a",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -1097,10 +1121,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 1,
-		"seriesId": "75132",
+		"seriesId": "2502",
 		"startMargin": 180000,
-		"title": "RTL Aktuell: Das Wetter",
-		"zosaId": "rec:e44686b2",
+		"title": "Punkt 12 - Das RTL-Mittagsjournal",
+		"zosaId": "rec:7e9da6ea",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -1109,10 +1133,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "3",
+		"seriesId": "360",
 		"startMargin": 180000,
-		"title": "Criminal Minds",
-		"zosaId": "rec:4c92a996",
+		"title": "Sechserpack",
+		"zosaId": "rec:1bf4af45",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -1121,22 +1145,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "446",
+		"seriesId": "226",
 		"startMargin": 180000,
-		"title": "The Middle",
-		"zosaId": "rec:aba4ac14",
-		"zosaType": "ParentRecordingItem"
-	},
-	{
-		"channelId": "5cff2b9e:de02f8c57b3",
-		"dtExtensions": null,
-		"endMargin": 300000,
-		"parentType": 1,
-		"recordingType": 2,
-		"seriesId": "519",
-		"startMargin": 180000,
-		"title": "CSI: Den Tätern auf der Spur",
-		"zosaId": "rec:49457220",
+		"title": "Two and a Half Men",
+		"zosaId": "rec:adb33b48",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -1145,10 +1157,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 1,
-		"seriesId": "96342",
+		"seriesId": "75146",
 		"startMargin": 180000,
-		"title": "Armes Deutschland - Stempeln oder abrackern?",
-		"zosaId": "rec:8a140a53",
+		"title": "Die Straßencops West - Jugend im Visier",
+		"zosaId": "rec:285f4145",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -1157,10 +1169,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "20480",
+		"seriesId": "668",
 		"startMargin": 180000,
-		"title": "Friends",
-		"zosaId": "rec:33b4d058",
+		"title": "Zig & Sharko: Meerjungfrauen frisst man nicht!",
+		"zosaId": "rec:56e81c2b",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -1169,10 +1181,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "16886",
+		"seriesId": "240",
 		"startMargin": 180000,
-		"title": "Ritter Rost",
-		"zosaId": "rec:451e7cd5",
+		"title": "Zoés Zauberschrank",
+		"zosaId": "rec:bd749401",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -1181,10 +1193,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 3,
-		"seriesId": "1747",
+		"seriesId": "222",
 		"startMargin": 180000,
-		"title": "Der kleine Eisbär",
-		"zosaId": "rec:aeb1fd34",
+		"title": "Wissen macht Ah!",
+		"zosaId": "rec:80eeb5e9",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -1193,10 +1205,22 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "31583",
+		"seriesId": "5179",
 		"startMargin": 180000,
-		"title": "Doki",
-		"zosaId": "rec:33fbfdc0",
+		"title": "Sagenhaft: Märchen aus aller Welt",
+		"zosaId": "rec:c61f9bd0",
+		"zosaType": "ParentRecordingItem"
+	},
+	{
+		"channelId": "cc30c2e3:e66b746f01b",
+		"dtExtensions": null,
+		"endMargin": 300000,
+		"parentType": 1,
+		"recordingType": 2,
+		"seriesId": "85991",
+		"startMargin": 180000,
+		"title": "Biathlon",
+		"zosaId": "rec:6da1c19c",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -1205,10 +1229,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "2111",
+		"seriesId": "23209",
 		"startMargin": 180000,
-		"title": "Reportage",
-		"zosaId": "rec:c51ff6ef",
+		"title": "Der Einzeltest",
+		"zosaId": "rec:617d8a4",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -1217,10 +1241,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 1,
-		"seriesId": "2088",
+		"seriesId": "75339",
 		"startMargin": 180000,
-		"title": "Kulturzeit",
-		"zosaId": "rec:ea0054cb",
+		"title": "Nachtcafé",
+		"zosaId": "rec:c8b660d3",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -1229,10 +1253,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 3,
-		"seriesId": "93369",
+		"seriesId": "99660",
 		"startMargin": 180000,
-		"title": "Re:",
-		"zosaId": "rec:9b8dbda2",
+		"title": "Wasser ist Zukunft",
+		"zosaId": "rec:e127638a",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -1241,22 +1265,22 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "2189",
+		"seriesId": "93935",
 		"startMargin": 180000,
-		"title": "Brisant",
-		"zosaId": "rec:3ff4234a",
+		"title": "alfredissimo! Kochen mit Bio",
+		"zosaId": "rec:3e172586",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
-		"channelId": "e6789308:5c77a0c07d8",
+		"channelId": "dd17f790:bf178d3d2bb",
 		"dtExtensions": null,
 		"endMargin": 300000,
 		"parentType": 1,
-		"recordingType": 2,
-		"seriesId": "95719",
+		"recordingType": 1,
+		"seriesId": "104589",
 		"startMargin": 180000,
-		"title": "Servus Nachrichten 18:00",
-		"zosaId": "rec:b31383d4",
+		"title": "Live nach Neun",
+		"zosaId": "rec:47f3e0ce",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -1265,10 +1289,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "420",
+		"seriesId": "14505",
 		"startMargin": 180000,
-		"title": "SOKO Wismar",
-		"zosaId": "rec:89768006",
+		"title": "Bares für Rares",
+		"zosaId": "rec:b9efb289",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -1277,22 +1301,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "319",
+		"seriesId": "109708",
 		"startMargin": 180000,
-		"title": "CSI: Miami",
-		"zosaId": "rec:34fc6fe1",
-		"zosaType": "ParentRecordingItem"
-	},
-	{
-		"channelId": "f453c512:1a013a4536f",
-		"dtExtensions": null,
-		"endMargin": 300000,
-		"parentType": 1,
-		"recordingType": 2,
-		"seriesId": "2973",
-		"startMargin": 180000,
-		"title": "So gesehen",
-		"zosaId": "rec:7e6d2181",
+		"title": "Sylvies Dessous Models",
+		"zosaId": "rec:727c688b",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -1301,22 +1313,34 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 3,
-		"seriesId": "2013",
+		"seriesId": "446",
 		"startMargin": 180000,
-		"title": "2 Broke Girls",
-		"zosaId": "rec:489ca455",
+		"title": "The Middle",
+		"zosaId": "rec:89a3faef",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
-		"channelId": "5cff2b9e:5190a4f8e15",
+		"channelId": "66567893:8fbe779b389",
+		"dtExtensions": null,
+		"endMargin": 300000,
+		"parentType": 1,
+		"recordingType": 1,
+		"seriesId": "301",
+		"startMargin": 180000,
+		"title": "Die Simpsons",
+		"zosaId": "rec:428828e0",
+		"zosaType": "ParentRecordingItem"
+	},
+	{
+		"channelId": "cafa07ce:083cd2e2bb9",
 		"dtExtensions": null,
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "2594",
+		"seriesId": "85211",
 		"startMargin": 180000,
-		"title": "Shopping Queen",
-		"zosaId": "rec:7b418e69",
+		"title": "Grizzy und die Lemminge",
+		"zosaId": "rec:30ddc7bb",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -1328,31 +1352,7 @@
 		"seriesId": "15679",
 		"startMargin": 180000,
 		"title": "Peppa Pig",
-		"zosaId": "rec:7688108d",
-		"zosaType": "ParentRecordingItem"
-	},
-	{
-		"channelId": "cafa07ce:083cd2e2bb9",
-		"dtExtensions": null,
-		"endMargin": 300000,
-		"parentType": 1,
-		"recordingType": 2,
-		"seriesId": "83905",
-		"startMargin": 180000,
-		"title": "Noddy, der kleine Detektiv",
-		"zosaId": "rec:df228f82",
-		"zosaType": "ParentRecordingItem"
-	},
-	{
-		"channelId": "bd500fa4:363ec1a6d0d",
-		"dtExtensions": null,
-		"endMargin": 300000,
-		"parentType": 1,
-		"recordingType": 1,
-		"seriesId": "630",
-		"startMargin": 180000,
-		"title": "Feuerwehrmann Sam",
-		"zosaId": "rec:63bce66d",
+		"zosaId": "rec:57f3548c",
 		"zosaType": "ParentRecordingItem"
 	},
 	{
@@ -1361,10 +1361,10 @@
 		"endMargin": 300000,
 		"parentType": 1,
 		"recordingType": 2,
-		"seriesId": "109401",
+		"seriesId": "1747",
 		"startMargin": 180000,
-		"title": "Die Piraten von nebenan",
-		"zosaId": "rec:938b4ee4",
+		"title": "Der kleine Eisbär",
+		"zosaId": "rec:8edf44f4",
 		"zosaType": "ParentRecordingItem"
 	}
 ]

@@ -1,5 +1,41 @@
 [
 	{
+		"id": "14ccb63f",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/04/170424_2015_sendung_fdw/5/170424_2015_sendung_fdw_1496k_p13v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 3
+	},
+	{
+		"id": "f2627ca3",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/04/170424_2015_sendung_fdw/5/170424_2015_sendung_fdw_476k_p9v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 2
+	},
+	{
+		"id": "9abdcc1b",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/04/170424_2015_sendung_fdw/5/170424_2015_sendung_fdw_229k_p7v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
+		"id": "373d41f8",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/03/160314_dengler_am_zwoelften_tag_ps_fdw/9/160314_dengler_am_zwoelften_tag_ps_fdw_1456k_p13v12.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 3
+	},
+	{
+		"id": "f754f1ac",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/03/160314_dengler_am_zwoelften_tag_ps_fdw/9/160314_dengler_am_zwoelften_tag_ps_fdw_436k_p9v12.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 2
+	},
+	{
+		"id": "b2c43ff9",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/03/160314_dengler_am_zwoelften_tag_ps_fdw/9/160314_dengler_am_zwoelften_tag_ps_fdw_189k_p7v12.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
 		"id": "1829393",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/12/181203_2015_sendung_fdw/6/181203_2015_sendung_fdw_1496k_p13v14.mp4",
 		"video3dFormat": 0,
@@ -18,20 +54,20 @@
 		"videoDefinition": 1
 	},
 	{
-		"id": "7ffc5f33",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/06/160627_hundskinder_ps_bel/7/160627_hundskinder_ps_bel_1456k_p13v12.mp4",
+		"id": "85c76e9c",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/06/160627_hundskinder_ps_bel/8/160627_hundskinder_ps_bel_1456k_p13v12.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 3
 	},
 	{
-		"id": "e45100e7",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/06/160627_hundskinder_ps_bel/7/160627_hundskinder_ps_bel_436k_p9v12.mp4",
+		"id": "58763948",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/06/160627_hundskinder_ps_bel/8/160627_hundskinder_ps_bel_436k_p9v12.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 2
 	},
 	{
-		"id": "fd21bb12",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/06/160627_hundskinder_ps_bel/7/160627_hundskinder_ps_bel_189k_p7v12.mp4",
+		"id": "11d5dc9d",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/06/160627_hundskinder_ps_bel/8/160627_hundskinder_ps_bel_189k_p7v12.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
@@ -68,42 +104,6 @@
 	{
 		"id": "cb026710",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/12/181201_181201_2015_sendung_dor/3/181201_181201_2015_sendung_dor_476k_p9v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "8201851d",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/04/170403_blutige_diamanten_gsi/7/170403_blutige_diamanten_gsi_1496k_p13v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 3
-	},
-	{
-		"id": "3295b81",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/04/170403_blutige_diamanten_gsi/7/170403_blutige_diamanten_gsi_476k_p9v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 2
-	},
-	{
-		"id": "180c86f9",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/04/170403_blutige_diamanten_gsi/7/170403_blutige_diamanten_gsi_229k_p7v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "9d9865fd",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/08/160816_unter_umstaenden_moerder_neo/7/160816_unter_umstaenden_moerder_neo_1456k_p13v12.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 3
-	},
-	{
-		"id": "d9257ca9",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/08/160816_unter_umstaenden_moerder_neo/7/160816_unter_umstaenden_moerder_neo_436k_p9v12.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 2
-	},
-	{
-		"id": "c901a69c",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/08/160816_unter_umstaenden_moerder_neo/7/160816_unter_umstaenden_moerder_neo_189k_p7v12.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
@@ -180,14 +180,26 @@
 		"videoDefinition": 1
 	},
 	{
+		"id": "9abdcc1b",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/04/170424_2015_sendung_fdw/5/170424_2015_sendung_fdw_229k_p7v13.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
+		"id": "b2c43ff9",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/03/160314_dengler_am_zwoelften_tag_ps_fdw/9/160314_dengler_am_zwoelften_tag_ps_fdw_189k_p7v12.mp4",
+		"video3dFormat": 0,
+		"videoDefinition": 1
+	},
+	{
 		"id": "660b2915",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/12/181203_2015_sendung_fdw/6/181203_2015_sendung_fdw_476k_p9v14.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
 	{
-		"id": "fd21bb12",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/06/160627_hundskinder_ps_bel/7/160627_hundskinder_ps_bel_189k_p7v12.mp4",
+		"id": "11d5dc9d",
+		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/06/160627_hundskinder_ps_bel/8/160627_hundskinder_ps_bel_189k_p7v12.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
@@ -200,18 +212,6 @@
 	{
 		"id": "cb026710",
 		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/18/12/181201_181201_2015_sendung_dor/3/181201_181201_2015_sendung_dor_476k_p9v14.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "180c86f9",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/17/04/170403_blutige_diamanten_gsi/7/170403_blutige_diamanten_gsi_229k_p7v13.mp4",
-		"video3dFormat": 0,
-		"videoDefinition": 1
-	},
-	{
-		"id": "c901a69c",
-		"url": "https://nrodlzdf-a.akamaihd.net/none/zdf/16/08/160816_unter_umstaenden_moerder_neo/7/160816_unter_umstaenden_moerder_neo_189k_p7v12.mp4",
 		"video3dFormat": 0,
 		"videoDefinition": 1
 	},
